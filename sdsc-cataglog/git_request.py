@@ -4,7 +4,7 @@ import openai
 import pandas as pd
 
 from sklearn.metrics.pairwise import cosine_similarity
-from langchain.embeddings import HuggingFaceEmbeddings
+from langchain.embeddings import HuggingFaceInstructEmbeddings
 from langchain.vectorstores import Chroma
 from utils import get_embedding, convert_stringlist_to_list
 
@@ -47,21 +47,22 @@ def search_top_related_local_repositories(keyword, database_path = './data/repos
     # query design based on keyword
     query = f"Search related text based on keyword: {keyword}\n\n"
     
-    # chroma
-    embeddings = HuggingFaceEmbeddings(model_name = 'hkunlp/instructor-xl', model_kwargs = {"device": 'cpu'})
-    db = Chroma.from_text(df['readme'].tolist(), embeddings)
-    # search
-    embd_keyword = np.asarray(get_embedding(keyword))
+    # search similar item with chroma
+    #embeddings = HuggingFaceEmbeddings(model_name = 'hkunlp/instructor-xl')#, model_kwargs = {"device": 'cuda'})
+    embeddings = HuggingFaceInstructEmbeddings(model_name="hkunlp/instructor-xl", model_kwargs={"device": "cuda"})
+    db = Chroma.from_texts(df[df['description'].map(lambda x: x is not np.nan)]['description'].tolist(), embeddings)
+    selected = [doc.page_content for doc in db.similarity_search(query, k=5)]
+    repo_urls = df.loc[df['description'].map(lambda x: x in selected), 'link'].tolist()
+    readme_urls = [repo_url + "/blob/master/README.md" for repo_url in repo_urls]
+    return repo_urls, readme_urls
 
+    # search similar item with gpt and cos similarity
+    #embd_keyword = np.asarray(get_embedding(keyword))
     # get top 5 from local database according to cosine similarity with embd_keyword
     #embd_database = np.vstack(df[df['embedding'].isna().map(lambda x: not x)]['embedding'].map(lambda x: np.asarray(convert_stringlist_to_list(x)))) #.tolist()
     #similarity = cosine_similarity(embd_keyword.reshape(1, -1), embd_database)
     #top_5_index = np.argsort(similarity[0])[-5:][::-1]
     #repo_urls = df.loc[top_5_index, 'link'].tolist()
     #readme_urls = [repo_url + "/blob/master/README.md" for repo_url in repo_urls]
-    selected = db.similarity_search(embd_keyword, k=5)
-    print(selected)
-    repo_urls = df.loc[selected, 'link'].tolist()
-    readme_urls = [repo_url + "/blob/master/README.md" for repo_url in repo_urls]
-    return repo_urls, readme_urls
+    #return repo_urls, readme_urls
 
