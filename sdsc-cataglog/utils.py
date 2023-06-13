@@ -27,10 +27,10 @@ def delete_sentences_with_high_non_alpha_ratio(text, th = 0.5):
     return cleaned_text
 
 def get_embedding(text, model="text-embedding-ada-002"):
-   if text is None:
-       return None
-   text = text.replace("\n", " ")
-   return openai.Embedding.create(input = [text], model=model)['data'][0]['embedding']
+    if text is None:
+        return None
+    text = text.replace("\n", " ")
+    return openai.Embedding.create(input = [text], model=model)['data'][0]['embedding']
 
 def remove_links_from_sentence(sentence):
     pattern = r'\[([^]]+)\]\([^)]+\)'
