@@ -23,7 +23,7 @@ if __name__ == "__main__":
         df = download_and_save_git_stared_reposiories("cc-king-catalog", out_path = './data/repositories.csv')
 
     #if False:
-    use_case = input("Please input the user case: ")
+    use_case = input("Please input the use case: ")
 
     # get the theme from the user case
     prompt = f"What is the theme studied in the following use case, please answer only with a keyword less then 20 letter: {use_case}"
