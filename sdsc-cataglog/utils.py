@@ -6,6 +6,8 @@ import openai
 import pandas as pd
 import os
 from tqdm import tqdm
+from bs4 import BeautifulSoup
+
 
 def convert_stringlist_to_list(stringlist):
     return stringlist.replace('[', '').replace(']', '').replace('\'', '').split(', ')
@@ -37,3 +39,23 @@ def remove_links_from_sentence(sentence):
     cleaned_sentence = re.sub(pattern, '', sentence)
 
     return cleaned_sentence
+
+def extract_text_from_webfile(file):
+    with open(file, "r", encoding='utf-8') as f:
+        contents = f.read()
+
+        soup = BeautifulSoup(contents, 'html.parser')
+
+        # 移除JavaScript和CSS
+        for script in soup(["script", "style"]):
+            script.extract()
+
+        text = soup.get_text()
+
+        # 移除多余的空白
+        lines = (line.strip() for line in text.splitlines())
+        chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
+        text = '\n'.join(chunk for chunk in chunks if chunk)
+
+        return text
+
