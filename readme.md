@@ -17,5 +17,5 @@ To address the problems of chatgpt, such as lack of ability to analyze complex i
 python sdsc_cataglog.py
 ```
 
-# output
+# Example output on the topic of cycling  safety
 <img src="sdsc-cataglog/images/output_example.png" alt="output example" width="800" height="600">
