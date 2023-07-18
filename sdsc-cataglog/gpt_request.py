@@ -1,4 +1,5 @@
-﻿import openai
+import openai
+from utils import clip_text_according_to_token_number
 
 openai.api_key = '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'
 
@@ -29,3 +30,14 @@ def get_response_from_chatgpt_with_context(prompt, context):
         print("Exception:", e)
 
     return None, None
+
+def get_text_embedding_with_openai(text, model="text-embedding-ada-002"):
+    """
+    针对字符串过长的情况只是简单的进行了截断。
+    """
+    if text is None:
+        return None
+    text = text.replace("\n", " ")
+    clip_text_according_to_token_number(text, num = 6000)
+        
+    return openai.Embedding.create(input = [text], model=model)['data'][0]['embedding']

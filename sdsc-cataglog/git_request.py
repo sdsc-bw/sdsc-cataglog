@@ -6,11 +6,12 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 from langchain.embeddings import HuggingFaceInstructEmbeddings
 from langchain.vectorstores import Chroma
-from utils import get_embedding, convert_stringlist_to_list
+from utils import convert_stringlist_to_list
+from gpt_request import get_text_embedding_with_openai
 
 openai.api_key = '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'
 
-def search_top_starred_repositories(keyword):
+def search_top_starred_repositories(keyword, num = 5):
     url = "https://api.github.com/search/repositories"
     headers = {
         "Accept": "application/vnd.github.v3+json"
@@ -19,7 +20,7 @@ def search_top_starred_repositories(keyword):
         "q": keyword,
         "sort": "stars",  # 按星数排序
         "order": "desc",  # 降序排列
-        "per_page": 5    # 获取前10个结果
+        "per_page": num    # 获取前5个结果
     }
     response = requests.get(url, headers=headers, params=params)
     if response.status_code == 200:
@@ -40,7 +41,7 @@ def search_top_starred_repositories(keyword):
 
 
 
-def search_top_related_local_repositories(keyword, database_path = './data/repositories.csv'):
+def search_top_related_local_repositories_with_chroma(keyword, database_path = './data/repositories.csv'):
     # local database
     df = pd.read_csv(database_path, index_col = 0)
 
@@ -56,13 +57,20 @@ def search_top_related_local_repositories(keyword, database_path = './data/repos
     readme_urls = [repo_url + "/blob/master/README.md" for repo_url in repo_urls]
     return repo_urls, readme_urls
 
+def search_top_related_local_repositories_with_cs(keyword, database_path = './data/repositories.csv'):
+    # local database
+    df = pd.read_csv(database_path, index_col = 0)
+
+    # query design based on keyword
+    query = f"Search related text based on keyword: {keyword}\n\n"
+    
     # search similar item with gpt and cos similarity
-    #embd_keyword = np.asarray(get_embedding(keyword))
+    embd_keyword = np.asarray(get_text_embedding_with_openai(query))
     # get top 5 from local database according to cosine similarity with embd_keyword
-    #embd_database = np.vstack(df[df['embedding'].isna().map(lambda x: not x)]['embedding'].map(lambda x: np.asarray(convert_stringlist_to_list(x)))) #.tolist()
-    #similarity = cosine_similarity(embd_keyword.reshape(1, -1), embd_database)
-    #top_5_index = np.argsort(similarity[0])[-5:][::-1]
-    #repo_urls = df.loc[top_5_index, 'link'].tolist()
-    #readme_urls = [repo_url + "/blob/master/README.md" for repo_url in repo_urls]
-    #return repo_urls, readme_urls
+    embd_database = np.vstack(df[df['embedding'].isna().map(lambda x: not x)]['embedding'].map(lambda x: np.asarray(convert_stringlist_to_list(x)))) #.tolist()
+    similarity = cosine_similarity(embd_keyword.reshape(1, -1), embd_database)
+    top_5_index = np.argsort(similarity[0])[-5:][::-1]
+    repo_urls = df.loc[top_5_index, 'repo_url'].tolist()
+    readme_urls = [repo_url + "/blob/master/README.md" for repo_url in repo_urls]
+    return repo_urls, readme_urls
 
