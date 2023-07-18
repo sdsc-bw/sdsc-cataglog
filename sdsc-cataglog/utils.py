@@ -1,4 +1,5 @@
-﻿import html2text
+import html2text
+import nltk
 import numpy as np
 import re
 import requests
@@ -7,6 +8,7 @@ import pandas as pd
 import os
 from tqdm import tqdm
 from bs4 import BeautifulSoup
+from nltk.tokenize.treebank import TreebankWordDetokenizer
 
 
 def convert_stringlist_to_list(stringlist):
@@ -27,12 +29,6 @@ def delete_sentences_with_high_non_alpha_ratio(text, th = 0.5):
 
     cleaned_text = '\n'.join(result)
     return cleaned_text
-
-def get_embedding(text, model="text-embedding-ada-002"):
-    if text is None:
-        return None
-    text = text.replace("\n", " ")
-    return openai.Embedding.create(input = [text], model=model)['data'][0]['embedding']
 
 def remove_links_from_sentence(sentence):
     pattern = r'\[([^]]+)\]\([^)]+\)'
@@ -59,3 +55,15 @@ def extract_text_from_webfile(file):
 
         return text
 
+
+def clip_text_according_to_token_number(text, num):
+    # Tokenize the sentence
+    tokens = nltk.word_tokenize(text)
+
+    # Print the number of tokens
+    if len(tokens) > num:
+        tokens = tokens[:num]
+    
+    reconstructedSentence = TreebankWordDetokenizer().detokenize(tokens)
+    
+    return reconstructedSentence
