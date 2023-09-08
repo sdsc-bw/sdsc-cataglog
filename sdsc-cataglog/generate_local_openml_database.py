@@ -14,7 +14,11 @@ from bs4 import BeautifulSoup
 from gpt_request import get_response_from_chatgpt_with_context, get_text_embedding_with_openai
 from utils import remove_links_from_sentence, delete_sentences_with_high_non_alpha_ratio, clip_text_according_to_token_number
 from git_request import search_top_starred_repositories
-from tqdm import tqdm
+from langchain.embeddings import HuggingFaceInstructEmbeddings
+from gpt_request import get_text_embedding_with_openai
+import torch
+
+openai.api_key ="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"
 
 
 def process_text_from_openml_description_with_openai(dataset_name, dataset_id):
@@ -174,10 +178,29 @@ def download_and_save_openml_dataset_infomration_with_request(out_path = './data
             df.to_csv(out_path)
             counter += 1
             
-            if counter == 100:
+            if counter == 6000:
                 break
+                
+    df = add_text_embedding(df)
     
     end_time = time.time()
     print(f"Run time: {end_time - start_time}")
     
     return df
+
+def add_text_embedding(df, model_name="hkunlp/instructor-xl"):
+
+    device = 'cuda' if torch.cuda.is_available() else 'cpu'
+    embeddings = HuggingFaceInstructEmbeddings(model_name=model_name, model_kwargs={"device": device})
+    
+    i = 0
+    for d in df['description'].values:
+        emb = embeddings.embed_query(d)
+        df.loc[i, 'embedding'] = emb
+        i += 1
+    
+    return df
+                                                  
+    
+
+    

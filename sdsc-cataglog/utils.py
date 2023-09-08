@@ -67,3 +67,19 @@ def clip_text_according_to_token_number(text, num):
     reconstructedSentence = TreebankWordDetokenizer().detokenize(tokens)
     
     return reconstructedSentence
+
+def sort_lists(list_1, list_2, list_3, list_4, list_5):
+    # Create a dictionary to map items to their indices in list_1
+    index = [index for index, item in enumerate(list_1)]
+    
+    # Sort list_2 based on the order in list_1
+    list_2 = sort_list_by_indices(list_2, index)
+    list_3 = sort_list_by_indices(list_3, index)
+    list_4 = sort_list_by_indices(list_4, index)
+    list_5 = sort_list_by_indices(list_5, index)
+    
+    return list_2, list_3, list_4, list_5
+
+def sort_list_by_indices(data_list, index_list):
+    sorted_list = [data_list[i] for i in index_list]
+    return sorted_list
