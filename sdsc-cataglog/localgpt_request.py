@@ -3,7 +3,7 @@ from langchain import PromptTemplate, LLMChain
 from langchain.chains import RetrievalQA
 from langchain.embeddings import HuggingFaceInstructEmbeddings
 from langchain.llms import HuggingFacePipeline
-from transformers import LlamaTokenizer, LlamaForCausalLM, pipeline
+from transformers import LlamaTokenizer, LlamaForCausalLM, pipeline, AutoModelForCausalLM, AutoTokenizer
 import torch
 
 def get_response_from_localgpt(prompt, model_name = "TheBloke/vicuna-7B-1.1-HF"):
@@ -21,8 +21,8 @@ def get_response_from_localgpt(prompt, model_name = "TheBloke/vicuna-7B-1.1-HF")
     Answer: Let's think step by step."""
     
     llm = load_model_for_text_generation(model_name)
-    prompt = PromptTemplate(template = template, input_variables=["question"])
-    llm_chain = LLMChain(prompt=prompt, llm=llm)
+    promptT = PromptTemplate(template = template, input_variables=["question"])
+    llm_chain = LLMChain(prompt=promptT, llm=llm)
     
     print(llm_chain.run(prompt))
     return llm_chain.run(prompt).strip()
@@ -64,6 +64,36 @@ def load_model_for_text_generation(model_name = "TheBloke/vicuna-7B-1.1-HF"):
     If you are running this for the first time, it will download a model for you.
     subsequent runs will use the model from the disk.
     """
+    # tokenizer = LlamaTokenizer.from_pretrained(model_name)
+
+    # model = LlamaForCausalLM.from_pretrained(model_name,
+    #                                          #   load_in_8bit=True, # set these options if your GPU supports them!
+    #                                          #   device_map=1#'auto',
+    #                                          #   torch_dtype=torch.float16,
+    #                                          #   low_cpu_mem_usage=True
+    #                                          )
+
+    pipe = pipeline(
+        "text-generation",
+        model=model_name,
+        device=0 if torch.cuda.is_available() else -1,
+        tokenizer=tokenizer,
+        max_length=2048,
+        temperature=0, # 用于控制文本生成任务的输出多样性的温度参数
+        top_p=0.95,
+        repetition_penalty=1.15
+    )
+
+    #local_llm = HuggingFacePipeline(pipeline=pipe)
+
+    return pipe
+
+def load_model_for_QA(model_name = "TheBloke/vicuna-7B-1.1-HF"):
+    """
+    Select a model on huggingface.
+    If you are running this for the first time, it will download a model for you.
+    subsequent runs will use the model from the disk.
+    """
     tokenizer = LlamaTokenizer.from_pretrained(model_name)
 
     model = LlamaForCausalLM.from_pretrained(model_name,
@@ -74,11 +104,12 @@ def load_model_for_text_generation(model_name = "TheBloke/vicuna-7B-1.1-HF"):
                                              )
 
     pipe = pipeline(
-        "text-generation",
+        "question-answering",
         model=model,
+        device=0 if torch.cuda.is_available() else -1,
         tokenizer=tokenizer,
         max_length=2048,
-        temperature=0,
+        temperature=0, # 用于控制文本生成任务的输出多样性的温度参数
         top_p=0.95,
         repetition_penalty=1.15
     )
@@ -86,3 +117,20 @@ def load_model_for_text_generation(model_name = "TheBloke/vicuna-7B-1.1-HF"):
     local_llm = HuggingFacePipeline(pipeline=pipe)
 
     return local_llm
+
+def save_pipeline(pipe, model_name):
+    model = nlp.model
+    tokenizer = nlp.tokenizer
+    
+    model.save_pretrained(model_name.split("/")[-1] + ".pt")
+    tokenizer.save_pretrained(model_name.split("/")[-1] + "_tokenizer.pt")
+
+def load_text_generation_pipeline(model_name = "meta-llama/Llama-2-7b-chat-hf"):
+    nlp = pipeline('text-generation', 
+               model=model_name, 
+               tokenizer=model_name, 
+               device=0 if torch.cuda.is_available() else -1, 
+               max_length=2048,               
+               token = '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')
+
+    return nlp
