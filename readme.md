@@ -6,6 +6,7 @@ The main purpose of this project is to implement an application that can output 
 
 ## Contribution
 We all know that the now popular ChatGPT has shown a strong knowledge base in various fields. Especially when combined with bing search, it is able to provide corresponding websites directly on demand. But ChatGPT has some limitations:
+
 1. ChatGPTs' knowledge is trained on data before September 2021, so there is no way to provide information after this date.
 2. ChatGPT has no way to analyze complex logical relationships.
 3. ChatGPT cannot list cited sources and its reliability is based on the reliability of the source information, which may be inherently wrong, inconsistent, or incorrect or contradictory after being combined by ChatGPT.

@@ -1,0 +1,9 @@
+Ideas/Bugs:
+- Add openml dataset search to console
+- Website: Extract keywords from a user input text (similar outputs as the console version)
+- Variable number of keywords
+- Current Bug: Sometimes ChatGPT returns no or less than 3 keywords
+- Extend the repositiory dataset (has currently only 300 entries)
+- Current Bug: Some of the repository have in the dataset no description, but if you click the repository url it has a readme
+- Add input text of cycling safety example to the readme
+- Improve website design (for example hide the headlines "Top 5 Repositories")
