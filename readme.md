@@ -1,5 +1,5 @@
 # SDSC Cataglog
-[![Documentation](https://img.shields.io/badge/lang-de-blue?style=flat-square)](sdsc-cataglog/readme.de)
+[![Documentation](https://img.shields.io/badge/lang-de-blue?style=flat-square)](sdsc-cataglog/sdsc-cataglog/readme.de)
 
 ## Topic and Background
 The main purpose of this project is to implement an application that can output github tools and openml datasets that correspond to the user input. The user can add a description of his current challenge faced and the tool can propose related information to this challenge.
