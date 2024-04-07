@@ -1,5 +1,5 @@
 # SDSC Cataglog
-[![Documentation](https://img.shields.io/badge/Documentation-Click%20Here-blue?style=flat-square)](sdsc-cataglog/readme)
+[![Documentation](https://img.shields.io/badge/lang-en%20Here-blue?style=flat-square)](sdsc-cataglog/readme)
 
 # Thema und Hintergrund
 Das Hauptziel dieses Projekts ist die Implementierung einer Anwendung, die Github-Tools und Openml-Datensätze ausgeben kann, die den Benutzereingaben entsprechen. Der Benutzer kann eine Beschreibung seiner aktuellen Herausforderung hinzufügen, und das Tool kann entsprechende Informationen zu dieser Herausforderung vorschlagen.
