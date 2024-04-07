@@ -30,12 +30,12 @@ If you want to use a visual interface run the notebook `app.ipynb` and open the 
 
 ### Console: Example Output on the Topic of Cycling Safety
 After starting the tool in the console, the user can input his use case. The tool will summarize the current challenge and will extract keywords which are used to search for related repositories. It will return the repositories like in the following example:
-<img src="sdsc-cataglog/images/output_example.png" alt="output example" width="800" height="600">
+<img src="sdsc_cataglog/images/output_example.png" alt="output example" width="800" height="600">
 
 ### Website: Example Output on the Topic of Cycling Safety
 After starting the tool the user can input 3 keywords.
-<img src="sdsc-cataglog/images/website_tutorial_1.png" alt="website tutorial 1">
+<img src="sdsc_cataglog/images/website_tutorial_1.png" alt="website tutorial 1">
 
 After pressing search it will return the top 5 related github repositories and openml dataset for each keyword.
-<img src="sdsc-cataglog/images/website_tutorial_2.png" alt="website tutorial 2">
-<img src="sdsc-cataglog/images/website_tutorial_3.png" alt="website tutorial 3">
+<img src="sdsc_cataglog/images/website_tutorial_2.png" alt="website tutorial 2">
+<img src="sdsc_cataglog/images/website_tutorial_3.png" alt="website tutorial 3">
