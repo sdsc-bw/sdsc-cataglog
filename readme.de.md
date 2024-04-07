@@ -27,12 +27,12 @@ Wenn Sie eine visuelle Schnittstelle verwenden möchten, führen Sie das Noteboo
 
 ### Konsole: Beispielausgabe zum Thema Sicherheit beim Radfahren
 Nach dem Start des Tools in der Konsole kann der Nutzer seinen Anwendungsfall eingeben. Das Tool fasst die aktuelle Herausforderung zusammen und extrahiert Schlüsselwörter, die für die Suche nach verwandten Repositories verwendet werden. Es gibt die Repositories wie im folgenden Beispiel zurück:
-<img src="sdsc-cataglog/images/output_example.png" alt="output example" width="800" height="600">
+<img src="sdsc_cataglog/images/output_example.png" alt="output example" width="800" height="600">
 
 ### Website: Beispielausgabe zum Thema Sicherheit beim Radfahren
 Nach dem Start des Tools kann der Benutzer 3 Schlüsselwörter eingeben.
-<img src="sdsc-cataglog/images/website_tutorial_1.png" alt="website tutorial 1">
+<img src="sdsc_cataglog/images/website_tutorial_1.png" alt="website tutorial 1">
 
 Nachdem Sie auf "Suchen" gedrückt haben, werden die 5 wichtigsten Github-Repositories und openml-Datensätze für jedes Stichwort angezeigt.
-<img src="sdsc-cataglog/images/website_tutorial_2.png" alt="website tutorial 2">
-<img src="sdsc-cataglog/images/website_tutorial_3.png" alt="website tutorial 3">
+<img src="sdsc_cataglog/images/website_tutorial_2.png" alt="website tutorial 2">
+<img src="sdsc_cataglog/images/website_tutorial_3.png" alt="website tutorial 3">
