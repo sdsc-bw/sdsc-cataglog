@@ -1,0 +1,3 @@
+name: QSAR-TID-101041
+dataset_id: 3460.0
+description: QSAR-TID-101041 is a dataset containing information about the bioconcentration factor (BCF) of various compounds. It consists of 7,138 compounds, each described by 41 molecular descriptors. The purpose of this dataset is to predict the BCF values based on these descriptors using machine learning models. The dataset also contains binary values representing the presence or absence of specific fragments in the compounds. The compounds cover a wide range of BCF values, from low to high. QSAR-TID-101041 can be useful in developing models to predict the bioconcentration of future chemical compounds and aid in the assessment of their potential environmental impact.

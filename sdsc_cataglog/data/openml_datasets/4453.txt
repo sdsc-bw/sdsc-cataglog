@@ -1,0 +1,3 @@
+name: kc1_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44632.0
+description: The dataset "kc1_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" consists of 2,000 rows and 100 columns, with 10 different classes or categories. The data has been stratified, meaning the distribution of the classes has been maintained during the sampling process. This dataset serves as a representative sample, with each category equally represented. It can be useful for various classification tasks, as it provides a diverse range of information across different classes. The dataset is well-structured, and its characteristics make it suitable for analyzing patterns, trends, and developing models for classification purposes.

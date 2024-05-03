@@ -1,0 +1,3 @@
+name: metro-interstate-traffic
+dataset_id: 42998.0
+description: The dataset "metro-interstate-traffic" contains information about traffic conditions on the US interstate highways surrounding the Twin Cities metropolitan area from 2012 to 2018. It comprises 48204 observations and 9 variables, including the date and time of the traffic recording, weather conditions, and traffic volume. The dataset was sourced from the Minnesota Department of Transportation and can be used for various traffic-related analyses, such as predicting traffic volume based on external factors or studying the impact of weather conditions on traffic congestion. It provides valuable insights into the traffic patterns and trends in the area over the specified time period.

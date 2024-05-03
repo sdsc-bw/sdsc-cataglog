@@ -1,0 +1,3 @@
+name: QSAR-TID-100633
+dataset_id: 3786.0
+description: The QSAR-TID-100633 dataset is composed of 144 compounds, each having 16 different features. The aim of this dataset is to predict the acute aquatic toxicity towards Daphnia Magna, which is the aquatic organism used for assessing water quality. The features are based on quantum chemical descriptors and were calculated using the Gaussian 03 program. Additional information such as CAS number, SMILES code, and toxicity values are also included in the dataset. The dataset is available in both CSV and ARFF formats, making it convenient for different types of data analysis.

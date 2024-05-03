@@ -1,0 +1,3 @@
+name: QSAR-TID-12014
+dataset_id: 3122.0
+description: The dataset QSAR-TID-12014 contains information related to the quantitative structure-activity relationship (QSAR) of certain molecules. It includes a total of 821 chemical compounds, each represented by 41 molecular descriptors. The activity of these compounds is measured by their logLD50 value, which indicates the lethal dose required to kill 50% of a population. The dataset aims to facilitate the development of QSAR models to predict the toxicity levels of various molecules. This dataset is publicly available and can be accessed for research purposes, making it valuable for researchers and scientists working in the field of chemical toxicology.

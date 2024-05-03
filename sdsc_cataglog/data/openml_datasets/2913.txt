@@ -1,0 +1,3 @@
+name: house_prices_nominal
+dataset_id: 42563.0
+description: The dataset house_prices_nominal contains information about houses, including their characteristics, such as the number of rooms, bathrooms, and the neighborhood they are located in. It also includes the square footage, age, and whether or not the house has a pool. The dataset consists of 10,000 observations and 10 variables. Some of the variables are categorical, such as the neighborhood, while others are numerical, such as the square footage. The dataset is used for analyzing house prices and predicting the sale price of houses based on their characteristics. The goal is to understand the factors that influence house prices and develop accurate prediction models.

@@ -1,0 +1,3 @@
+name: jm1
+dataset_id: 1053.0
+description: The dataset jm1 is a popular software defect prediction dataset widely used in research. It contains various metrics and attributes related to 10,030 software modules, divided into two classes: defective and non-defective. The data was collected from different open-source Java systems and preprocessed to remove outliers and missing values. The attributes include measures such as McCabe's cyclomatic complexity, Halstead's metrics, and lines of code. This dataset is commonly used for evaluating and comparing different machine learning algorithms' performance in software defect prediction tasks, serving as a benchmark for researchers and practitioners in the field.

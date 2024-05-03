@@ -1,0 +1,3 @@
+name: UFC-257-Poirier-vs.-McGregor-II-Tweets
+dataset_id: 43787.0
+description: The dataset UFC-257-Poirier-vs.-McGregor-II-Tweets contains information about tweets related to the UFC 257 event, particularly the rematch between Dustin Poirier and Conor McGregor. It is a collection of tweets that were made during or around the time of the fight. The dataset provides details such as the tweet text, timestamp, number of likes, retweets, and replies. It is a valuable resource to analyze the public sentiment, interactions, and engagement surrounding this highly anticipated fight. The dataset allows researchers to explore social media trends, reactions, and conversations related to the UFC 257 event.

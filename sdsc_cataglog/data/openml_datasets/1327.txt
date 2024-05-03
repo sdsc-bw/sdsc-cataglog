@@ -1,0 +1,3 @@
+name: QSAR-TID-103451
+dataset_id: 3303.0
+description: The dataset QSAR-TID-103451 contains information on a set of chemical compounds. It consists of 8872 instances and 102 attributes, including both numeric and categorical data. The dataset was sourced from the UCI Machine Learning Repository and is related to the quantitative structure-activity relationship (QSAR) problem domain. Each instance represents a chemical compound, while the attributes provide diverse information such as chemical properties, molecular descriptors, and biological activities. The dataset has been made available for public access to facilitate research and analysis in the field of QSAR modeling and prediction.

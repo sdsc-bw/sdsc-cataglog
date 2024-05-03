@@ -1,0 +1,3 @@
+name: bot-iot-all-features
+dataset_id: 42072.0
+description: The bot-iot-all-features dataset is a collection of network traffic data designed for botnet detection research. It consists of 2,296,092 instances, each containing 115 features extracted from network traffic in a simulated IoT environment. The dataset covers a wide range of attacks, including DDoS, scanning, infiltration, and unauthorized access. It also includes normal traffic instances for comparison. The dataset aims to facilitate the development and evaluation of machine learning models for botnet detection. It can be utilized to study botnet behaviors, identify attack patterns, and enhance cybersecurity systems in IoT environments.

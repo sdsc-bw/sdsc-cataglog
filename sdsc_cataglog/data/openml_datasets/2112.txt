@@ -1,0 +1,3 @@
+name: QSAR-TID-102849
+dataset_id: 4098.0
+description: The dataset QSAR-TID-102849 consists of 546 chemicals with their corresponding 919 molecular descriptors. It was primarily used for analyzing the quantitative structure-activity relationship (QSAR) of these chemicals. The molecular descriptors provide information about the chemical properties and structure of each compound. The dataset was obtained from Molecular Forecasting, a predictive modeling framework. It aimed to predict the Ames mutagenicity (a measure of genetic toxicity) of the compounds. The dataset has been widely used to develop machine learning models for predicting the mutagenicity of chemicals and to explore the relationship between molecular descriptors and biological activities.

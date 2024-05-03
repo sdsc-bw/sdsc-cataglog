@@ -1,0 +1,3 @@
+name: MagicTelescope
+dataset_id: 44116.0
+description: The MagicTelescope dataset is derived from a collection of high-energy gamma-ray measurements captured by the Imaging Atmospheric Cherenkov Technique. It consists of samples taken from four different telescopes, measuring seven key variables. The dataset contains a total of 19,020 observations, divided into two classes representing gamma-ray signals (12,384) and background noise (6,636). The goal of the dataset is to distinguish between the two classes using the given variables. The data is preprocessed, with outliers removed and all variables normalized into the range [0,1]. It's commonly used in machine learning research for classification algorithms.

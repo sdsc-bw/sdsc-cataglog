@@ -1,0 +1,3 @@
+name: cnae-9_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44605.0
+description: The dataset "cnae-9_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True" is a dataset with 2000 rows and 100 columns. It is stratified into 10 different classes. The dataset is created using a seed value of 2. Each row in the dataset represents an instance, while each column represents a feature or attribute. The dataset is structured in such a way that it ensures a proportional representation of instances from each class. This dataset can be used for various purposes such as classification or clustering tasks, as it provides a diverse range of instances with different attributes.

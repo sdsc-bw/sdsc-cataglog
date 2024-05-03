@@ -1,0 +1,3 @@
+name: cmc_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44613.0
+description: The dataset cmc_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True contains information about 2000 instances with 100 features. There are a total of 10 classes in the dataset. The data is stratified, meaning that the distribution of classes in the dataset is maintained. Further details about the data, such as its source, content, or purpose, are not mentioned in the given sentences.

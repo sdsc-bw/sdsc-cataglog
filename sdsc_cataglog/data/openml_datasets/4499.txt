@@ -1,0 +1,3 @@
+name: sylvine_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44678.0
+description: The dataset sylvine_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True contains information on sylvine seeds, with a total of 2,000 rows and 100 columns. The dataset is stratified with 10 classes, suggesting the presence of distinct groups or categories within the data. The dataset likely includes various features and attributes related to sylvine seeds, with each row representing a different seed sample. This dataset can be utilized for various analyses and tasks such as classification, clustering, or predictive modeling related to sylvine seeds.

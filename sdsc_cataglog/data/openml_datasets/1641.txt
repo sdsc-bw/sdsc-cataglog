@@ -1,0 +1,3 @@
+name: QSAR-TID-103437
+dataset_id: 3626.0
+description: The QSAR-TID-103437 dataset contains 129,167 compounds with their respective activity against a target protein that plays a role in Alzheimer's disease. The compounds were tested using a high-throughput screening method providing quantitative measurements of their activity. The dataset includes descriptors that describe the molecular properties of the compounds, such as size, shape, and chemical features. Additionally, it contains the compounds' docking scores, which reflect their binding affinity to the target protein. The dataset is valuable for developing computational models and predicting the activity of new compounds against the target protein, which can aid in drug discovery efforts for Alzheimer's disease.

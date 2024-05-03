@@ -1,0 +1,3 @@
+name: iris
+dataset_id: 41567.0
+description: The iris dataset consists of 150 samples of iris flowers from three different species. Four features were measured for each sample, including the sepal length and width, as well as the petal length and width. The goal of this dataset is to classify the samples into one of the three species based on these measurements. It has been widely used in pattern recognition literature due to its simple yet effective nature. The iris dataset is a popular choice for testing classification algorithms and is considered a benchmark dataset in the field of machine learning.

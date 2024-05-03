@@ -1,0 +1,3 @@
+name: penguins
+dataset_id: 42585.0
+description: The penguins dataset provides information about three different penguin species: Adelie, Chinstrap, and Gentoo. The data includes various measurements such as culmen length, culmen depth, flipper length, body mass, and sex. It also includes details about the individuals' breeding area, island, and year of observation. The dataset is aimed at understanding penguin populations and their characteristics. It has been used for various studies related to biometrics, ecology, and species classification. The dataset is well-organized and contains 344 rows and 8 columns, making it a valuable resource for researchers studying penguins and their behavior.

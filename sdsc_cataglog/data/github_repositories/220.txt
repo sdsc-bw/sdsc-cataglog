@@ -1,0 +1,3 @@
+repo_name: evidently
+link: https://github.com/evidentlyai/evidently
+description: Introducing the library Evidently, except for the installation instructions, the following sentence can be extracted: "Evidently is an open-source Python library for data scientists and ML engineers. It helps evaluate, test, and monitor the performance of ML models from validation to production. It works with tabular, text data and embeddings."

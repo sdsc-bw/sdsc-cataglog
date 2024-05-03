@@ -1,0 +1,3 @@
+name: Marginal-Revolution-Blog-Post-Data
+dataset_id: 43574.0
+description: The Marginal-Revolution-Blog-Post-Data dataset collects information from the widely popular economic blog, Marginal Revolution. It includes data points such as the date, title, author, number of comments, and words per minute for over 3,000 blog posts from 2003 to 2016. The dataset also provides information about the posts' tags, word counts, and labels for subjective rating. With this dataset, researchers can analyze and gain insights into the characteristics and trends of the blog posts, contributing to the study of economics, trends in online content consumption, and the impact of subjective ratings on blog popularity.

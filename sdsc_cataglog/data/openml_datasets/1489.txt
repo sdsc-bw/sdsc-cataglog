@@ -1,0 +1,3 @@
+name: QSAR-TID-101079
+dataset_id: 3471.0
+description: The dataset QSAR-TID-101079 comprises information related to various compounds, including their molecular properties and activities against the human immunodeficiency virus type 1 (HIV-1). It contains a total of 1,079 instances, each characterized by 13 attributes. The molecular properties include features like hydrophobicity, electronic energy, and topological indices, while the activity against HIV-1 is measured on a scale of 0 to 10. The dataset serves as a resource for drug discovery and QSAR modeling, where the goal is to predict the HIV-1 activity of new compounds based on their molecular characteristics.

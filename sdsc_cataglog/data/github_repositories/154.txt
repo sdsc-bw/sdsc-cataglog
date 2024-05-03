@@ -1,0 +1,3 @@
+repo_name: Kashgari
+link: https://github.com/BrikerMan/Kashgari
+description: Kashgari is a simple and powerful NLP Transfer learning framework that allows you to build a state-of-art model in 5 minutes for named entity recognition (NER), part-of-speech tagging (PoS), and text classification tasks. It is based on Python 3.6+ and offers a range of features including performance monitoring, documentation, and contributing guidelines. There are also tutorials and articles available to help you get started with the library.

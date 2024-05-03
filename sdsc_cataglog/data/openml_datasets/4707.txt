@@ -1,0 +1,3 @@
+name: credit-approval
+dataset_id: 45063.0
+description: The dataset credit-approval is a collection of information about credit card applications. It consists of 690 observations with 15 attributes, including attributes such as age, employment status, and credit score. The dataset contains missing values, which are indicated by question marks(?). The goal of this dataset is to predict whether a credit card application should be approved or denied based on these attributes. The dataset is imbalanced, with around 55% of applications being denied. There is a need for preprocessing steps such as handling missing values and handling the imbalance in the dataset before training a machine learning model for credit card approval prediction.

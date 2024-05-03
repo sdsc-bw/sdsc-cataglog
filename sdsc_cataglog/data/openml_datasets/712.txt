@@ -1,0 +1,3 @@
+name: squash-stored
+dataset_id: 972.0
+description: The dataset squash-stored contains information about the sales and storage of squash, a type of vegetable. The dataset includes various attributes such as the date of purchase, quantity sold, and storage conditions. It provides insights into the sales trends of squash over a specific period. The dataset also includes information about storage parameters such as temperature and humidity, which can help analyze the impact of storage conditions on squash quality. With this dataset, one can study the correlation between storage conditions and spoilage or deterioration rates of squash. Overall, the squash-stored dataset facilitates research and analysis for improving squash storage and sales strategies.

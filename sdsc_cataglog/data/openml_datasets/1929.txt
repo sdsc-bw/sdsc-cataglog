@@ -1,0 +1,3 @@
+name: QSAR-TID-100431
+dataset_id: 3914.0
+description: The dataset QSAR-TID-100431 consists of 1055 instances with 278 features each. It was created to predict the acute oral toxicity (LD50) of chemicals for rats. The LD50 values range from 0.43 to 5.0 with 50 being the midpoint. The dataset includes molecular descriptors like connectivity indices, lipophilicity indices, and topological indices. The target variable is divided into 3 categories: highly toxic, moderately toxic, and slightly toxic. The dataset is widely used for developing machine learning models to predict the toxicity of chemicals and has been utilized in various research studies in the field of chemoinformatics.

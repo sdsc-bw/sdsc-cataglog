@@ -1,0 +1,3 @@
+name: Towards-Data-Science-articles-dataset-(2010-2021)
+dataset_id: 43375.0
+description: The Towards-Data-Science-articles-dataset is a collection of articles spanning from 2010 to 2021. The dataset is publicly available and contains articles related to data science and its various subtopics. Each article entry includes important details such as the title, publication date, author, reading time, tags, and article content. The dataset can be utilized for a wide range of applications such as text analysis, natural language processing, data mining, and trend analysis within the field of data science. Overall, this dataset provides a valuable resource for researchers, data scientists, and enthusiasts in exploring and analyzing data science articles over the past decade.

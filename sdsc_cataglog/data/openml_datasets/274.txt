@@ -1,0 +1,3 @@
+name: analcatdata_ncaa
+dataset_id: 521.0
+description: The dataset analcatdata_ncaa contains information about National Collegiate Athletic Association (NCAA) basketball teams. It consists of 96 observations and 14 variables. The variables include the name and division of each team, as well as various statistics from the 1993-1994 season such as field goal percentage, free throw percentage, and three-point percentage. The dataset also includes data on team rebounds, assists, steals, blocks, and turnovers. It provides valuable information for analyzing and drawing insights about NCAA basketball teams and their performance during the specified season.

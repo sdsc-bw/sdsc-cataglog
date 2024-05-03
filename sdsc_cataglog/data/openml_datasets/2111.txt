@@ -1,0 +1,3 @@
+name: QSAR-TID-101069
+dataset_id: 4097.0
+description: The dataset QSAR-TID-101069 consists of 367 chemical compounds, each described by various molecular descriptors like shape, size, and electrostatic potential. These descriptors aim to predict the quantitative structure-activity relationship (QSAR) of the compounds, specifically their binding affinity with the tribromoethanol target. The dataset includes both the experimental binding affinity values and the predicted values derived from the molecular descriptors. It is suitable for developing and validating QSAR models for predicting the binding affinity of new compounds. Additionally, the dataset can be utilized for studying the relationship between molecular properties and the activity of tribromoethanol.

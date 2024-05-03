@@ -1,0 +1,3 @@
+name: sleuth_case1202
+dataset_id: 706.0
+description: The dataset sleuth_case1202 contains information about a criminal case involving a missing person. It includes various factors related to the case, such as the age, gender, and race of the missing person, as well as details about the circumstances of their disappearance. The dataset also provides information about the suspects involved in the case, including their age, gender, race, and potential motives for the crime. Additionally, it includes evidence gathered during the investigation, such as fingerprints, DNA samples, and photographs. This dataset aims to provide comprehensive information that can assist in solving the case and finding the missing person.

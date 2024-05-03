@@ -1,0 +1,3 @@
+repo_name: beam
+link: https://github.com/apache/beam
+description: "Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines, as well as a set of language-specific SDKs for constructing pipelines and Runners for executing them on distributed processing backends, including Apache Flink, Apache Spark, Google Cloud Dataflow, and Hazelcast Jet."

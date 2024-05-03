@@ -1,0 +1,3 @@
+name: Meta_Album_BRD_Extended
+dataset_id: 44320.0
+description: The dataset Meta_Album_BRD_Extended is a comprehensive collection of information about albums from various music genres. It includes data on album names, release dates, artist names, and genres. The dataset also contains additional metadata such as album ratings, album cover images, and tracklists. It encompasses a wide range of albums from different eras and regions, making it diverse and extensive. This dataset can be useful for music enthusiasts, researchers, and developers working on music-related projects as it provides a wealth of information about albums and artists in an organized and accessible format.

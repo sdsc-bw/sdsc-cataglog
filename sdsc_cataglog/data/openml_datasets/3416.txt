@@ -1,0 +1,3 @@
+name: BTS-Lyrics
+dataset_id: 43490.0
+description: The dataset BTS-Lyrics contains lyrics from songs by the South Korean boy band BTS. It includes over 300 songs spanning various genres and languages. The dataset provides information about the title, album, release date, and a translated version of the lyrics in English. It aims to support researchers, fans, and musicians in analyzing the content and meaning of BTS' songs. The dataset's multilingual nature allows for examining the group's global impact as they have gained immense popularity worldwide. Researchers may use this dataset to explore the themes, emotions, and cultural influences portrayed in BTS' music.

@@ -1,0 +1,3 @@
+name: Is-this-a-good-customer
+dataset_id: 43442.0
+description: The dataset "Is-this-a-good-customer" aims to determine whether a customer is good or bad based on certain features. The dataset contains various attributes such as age, income, credit score, and employment status of customers. The target variable is a binary outcome, with 1 indicating a good customer and 0 indicating a bad customer. The dataset is designed to be used for classification purposes, allowing businesses to predict the likelihood of a customer being profitable or not. The dataset contains a substantial number of observations, providing sufficient data for training and evaluating predictive models.

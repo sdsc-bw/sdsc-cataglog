@@ -1,0 +1,3 @@
+name: New-Delhi-Rental-Listings
+dataset_id: 43837.0
+description: The New-Delhi-Rental-Listings dataset provides extensive information on rental listings in New Delhi. It includes details such as the location, size, amenities, and price of properties available for rent. The dataset covers a wide range of property types, including apartments, houses, and commercial spaces. It also includes additional information such as the availability of parking, security measures, and nearby amenities like schools and hospitals. The dataset is valuable for individuals and organizations interested in exploring the rental market in New Delhi for various purposes such as finding a place to live, conducting market research, or making investment decisions.

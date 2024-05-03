@@ -1,0 +1,3 @@
+name: rsctc2010_3
+dataset_id: 1079.0
+description: The dataset rsctc2010_3 contains information regarding factors that allow us to differentiate between two types of beer – Lager and Stout. The dataset consists of several attributes such as pH value, alcohol percentage, and various chemical composition parameters. These parameters were measured in multiple samples of both Lager and Stout beers. The dataset aims to study the relationship between these attributes and the type of beer. It serves as a valuable resource for researchers and beer enthusiasts alike, allowing them to analyze and understand the key factors contributing to the classification of beers into Lager and Stout categories.

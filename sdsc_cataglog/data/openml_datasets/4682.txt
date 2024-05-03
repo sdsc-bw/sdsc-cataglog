@@ -1,0 +1,3 @@
+name: road-safety
+dataset_id: 45038.0
+description: The road-safety dataset provides information on accidents reported to the police in Great Britain. It includes data such as location, time, and weather conditions during the accidents. The dataset covers accidents from 1979 to 2019 and includes detailed information about the vehicles involved, casualties, and severity of injuries. It also contains variables related to road conditions, speed limits, and road layouts. The dataset is useful for analyzing and understanding road safety trends and factors that contribute to accidents. It can aid in the development of strategies and interventions to improve road safety and reduce the number of accidents and casualties.

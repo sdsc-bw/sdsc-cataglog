@@ -1,0 +1,3 @@
+name: Microsoft
+dataset_id: 45579.0
+description: The Microsoft dataset is a collection of various data related to the tech giant Microsoft. It includes information about the company's financial performance, such as revenue and expenses, as well as other financial indicators like market capitalization and stock price. The dataset also comprises data about Microsoft's products and services, including details like their release dates, reviews, and user ratings. Additionally, it includes information about the company's employees, organizational structure, and corporate governance. The Microsoft dataset serves as a comprehensive resource for analyzing and understanding various aspects of the company's operations, financials, and products.

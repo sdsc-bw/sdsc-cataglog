@@ -1,0 +1,3 @@
+name: QSAR-TID-11528
+dataset_id: 3491.0
+description: The dataset QSAR-TID-11528 focuses on the prediction of toxicity against Tetrahymena pyriformis, an aquatic organism used in environmental risk assessment. It contains 184 chemical compounds with their corresponding molecular descriptors, such as molecular weight and physicochemical properties. The experimental toxicity values are included, along with the results obtained from several prediction models. The dataset aims to assist in the development of quantitative structure-activity relationship (QSAR) models for toxicity prediction. These models can be used to assess the potential hazards of chemicals and aid in the design of safer substances in various industries like pharmaceuticals and environmental sciences.

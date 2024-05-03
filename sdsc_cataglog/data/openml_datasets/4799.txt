@@ -1,0 +1,3 @@
+name: mildew_4
+dataset_id: 45157.0
+description: The dataset mildew_4 is a collection of information related to mildew diseases in four different varieties of barley plants. It includes data from multiple years and locations, allowing for analysis across various conditions. The dataset contains observations such as the presence or absence of mildew, as well as measurements of plant height, leaf width, and other relevant attributes. Additionally, there are calculated variables such as the percentage of mildew-infected leaf area. The dataset aims to support research on mildew resistance in barley and provides valuable insights for plant breeders and scientists studying plant diseases.

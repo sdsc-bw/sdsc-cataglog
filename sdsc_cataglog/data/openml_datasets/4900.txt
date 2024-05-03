@@ -1,0 +1,3 @@
+name: pigs_6
+dataset_id: 45258.0
+description: The dataset pigs_6 contains information about a group of pigs. It includes details such as the pig's weight, feed intake, and growth rate. The data was collected over a period of time, allowing researchers to analyze the growth patterns of the pigs. The dataset also includes information on the pigs' genetic lineage, which enables researchers to study the hereditary factors that contribute to their growth and characteristics. The pigs were fed different diets to observe the effects of various feed types on their growth rates. Overall, pigs_6 provides valuable data for studying pig growth and nutrition.

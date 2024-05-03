@@ -1,0 +1,3 @@
+repo_name: Themis
+link: https://github.com/LASER-UMASS/Themis
+description: Themis™ is a testing-based approach for measuring discrimination in a software system. For the best explanation of the underlying problem Themis™ solves, Themis™ algorithms, and an evaluation of Themis™, read our paper Fairness Testing: Testing Software for Discrimination. This work won an ACM Distinguished Paper Award at the ESEC/FSE 2017 Conference. Themis™ is distributed only to end users and for academic use only. Themis™ can also be licensed for commercial use through the University of Massachusetts Amherst. To obtain a license, contact Thomas Ferguson (tferguson@umass.edu) and Robert MacWright (macwright@umass.edu), and copy Yuriy Brun (brun@cs.umass.edu).

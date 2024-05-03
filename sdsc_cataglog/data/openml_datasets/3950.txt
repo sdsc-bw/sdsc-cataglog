@@ -1,0 +1,3 @@
+name: MiniBooNE
+dataset_id: 44076.0
+description: The MiniBooNE dataset is a high-energy physics dataset collected by the MiniBooNE experiment at Fermilab in the early 2000s. It includes measured data from neutrino and antineutrino beam interactions with the MiniBooNE detector. The dataset contains information about various aspects of these interactions, such as the energy and direction of particles produced, the time and location of interactions, and the type of neutrino involved. It is used to study neutrino oscillations and search for new physics beyond the Standard Model. The dataset has been widely analyzed by researchers to improve our understanding of neutrino physics.

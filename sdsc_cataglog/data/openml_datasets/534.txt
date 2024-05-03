@@ -1,0 +1,3 @@
+name: fri_c1_100_10
+dataset_id: 789.0
+description: The dataset fri_c1_100_10 contains information related to a specific scenario or group of objects. It has 100 instances (rows) and 10 attributes (columns). The dataset is part of the FRI benchmark suite. It provides data that can be used for various research purposes, such as testing and evaluating algorithms and models. The attributes within the dataset represent different characteristics or properties of the instances. The dataset aims to support data analysis and machine learning tasks by providing a diverse set of examples to work with.

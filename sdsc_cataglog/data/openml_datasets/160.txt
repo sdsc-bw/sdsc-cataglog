@@ -1,0 +1,3 @@
+name: SyskillWebert-Bands
+dataset_id: 380.0
+description: The dataset SyskillWebert-Bands contains information about various music bands. It includes data on the bands' genre, country of origin, and popularity. The dataset also provides details about the band members, such as their gender, age, and experience level. Additionally, the dataset includes ratings and reviews given by users. This dataset aims to help researchers analyze and understand the factors that contribute to a band's success or failure. It can assist in studying the correlation between popularity and various attributes of music bands, facilitating the development of strategies to enhance the success of music groups.

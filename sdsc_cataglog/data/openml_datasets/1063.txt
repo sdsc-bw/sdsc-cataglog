@@ -1,0 +1,3 @@
+name: SPECTF
+dataset_id: 1600.0
+description: The SPECTF dataset contains information about single-photon emission computed tomography (SPECT) data for diagnosing different types of disorders in the heart. It includes 44 attributes and 267 patients with two classes: healthy and diseased. This dataset helps in analyzing the SPECT images and determining the presence or absence of heart disorders. The attributes represent values like the mean, standard deviation, maximum, and minimum pixel intensities. It is a valuable resource for researchers and healthcare professionals to develop algorithms and models for efficient and accurate heart disorder diagnosis using SPECT imaging technology.

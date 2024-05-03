@@ -1,0 +1,3 @@
+name: Student-Scores
+dataset_id: 45592.0
+description: The dataset "Student-Scores" consists of information about the academic performance of students. It contains various attributes such as student's age, gender, study time, family support, and previous failures. Additionally, it includes features related to the student's social and emotional well-being, such as extra educational support, alcohol consumption, and free time activities. The dataset also includes numerical scores of the students in mathematics, language, and writing assessments. Overall, the dataset provides a comprehensive overview of the factors affecting student performance and can be useful for analyzing educational outcomes and identifying potential areas for intervention or support.

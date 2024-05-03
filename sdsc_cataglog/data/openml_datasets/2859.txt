@@ -1,0 +1,3 @@
+name: titanic_2
+dataset_id: 42443.0
+description: The dataset "titanic_2" contains information on the passengers aboard the Titanic. It includes details such as their age, sex, class, number of siblings/spouses aboard, number of parents/children aboard, ticket fare, and whether they survived or not. It has 891 entries or rows, each representing a passenger. It is a modified version of the original Titanic dataset, with some missing data filled in. This dataset is often used for machine learning and data analysis tasks, providing insights into factors that influenced survival rates. It aims to analyze and predict the survival outcomes of Titanic passengers based on different characteristics.

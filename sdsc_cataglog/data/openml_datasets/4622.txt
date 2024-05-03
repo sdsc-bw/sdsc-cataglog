@@ -1,0 +1,3 @@
+name: sgemm_gpu_kernel_performance
+dataset_id: 44961.0
+description: The dataset sgemm_gpu_kernel_performance measures the performance of a GPU kernel implementing the Matrix Multiplication (MM) algorithm. It consists of 32,000 rows and 15 columns, where each row represents a unique combination of input parameters and the corresponding measured performance metrics. The input parameters include various memory workloads, and the performance metrics represent the execution time of the kernel. The dataset aims to understand the relationship between input parameters and performance metrics. The dataset can be used for regression analysis to predict the execution time based on the input parameters, and can also be used for feature selection and dimensionality reduction tasks.

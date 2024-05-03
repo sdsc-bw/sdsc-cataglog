@@ -1,0 +1,3 @@
+name: w5a
+dataset_id: 1585.0
+description: The dataset w5a includes information about student performance in an online course. It consists of 300 observations and thirteen attributes. The target variable is categorical, representing "Pass" or "Fail" outcomes. The dataset is slightly imbalanced, with 60% of the students passing the course. The attributes include the number of days a student accessed the course, the number of videos watched, the number of forums posts made, and the number of contributions added. Additionally, the dataset provides information about the number of correct, incorrect, and unattempted exercises, as well as the overall score achieved by each student.

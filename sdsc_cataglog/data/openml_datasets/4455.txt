@@ -1,0 +1,3 @@
+name: segment_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44634.0
+description: The dataset segment_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows and 100 columns. It has been stratified based on the target variable, with 10 different classes. The dataset has been segmented based on a seed value of 1, ensuring reproducibility. This means that the dataset has been divided into subsets for training and testing purposes in a consistent manner. The segmentation process aims to maintain the distribution of classes across the subsets, allowing for unbiased evaluation of models and analysis of data patterns.

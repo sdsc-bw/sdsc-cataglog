@@ -1,0 +1,3 @@
+name: pigs_9
+dataset_id: 45261.0
+description: The dataset "pigs_9" primarily consists of information related to pigs. It contains various attributes such as the pig's weight, height, and length. It also includes details about the pig's feed consumption, average daily gain, and backfat thickness. The dataset has been collected from multiple sources and is designed to aid researchers in studying and analyzing pig-related data. It contains numerous observations and is suitable for conducting statistical analyses and building predictive models related to pig characteristics and performance. Overall, the dataset "pigs_9" provides valuable insights into the growth, morphology, and feeding patterns of pigs.

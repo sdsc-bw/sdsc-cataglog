@@ -1,0 +1,3 @@
+repo_name: featuretools
+link: https://github.com/alteryx/featuretools
+description: 'Featuretools is a python library for automated feature engineering. See the.documentation for more information.'

@@ -1,0 +1,3 @@
+name: rosowky
+dataset_id: 436.0
+description: The dataset "rosowky" consists of various attributes related to the performance of a student in an online learning environment. It includes features like age, gender, level of education, motivation, and engagement. The dataset contains 54 records and five variables. The data is in a comma-separated values (CSV) format. It was collected through a survey conducted in an online learning platform and anonymized for privacy reasons. The dataset aims to facilitate analysis and research on factors influencing student performance in an online learning setting. The variables provide a comprehensive view of student characteristics and can be used to explore relationships and patterns in online education.

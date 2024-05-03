@@ -1,0 +1,3 @@
+name: titanic_2
+dataset_id: 42444.0
+description: The dataset titanic_2 provides information about passengers on the Titanic and their survival outcomes. It contains attributes such as age, sex, class, and ticket fare. The dataset has a total of 1,309 entries with 12 columns. Some entries have missing values, including the "Survived" column, which indicates whether a passenger survived or not. The dataset also includes additional variables like "SibSp" and "Parch" to represent the number of siblings/spouses and parents/children aboard respectively. The dataset serves as a valuable resource for analyzing the factors contributing to the survival of passengers on the Titanic.

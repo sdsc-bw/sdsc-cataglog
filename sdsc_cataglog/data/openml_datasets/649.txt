@@ -1,0 +1,3 @@
+name: chscase_census3
+dataset_id: 908.0
+description: The dataset chscase_census3 is a collection of socio-demographic information. It contains data about households in Chicago from the United States Census Bureau, combined with data from various other sources. The dataset includes information on housing, income, education, age, race, and gender of the residents. It also includes details about the neighborhoods, such as crime rates, job opportunities, and community services. The dataset provides valuable insights into the socio-economic status and characteristics of different neighborhoods in Chicago. It is a comprehensive resource for researchers studying population dynamics, urban planning, and social inequality in the city.

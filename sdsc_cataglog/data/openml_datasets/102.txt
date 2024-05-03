@@ -1,0 +1,3 @@
+name: pyrim
+dataset_id: 217.0
+description: The dataset "pyrim" contains information on chemical compounds intended for drug discovery. It consists of 74 observations and five columns. The first column represents the molecule ID, the second column contains the molecular weight, the third column includes the sum of positive ions, the fourth column represents the sum of negative ions, and the fifth column contains the activity of the compounds. The dataset aims to provide useful insights for researchers in the field of drug discovery and can be utilized for various analyses and modeling purposes.

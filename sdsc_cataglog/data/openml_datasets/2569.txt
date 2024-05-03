@@ -1,0 +1,3 @@
+name: FOREX_usdcad-day-Close
+dataset_id: 41834.0
+description: The dataset FOREX_usdcad-day-Close is related to the foreign exchange market, specifically the exchange rate between the US dollar (USD) and the Canadian dollar (CAD). It involves daily closing prices, capturing the value of 1 USD in terms of CAD for a given day. The dataset likely includes historical data covering a significant time period, allowing for the analysis of trends and patterns in the USD/CAD exchange rate. By examining this dataset, one can gain insights into the fluctuations, volatility, and overall performance of these two currencies in the forex market.

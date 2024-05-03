@@ -1,0 +1,3 @@
+name: QSAR-TID-30041
+dataset_id: 3962.0
+description: The QSAR-TID-30041 dataset is a collection of chemical compounds with their associated toxicity values. It comprises of 318 compounds and 177 molecular descriptors. The data was used to develop quantitative structure-activity relationship (QSAR) models to predict the potential toxicity of compounds. The toxicity values were measured using the median lethal concentration (LC50) test on fathead minnows. The dataset also includes information on the compounds' chemical properties, such as molecular weight, polarizability, and number of hydrogen bond donors. The dataset aims to aid in the development of computational models for toxicity prediction and the understanding of structure-toxicity relationships.

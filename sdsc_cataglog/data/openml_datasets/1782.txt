@@ -1,0 +1,3 @@
+name: QSAR-TID-30013
+dataset_id: 3765.0
+description: The dataset QSAR-TID-30013 consists of 3,517 compounds, each represented by a 177-dimensional molecular descriptor vector. These descriptors include topological and geometrical attributes of the molecules. The dataset also includes the biological activity of the compounds as binary values, indicating whether they are active or inactive against a specific target. The target protein is irrelevant to the dataset, and it is not mentioned what type of biological activity is being measured. Moreover, it is not specified if the dataset encompasses a diverse range of chemical compounds or is biased towards a particular class or structure.

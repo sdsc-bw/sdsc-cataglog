@@ -1,0 +1,3 @@
+name: Predict-Amazon-Stock-Price-tomorrow
+dataset_id: 43741.0
+description: The dataset "Predict-Amazon-Stock-Price-tomorrow" contains data related to Amazon's stock prices. It includes information about the opening and closing prices, highest and lowest prices, as well as the volume of stocks traded. The dataset also has additional features such as market sentiment, social media trends, news sentiment, and economic indicators. It aims to provide a comprehensive set of variables that can help predict the future stock price of Amazon. The dataset is designed to assist in developing predictive models and conducting analysis to forecast the stock price of Amazon for the next day.

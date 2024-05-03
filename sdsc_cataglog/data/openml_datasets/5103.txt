@@ -1,0 +1,3 @@
+name: simulated_sgemm_gpu_kernel_performance
+dataset_id: 45644.0
+description: The dataset, simulated_sgemm_gpu_kernel_performance, is related to the performance of a GPU kernel that performs a specific matrix multiplication operation called sgemm. It contains several features that characterize the operation, such as the size of the matrix, the number of elements in the matrix, and the block size used in the calculation. Additionally, it includes performance metrics like the time taken to execute the kernel and the memory usage. The dataset is simulated, meaning that it was generated artificially rather than collected from real-world measurements.

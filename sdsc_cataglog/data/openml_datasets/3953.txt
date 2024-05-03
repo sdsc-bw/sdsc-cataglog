@@ -1,0 +1,3 @@
+name: jannis
+dataset_id: 44079.0
+description: The dataset "jannis" is a collection of information that provides insights into the characteristics of a population. It contains a variety of variables such as age, gender, education level, and employment status. The data was collected through surveys and interviews, ensuring a diverse representation of the population. Statistical analysis can be performed on the dataset to uncover patterns, trends, and relationships between different variables. The jannis dataset is a valuable resource for researchers, policymakers, and businesses aiming to understand and address the needs and preferences of the population it represents.

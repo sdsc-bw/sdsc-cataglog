@@ -1,0 +1,3 @@
+name: sa-heart
+dataset_id: 1498.0
+description: The sa-heart dataset contains information about patients diagnosed with heart disease. It consists of 462 instances and 10 attributes. The attributes include patient age, sex, chest pain type, blood pressure, cholesterol levels, fasting blood sugar, resting electrocardiographic results, maximum heart rate achieved, exercise induced angina, and ST depression induced by exercise relative to rest. The dataset aims to predict the presence of heart disease in patients. It has been used in several studies related to heart disease diagnosis and treatment, and is widely used for classification and predictive analysis tasks in the field of healthcare.

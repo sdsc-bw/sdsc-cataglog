@@ -1,0 +1,3 @@
+name: Bioresponse_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44655.0
+description: The dataset, Bioresponse_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True, contains bioresponse data with 2000 rows and 100 columns. It is divided into ten classes and is stratified for balanced representation. The dataset aims to analyze bioactivity response of different chemical compounds. The columns in the dataset represent different features or characteristics of the compounds. The dataset is generated using seed 2, indicating a specific random state. It is designed to be suitable for classification tasks and can be utilized for training and evaluating machine learning models that predict bioresponse based on chemical properties.

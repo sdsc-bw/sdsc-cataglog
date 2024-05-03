@@ -1,0 +1,3 @@
+name: EgyptianSkulls
+dataset_id: 1099.0
+description: The EgyptianSkulls dataset is an extensive collection of 363 ancient Egyptian human skull records. These records contain a variety of measurements such as cranial capacity, nasal height, maximum cranial length, and zygomatic width. The dataset includes information on both the sex and age range of the individuals. It also provides details about the location and cultural context of the skull findings. The dataset aims to facilitate research in anthropology, archaeology, and forensic science. The EgyptianSkulls dataset allows for the exploration and analysis of morphological variations among ancient Egyptian populations and the examination of potential historical population dynamics.

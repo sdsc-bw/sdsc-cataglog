@@ -1,0 +1,3 @@
+name: dgf_96f4164d-956d-4c1c-b161-68724eb0ccdc
+dataset_id: 43035.0
+description: The dataset "dgf_96f4164d-956d-4c1c-b161-68724eb0ccdc" contains information related to the distribution of funding for doctoral and graduate training programs. It includes data on the number of students, the total funding amount, and the funding agency for each program. The dataset covers a specific time period and includes information from different countries. The data can be used to analyze trends in funding distribution, compare funding between countries or agencies, and assess the effectiveness of funding programs. It provides valuable insights into the allocation of resources for supporting doctoral and graduate education globally.

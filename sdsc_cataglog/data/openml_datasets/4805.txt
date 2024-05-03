@@ -1,0 +1,3 @@
+name: mildew_10
+dataset_id: 45163.0
+description: The dataset mildew_10 contains information about the mildew disease on 10 different crops. It includes measurements of various factors such as humidity, temperature, and wind speed, as well as the severity of the disease. The data was collected over a period of several weeks and is categorized by crop type. Each observation in the dataset represents a specific instance of the disease on a particular crop at a specific time point. This dataset provides valuable insights into the environmental conditions and disease patterns that contribute to the spread and severity of mildew in agricultural settings.

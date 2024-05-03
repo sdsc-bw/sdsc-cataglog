@@ -1,0 +1,3 @@
+name: polish-bankruptcy-3-year
+dataset_id: 42985.0
+description: The polish-bankruptcy-3-year dataset includes financial information of Polish companies in the three years leading up to their bankruptcy, as well as a final bankruptcy label indicating if the company ultimately filed for bankruptcy or not. The dataset contains 43405 instances with 64 attributes. It provides insight into the financial health of companies and factors that could lead to bankruptcy. Some of the attributes include liquidity, profitability, solvency, capital structure, asset turnover, and more. This dataset can be used for predictive modeling to develop bankruptcy prediction models and assist in understanding the financial risks associated with companies in Poland.

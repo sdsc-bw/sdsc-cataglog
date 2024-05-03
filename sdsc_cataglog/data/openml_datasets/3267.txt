@@ -1,0 +1,3 @@
+name: HMEQ_Data
+dataset_id: 43337.0
+description: HMEQ_Data is a dataset that contains information about home equity loans. It consists of 5,960 observations and 13 variables. The dataset includes details such as the loan status, the original loan amount, the loan-to-value ratio, the number of months since the loan originated, the interest rate, the borrower's credit score, and more. Missing values are present in some of the variables. This dataset can be used for analyzing and predicting the likelihood of loan default and understanding the factors that contribute to it.

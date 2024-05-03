@@ -1,0 +1,3 @@
+name: transplant
+dataset_id: 544.0
+description: The dataset "transplant" contains information about the organ transplant procedures performed at a hospital. It includes details such as the patient's age, gender, medical condition, organ being transplanted, and the outcome of the procedure. The dataset also provides information on the number of donor organs available, the waiting time for patients, and any complications that occurred during or after the transplant. The dataset is a valuable resource for researchers and healthcare professionals studying organ transplant outcomes, patient demographics, and factors affecting the success of the procedure. The data can help in improving transplantation practices and patient care.

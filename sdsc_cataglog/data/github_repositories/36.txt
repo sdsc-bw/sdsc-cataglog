@@ -1,0 +1,3 @@
+repo_name: DecisionTreeRules
+link: https://github.com/teco-kit/DecisionTreeRules
+description: DecisionTreeRules is a module that enables users to extract and modify the rules from a decision tree. It provides methods to extract rules from a decision tree and to calculate precision and recall for datasets other than the training dataset. The module also offers methods to cut and modify the rules of the tree. Users can contact gregor.schindler@student.kit.edu for any questions or annotations.

@@ -1,0 +1,3 @@
+name: ESL
+dataset_id: 1035.0
+description: The dataset ESL, or the European Social Survey, is a comprehensive cross-national survey conducted every two years to collect data on various social indicators in Europe. It aims to provide a reliable source of up-to-date information for researchers, policymakers, and other stakeholders. This dataset covers a wide range of topics, including demographics, education, employment, income, health, and subjective well-being. It includes data from around 30 European countries and is designed to be representative of the population at a national level. The ESL dataset is publicly available and offers valuable insights into European societies for sociological, demographic, and political analysis.

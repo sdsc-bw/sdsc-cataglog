@@ -1,0 +1,3 @@
+name: QSAR-TID-11199
+dataset_id: 3485.0
+description: The dataset QSAR-TID-11199 contains information about the biological activity of certain compounds. It consists of 110 compounds in total, each described by 151 molecular descriptors and labeled as active or inactive based on their biological activity. The dataset also includes additional information, such as the compound's CAS number and name. This dataset can be used for various tasks in cheminformatics and drug discovery, such as building predictive models to identify potentially active compounds. The dataset is publicly available and can be accessed for research purposes.

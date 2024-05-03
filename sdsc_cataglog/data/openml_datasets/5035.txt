@@ -1,0 +1,3 @@
+name: web_questions
+dataset_id: 45574.0
+description: The dataset "web_questions" is a collection of questions and corresponding answers generated from the Google Suggest API and Freebase knowledge graph. It consists of more than 5,400 question-answer pairs pertaining to a wide range of topics. Each question is represented as a natural language query, and the corresponding answer is obtained from the Freebase knowledge graph. The dataset is primarily utilized for question answering tasks and natural language understanding research. It is instrumental in evaluating various machine learning models and algorithms for question answering systems and developing techniques to improve their performance on real-world data.

@@ -1,0 +1,3 @@
+name: chscase_census5
+dataset_id: 906.0
+description: The dataset chscase_census5 involves information regarding various demographic and socioeconomic factors obtained from the United States Census data. It covers a diverse range of topics, including population density, age distribution, race and ethnicity proportions, employment status, educational attainment, and household income. The dataset aims to provide a comprehensive understanding of these factors at a granular level, including data for individual states, counties, and cities across the United States. This dataset can be valuable for researchers, policymakers, and analysts interested in studying the socioeconomic landscape, identifying patterns, and making data-driven decisions at different geographical levels.

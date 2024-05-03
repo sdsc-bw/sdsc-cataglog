@@ -1,0 +1,3 @@
+name: sleuth_case1102
+dataset_id: 661.0
+description: The dataset sleuth_case1102 consists of information collected during a criminal investigation. It includes various types of data, such as audio recordings, text messages, photographs, and documents. The dataset contains evidence related to a specific case, allowing investigators to analyze and draw conclusions. It also includes metadata that provides additional context, such as timestamps and location information. The dataset is comprehensive and provides a rich source of information for solving the crime. It can be used by forensic experts, law enforcement agencies, and researchers to uncover vital details and gain insights into the case.

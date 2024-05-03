@@ -1,0 +1,3 @@
+repo_name: jpmml-sklearn
+link: https://github.com/jpmml/jpmml-sklearn
+description: JPMML-SkLearn is a Java library and command-line application for converting Scikit-Learn pipelines to PMML. It supports various packages including mlxtend, category_encoders, h2o, imblearn, lightgbm, pycaret, sklego, sklearn2pmml, statsmodels, and tpot. The workflow involves loading data to a pandas.DataFrame object, creating feature engineering and selection objects, creating an Estimator object, combining the objects into a PMMLPipeline, and running the experiment. JPMML-SkLearn is licensed under the GNU Affero General Public License, but a licensing agreement is available to use it under the BSD 3-Clause License. It is developed and maintained by Openscoring Ltd, Estonia.

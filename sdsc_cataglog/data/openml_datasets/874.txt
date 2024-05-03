@@ -1,0 +1,3 @@
+name: AP_Breast_Uterus
+dataset_id: 1148.0
+description: The dataset AP_Breast_Uterus contains information about breast and uterus specimens from patients who underwent surgery at a hospital. It includes various attributes such as age, menopause status, tumor size, surgery type, and lymph node status. The data was collected to investigate the relationship between these factors and the presence of malignant tumors. The samples were taken from a diverse range of patients over a period of time. The dataset has a total of 564 instances and includes both categorical and numerical variables. This dataset is valuable for studying the factors contributing to breast and uterus cancer and developing prediction models for early detection.

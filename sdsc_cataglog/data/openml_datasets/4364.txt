@@ -1,0 +1,3 @@
+name: albert_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44542.0
+description: The dataset albert_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows with 100 columns and 10 classes. It is stratified, meaning that the distribution of the classes in the dataset is representative of the overall population. This dataset can be used for various purposes, such as machine learning tasks, data analysis, or statistical modeling. It provides a structured and organized set of data points with diverse classes, allowing researchers and practitioners to explore patterns, relationships, or make predictions. Its predetermined settings make it suitable for experimentation and analysis in various fields.

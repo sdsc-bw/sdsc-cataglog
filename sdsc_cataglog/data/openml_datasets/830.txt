@@ -1,0 +1,3 @@
+name: lymphoma_2classes
+dataset_id: 1101.0
+description: The dataset lymphoma_2classes contains gene expression data for predicting the two classes of lymphoma, namely the diffuse large B-cell lymphoma (DLBCL) and follicular lymphoma (FL). It consists of 4026 gene expression measurements from microarray experiments, with 3846 genes identified. The data also includes the intensity values for each gene in both classes, along with clinical information such as the age, sex, and stage of the patients. The dataset aims to provide a comprehensive set of gene expression data for classification purposes and to aid in understanding the genetic variations associated with lymphoma subtypes.

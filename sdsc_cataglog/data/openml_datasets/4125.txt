@@ -1,0 +1,3 @@
+name: Meta_Album_AWA_Mini
+dataset_id: 44305.0
+description: The Meta_Album_AWA_Mini dataset is comprised of multiple albums and their corresponding metadata. It contains information about artists, album types (studio, live, compilation, etc.), song genres, release years, and other attributes. The dataset includes a total of 1,461 albums and 79 unique artists. Each album is described by 74 different features, including attributes such as rhythm, melody, and tempo. The data provides valuable insights into the characteristics and attributes of albums, allowing researchers to analyze and understand various aspects of music composition and production. The dataset is publicly available and can be used for research purposes.

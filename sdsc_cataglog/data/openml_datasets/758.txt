@@ -1,0 +1,3 @@
+name: ipums_la_99-small
+dataset_id: 1018.0
+description: The dataset ipums_la_99-small provides information about individuals in Laos who were surveyed in 1999. It includes variables such as age, sex, education level, occupation, income, and household characteristics. The dataset is a smaller version of the original ipums_la_99 dataset, which contains a larger sample size. The ipums_la_99-small dataset is useful for researchers and analysts who need a manageable subset of data for their analysis. It allows for exploration and investigation of various socio-economic factors and their correlations within the specific context of Laos in 1999.

@@ -1,0 +1,3 @@
+name: QSAR-TID-19904
+dataset_id: 3106.0
+description: The dataset QSAR-TID-19904 is a collection of chemical compounds with their corresponding toxicity information. It contains 1055 instances, where each instance has 1024 attributes. The dataset is organized into two classes, toxic and non-toxic compounds. The goal of this dataset is to develop a model that can accurately predict the toxicity of unknown compounds based on their chemical properties. The dataset is publicly available and can be used for various toxicology studies and machine learning experiments.

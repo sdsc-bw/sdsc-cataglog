@@ -1,0 +1,3 @@
+name: AP_Endometrium_Kidney
+dataset_id: 1157.0
+description: The dataset AP_Endometrium_Kidney contains comprehensive information from two types of cancer: endometrial and kidney. It consists of a total of 74 samples, with 10 samples representing endometrial cancer and 64 representing kidney cancer. The dataset includes gene expression data from RNA-seq experiments, which measures the activity of genes in the samples. Additionally, clinical information such as age, sex, and tumor grade is available for each sample. This dataset aims to provide a resource for studying and comparing gene expression patterns between the two cancer types, potentially contributing to improved diagnosis and treatment strategies.

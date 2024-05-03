@@ -1,0 +1,3 @@
+name: QSAR-TID-101612
+dataset_id: 3825.0
+description: The dataset QSAR-TID-101612 is used for drug discovery and contains information about chemical compounds. It comprises 3,935 instances, each with 100 molecular descriptors and a binary target attribute indicating the compound's potential to inhibit the enzyme thrombin. The dataset was obtained from the University of California Irvine Machine Learning Repository and is suitable for regression analysis. The molecular descriptors provide information on the physical properties and chemical structure of the compounds. The dataset is commonly used to develop and evaluate predictive models for thrombin inhibition, which can aid in the discovery and development of potential drugs.

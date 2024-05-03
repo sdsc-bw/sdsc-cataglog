@@ -1,0 +1,3 @@
+name: fri_c3_250_25
+dataset_id: 832.0
+description: The dataset fri_c3_250_25 contains information about a set of 250 Facebook users and their network connections. Each user is represented by a unique ID and has 25 friends in their network. The dataset includes the timestamp of when the friendship was formed, along with additional attributes such as the user's age, gender, location, and relationship status. The data can be used to analyze various aspects of social networks, such as friendship formation patterns, network dynamics over time, and demographic distributions. It provides a valuable resource for studying and understanding online social interactions and behaviors on the Facebook platform.

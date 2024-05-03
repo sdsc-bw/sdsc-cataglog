@@ -1,0 +1,3 @@
+name: QSAR-TID-101613
+dataset_id: 3894.0
+description: The dataset QSAR-TID-101613 focuses on the quantitative structure-activity relationship (QSAR) analysis for predicting the toxicity of chemical compounds. It contains data from 106 compounds tested on rats and is divided into training and test sets. The compounds' features include molecular descriptors and constitutional descriptors. The dataset also provides the experimental toxicity values for each compound, such as the lethal dose (LD50) and no observed effect concentration (NOEC). This dataset allows researchers to develop QSAR models to predict the toxicity of new chemical compounds and aid in the identification of potentially harmful substances for further testing.

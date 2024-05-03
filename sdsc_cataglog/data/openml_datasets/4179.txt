@@ -1,0 +1,3 @@
+name: credit_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44360.0
+description: The dataset credit_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset with 2000 rows and 100 columns. It has 10 classes and uses stratification for sampling the data. The dataset focuses on credit-related information and is likely related to credit scoring or analysis. It may contain various features such as age, income, credit history, and loan details. The dataset's purpose could be to train machine learning models or perform statistical analysis related to credit. The stratified sampling technique ensures an even representation from each class in the dataset, which helps avoid bias in the analysis or model training.

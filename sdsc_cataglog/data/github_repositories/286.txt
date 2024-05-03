@@ -1,0 +1,3 @@
+repo_name: Integrated-Gradients
+link: https://github.com/ankurtaly/Integrated-Gradients
+description: Integrated Gradients is a method used to attribute the prediction of a deep network to its input features, applicable to a variety of deep models. It requires no modification to the original network, is simple to implement, and has various applications from aiding developers in debugging to giving users some transparency into the reason for a network's prediction. The method was introduced in a paper titled "Axiomatic Attribution for Deep Networks" by Mukund Sundararajan, Ankur Taly, and Qiqi Yan in 2017, and code for implementing integrated gradients for networks with image inputs is available in a GitHub repository.

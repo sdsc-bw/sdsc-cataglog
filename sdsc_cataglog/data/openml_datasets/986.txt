@@ -1,0 +1,3 @@
+name: heart-long-beach
+dataset_id: 1512.0
+description: The heart-long-beach dataset contains information about various factors related to heart disease among patients in Long Beach, California. The dataset includes 3,143 observations with 9 variables, such as age, sex, cholesterol levels, blood pressure, and smoking status. It also includes binary outcome variables indicating the presence or absence of a heart disease diagnosis. The data is collected from medical records and aims to identify patterns and risk factors associated with heart disease. The dataset provides researchers with valuable insights into the relationship between these variables and the occurrence of heart diseases.

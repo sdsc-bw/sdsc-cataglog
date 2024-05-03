@@ -1,0 +1,3 @@
+name: autoMpg
+dataset_id: 42372.0
+description: The autoMpg dataset provides information on the fuel efficiency of various cars. It includes data on the number of cylinders, displacement, horsepower, weight, acceleration, model year, origin, and the MPG (miles per gallon) of the cars. The dataset contains a total of 398 observations. One variable of particular interest is the MPG, as it represents the main outcome variable for fuel efficiency analysis. The dataset also includes categorical variables like origin, representing the country of origin for each car (USA, Europe, or Japan). This dataset is frequently used for regression modeling and other analyses related to fuel efficiency and car performance.

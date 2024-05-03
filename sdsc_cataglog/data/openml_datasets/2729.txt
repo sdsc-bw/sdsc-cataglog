@@ -1,0 +1,3 @@
+name: hmeq_p
+dataset_id: 42107.0
+description: The dataset hmeq_p contains information about home equity line of credit (HELOC) borrowers. It consists of 4,500 observations and 12 variables including demographic information such as age, race, and sex, as well as financial data like the loan-to-value (LTV) ratio, debt-to-income (DTI) ratio, and credit score. The response variable in this dataset is whether the borrower experienced a loan default or not. The dataset includes both numerical and categorical data, with missing values in some variables. The objective of analyzing this dataset is to predict loan defaults based on the given variables, which can be helpful for risk assessment and decision-making in the lending industry.

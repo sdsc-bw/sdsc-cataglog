@@ -1,0 +1,3 @@
+name: FOREX_eurhkd-hour-Close
+dataset_id: 41799.0
+description: The dataset FOREX_eurhkd-hour-Close contains hourly closing prices for the foreign exchange rate between the Euro (EUR) and the Hong Kong Dollar (HKD). It includes a record of the closing prices for different hours, indicating the exchange rate at that time. The dataset provides insights into the fluctuation of the EUR-HKD exchange rate over a specified period. It allows analysis and identification of patterns, trends, and possible correlations with other factors. The data is useful for financial professionals focusing on the EUR-HKD market and those interested in studying currency exchange dynamics.

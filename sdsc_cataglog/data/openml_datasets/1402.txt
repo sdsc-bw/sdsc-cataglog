@@ -1,0 +1,3 @@
+name: QSAR-TID-17021
+dataset_id: 3381.0
+description: QSAR-TID-17021 is a dataset that consists of 4710 chemical compounds with their corresponding 1024-dimensional molecular descriptors. It was created for Quantitative Structure-Activity Relationship (QSAR) modeling. The compounds in this dataset are classified as either active or inactive based on their biological activity. The molecular descriptors were calculated using Dragon 7.0 software, which considers various properties of the compounds such as topological, electrostatic, and quantum-chemical features. This dataset can be used for developing predictive models to determine the activity of chemical compounds and to explore the relationship between molecular descriptors and bioactivity.

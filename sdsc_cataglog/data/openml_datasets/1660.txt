@@ -1,0 +1,3 @@
+name: QSAR-TID-102578
+dataset_id: 3643.0
+description: The dataset QSAR-TID-102578 contains a collection of 551 molecules with their respective binary outcome labels indicating whether they are toxic or non-toxic. The molecules are represented by 17 molecular descriptors, including atomic and geometric attributes, along with topological and quantum-chemical indices. Furthermore, the dataset also includes an additional parameter indicating the experimental bioconcentration factor of each molecule. The goal of this dataset is to develop a predictive model to accurately classify molecules based on their toxicity.

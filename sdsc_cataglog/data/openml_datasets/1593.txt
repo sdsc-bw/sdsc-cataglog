@@ -1,0 +1,3 @@
+name: QSAR-TID-262
+dataset_id: 3578.0
+description: The QSAR-TID-262 dataset is used for predicting toxicity levels of chemicals. It includes molecular descriptors as features to represent the chemical compounds, as well as the corresponding toxic concentrations. The dataset consists of 262 instances in total, with each instance having 513 molecular descriptors. The toxicity levels are classified into three classes: high, as high toxic; medium, as moderately toxic; and low, as low toxic. The dataset is commonly used for developing machine learning models and algorithms to predict the toxicity of chemical compounds accurately and efficiently for various applications in the pharmaceutical and chemical industries.

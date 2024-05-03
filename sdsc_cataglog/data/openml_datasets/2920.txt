@@ -1,0 +1,3 @@
+name: Ishwar
+dataset_id: 42575.0
+description: The dataset Ishwar contains anonymized data from a mobile app used by university students that helped them monitor their mental health and improve their well-being. The dataset includes various information such as demographics, usage patterns, and self-reported mental health scores. It also comprises sensor data from the students' smartphones, such as accelerometer and location data. The purpose of this dataset is to enable research on mental health and well-being, particularly focusing on the relationship between mobile app usage patterns and mental health outcomes. The dataset is anonymized and provides valuable insights for designing interventions and understanding mental health patterns among university students.

@@ -1,0 +1,3 @@
+name: wine_quality
+dataset_id: 44136.0
+description: The dataset "wine_quality" consists of 12 variables related to the quality rating of different types of wine. It contains information about the physicochemical properties of the wines, such as acidity levels, residual sugar, alcohol content, and density. The quality of the wine is rated on a scale from 0 to 10. The dataset includes 1,599 observations and there are no missing values. The variables are a mix of numerical and categorical data. This dataset can be used for various analysis and modeling tasks related to wine quality prediction, exploring relationships between variables, or building a recommendation system.

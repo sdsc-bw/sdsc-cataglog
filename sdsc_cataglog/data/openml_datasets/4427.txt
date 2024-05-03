@@ -1,0 +1,3 @@
+name: cnae-9_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44606.0
+description: The dataset cnae-9_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True is characterized by certain specifications. It contains 2000 rows and has 10 different classes or categories. The dataset also contains 100 columns or features. The term "stratify" implies that the dataset has been divided into groups or strata based on some criteria, such as class labels. This technique is often used to ensure that the distribution of classes within the dataset is representative and balanced. Overall, the dataset appears to be relatively large and diverse, with a good number of classes and features.

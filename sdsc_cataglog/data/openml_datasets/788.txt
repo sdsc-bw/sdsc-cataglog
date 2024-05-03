@@ -1,0 +1,3 @@
+name: mc1
+dataset_id: 1056.0
+description: The dataset mc1 is a financial transaction dataset containing information about credit card transactions. It consists of over 17,000 records and 86 attributes, including transaction details such as transaction amount, account number, merchant code, and transaction date and time. It also includes categorical features like transaction type and merchant category code. The dataset was collected over a period of several months and covers transactions from different geographic regions. The main goal of using this dataset is to analyze and detect fraudulent transactions using machine learning algorithms.

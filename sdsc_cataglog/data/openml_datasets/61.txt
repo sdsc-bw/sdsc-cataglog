@@ -1,0 +1,3 @@
+name: molecular-biology_promoters
+dataset_id: 164.0
+description: The molecular-biology_promoters dataset consists of instances representing promoter regions in DNA sequences. It contains 106 instances, with 57 positive samples and 49 negative samples. Each instance has 58 attributes, including the sequences of nucleotides and features indicating the presence or absence of certain elements. The task is to find a predictive model that can distinguish between promoter and non-promoter sequences based on these features. The dataset has been used in previous studies for classification using machine learning algorithms. However, it is worth noting that the dataset contains missing data, making it necessary to handle missing values appropriately during analysis.

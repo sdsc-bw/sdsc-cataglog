@@ -1,0 +1,3 @@
+name: QSAR-TID-10304
+dataset_id: 3565.0
+description: The dataset QSAR-TID-10304 contains information about the biological activities of various chemical compounds. It consists of 1,500 instances, each with 41 input features and one output variable. The input features include molecular descriptors, such as bond counts and atomic composition, while the output variable represents the activity of the compound, ranging from 0 to 1. The dataset was created using a combination of quantum chemical calculations and machine learning methods. It aims to aid in the development of models that can predict the activity of chemical compounds, which could have implications in drug discovery and toxicology studies.

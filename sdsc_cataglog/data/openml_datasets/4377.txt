@@ -1,0 +1,3 @@
+name: vehicle_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44555.0
+description: The dataset vehicle_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset with 2000 rows, 10 classes, and 100 columns. It is stratified, meaning that the class proportions are maintained. The dataset likely contains information about vehicles, with each row representing a different vehicle. The classes could refer to different types or categories of vehicles. The dataset has been structured to ensure an equal distribution of classes, which is beneficial for classification tasks. With 100 columns, the dataset likely includes various features or attributes of the vehicles for analysis and modeling purposes.

@@ -1,0 +1,3 @@
+name: adult_income_p
+dataset_id: 42104.0
+description: The dataset adult_income_p provides information on various factors related to individuals and their annual income. It includes attributes such as age, work class, education level, marital status, occupation, and race among others. The data is collected from a sample of US residents aged between 16 and 85 years. The dataset consists of approximately 32,000 records and includes both continuous and categorical variables. It is commonly used for predictive modeling tasks, such as determining whether an individual earns more than $50,000 per year based on their characteristics. The dataset ensures anonymity and confidentiality of the participants' information.

@@ -1,0 +1,3 @@
+name: QSAR-TID-11848
+dataset_id: 3688.0
+description: The QSAR-TID-11848 dataset consists of 4,848 molecular structures and their corresponding chemical information. It is primarily used for Quantitative Structure-Activity Relationship (QSAR) studies, which aim to predict the biological activity of molecules based on their chemical properties. The dataset includes descriptors like molecular weight, number of atoms, topological charge indices, and more. It also contains binary activity outcomes indicating if a molecule is active or inactive against specific target proteins. This dataset is valuable for researchers in drug discovery and molecular modeling as it allows them to develop models and algorithms to predict the activity of new molecules.

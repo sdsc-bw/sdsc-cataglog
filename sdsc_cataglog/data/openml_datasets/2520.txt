@@ -1,0 +1,3 @@
+name: FOREX_eurtry-day-High
+dataset_id: 41785.0
+description: The FOREX_eurtry-day-High dataset contains information about the daily high values of the EUR/TRY currency pair in the foreign exchange market. The dataset likely includes numerous observations, with each observation representing the highest value reached by the EUR/TRY pair for a particular day. It is likely that the dataset spans a significant time period, allowing users to analyze the historical performance of the currency pair. The dataset can be utilized for various purposes, such as identifying trends, determining volatility levels, or conducting statistical analyses to make informed trading decisions in the EUR/TRY market.

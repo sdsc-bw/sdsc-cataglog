@@ -1,0 +1,3 @@
+name: FOREX_audchf-hour-Close
+dataset_id: 41888.0
+description: The dataset FOREX_audchf-hour-Close contains information on the closing price for the AUD/CHF currency pair in hourly intervals. It is likely that the dataset focuses on the foreign exchange market, specifically the Australian dollar and Swiss franc. The dataset includes a series of data points, indicating the closing price at different hours. The information provided can be useful for analyzing and understanding the trends and fluctuations in the AUD/CHF exchange rate. It may be utilized to develop trading strategies, forecast future movements, or conduct research on the relationship between these two currencies.

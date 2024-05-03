@@ -1,0 +1,3 @@
+name: desharnais
+dataset_id: 1117.0
+description: The dataset "desharnais" is a collection of software development effort data compiled by Desharnais et al. The dataset consists of 81 projects with various attributes, including lines of code, effort, and other metrics. The data was collected using different methods, such as interviews and questionnaires, from both industrial and academic projects. The goal of this dataset is to serve as a benchmark for effort prediction models and project management research. It has been widely used in the software engineering community for evaluating prediction models and exploring different factors influencing software development effort.

@@ -1,0 +1,3 @@
+name: Daily-Electricity-Price-and-Demand-Data
+dataset_id: 43805.0
+description: The Daily-Electricity-Price-and-Demand-Data dataset provides information on the price and demand of electricity on a daily basis. The dataset contains hourly data from various regions and countries, including the United States and other European countries. It includes data on the volume of electricity demanded, the price charged per kilowatt-hour, and additional information such as the day of the week and the time of the day. The dataset is updated regularly and can be used to analyze patterns in electricity consumption and pricing, as well as to understand the factors that influence electricity demand and pricing fluctuations.

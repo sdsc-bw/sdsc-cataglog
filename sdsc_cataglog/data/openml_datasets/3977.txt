@@ -1,0 +1,3 @@
+name: kdd_ipums_la_97-small
+dataset_id: 44115.0
+description: The dataset kdd_ipums_la_97-small provides information about labor market conditions in Los Angeles in 1997. It is a subset of a larger dataset and includes variables related to individuals' demographics, employment status, and income. The dataset is designed for easy analysis and includes a representative sample of the population. It contains information on a diverse range of workers, including both full-time and part-time employees. The data is organized in a structured format, allowing for efficient analysis and insight into labor market dynamics and inequality in Los Angeles during this time period.

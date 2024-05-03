@@ -1,0 +1,3 @@
+name: aloi
+dataset_id: 42396.0
+description: The dataset aloi contains information about a collection of 1000 images of objects from the ALOI database. Each image in the dataset is a 24-bit color image of size 27×27 pixels, resulting in a total of 729 attributes. The dataset consists of 72 attributes for each of the three color channels (R, G, and B). The images in the dataset represent a wide range of objects, including various metals, plastics, fabrics, and minerals. The dataset aims to serve as a benchmark or training dataset for machine learning algorithms to recognize and classify materials based on their spectral and spatial characteristics.

@@ -1,0 +1,3 @@
+name: ELE-2
+dataset_id: 42362.0
+description: The dataset ELE-2 contains information about the electrical power consumption of 47 residential households. It consists of 25,217 measurements of energy consumption made every minute over a period of almost four years. The dataset includes the date and time of each measurement, as well as the active and reactive power consumption, the voltage, and the current intensity. The main objective of collecting this data was to study energy usage patterns in residential homes and explore strategies for optimizing energy consumption. Researchers can use this dataset to analyze energy consumption patterns, develop energy management algorithms, and assess the impact of various factors on power consumption.

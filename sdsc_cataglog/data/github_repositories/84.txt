@@ -1,0 +1,3 @@
+repo_name: numpywren
+link: https://github.com/Vaishaal/numpywren
+description: numpywren is a scientific computing framework built on top of the serverless execution framework pywren. numpywren forgoes the traditional mpi.computational model for scientific computing workloads. Instead of dealing.with individual machines, host names, and processor grids numpywren works on.the abstraction of "cores" and "memory". numpywren currently uses Amazon EC2.and Lambda services for computation, and use Amazon S3 as a distributed memory.abstraction. Even with this coarse abstraction, numpywren can achieve close to.peak FLOPS and network IO for difficult workloads such as matrix multiply and.cholesky decomposition.

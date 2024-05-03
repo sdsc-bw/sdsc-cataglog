@@ -1,0 +1,3 @@
+name: Boston-Airbnb-Listings
+dataset_id: 43819.0
+description: The Boston-Airbnb-Listings dataset is a collection of data regarding Airbnb listings in the city of Boston. The dataset comprises 6,000+ entries with various attributes such as price, location, availability, and reviews. It also includes information on the accommodation type, host information, and details about the property itself. With the purpose of providing an insight into Boston's rental market, this dataset can be utilized to analyze factors impacting pricing, popular neighborhoods, and the overall demand for Airbnb rentals in the city. This dataset serves as a valuable resource for researchers and analysts interested in the Boston housing market and the Airbnb industry.

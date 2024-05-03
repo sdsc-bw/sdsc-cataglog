@@ -1,0 +1,3 @@
+name: fri_c0_500_25
+dataset_id: 926.0
+description: The dataset fri_c0_500_25 contains information related to friendship networks within a group of individuals. It includes 500 nodes or individuals, with each node having connections to an average of 25 other nodes. The dataset focuses specifically on the type of friendship relationships that exist among the individuals. Overall, it provides valuable insight into the structure and dynamics of social connections within a community, enabling researchers to study and analyze various social network phenomena.

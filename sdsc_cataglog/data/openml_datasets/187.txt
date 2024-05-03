@@ -1,0 +1,3 @@
+name: penning
+dataset_id: 425.0
+description: The dataset "penning" is a collection of records that contain information about various aspects related to penning, such as its history, manufacturing details, and usage. It comprises a diverse range of data points, including pen types, ink colors, pen materials, and designs, along with additional information on the brand, year of production, and price. The dataset provides valuable insights into the evolution of penning over time, highlighting trends, preferences, and changes in consumer behavior. It serves as a comprehensive resource for pen enthusiasts, researchers, and manufacturers, offering a comprehensive overview of the penning industry and its development.

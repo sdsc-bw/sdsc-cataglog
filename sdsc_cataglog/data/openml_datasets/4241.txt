@@ -1,0 +1,3 @@
+name: Higgs_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44419.0
+description: The dataset Higgs_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows and 100 columns. It has been stratified into 10 classes. The dataset is associated with the Higgs Boson particle and its interactions. It provides information about various attributes such as the momentum, energy, and other properties of these particles. The dataset is intended for analysis and modeling purposes, allowing researchers to explore the characteristics and behavior of the Higgs Boson particle in different contexts. This dataset can be used to train machine learning models that can identify and classify the particle, contributing to the field of particle physics research.

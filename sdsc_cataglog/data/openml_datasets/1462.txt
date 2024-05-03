@@ -1,0 +1,3 @@
+name: QSAR-TID-100433
+dataset_id: 3442.0
+description: The dataset QSAR-TID-100433 contains information on the toxicity of different compounds. It consists of 155 substances with 8 molecular descriptors. The molecular descriptors include features like minimum electronic spatial extent, hydrophobicity, and melting point. The toxicity values were measured using the Puchmajer method, which is a reliable experimental technique. The dataset aims to predict the toxicity of new substances based on their molecular properties. It is useful for researchers working in the field of drug discovery or chemical safety as it provides insights into the relationship between molecular structure and toxicity.

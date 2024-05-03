@@ -1,0 +1,3 @@
+name: ovarianTumour
+dataset_id: 1086.0
+description: The dataset "ovarianTumour" contains information regarding ovarian cancer tumors. It consists of 216 observations or samples and provides details about various attributes such as age, tumor size, tumor grade, and patient's survival status. The dataset also includes the status of the patient's surgical intervention, whether it was successful or not. It was collected from patients who underwent surgery and were diagnosed with ovarian tumors. This dataset is commonly used in research and analysis involving ovarian cancer, and it serves as a valuable resource in understanding the characteristics and outcomes of such tumors.

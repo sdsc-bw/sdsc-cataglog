@@ -1,0 +1,3 @@
+repo_name: voila
+link: https://github.com/voila-dashboards/voila
+description: Voilà turns Jupyter notebooks into standalone web applications. Unlike the usual HTML-converted notebooks, each user connecting to the Voilà tornado application gets a dedicated Jupyter kernel which can execute the callbacks to changes in Jupyter interactive widgets. Voilà can be installed with the mamba (or conda) package manager from conda-forge. To get started with using Voilà, check out the full documentation: https://voila.readthedocs.io/.

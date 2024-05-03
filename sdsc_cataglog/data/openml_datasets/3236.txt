@@ -1,0 +1,3 @@
+name: pair0003
+dataset_id: 43297.0
+description: Dataset pair0003 consists of two files - 'score1.csv' and 'score2.csv' - representing scores for the same set of individuals. 'score1.csv' contains scores assigned by one group of raters, while 'score2.csv' contains scores assigned by another group of raters. Both files have the same structure, with columns for the individual ID and the corresponding score. The purpose of this dataset is to compare the scores assigned by the two groups of raters and potentially identify any discrepancies or differences in their evaluations. It is a valuable resource for assessing inter-rater reliability and exploring potential biases or variations in the rating process between the different groups.

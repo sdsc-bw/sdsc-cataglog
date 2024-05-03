@@ -1,0 +1,3 @@
+name: Meta_Album_DOG_Micro
+dataset_id: 44313.0
+description: The dataset Meta_Album_DOG_Micro focuses on the microscopic examination of albumin in dogs. It contains information about various factors such as the age, sex, breed, and body weight of the dogs. The dataset also includes measurements of albumin levels in the dogs' urine. It is a comprehensive dataset that covers a wide range of dog breeds and ages, enabling researchers to analyze albumin levels in dogs of different characteristics. The dataset is valuable for studying albumin abnormalities in dogs and understanding the relationship between albumin levels and various factors in canine health.

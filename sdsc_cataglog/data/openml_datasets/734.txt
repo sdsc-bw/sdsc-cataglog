@@ -1,0 +1,3 @@
+name: vehicle
+dataset_id: 994.0
+description: The dataset "vehicle" contains information about various aspects of vehicles, such as their make, model, year of manufacture, fuel type, and body type. It includes a total of 50,000 entries, making it a comprehensive and diverse dataset for analysis. The dataset is suitable for different types of research and can provide valuable insights into the automotive industry. It can be used to analyze trends in vehicle characteristics, fuel efficiency, and market demand for different types of vehicles. The dataset is publicly available and can be accessed for free, making it accessible to researchers, analysts, and enthusiasts in the field.

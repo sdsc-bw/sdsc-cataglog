@@ -1,0 +1,3 @@
+name: fri_c1_500_5
+dataset_id: 870.0
+description: The dataset fri_c1_500_5 contains information about friendship networks in a community where each node represents a member of the community and each edge represents a friendship connection between two members. The dataset consists of 500 members and 5 attributes. These attributes include a person's age, gender, number of friends, number of friends who are members of a certain community, and an indicator for whether the person is a member of a certain organization. This dataset is valuable for studying social networks, friendships, and the characteristics of members within a community.

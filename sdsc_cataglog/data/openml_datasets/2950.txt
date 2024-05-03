@@ -1,0 +1,3 @@
+name: dataset_31_credit-g
+dataset_id: 42631.0
+description: The dataset named dataset_31_credit-g is about credit risk assessment. It contains information about individuals applying for credit, including their age, job, marital status, education, housing, and more. The dataset is in the form of a credit scoring model, where the target variable indicates whether an applicant is considered as a good or bad credit risk. The dataset has 1,000 instances and 21 attributes. It aims to predict credit risk for future loan applications. The attributes are a mix of categorical and numerical data. This dataset is commonly used for classification analysis and building credit risk models.

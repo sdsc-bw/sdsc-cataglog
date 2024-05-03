@@ -1,0 +1,3 @@
+name: road_safety
+dataset_id: 43068.0
+description: The dataset road_safety contains information about road accidents and casualties recorded by the police in Great Britain, from 1979 to 2019. It includes data on variables such as accident date and time, location, road type, speed limit, weather conditions, and many others. The data is collected in a consistent manner using the STATS19 system. This dataset is maintained by the Department for Transport and is publicly accessible for analysis and research purposes. It provides valuable insights and trends regarding road safety, enabling researchers to understand and propose measures to reduce accidents and casualties on British roads.

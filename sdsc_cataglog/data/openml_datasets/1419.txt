@@ -1,0 +1,3 @@
+name: QSAR-TID-20032
+dataset_id: 3399.0
+description: The QSAR-TID-20032 dataset consists of 1,754 small molecules with their corresponding logS values. The logS value represents the logarithm of the aqueous solubility of the molecule, which is a crucial property for drug discovery. The dataset contains various molecular descriptors, including 40 computed properties and the calculated logS value. It provides valuable information for predicting the solubility of compounds, aiding in the development of new drugs. Additionally, the dataset exhibits a diverse range of structures, ensuring its suitability for diverse applications in the field of drug design and predictive modeling.

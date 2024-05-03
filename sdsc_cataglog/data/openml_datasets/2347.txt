@@ -1,0 +1,3 @@
+name: cwurData
+dataset_id: 41190.0
+description: The dataset cwurData contains information about universities around the world, ranking them based on various criteria. It includes data on the number of publications, quality of education, alumni employment, and influence of faculty. The data spans multiple years and provides a comprehensive overview of over 1,000 universities worldwide. The dataset also includes information on country and region classification, allowing for easy analysis based on geographical factors. It provides an opportunity to explore and compare universities across different rankings and dimensions, making it valuable for researchers, policymakers, and students interested in higher education.

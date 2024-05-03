@@ -1,0 +1,3 @@
+name: QSAR-TID-103037
+dataset_id: 4083.0
+description: The dataset QSAR-TID-103037 consists of 1,540 compounds with molecular structures and their corresponding activity against a specific target protein. The compounds were tested for their inhibitory activity, represented by their IC50 values. Additional data includes 2D and 3D molecular descriptors calculated for each compound. The aim of this dataset is to study the relationship between the molecular structure and inhibitory activity. The dataset also provides information on the class of compounds (active or inactive) based on the threshold cutoff value of 50 nM. QSAR models can be developed using this dataset to predict the inhibitory activity of new compounds.

@@ -1,0 +1,3 @@
+name: Chernobyl-Air-Concentration
+dataset_id: 43803.0
+description: The Chernobyl-Air-Concentration dataset contains measurements of airborne radioactive particles following the 1986 Chernobyl nuclear disaster. The data was collected over a period of several weeks after the incident, and it provides information on the concentrations of different radioactive isotopes in the air. The dataset includes measurements from various locations near the Chernobyl nuclear power plant, as well as from more distant locations in Europe. The data is valuable for studying the spread and deposition of radioactive materials, as well as assessing the potential health risks associated with the Chernobyl disaster.

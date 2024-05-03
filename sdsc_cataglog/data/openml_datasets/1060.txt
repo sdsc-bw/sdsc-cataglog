@@ -1,0 +1,3 @@
+name: poker
+dataset_id: 1595.0
+description: The poker dataset is derived from a popular card game and contains information on individual poker hands. It consists of 10 different hand categories ranging from the lowest-ranked (high card) to the highest-ranked (royal flush). Each hand is represented by a series of five playing cards, with attributes such as suit and rank. The dataset also includes the target variable, which indicates the category each hand belongs to. It was created to aid in machine learning research and model development. The dataset offers an opportunity to analyze the relationship between individual card attributes and hand rankings in poker.

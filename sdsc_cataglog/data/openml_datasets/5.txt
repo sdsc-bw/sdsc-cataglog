@@ -1,0 +1,3 @@
+name: audiology
+dataset_id: 7.0
+description: The audiology dataset is a collection of information regarding individuals with hearing impairments. It includes various attributes such as age, gender, and test results for different frequencies and ear types. The dataset aims to provide valuable insights into hearing impairments and help researchers determine patterns and potential treatment methods. With a total of 198 instances and 69 features, the audiology dataset serves as a valuable resource for research and analysis in the field of audiology. Additionally, it can also be utilized for machine learning algorithms and model training to develop effective predictive or diagnostic systems for hearing impairments.

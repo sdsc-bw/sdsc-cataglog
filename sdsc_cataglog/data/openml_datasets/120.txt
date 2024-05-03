@@ -1,0 +1,3 @@
+name: Ailerons
+dataset_id: 296.0
+description: The Ailerons dataset is a collection of data related to the control inputs and the resulting roll rate of an aircraft. It consists of five inputs and 12 output variables. The inputs include the two aileron positions, two elevators, and one rudder position. The outputs comprise measurements such as the roll rate, yaw rate, lift coefficient, and sideslip angle, among others. The data was collected from a model aircraft flying in a wind tunnel, with various combinations of control inputs. The dataset aims to provide a comprehensive understanding of the aircraft's response to control inputs for control system design and analysis purposes.

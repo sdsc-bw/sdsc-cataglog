@@ -1,0 +1,3 @@
+name: robot-failures-lp2
+dataset_id: 1517.0
+description: The dataset "robot-failures-lp2" contains information about failures that occurred in a robot manufacturing process. It includes 88 observations and 15 variables. The variables represent different aspects of the robot's behavior, such as the number of failures, the type of robot, and the time between failures. The dataset is provided in a spreadsheet format and is publicly available. The purpose of this dataset is to analyze the failure patterns and identify potential improvements in the manufacturing process. It can be used by researchers, engineers, and manufacturers interested in studying and minimizing failures in robotic systems.

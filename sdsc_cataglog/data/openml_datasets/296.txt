@@ -1,0 +1,3 @@
+name: boston_corrected
+dataset_id: 543.0
+description: The dataset boston_corrected is a modified version of the original Boston Housing dataset. It comprises 506 rows and 19 columns with various attributes. The target variable is the median value of owner-occupied homes in thousands of dollars. Some of the features include crime rate, residential land zone area, proportion of non-retail business acres, average number of rooms per dwelling, weighted distances to five Boston employment centers, and more. The dataset has been corrected for a few inconsistencies found in the original dataset. Overall, boston_corrected is a valuable resource for studying the housing market in Boston and developing predictive models.

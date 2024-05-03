@@ -1,0 +1,3 @@
+name: QSAR-TID-102815
+dataset_id: 3709.0
+description: The QSAR-TID-102815 dataset is a publicly available dataset used for quantitative structure-activity relationship (QSAR) analysis. It contains information about 1,085 compounds and their inhibitory activity towards thymidine kinase, an enzyme involved in DNA synthesis. The dataset includes 41 molecular descriptors that describe various chemical properties of the compounds. Each compound is labeled to indicate its inhibitory activity, making it suitable for classification tasks. This dataset is often used for developing QSAR models to predict the inhibitory activity of new compounds. The dataset is freely accessible and has been widely used in the field of chemoinformatics.

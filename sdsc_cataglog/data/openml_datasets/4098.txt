@@ -1,0 +1,3 @@
+name: Meta_Album_AWA_Micro
+dataset_id: 44275.0
+description: The dataset called Meta_Album_AWA_Micro consists of information on albums from the AllMusic website. It includes various attributes such as album title, artist name, genre, release year, length, and ratings. The dataset comprises 2000 albums and 11 features, with each album having an average of 9 ratings. The features are categorized into three groups: basic information, historical album ratings, and historical track ratings. Each rating is represented by the rating value and the number of votes received. The dataset aims to provide a comprehensive understanding of album attributes and ratings for further analysis and research on music recommendation systems.

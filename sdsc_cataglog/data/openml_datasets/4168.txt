@@ -1,0 +1,3 @@
+name: credit_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44349.0
+description: The dataset "credit_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns. It is stratified into 10 different classes. The purpose of this dataset is to analyze credit-related information. It potentially includes variables like credit scores, payment history, and debt levels. It is designed to provide insights into creditworthiness and financial behavior. The dataset follows a stratified sampling technique to ensure representative samples from each class. It can be used for various analyses, such as predicting credit risk or identifying patterns in credit behavior across different classes.

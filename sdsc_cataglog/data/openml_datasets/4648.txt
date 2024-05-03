@@ -1,0 +1,3 @@
+name: QSAR_TID_11
+dataset_id: 44988.0
+description: The dataset QSAR_TID_11 contains information about the binding affinity of various compounds towards the target protein Tid1. It has 900 observations and 16 features, including molecular descriptors representing the chemical properties of the compounds. The target variable in this dataset is the binding affinity, measured on a continuous scale. The dataset was collected using quantitative structure-activity relationship (QSAR) methods, which predict the biological activity of compounds based on their chemical structure. QSAR_TID_11 is used for machine learning and statistical analysis to develop models that can accurately predict the binding affinities of new compounds towards Tid1.

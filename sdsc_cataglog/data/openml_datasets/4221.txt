@@ -1,0 +1,3 @@
+name: Meta_Album_MD_MIX_Mini
+dataset_id: 44287.0
+description: The dataset Meta_Album_MD_MIX_Mini is a collection of music albums with metadata. It consists of a wide range of genres including rock, pop, hip hop, and jazz. The albums are from various artists and contain a mix of popular and lesser-known tracks. The dataset also includes information about the album's release date, duration, and number of tracks. It is a smaller version of the larger dataset Meta_Album_MD_MIX and is suitable for tasks requiring a reduced volume of data. Researchers and music enthusiasts can utilize this dataset for studying trends, creating recommendation systems, or analyzing music preferences.

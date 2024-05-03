@@ -1,0 +1,3 @@
+name: fri_c2_100_25
+dataset_id: 655.0
+description: The dataset fri_c2_100_25 contains information about a social network of 100 participants and 25 features. It is a friendship dataset that captures the connections between individuals and provides additional details about them. Each participant is represented by their ID and has attributes such as age, gender, education level, and relationship status. The dataset provides information on friendship links between participants, indicating the pairings of individuals who have established a friendship. It serves as a valuable resource for analyzing social network dynamics, studying friendship formation, and understanding the characteristics of interconnected individuals within a community.

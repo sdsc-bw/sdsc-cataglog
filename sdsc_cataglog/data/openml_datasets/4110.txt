@@ -1,0 +1,3 @@
+name: Meta_Album_RESISC_Mini
+dataset_id: 44290.0
+description: The dataset Meta_Album_RESISC_Mini consists of 1,941 satellite images covering different types of landscapes including urban areas, agricultural land, forest, and water bodies. These images have a spatial resolution of 30 meters and cover areas around the world. The dataset was created for the purpose of land use and land cover classification tasks, and includes multiple classes of land cover such as buildings, roads, trees, and water bodies. The dataset is relatively small in size compared to other similar datasets, making it suitable for training and testing machine learning models in the field of remote sensing and image analysis.

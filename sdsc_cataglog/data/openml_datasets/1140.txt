@@ -1,0 +1,3 @@
+name: QSAR-TID-30000
+dataset_id: 3116.0
+description: The dataset QSAR-TID-30000 comprises 30,000 observations with 1,027 molecular descriptors for each compound. Each observation is labeled as either active or inactive based on its biological activity. The dataset was originally created to develop predictive models for the identification of active compounds. It contains diverse chemical structures, including non-isomorphic compounds. The data is publicly available and has been widely used in studies related to drug discovery, machine learning, and chemoinformatics. The dataset provides valuable information to researchers in the field for the development of new drugs and the optimization of molecular properties.

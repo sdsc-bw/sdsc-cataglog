@@ -1,0 +1,3 @@
+name: QSAR-TID-275
+dataset_id: 3210.0
+description: QSAR-TID-275 is a dataset that contains information on 275 chemical compounds. Each compound is represented by 41 different molecular descriptors, such as molecular weight, logP (octanol-water partition coefficient), and polarizability. The dataset aims to predict the toxicological hazard of these compounds based on their molecular characteristics. The compounds are labeled with a binary outcome variable indicating whether they are toxic (1) or non-toxic (0). The dataset is often used in the field of quantitative structure-activity relationship (QSAR) modeling to develop predictive models for toxicology.

@@ -1,0 +1,3 @@
+name: QSAR-TID-136
+dataset_id: 3164.0
+description: The QSAR-TID-136 dataset is a collection of chemical compounds and their associated biological activities. It contains information on 136 compounds, including their chemical structures, physicochemical properties, and biological activities. The biological activity data is categorized into three classes: active, moderate, and inactive, representing the level of activity exhibited by each compound. The dataset also includes additional descriptors such as molecular weight, hydrogen bond donor count, and logP value. This dataset can be used to develop quantitative structure-activity relationship (QSAR) models to predict the biological activities of new compounds, aiding in drug discovery and development.

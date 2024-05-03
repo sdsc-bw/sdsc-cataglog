@@ -1,0 +1,3 @@
+name: Adoptable-Dogs
+dataset_id: 43545.0
+description: The dataset Adoptable-Dogs contains information about dogs available for adoption. It includes attributes such as breed, age, gender, size, and location of the dog. The dataset also provides details about the dog's temperament, behavior, and medical history, including vaccinations and spay/neuter status. It includes both mixed breed and purebred dogs from various shelters and rescue organizations. The goal of the dataset is to assist potential adopters in finding the right dog for their home and to encourage pet adoption. The dataset is regularly updated to ensure accuracy and reflect the current availability of dogs for adoption.

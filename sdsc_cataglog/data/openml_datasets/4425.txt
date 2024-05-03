@@ -1,0 +1,3 @@
+name: cnae-9_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44604.0
+description: The dataset cnae-9_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2,000 rows and 10 classes, with each row having 100 columns. The dataset is stratified, meaning that the distribution of the classes is proportionate across the dataset. The dataset is likely related to the CNAE-9 Standard Industrial Classification, which categorizes economic activities. The dataset could potentially be utilized for tasks such as classification or clustering, where the objective is to analyze and group data based on its class or similarity.

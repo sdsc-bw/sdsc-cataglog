@@ -1,0 +1,3 @@
+name: covertype
+dataset_id: 44036.0
+description: The covertype dataset contains information regarding forest cover type for 30 x 30 meter cells obtained from US Forest Service Region 2 Resource Information System. It consists of 581,012 samples, each having 54 attributes including the cover type (7 classes), the variety of trees present, and the presence of wilderness areas, among others. The dataset aims to assist in predicting the cover type of trees based on the provided attributes. It serves as a valuable resource for researchers and professionals involved in forestry, land management, and environmental studies. The dataset has been widely used for classification and machine learning tasks.

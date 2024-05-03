@@ -1,0 +1,3 @@
+name: sf1
+dataset_id: 41488.0
+description: The dataset sf1 is a comprehensive collection of information containing demographic, social, economic, and housing data for the United States. It comprises data collected by the U.S. Census Bureau during the 2010 Decennial Census, covering over 200 different topics. The dataset includes detailed information about various population groups, such as age, sex, race, ethnicity, and educational attainment. It also provides insights into housing characteristics like occupancy status, tenure, and the number of rooms in a residence. The sf1 dataset serves as an essential resource for researchers, policymakers, and individuals interested in studying and analyzing the demographic and housing trends of the U.S. population.

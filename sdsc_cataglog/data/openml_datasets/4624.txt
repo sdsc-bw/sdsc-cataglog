@@ -1,0 +1,3 @@
+name: physiochemical_protein
+dataset_id: 44963.0
+description: The dataset physiochemical_protein contains information about the physiochemical characteristics of proteins from various sources. It includes 30 attributes, such as molecular weight, net charge, isoelectric point, and secondary structure percentage. The dataset consists of 45730 instances, each representing a different protein. The proteins come from various organisms, including humans, animals, and plants. The dataset is useful for protein research and can be used to analyze and compare the physiochemical properties of different proteins.

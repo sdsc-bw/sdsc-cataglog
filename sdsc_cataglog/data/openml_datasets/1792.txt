@@ -1,0 +1,3 @@
+name: QSAR-TID-88
+dataset_id: 3775.0
+description: The dataset QSAR-TID-88 contains 88 organic molecules, each represented by 41 chemical descriptors. These descriptors include molecular properties and characteristics related to biological activity. The dataset aims to predict the aqueous solubility of these organic compounds. It has been used in previous studies to develop mathematical models and machine learning algorithms to predict solubility accurately. The dataset also includes the experimental solubility values of the molecules, which can be used as target variables for model training and evaluation. QSAR-TID-88 has proven to be a valuable resource in the field of quantitative structure-activity relationship research.

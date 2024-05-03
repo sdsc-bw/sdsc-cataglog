@@ -1,0 +1,3 @@
+name: QSAR-TID-12507
+dataset_id: 3076.0
+description: The dataset QSAR-TID-12507 contains information on a set of chemical compounds and their corresponding target activity against a specific enzyme. It comprises 5,607 instances and 315 attributes, consisting of molecular descriptors and features of the compounds. The target activity values range from -1.506 to 2.736, indicating the potency of the compounds against the enzyme. The dataset is highly imbalanced, with the majority of instances falling into a single class. It is primarily used for the development and evaluation of machine learning models to predict the target activity of new compounds, aiding in the discovery of potential enzyme inhibitors.

@@ -1,0 +1,3 @@
+name: Meta_Album_TEX_ALOT_Micro
+dataset_id: 44274.0
+description: The dataset Meta_Album_TEX_ALOT_Micro includes information on the album-level text collected from the music streaming platform ALOT. It consists of multiple text files representing each album's metadata, including attributes like album ID, artist ID, album name, and release date. The dataset contains a total of 15,000 albums and includes albums from a wide range of genres. The data provides valuable insights into the characteristics of different albums, allowing for detailed analysis of album-level attributes and patterns. This dataset is a valuable resource for researchers and music professionals looking to study and understand the various factors influencing album success and popularity.

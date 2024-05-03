@@ -1,0 +1,3 @@
+name: alarm_4
+dataset_id: 45113.0
+description: The dataset alarm_4 contains time series data related to alarms generated in a computer network. It includes information such as the time a specific alarm was raised, the type of alarm, and the location of the alarm. The dataset has a total of 5000 instances and 16 attributes. Some of the notable attributes include severity, reliability, and correlation. The dataset is often used for research purposes, particularly in the field of anomaly detection and alarm correlation. It is a valuable resource for studying alarm patterns and developing techniques to improve network security and management.

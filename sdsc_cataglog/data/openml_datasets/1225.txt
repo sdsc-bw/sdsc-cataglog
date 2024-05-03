@@ -1,0 +1,3 @@
+name: QSAR-TID-11631
+dataset_id: 3201.0
+description: The QSAR-TID-11631 dataset contains information about the activities of chemical compounds in inhibiting thrombin, which plays a crucial role in blood clotting. The dataset consists of 1577 instances, each represented by 10 molecular descriptors that help determine the binding affinity between the compounds and thrombin. The activities of the compounds are measured using IC50 values, and the dataset also includes the qualitative classification of compounds as active (0) or inactive (1). The dataset serves as a valuable resource for developing quantitative structure-activity relationship (QSAR) models to predict the inhibitory activity of new compounds against thrombin, aiding in drug discovery and design efforts.

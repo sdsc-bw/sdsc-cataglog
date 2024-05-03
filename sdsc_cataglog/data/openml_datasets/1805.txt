@@ -1,0 +1,3 @@
+name: QSAR-TID-100126
+dataset_id: 3788.0
+description: The dataset QSAR-TID-100126 is a compilation of chemical compounds and their corresponding biological activities. It consists of 126 compounds, each associated with activity values measured on fish embryos. The objective of this dataset is to predict the biological activity of new compounds based on their chemical properties. The molecular descriptors used in this dataset include both 2D and 3D properties. The dataset also includes information on the chemical structures of the compounds, allowing for further analysis and interpretation. This dataset serves as a valuable resource for drug discovery and development, as well as for the development of computational models in chemoinformatics.

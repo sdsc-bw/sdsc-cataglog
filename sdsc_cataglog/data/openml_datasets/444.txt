@@ -1,0 +1,3 @@
+name: hutsof99_child_witness
+dataset_id: 696.0
+description: The dataset hutsof99_child_witness contains information about child witnesses in criminal cases. It includes data on the child's age, gender, relationship to the victim or defendant, and the type of crime they witnessed. The dataset also provides details about the child's credibility as a witness, such as whether they were cross-examined or their testimony was corroborated. It consists of multiple variables that allow for in-depth analysis of child witnesses in the criminal justice system. This dataset is valuable for researchers studying the impact of child testimonies on legal proceedings and the factors affecting their credibility.

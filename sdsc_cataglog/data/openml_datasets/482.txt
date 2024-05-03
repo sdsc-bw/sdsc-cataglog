@@ -1,0 +1,3 @@
+name: cpu_small
+dataset_id: 735.0
+description: The cpu_small dataset consists of data related to central processing units (CPUs). It includes attributes such as "MYCT" (machine cycle time in nanoseconds), "MMIN" (minimum main memory in kilobytes), "MMAX" (maximum main memory in kilobytes), "CACH" (cache memory in kilobytes), "CHMIN" (minimum channels in units), "CHMAX" (maximum channels in units), "PRP" (published relative performance), and "ERP" (estimated relative performance). The dataset aims to analyze the relationship between these attributes and the performance of CPUs. The dataset is small in size and is likely to be used for exploratory data analysis and machine learning purposes.

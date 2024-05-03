@@ -1,0 +1,3 @@
+name: polish-bankruptcy-5year
+dataset_id: 42987.0
+description: The dataset "polish-bankruptcy-5year" contains financial and accounting information of Polish companies recorded over a five-year period. The dataset consists of a range of variables, including liquidity ratios, profitability indicators, leverage ratios, activity ratios, and solvency indicators. There are approximately 8,000 instances in the dataset, with each instance representing a distinct company. The dataset aims to predict bankruptcy cases within a five-year timeframe. The dataset is publicly available and has been used for research purposes, particularly in the field of bankruptcy prediction. It provides valuable insight into the financial health and stability of Polish companies.

@@ -1,0 +1,3 @@
+name: Weather
+dataset_id: 45600.0
+description: The dataset "Weather" provides information on weather conditions recorded at various locations around the world. It includes details such as temperature, humidity, wind speed, and precipitation. The data is collected from weather stations, satellites, and other sources, and covers a wide range of dates and times. The dataset is comprehensive, with records available for multiple years and updated frequently. It is useful for analyzing long-term weather patterns, monitoring climate change, and studying the impact of weather on various aspects of life. Researchers, climate scientists, meteorologists, and anyone interested in weather analysis can benefit from this dataset.

@@ -1,0 +1,3 @@
+name: caesarian-section
+dataset_id: 42901.0
+description: The caesarean-section dataset contains information on the medical history and other attributes of pregnant women to determine the likelihood of a caesarean-section delivery. The dataset consists of 80 instances with 6 input features and 1 output value. The input features include age, delivery number, delivery time, blood pressure, heart problem, and caesarean outcome. The output value represents the number of weeks of pregnancy at the time of the operation, ranging from 22 to 48 weeks. This dataset can be used for machine learning and statistical analysis to study factors influencing the need for caesarean-section and improve decision-making in obstetric care.

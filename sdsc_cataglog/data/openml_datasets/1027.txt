@@ -1,0 +1,3 @@
+name: acute-inflammations
+dataset_id: 1556.0
+description: The acute-inflammations dataset provides information on patients diagnosed with two different types of acute inflammations. It includes various attributes such as temperature, nausea, lumbago, urine related issues, and other symptoms. The dataset consists of 120 instances and has been collected from hospital records between 1981 and 1982. Each instance represents a patient, and their medical history is described through 6 boolean attributes and 12 nominal ones. The dataset has been prepared with the aim of exploring patterns and relationships between these attributes to support the diagnosis and treatment of acute inflammations more effectively.

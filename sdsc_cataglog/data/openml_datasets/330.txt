@@ -1,0 +1,3 @@
+name: fri_c0_250_5
+dataset_id: 579.0
+description: The dataset fri_c0_250_5 contains information about a social network on the Internet, specifically focused on online friendship. It comprises 250 users and consists of five attributes. These attributes include user ID, age, gender, relationship status, and the number of online friends a user has. The dataset is likely to provide insights into patterns and behavior within online friendships. With its relatively small size, it can be manageable and suitable for various analyses and modeling techniques. Possible areas of exploration could include friendship dynamics, age and gender effects, and the impact of relationship status on online friendship formation.

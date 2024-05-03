@@ -1,0 +1,3 @@
+name: seismic-bumps
+dataset_id: 45562.0
+description: The seismic-bumps dataset consists of 2,095 instances and 19 attributes. It was created by merging two different datasets, focusing on seismic activity. The dataset includes information about rock durability and geological features, as well as statistics related to seismic activity. The dataset aims to classify instances as either "positive" or "negative" for the presence of seismic bumps, which are vibrations occurring before a seismic event. Certain attributes, such as the seismic activity index and magnitude, help in determining the likelihood of seismic bumps. This dataset can be used for predictive modeling and analysis in the field of seismology.

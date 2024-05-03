@@ -1,0 +1,3 @@
+name: Mice-Protein-Expression
+dataset_id: 43445.0
+description: The Mice-Protein-Expression dataset contains data on the expression levels of 77 proteins in the cortex and hippocampus of mice. The data was collected from mice with different genotypes, age, and treatment in order to study the effect on protein expression. The dataset includes information on 1080 samples, with missing values filled using a mix of techniques. Moreover, it provides data on the behavior, phenotype, and treatment of mice to enable further analysis. The dataset aims to offer insights into the impact of protein expression in various biological processes and help researchers understand neurological and neurodegenerative disorders.

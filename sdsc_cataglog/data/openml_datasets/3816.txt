@@ -1,0 +1,3 @@
+name: nursery
+dataset_id: 43938.0
+description: The dataset titled "nursery" contains information about children's nursery schools. It has a total of 12 attributes and 12,960 instances. The dataset consists of categorical features like parents' occupations, family income, and nursery school admission factors like hygiene conditions, social activities, and children's health. The target attribute has five classes, indicating the recommended nursery school admission. The dataset was derived from a survey conducted in Slovenia to help professionals analyze and assess admission applications. Its purpose is to support decision-making processes related to nursery school admissions based on the provided attributes and their corresponding classes.

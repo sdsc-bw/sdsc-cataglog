@@ -1,0 +1,3 @@
+name: Data_Science_Nigeria_Telecoms_Churn
+dataset_id: 44230.0
+description: The dataset "Data_Science_Nigeria_Telecoms_Churn" provides information about customer churn in the Nigerian telecoms industry. It contains various features such as customer demographics, call details, and account information. The dataset aims to analyze and predict customer churn, which refers to the likelihood of customers switching to a different service provider. This dataset can be used to develop predictive models and gain insights into the factors influencing customer attrition. It is a valuable resource for telecom companies and data scientists interested in understanding and improving customer retention strategies in the Nigerian telecoms industry.

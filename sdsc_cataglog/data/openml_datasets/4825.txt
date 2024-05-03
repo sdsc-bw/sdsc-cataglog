@@ -1,0 +1,3 @@
+name: hailfinder_8
+dataset_id: 45183.0
+description: The dataset hailfinder_8 is created to analyze the specific patterns and characteristics of hail storm events. It includes information about the date, time, location, size, and intensity of these hailstorms. The dataset covers a period of 8 years and encompasses a wide range of geographical locations across the United States. Researchers and meteorologists can utilize this dataset to study the frequency, duration, and severity of hailstorms, allowing for better prediction and warning systems. The information gathered from this dataset can help in developing effective mitigation strategies to minimize the damage caused by hailstorms.

@@ -1,0 +1,3 @@
+name: cpu_act
+dataset_id: 43982.0
+description: The dataset called cpu_act contains information about the activities of central processing units (CPUs) used in computers. The dataset includes measurements of various attributes such as the CPU time, the time for which the CPU is idle, the number of interrupts that occur, and the amount of data transferred. It also provides information about the status of the CPU, such as whether it is active or sleeping. The dataset contains measurements taken at regular intervals over a period of time. The data can be used to analyze and understand the performance and usage patterns of CPUs.

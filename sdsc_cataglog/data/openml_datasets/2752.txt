@@ -1,0 +1,3 @@
+name: dating_profile
+dataset_id: 42164.0
+description: The dating_profile dataset contains information about individuals looking for romantic partners. It includes attributes such as age, gender, height, weight, education level, occupation, and interests. The dataset provides detailed information about the individual's preferences, including the age range, height range, and body type they are seeking in a partner. The dataset also contains information about the individual's personality traits and characteristics. It allows users to filter potential matches based on their criteria and provides a comprehensive understanding of the individuals' preferences and interests in the dating world.

@@ -1,0 +1,3 @@
+name: QSAR-TID-100629
+dataset_id: 3522.0
+description: The dataset QSAR-TID-100629 consists of 89 molecules with antibacterial activity. Each molecule is described by 41 molecular descriptors and a biological activity value. The descriptors represent properties such as molecular weight, solubility, hydrogen bond donor and acceptor count, etc. These descriptors are used to predict the biological activity of the molecules. The dataset is useful for developing Quantitative Structure-Activity Relationship (QSAR) models to understand the relationship between molecular properties and antibacterial activity. It can aid in the design and discovery of new antibacterial compounds by providing insights into the features that contribute to their effectiveness.

@@ -1,0 +1,3 @@
+name: eye_movements_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44438.0
+description: The eye_movements_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True dataset consists of 2000 rows and 100 columns. It is organized into 10 different classes for stratification purposes. The dataset is focused on eye movements and seed-based analysis. It aims to provide valuable insights and understanding of eye movement patterns. The dataset is valuable for research and analysis in various fields such as psychology, neuroscience, and human-computer interaction. With its wide range of rows, columns, and classes, the dataset offers a comprehensive and diverse range of eye movement data for exploration and experimentation.

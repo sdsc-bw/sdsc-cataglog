@@ -1,0 +1,3 @@
+name: analcatdata_vineyard
+dataset_id: 724.0
+description: The dataset analcatdata_vineyard contains information about a vineyard, including various attributes related to the vineyard's soil, climate, and grape varieties. It consists of 180 observations and 19 variables. The attributes include parameters like average temperature, precipitation, and wind, as well as soil composition and grape yield. The dataset aims to provide valuable insights into the relationship between these factors and the overall quality of the vineyard's wine production. The dataset serves as a useful resource for researchers and analysts in the field of viticulture, helping them understand the key factors influencing vineyard productivity and product quality.

@@ -1,0 +1,3 @@
+name: langLog
+dataset_id: 40593.0
+description: The dataset langLog contains information about language usage on a social media platform. It includes data from various users who have engaged in conversations using different languages. Each entry in the dataset represents a single interaction. The dataset includes information about the sender, receiver, time of interaction, and the language used. The dataset also contains variables related to the sentiment and topic of the conversation. Additionally, it includes a numerical rating for each interaction, indicating the level of agreement between the sender and receiver. Overall, langLog provides a rich dataset for analyzing language usage, sentiment, and topic trends on the social media platform.

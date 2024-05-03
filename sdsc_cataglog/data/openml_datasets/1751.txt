@@ -1,0 +1,3 @@
+name: QSAR-TID-11569
+dataset_id: 3734.0
+description: The dataset QSAR-TID-11569 is composed of 1365 molecules, each with 389 attributes. The aim of this dataset is to predict the inhibition constant (pIC50) values of molecules that interact with the conformational changes of the bromodomain protein BRD4. The attributes include information about physicochemical properties, substructure fingerprints, and other molecular descriptors. The dataset has been preprocessed to remove missing values and normalize the attributes. There are three categorical variables indicating the screening batch, plate location, and the year of the experiment. The dataset is suitable for analyzing structure-activity relationships and developing predictive models for bromodomain inhibitors.

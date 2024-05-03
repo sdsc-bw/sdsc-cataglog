@@ -1,0 +1,3 @@
+name: All-of-Trumps-Tweets-(2009-2020)
+dataset_id: 43363.0
+description: The dataset "All-of-Trump's-Tweets" covers all of Donald Trump's tweets from 2009 to 2020. It serves as a comprehensive collection of his social media activity during his presidency and beyond. The dataset includes text from over 50,000 tweets, providing valuable insights into Trump's communication style, patterns, and topics of interest. It also includes additional metadata like retweet and favorite counts, timestamps, and user mentions. This dataset can be a valuable resource for analyzing Trump's rhetoric, sentiment, and political movements during his tenure as the 45th President of the United States.

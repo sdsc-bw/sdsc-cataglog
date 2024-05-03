@@ -1,0 +1,3 @@
+repo_name: incubator-marvin
+link: https://github.com/apache/incubator-marvin
+description: Introducing the Apache Marvin AI Platform - an incubator project designed to help automate workflows, host and manage packages, find and fix vulnerabilities, create instant dev environments, write better code with AI, collaborate outside of code, and fund open source developers all within the GitHub community. Subscribe to the user and dev mailing lists or follow the Contribution Guidelines to get involved.

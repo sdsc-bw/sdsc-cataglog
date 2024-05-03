@@ -1,0 +1,3 @@
+name: postoperative-patient-data
+dataset_id: 34.0
+description: The postoperative-patient-data dataset contains information about patients who underwent surgical procedures in a hospital. It includes various attributes such as age, gender, type of surgery, and preoperative indicators. The dataset also includes postoperative complications, anesthesia risk scores, and overall patient outcomes. The information in this dataset can be used to analyze the relationship between various patient attributes and the postoperative outcomes. This dataset can be valuable for healthcare professionals and researchers in understanding factors that contribute to successful postoperative recovery and identifying potential risk factors for complications.

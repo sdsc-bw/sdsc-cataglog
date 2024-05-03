@@ -1,0 +1,3 @@
+repo_name: zenml
+link: https://github.com/zenml-io/zenml
+description: ZenML is an extensible, open-source MLOps framework for creating portable, production-ready machine learning pipelines. By decoupling infrastructure from code, ZenML enables developers across your organization to collaborate more effectively as they develop to production. ZenML provides a user-friendly syntax designed for ML workflows, compatible with any cloud or tool. It enables centralized pipeline management, enabling developers to write code once and effortlessly deploy it to various infrastructures.

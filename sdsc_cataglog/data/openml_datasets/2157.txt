@@ -1,0 +1,3 @@
+name: Engine1
+dataset_id: 4340.0
+description: Engine1 is a dataset that contains information about engine parameters, such as temperature, pressure, and speed, collected during various operating scenarios. The dataset is comprehensive, with over a thousand instances, each consisting of multiple attributes. These attributes include operational conditions, fault types, and time series sensor values. The dataset is labeled, ensuring that it can be used for supervised learning tasks. It is widely used in research and enables researchers to develop algorithms for predicting engine failures, fault diagnosis, and predicting remaining useful life. Engine1 presents a valuable resource for studying engine health and developing proactive maintenance strategies.

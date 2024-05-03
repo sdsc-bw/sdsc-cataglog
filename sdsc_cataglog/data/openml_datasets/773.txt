@@ -1,0 +1,3 @@
+name: gina_agnostic
+dataset_id: 1038.0
+description: The dataset gina_agnostic refers to a collection of data that is independent of any specific gender. It contains information about various individuals, including their age, nationality, education level, and income. The dataset is extensive and includes records of thousands of individuals from diverse backgrounds. It aims to provide unbiased insights and analysis by excluding any gender-related information. The dataset gina_agnostic can be used for various purposes, such as demographic studies, market research, and social analysis. It offers a valuable resource for researchers, analysts, and organizations looking to understand and address issues without gender biases.

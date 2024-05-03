@@ -1,0 +1,3 @@
+name: fri_c2_1000_50
+dataset_id: 866.0
+description: The dataset fri_c2_1000_50 contains information about the relationships between 1000 individuals, represented by nodes, and their connections, represented by edges. There are a total of 50 attributes associated with each individual node, providing additional details about their characteristics and features. The dataset is based on undirected and unweighted graphs, meaning that the relationships between the nodes are symmetrical and do not have any specific values assigned to them. This dataset can be used for various network analysis tasks and studies on social connections, community structures, and information diffusion among individuals.

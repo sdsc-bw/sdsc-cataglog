@@ -1,0 +1,3 @@
+name: TuningSVMs
+dataset_id: 41978.0
+description: TuningSVMs is a dataset designed to evaluate the performance of support vector machine (SVM) classifiers. The dataset consists of 180 samples of two-dimensional points, divided into two classes. Each sample is labeled with the corresponding class. The dataset includes a variety of cases that differ in noise level, degree of overlap between classes, and number of samples. It aims to provide a comprehensive benchmark for tuning hyperparameters of SVM classifiers, such as the regularization parameter and the kernel function. TuningSVMs offers researchers the opportunity to compare and analyze the impact of different tuning strategies on SVM classification performance.

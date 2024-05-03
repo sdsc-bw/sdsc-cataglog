@@ -1,0 +1,3 @@
+name: mfeat-factors
+dataset_id: 12.0
+description: The mfeat-factors dataset is composed of seven different features extracted from handwritten digits. Each feature represents a different aspect of the digits, such as symmetry, intensity, skewness, and so on. The dataset contains a total of 2000 instances, with each instance representing a different handwritten digit. The digits are split into 10 different classes, with each class containing 200 instances. The dataset is commonly used for pattern recognition and machine learning tasks, particularly for analyzing and classifying handwritten digits. The features in this dataset can provide valuable information for various applications involving digit analysis and recognition.

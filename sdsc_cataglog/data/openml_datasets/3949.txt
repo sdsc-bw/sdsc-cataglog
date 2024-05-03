@@ -1,0 +1,3 @@
+name: phoneme
+dataset_id: 44075.0
+description: The dataset phoneme is a collection of speech sound recordings commonly used in phonetics research. The dataset consists of phoneme digital recordings from both male and female speakers, including 450 different phonemic events and over 1,300 labeled phoneme occurrences. These recordings were collected from various sources, such as interviews, reading passages, and scripted conversations. The dataset also includes information about the speaker's gender, speaking style, and native language. The phoneme dataset can be used for various purposes, such as studying phoneme variation across different languages, analyzing speech patterns, and developing speech recognition algorithms.

@@ -1,0 +1,3 @@
+name: numerai28.6_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44494.0
+description: The dataset numerai28.6_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns. It was created with a random seed of 1 and contains 10 classes. The data is stratified, meaning that the distribution of the classes is proportionate. It is likely a classification dataset, where the goal is to assign a class label to each instance based on the given features. This dataset could be used for machine learning tasks such as building predictive models or evaluating classification algorithms.

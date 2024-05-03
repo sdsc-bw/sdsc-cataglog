@@ -1,0 +1,3 @@
+name: cardiotocography
+dataset_id: 1560.0
+description: Cardiotocography (CTG) is a significant dataset used in healthcare to monitor the heart rate of a fetus during pregnancy and labor. This dataset largely comprises electronic fetal heart rate (FHR) signals, uterine contractions, and other relevant factors. It is widely utilized in obstetrics and gynecology research, as well as in clinical practice, to assess the well-being of the fetal state. The CTG dataset also plays a crucial role in detecting abnormal patterns in the fetal heart rate, enabling early intervention and management of potential complications. Overall, this dataset serves as a valuable resource for analyzing fetal health and improving pregnancy outcomes.

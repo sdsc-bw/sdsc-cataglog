@@ -1,0 +1,3 @@
+name: QSAR-TID-11299
+dataset_id: 3374.0
+description: The dataset QSAR-TID-11299 contains information on the activity levels of various chemical compounds as inhibitors for human acetylcholinesterase (ACE), an enzyme associated with Alzheimer's disease. The dataset comprises 6435 compounds and includes 200 molecular descriptors for each compound. The data was obtained by using computational methods. The target variable in this dataset is the activity level, which is represented by the logarithm of the concentration that inhibits 50% of the human acetylcholinesterase. The dataset aims to facilitate the development of predictive models for identifying potential inhibitors for the ACE enzyme, which could have therapeutic implications for Alzheimer's disease.

@@ -1,0 +1,3 @@
+name: QSAR-TID-12627
+dataset_id: 3893.0
+description: The dataset QSAR-TID-12627 consists of 1,126 compounds, each described by various molecular descriptors. These descriptors include 2D and 3D properties of the compounds, such as shape geometries or electrostatic potentials. The aim of this dataset is to predict the toxicity of each compound towards Tetrahymena pyriformis, a freshwater ciliate protozoan. The toxicity values are measured as logarithmic values of the 50% effective concentration (log EC50) on the target organism. The dataset was previously used to create quantitative structure-activity relationship (QSAR) models to predict the toxicity of new compounds towards T. pyriformis.

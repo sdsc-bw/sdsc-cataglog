@@ -1,0 +1,3 @@
+name: connect-4
+dataset_id: 1591.0
+description: The dataset connect-4 is a collection of instances from a board game. It consists of 67 features and a class attribute. The game is played on a 6x7 grid and the objective is to connect four pieces in a row, column, or diagonal. The dataset contains 675,057 instances, divided into three classes: win, loss, and draw. Each instance is labeled with the outcome and represents a possible state of the game. The features represent the board positions, with each position being empty, containing the player's piece, or occupied by their opponent. This dataset is commonly used for data mining and machine learning tasks.

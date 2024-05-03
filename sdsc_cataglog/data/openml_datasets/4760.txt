@@ -1,0 +1,3 @@
+name: alarm_9
+dataset_id: 45118.0
+description: The dataset alarm_9 contains records of alarms generated in a building automation system. It consists of 9 attributes including the timestamp, the alarm classification, the priority level, and the location of the alarm. There are 10,000 instances in this dataset. The timestamp attribute records the date and time when each alarm was generated. The alarm classification attribute categorizes the type of alarm such as fire, security breach, or power failure. The priority level attribute indicates the urgency of each alarm, with a higher number representing more critical alarms. The location attribute specifies where the alarm was triggered within the building.

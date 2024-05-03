@@ -1,0 +1,3 @@
+name: micro-mass
+dataset_id: 1514.0
+description: The dataset "micro-mass" is a collection of microscopic images of mass spectrometry particles. It includes images of various types of particles, such as proteins, lipids, and small molecules. The dataset provides a valuable resource for researchers working in the field of mass spectrometry to study and analyze these particles. The images are labeled with corresponding classes, allowing for the training and testing of machine learning algorithms for particle recognition and classification. The dataset aims to contribute to the development of automated particle detection and analysis systems, enhancing the efficiency and accuracy of mass spectrometry research.

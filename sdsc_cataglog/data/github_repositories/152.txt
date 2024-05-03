@@ -1,0 +1,3 @@
+repo_name: sense2vec
+link: https://github.com/explosion/sense2vec
+description: Sense2vec is a Python implementation for loading, querying, and training sense2vec models, which is a variation of word2vec. It lets you learn more interesting and detailed word vectors. The library provides a variety of features such as a quick start, installation, and setup, usage with spaCy v3, standalone usage, API class, and component, training your sense2vec vectors, and a registry function to customize key and phrase generation. The library also includes pretrained vectors trained on Reddit comments and an interactive demo to explore the vectors' semantic similarities.

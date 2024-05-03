@@ -1,0 +1,3 @@
+name: QSAR-TID-11066
+dataset_id: 4067.0
+description: The dataset QSAR-TID-11066 consists of data regarding the quantitative structure-activity relationship (QSAR) of chemical compounds. It contains information on the molecular structure of the compounds as well as their biological activity. The dataset includes 74 instances, with each instance containing 41 attributes that capture various quantitative and qualitative characteristics of the compounds. The task associated with this dataset is binary classification, where the goal is to predict whether a compound is active or inactive based on its molecular structure. The dataset is considered challenging due to its small size and the need to accurately predict the activity of compounds.

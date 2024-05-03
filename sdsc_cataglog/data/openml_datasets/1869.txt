@@ -1,0 +1,3 @@
+name: QSAR-TID-11262
+dataset_id: 3854.0
+description: The QSAR-TID-11262 dataset contains information about the biological activities of various molecules. It consists of 1,126 compounds and their corresponding activity values against a specific biological target. The dataset includes features such as molecular descriptors, which are characteristics of the molecules that can be used to predict their activities. These descriptors are numerical and represent different chemical and physical properties of the molecules. This dataset can be useful for researchers and scientists in the field of drug discovery and development, as it can aid in understanding the relationship between molecular properties and biological activities.

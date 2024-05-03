@@ -1,0 +1,3 @@
+name: w2a
+dataset_id: 1582.0
+description: The dataset w2a is a collection of documents representing web pages with their corresponding attributes. It includes a total of 14 attributes that describe different aspects of each webpage, such as the URL, page text, page title, anchor text, and anchor URL. The dataset contains a total of 51 instances, each representing a different webpage. These webpages cover a wide range of topics, including technology, education, and entertainment, among others. The dataset w2a is commonly used for various research purposes, including web page classification, information retrieval, and understanding page relevance.

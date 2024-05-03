@@ -1,0 +1,3 @@
+name: QSAR-TID-100621
+dataset_id: 3078.0
+description: The dataset QSAR-TID-100621 consists of 1,938 molecules with respective quantitative measurements for 678 molecular descriptors. These descriptors encompass various aspects such as geometry, polarity, and electronic properties of the molecules. The dataset was primarily created for dealing with chemoinformatics problems, particularly in the context of predicting biological activities of the molecules. The target property for prediction in this dataset is the toxic endpoint, namely the LD50 oral toxicity in rats. This dataset serves as a valuable resource for the development and validation of models and algorithms in the field of chemoinformatics and drug discovery.

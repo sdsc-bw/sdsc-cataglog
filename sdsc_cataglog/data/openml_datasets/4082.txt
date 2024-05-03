@@ -1,0 +1,3 @@
+name: anneal
+dataset_id: 44259.0
+description: The dataset "anneal" contains information on steel plates with a given chemical composition. It includes 798 instances with 39 attributes, which are a mix of numerical and categorical variables. The dataset's goal is to predict whether annealing heat treatment was applied to the plates or not, based on the provided attributes. The dataset includes attributes like thickness, width, length, strain ratio, and surface condition, among others. The instances are divided into two classes: "1" for when annealing was performed and "2" for when it was not. Thus, the anneal dataset serves as a valuable resource for training machine learning models to predict the outcome of annealing heat treatment.

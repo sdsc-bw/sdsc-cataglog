@@ -1,0 +1,3 @@
+name: Laboratorio_dataset_car
+dataset_id: 42874.0
+description: The Laboratorio_dataset_car is a dataset that focuses on various features of cars. It contains information about 205 cars, including their make, model, body type, number of doors, fuel type, engine location, horsepower, average mileage per gallon, price, and more. The dataset aims to provide a comprehensive analysis of different car specifications and how they affect their price. It is an excellent resource for studying trends and patterns in the automotive industry as it offers a wide range of variables that can be used for analysis and prediction.

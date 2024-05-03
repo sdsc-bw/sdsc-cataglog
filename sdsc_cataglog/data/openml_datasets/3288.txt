@@ -1,0 +1,3 @@
+name: Earthquakes-Data-NZ
+dataset_id: 43358.0
+description: The Earthquakes-Data-NZ dataset provides comprehensive information about earthquakes that occurred in New Zealand. It includes details such as the date, time, location, magnitude, depth, and various seismic parameters of each earthquake. The dataset encompasses earthquakes recorded over several decades and is continuously updated. It is a valuable resource for researchers, scientists, and organizations studying earthquakes and their impact on the region. The dataset offers insights into earthquake patterns, trends, and potential risks in different areas of New Zealand. Its availability promotes greater understanding, preparedness, and mitigation strategies related to seismic activities in the country.

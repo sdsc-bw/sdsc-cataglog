@@ -1,0 +1,3 @@
+name: Forest-Surfaces-in-Romania-1990-2019
+dataset_id: 43782.0
+description: The dataset "Forest-Surfaces-in-Romania-1990-2019" provides information on the changing forest surfaces in Romania from 1990 to 2019. It includes data on different forest types, such as coniferous or deciduous forests, as well as protected areas and their corresponding surface areas. The dataset has been compiled through remote sensing techniques and land cover classification methods. Users can utilize this dataset to analyze the trends in forest surfaces, monitor changes over time, and assess the impact of various factors on forest ecosystems in Romania. This comprehensive dataset offers valuable insights into the state and dynamics of forests in the country during the specified period.

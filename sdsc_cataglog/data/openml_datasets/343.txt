@@ -1,0 +1,3 @@
+name: fri_c4_1000_25
+dataset_id: 592.0
+description: The dataset fri_c4_1000_25 consists of data related to 1000 instances with 25 attributes each. It includes binary class labels, with each instance representing a particular classification problem. The dataset is notable for having a high dimensionality compared to the number of instances, which poses challenges for classification algorithms. The attribute values in this dataset are generated from Gaussian distributions with different means and variances. The dataset is useful for testing and evaluating classification algorithms and their performance in high-dimensional settings.

@@ -1,0 +1,3 @@
+name: cnae-9_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44607.0
+description: The dataset cnae-9_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True contains a total of 2000 rows and 100 columns. It is organized into 10 different classes and uses a stratified sampling method. This means that the dataset is divided into subgroups based on specific characteristics, ensuring that each subgroup is proportionally represented in the sample. The dataset is named cnae-9 and is created with a seed value of 4 to maintain consistency in the randomization process. The aim of this dataset is to provide a diverse range of observations within the specified classes and columns for analysis and modeling purposes.

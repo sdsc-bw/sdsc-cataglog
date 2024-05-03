@@ -1,0 +1,3 @@
+name: glass
+dataset_id: 1005.0
+description: The dataset "glass" contains information about various types of glass samples used in crime scene investigations. The samples are classified into different categories based on their chemical composition and manufacturing process. The dataset consists of 214 samples, each described by 10 attributes, including refractive index, sodium, magnesium, and aluminum content, among others. The samples are labeled with seven different glass types, such as building windows, containers, and vehicle windows. The dataset is commonly used for classification tasks and has been widely studied in the field of pattern recognition and machine learning to develop predictive models for glass type identification.

@@ -1,0 +1,3 @@
+name: micro-mass_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44584.0
+description: The dataset "micro-mass_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True" refers to a dataset with 2000 rows and 100 columns. It contains 10 different classes or categories. The dataset has been stratified, which means that the distribution of classes within the dataset is representative of the overall population. The purpose of this dataset is to analyze patterns, relationships, or trends related to the 10 classes present. It provides a comprehensive and structured collection of data that can be used for various research or analysis purposes.

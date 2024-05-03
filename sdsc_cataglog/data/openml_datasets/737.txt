@@ -1,0 +1,3 @@
+name: balance-scale
+dataset_id: 997.0
+description: The balance-scale dataset contains information about the weight distribution of different objects on a balance scale. It has a total of 625 instances, each represented by four attributes: left weight, left distance, right weight, and right distance. These attributes are numerical and range from 1 to 5. The dataset is well balanced in terms of class distribution, with each of the three classes (balanced, left, and right) having an equal number of instances (representing 49.6% each). The balance-scale dataset is commonly used in machine learning experiments and classification tasks to test algorithms' ability to predict the correct class based on the given attributes.

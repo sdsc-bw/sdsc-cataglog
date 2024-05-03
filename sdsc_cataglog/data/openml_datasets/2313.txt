@@ -1,0 +1,3 @@
+name: gisette
+dataset_id: 41026.0
+description: The gisette dataset is a collection of handwritten digits in binary format, designed for machine learning tasks. It consists of two subsets: the training set and the test set. The training set contains 6000 samples, with each sample consisting of 5000 features. The test set consists of 1000 samples, with the same number of features as the training set. The goal of this dataset is to accurately classify the handwritten digits using machine learning algorithms. It provides a benchmark for evaluating the performance of classification algorithms in the field of handwritten digit recognition.

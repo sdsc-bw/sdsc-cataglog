@@ -1,0 +1,3 @@
+name: QSAR-TID-11403
+dataset_id: 3191.0
+description: The QSAR-TID-11403 dataset contains information on the biological activity of certain chemical compounds. The dataset consists of 1058 instances, each with 2 input features and 10 output features. The input features represent the structure of the compounds, while the output features indicate their biological activity. The dataset was generated using molecular descriptors and evaluated through a regression approach. The quality of the models built on this dataset was assessed using various statistical metrics, including mean squared error and correlation coefficient. The dataset is publicly available and can be used for research and development of computational models in the field of drug discovery and design.

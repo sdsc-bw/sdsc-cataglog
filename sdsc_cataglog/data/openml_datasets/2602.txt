@@ -1,0 +1,3 @@
+name: FOREX_audnzd-day-Close
+dataset_id: 41867.0
+description: The dataset FOREX_audnzd-day-Close contains daily closing prices for the AUD/NZD forex currency pair. It consists of multiple columns, including the date, open price, high price, low price, and the closing price for each day. This dataset provides valuable insights for analyzing the historical performance and trend of the AUD/NZD currency pair. Traders and analysts can utilize this data to identify patterns, forecast future movement, and make informed trading decisions. The data in this dataset spans over a considerable period, allowing users to examine long-term trends and fluctuations in the AUD/NZD exchange rate.

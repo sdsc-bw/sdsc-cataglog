@@ -1,0 +1,3 @@
+name: QSAR-TID-11806
+dataset_id: 3958.0
+description: The dataset QSAR-TID-11806 contains the chemical properties of a set of compounds that are potential inhibitors of the cyclooxygenase-2 (COX-2) enzyme. It consists of 234 compounds, each represented by 1024 molecular descriptors. The dataset also includes the pIC50 values, which indicate the inhibitory activity of the compounds against COX-2. Machine learning models can be built using this dataset to predict the pIC50 values of new compounds and identify potential COX-2 inhibitors. The dataset offers insights into the structure-activity relationship of COX-2 inhibitors and can aid in the discovery of new drug candidates.

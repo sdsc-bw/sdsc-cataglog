@@ -1,0 +1,3 @@
+name: fri_c0_1000_25
+dataset_id: 598.0
+description: The dataset fri_c0_1000_25 contains information related to 1000 individuals and 25 attributes. It is part of the Fribourg dataset collection and represents a sample of a larger dataset. The attributes in this dataset include both numerical and categorical variables. The specific details about the attributes and their meanings are not mentioned in the given information. It is assumed that the dataset represents characteristics or features of the individuals, which can be used for analysis or predictive modeling tasks.

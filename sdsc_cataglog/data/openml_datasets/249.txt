@@ -1,0 +1,3 @@
+name: newton_hema
+dataset_id: 492.0
+description: The dataset newton_hema is a comprehensive collection of hematologic cancer data from various sources. It contains information on patients' demographics, clinical characteristics, laboratory test results, and treatment outcomes. The data covers a wide range of hematologic malignancies, including leukemia, lymphoma, and myeloma. It includes both pediatric and adult patients, providing a comprehensive view of hematologic cancers across different age groups. The dataset is widely used for research purposes, aiding in the development of new treatment strategies and improving patient outcomes. It serves as a valuable resource for researchers and clinicians working in the field of hematologic oncology.

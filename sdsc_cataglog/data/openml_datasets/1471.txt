@@ -1,0 +1,3 @@
+name: QSAR-TID-10657
+dataset_id: 3453.0
+description: The dataset QSAR-TID-10657 contains 1055 chemical compounds and their respective biological activities. The compounds were classified as either active or inactive based on their inhibition percentage. The variables in the dataset include molecular descriptors, protein descriptors, experimental properties, and docking scores. The dataset aims to assist in the development of models for predicting the biological activity of chemical compounds. The dataset is useful for researchers and scientists involved in drug discovery, as it provides valuable information for understanding the relationship between chemical structures and biological activities.

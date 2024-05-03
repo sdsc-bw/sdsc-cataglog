@@ -1,0 +1,3 @@
+name: QSAR-TID-12000
+dataset_id: 3212.0
+description: The dataset QSAR-TID-12000 is a collection of chemical compounds labeled with their toxicological activity. It consists of 12,000 instances, each represented by 1,199 features extracted from their 2D structure and potential energy. The compounds' toxicological activity is measured using a binary label, indicating whether they are effective or ineffective in a specific biological assay. The dataset aims to facilitate the creation and validation of quantitative structure-activity relationship (QSAR) models, which can predict the toxicological activity of similar compounds. It provides a valuable resource for researchers working in drug discovery, chemical risk assessment, and toxicology.

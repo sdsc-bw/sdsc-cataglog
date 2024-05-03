@@ -1,0 +1,3 @@
+name: QSAR-TID-11473
+dataset_id: 3132.0
+description: The dataset QSAR-TID-11473 contains information on the biological activity of various compounds against a specific target enzyme. It includes 407 compounds and their associated 918 molecular descriptors. The compounds have been classified into two classes, active and inactive, based on their biological activity. The dataset also provides information on the number of hydrogen bond donors and acceptors in each compound. The goal of this dataset is to develop a model that can predict the biological activity of new compounds based on their molecular descriptors and hydrogen bonding characteristics.

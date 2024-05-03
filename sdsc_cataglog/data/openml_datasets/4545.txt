@@ -1,0 +1,3 @@
+name: adult_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44724.0
+description: The dataset adult_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows and 100 columns. It has 10 different classes, and the data is stratified. This dataset likely represents information about adults, with various features and attributes being recorded. The stratification implies that the data has been divided into subsets based on certain characteristics, allowing for a representative sample from each class. This dataset can be used for various analyses and machine learning tasks, such as classification or clustering, to gain insights into the patterns and trends within the adult population's data.

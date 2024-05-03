@@ -1,0 +1,3 @@
+name: QSAR-TID-10452
+dataset_id: 3500.0
+description: The QSAR-TID-10452 dataset is a valuable resource for predicting chemical toxicities. It consists of 4,888 compounds, each with their own set of molecular descriptors and target variable values. The target variable represents the logarithm of the toxic concentration at which 50% of tested organisms are affected. The descriptors include information about the molecular structure, such as atomic numbers and connectivity, which are important in assessing toxicity. This dataset is particularly useful for developing quantitative structure-activity relationship (QSAR) models to predict chemical toxicities and can help researchers better understand the relationship between molecular features and toxicity effects.

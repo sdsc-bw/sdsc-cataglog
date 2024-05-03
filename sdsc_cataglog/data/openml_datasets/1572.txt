@@ -1,0 +1,3 @@
+name: QSAR-TID-148
+dataset_id: 3556.0
+description: The dataset QSAR-TID-148 is related to chemical compounds and their biological activities. It consists of 148 compounds from different classes. The compounds are described by 41 molecular descriptors, which provide detailed information about their structure and properties. The dataset also includes the experimentally measured biological activity values for each compound. This dataset is often used in quantitative structure-activity relationship (QSAR) studies, which aim to predict the biological activity of new compounds based on their molecular characteristics. QSAR-TID-148 can assist in developing models and algorithms to identify potential drug candidates with specific biological activities.

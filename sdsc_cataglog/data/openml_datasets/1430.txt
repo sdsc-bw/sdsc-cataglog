@@ -1,0 +1,3 @@
+name: QSAR-TID-101152
+dataset_id: 3410.0
+description: The dataset QSAR-TID-101152 contains information on the quantitive structure-activity relationship (QSAR) of 126 compounds. The compounds are categorized into three classes: active, moderately active, and inactive. The dataset includes 6 features, representing chemical properties, and a target variable indicating the class of each compound. It is noted that missing values are present in some features. The dataset aims to predict the class of a compound based on its chemical properties. This dataset can be used for various machine learning and data analysis tasks, particularly in the field of drug discovery and development.

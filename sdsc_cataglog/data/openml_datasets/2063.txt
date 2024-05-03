@@ -1,0 +1,3 @@
+name: QSAR-TID-282
+dataset_id: 4049.0
+description: The dataset QSAR-TID-282 consists of 323 compounds that were completely characterized through a range of techniques. These techniques include infrared spectroscopy, mass spectrometry, and x-ray structural analysis. The dataset contains various physico-chemical properties such as molecular weight, surface area, and octanol-water partition coefficient. Additionally, the compounds have been tested for their acute aquatic toxicity against Daphnia magna, a species of water flea. The dataset aims to establish quantitative structure-activity relationships (QSAR) between the chemical properties and the toxicity levels. It can be used for model development and prediction of the toxicity of similar compounds.

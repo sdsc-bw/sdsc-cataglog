@@ -1,0 +1,3 @@
+name: FOREX_eurchf-hour-Close
+dataset_id: 41877.0
+description: The dataset FOREX_eurchf-hour-Close contains hourly closing prices of the Euro (EUR) against the Swiss Franc (CHF) in Forex trading. The dataset likely represents a time series of hourly trading sessions. It provides information on the closing prices, which are the final prices at the end of each hour-long session. The dataset is specific to the EUR/CHF currency pair and can be used to analyze the fluctuation in exchange rates between the two currencies over time. The dataset would be relevant for traders, researchers, or analysts interested in studying the EUR/CHF market dynamics at an hourly level.

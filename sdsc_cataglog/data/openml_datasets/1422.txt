@@ -1,0 +1,3 @@
+name: QSAR-TID-11081
+dataset_id: 3402.0
+description: The dataset QSAR-TID-11081 contains information about a set of organic compounds and their biological activities. It consists of 1,108 instances with 20 input features and 1 output variable, representing the molecular descriptors of the compounds and their inhibition activities on a specific biological target, respectively. The dataset also includes missing values and categorical variables that need preprocessing before analysis. The goal is to build a predictive model that can accurately predict the inhibition activities of new compounds, based on their molecular descriptors. The dataset is suitable for regression analysis and can be used in QSAR (Quantitative Structure-Activity Relationship) studies.

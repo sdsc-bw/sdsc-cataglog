@@ -1,0 +1,3 @@
+name: QSAR-TID-19623
+dataset_id: 3246.0
+description: The dataset QSAR-TID-19623 contains information about a set of molecules and their corresponding biological activity. The data includes features like molecular descriptors and their respective values for 1055 compounds, as well as their measured activity values. This dataset was constructed to develop a quantitative structure-activity relationship (QSAR) model for predicting a compound's biological activity based on these features. The dataset is publicly available and can be used for training and testing QSAR models. It serves as a valuable resource for researchers involved in drug discovery and design projects.

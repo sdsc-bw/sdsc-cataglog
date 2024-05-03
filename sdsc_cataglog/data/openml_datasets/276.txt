@@ -1,0 +1,3 @@
+name: analcatdata_neavote
+dataset_id: 523.0
+description: The dataset analcatdata_neavote provides information about voting behavior in the 1984 U.S. Presidential election. It includes data from a national survey of registered voters, with variables such as party affiliation, candidate preference, and issue positions. The dataset consists of 156 observations and 8 variables. It includes information on individuals' attitudes towards abortion, aid to Nicaraguan contras, and aid to Poland. The dataset also includes demographic variables such as gender, income, education, and religious affiliation. This dataset can be useful for studying political behavior and understanding the factors that influence voting choices in the 1984 Presidential election.

@@ -1,0 +1,3 @@
+repo_name: text
+link: https://github.com/tensorflow/text
+description: TensorFlow Text provides a collection of text related classes and ops ready to use with TensorFlow 2.0. The library can perform the preprocessing regularly required by text-based models, and includes other features useful for sequence modeling not provided by core TensorFlow. The benefit of using these ops in your text preprocessing is that they are done in the TensorFlow graph. You do not need to worry about tokenization in training being different than the tokenization at inference, or managing preprocessing scripts. Please visit http://tensorflow.org/text for all documentation. This site includes API docs, guides for working with TensorFlow Text, as well as tutorials for building specific models.

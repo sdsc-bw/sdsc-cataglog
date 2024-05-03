@@ -1,0 +1,3 @@
+name: QSAR-TID-12724
+dataset_id: 3985.0
+description: The dataset QSAR-TID-12724 is related to the Quantitative Structure-Activity Relationship (QSAR) model, which is used in drug development. It consists of 5,424 chemical compounds represented by molecular descriptors, along with their biological activities. The biological activity is measured using the Log IC50 value, which represents the inhibition concentration required to inhibit the HIV-1 viral replication. The dataset is balanced with roughly half of the compounds being active against the virus and the other half being inactive. The molecular descriptors are derived from the 3D structure of the compounds, and they capture various properties such as atom count, bond count, and molecular weight.

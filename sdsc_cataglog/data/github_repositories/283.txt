@@ -1,0 +1,3 @@
+repo_name: L2X
+link: https://github.com/Jianbo-Lab/L2X
+description: The L2X tool allows for automating workflows, hosting and managing packages, finding and fixing vulnerabilities, creating instant dev environments, writing better code with AI, and collaborating outside of code. Additionally, it requires the installation of Tensorflow 1.2.1 or higher and Keras 2.0 or higher, and the replication of experiments can be done through the code provided on Github with the citation of the original paper.

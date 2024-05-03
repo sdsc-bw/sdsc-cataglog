@@ -1,0 +1,3 @@
+name: FOREX_audusd-hour-High
+dataset_id: 41843.0
+description: The dataset FOREX_audusd-hour-High contains information about the hourly high values of the AUD/USD (Australian Dollar/US Dollar) forex currency pair. The dataset likely includes a series of timestamps, corresponding to each hour, along with the respective high value of the currency pair during that hour. This dataset can be useful for analyzing the volatility and trends in the AUD/USD forex market on an hourly basis. Traders and analysts can use this data to make informed decisions and identify potential trading opportunities. Additionally, this dataset can be utilized in forecasting models and technical analysis to project future price movements of the AUD/USD currency pair.

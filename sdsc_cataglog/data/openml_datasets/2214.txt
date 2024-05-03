@@ -1,0 +1,3 @@
+name: SpeedDating
+dataset_id: 40536.0
+description: The dataset SpeedDating contains information collected from speed dating events. It includes personal characteristics and preferences of the participants, as well as their decisions regarding potential romantic partners. The dataset consists of more than 8,000 observations, with attributes such as age, gender, race, and education level. It also contains ratings given by participants about their partners' attributes, such as attractiveness, sincerity, intelligence, and ambition. The dataset provides a valuable resource for analyzing the factors that influence romantic attraction and decision-making in speed dating scenarios.

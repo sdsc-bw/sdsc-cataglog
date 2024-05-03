@@ -1,0 +1,3 @@
+name: fri_c0_250_50
+dataset_id: 732.0
+description: The dataset fri_c0_250_50 is a dataset related to the Friendster social network, which contains 250,000 nodes and 50 million edges. It encompasses the connectivity between users on the platform, reflecting their friendship relationships. The dataset is considered significant due to the scale of the network it represents. It provides valuable insights into the structure and dynamics of social networks, facilitating research in fields such as social network analysis and graph theory. Moreover, this dataset also serves as a benchmark for the evaluation of algorithms and techniques in the computational analysis of large-scale social networks.

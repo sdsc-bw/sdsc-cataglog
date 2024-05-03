@@ -1,0 +1,3 @@
+name: philippine_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44567.0
+description: The dataset named "philippine_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" consists of 2000 rows and 100 columns. It has been stratified into 10 different classes. The dataset likely contains information about seeds from the Philippines, with each row representing a specific seed sample and each column containing various attributes or features related to the seeds. The dataset has been organized in a way to ensure proportional representation of each class, thus allowing for more representative and accurate analysis or modeling.

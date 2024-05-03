@@ -1,0 +1,3 @@
+name: clean2
+dataset_id: 40666.0
+description: Clean2 is a dataset that consists of approximately 150Gb of deepfake videos scraped from various sources on the internet. It includes a diverse range of scenes, actors, and activities. The videos are labeled and categorized based on several attributes, including facial expressions, emotions, and actions performed. The dataset consists of both manipulated and original videos, allowing for the development and evaluation of deepfake detection algorithms. Clean2 enables researchers to examine the impact of various factors, such as lighting conditions and camera angles, on deepfake quality. It provides a valuable resource for studying and enhancing deepfake detection techniques.

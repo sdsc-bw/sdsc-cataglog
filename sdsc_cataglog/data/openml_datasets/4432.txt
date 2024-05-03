@@ -1,0 +1,3 @@
+name: pc4_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44611.0
+description: The given dataset is named pc4_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True, indicating that it has 2000 rows and 100 columns. There are 10 classes in the dataset, suggesting that it may be a classification problem. Stratification is set to True, which means that the dataset is divided in a proportional manner for each class. Further details about the dataset, such as the type of data or its source, are not mentioned in the given sentences.

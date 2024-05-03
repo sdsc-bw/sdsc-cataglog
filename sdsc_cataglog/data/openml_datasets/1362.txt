@@ -1,0 +1,3 @@
+name: QSAR-TID-100864
+dataset_id: 3339.0
+description: The dataset QSAR-TID-100864 contains information about the activity of compounds against bacteria, specifically Escherichia coli. It consists of 961 compounds with 41 molecular descriptors that describe their molecular structure and physicochemical properties. The compounds are divided into two classes: active and inactive. The goal of this dataset is to develop a predictive model that can accurately classify compounds as either active or inactive based on their molecular descriptors. This dataset can be used in the field of drug discovery and development to identify potential compounds with antibacterial activity against Escherichia coli.

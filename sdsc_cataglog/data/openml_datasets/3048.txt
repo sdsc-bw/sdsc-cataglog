@@ -1,0 +1,3 @@
+name: Laboratorio_dataset_car
+dataset_id: 42875.0
+description: The dataset "Laboratorio_dataset_car" contains information about various aspects of cars including their fuel efficiency, acceleration, horsepower, number of cylinders, and weight. The dataset consists of 398 observations and 9 variables. The "mpg" variable represents the fuel efficiency in miles per gallon, while "acceleration" indicates the time taken by the car to accelerate from 0 to 60 miles per hour. "Horsepower" denotes the power of the car's engine. Additionally, the dataset includes the number of cylinders and the weight of each car. These variables provide valuable insights for analyzing and studying the characteristics and performance of different car models.

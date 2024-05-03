@@ -1,0 +1,3 @@
+name: analcatdata_seropositive
+dataset_id: 921.0
+description: The dataset analcatdata_seropositive is a collection of data related to the seropositive status of individuals. It contains information on various attributes, including age, sex, CD4 count, viral load, and clinical status. The data includes records of 200 individuals who tested positive for a particular disease. The dataset also provides information on the participants' antiretroviral therapy history and their adherence to treatment. Analyzing this dataset can provide insights into the factors influencing the seropositive status and help in understanding the effectiveness of various treatments.

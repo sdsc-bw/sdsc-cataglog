@@ -1,0 +1,3 @@
+name: train
+dataset_id: 42617.0
+description: The dataset "train" consists of individual records containing various attributes. The dataset includes information such as age, gender, income, education level, and employment status. It also contains data related to geographical location, including city and state. Additionally, the dataset includes variables related to personal preferences, such as favorite color, food, and hobbies. Moreover, it includes information about health conditions, including blood pressure values, cholesterol levels, and BMI (Body Mass Index). The dataset "train" provides a comprehensive collection of diverse attributes, allowing for the analysis and exploration of various factors and their interrelationships.

@@ -1,0 +1,3 @@
+name: QSAR-TID-10277
+dataset_id: 4028.0
+description: QSAR-TID-10277 is a dataset that contains information about chemical compounds and their potential toxicity. The dataset consists of 11,907 instances with 1027 molecular features. Each instance is labeled as either toxic or non-toxic based on experimental measurements. The dataset was specifically created to evaluate the performance of predictions using Quantitative Structure-Activity Relationship (QSAR) models. It provides a valuable resource for researchers to study and develop models that can accurately predict the toxicity of chemical compounds. The dataset is freely available and can be used for various QSAR modeling and computational toxicology applications.

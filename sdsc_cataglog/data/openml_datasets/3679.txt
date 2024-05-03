@@ -1,0 +1,3 @@
+name: Emotions--Sensor-Data-Set
+dataset_id: 43756.0
+description: The dataset, Emotions--Sensor-Data-Set, consists of physiological sensor data collected from individuals while they experienced different emotional states. It includes measurements from electrocardiogram (ECG), electromyogram (EMG), electrodermal activity (EDA), and respiration sensors. The data was collected from 31 participants and includes recordings of their emotional experiences during various activities such as watching emotional movies and listening to music. The dataset provides a valuable resource for studying the relationships between emotions and physiological responses and could be used for emotion recognition, stress detection, and other applications in the field of affective computing.

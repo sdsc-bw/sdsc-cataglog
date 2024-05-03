@@ -1,0 +1,3 @@
+name: QSAR-TID-10967
+dataset_id: 4085.0
+description: The dataset QSAR-TID-10967 contains molecular descriptors and the biological activity values of 546 compounds. The dataset aims to predict the bioactivity of new compounds based on their chemical properties. The molecular descriptors include features like the number of hydrogen bond donors, molecular weight, and topological indices. The bioactivity values indicate the effectiveness of the compounds against a specific target protein. The dataset also provides physicochemical parameters like solubility and logP, which are essential for drug discovery and design. This dataset can be valuable for researchers and scientists involved in drug development and computational chemistry studies.

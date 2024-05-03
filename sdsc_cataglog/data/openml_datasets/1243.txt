@@ -1,0 +1,3 @@
+name: QSAR-TID-103456
+dataset_id: 3219.0
+description: The dataset QSAR-TID-103456 contains 1,456 chemical compounds with their corresponding numerical descriptors. These descriptors represent various aspects of the compounds, such as molecular structure, energy, and electrical properties. The compounds were synthesized and tested for their inhibitory activity against a specific enzyme. The dataset also includes the activity values, which represent the effectiveness of each compound in inhibiting the enzyme. The goal of using this dataset is to build a model for predicting the inhibitory activity of new compounds. The dataset holds significant importance for drug development and identifying potential enzyme inhibitors.

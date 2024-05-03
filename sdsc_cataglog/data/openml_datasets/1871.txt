@@ -1,0 +1,3 @@
+name: QSAR-TID-30040
+dataset_id: 3856.0
+description: The dataset QSAR-TID-30040 contains information about the bioactivity of molecules and their corresponding chemical features. It consists of 491 compounds, with each compound represented by 8 features, including shape indices, atomic properties, and molecular descriptors. The bioactivity data represents the inhibitory concentration values (IC50) for certain protein targets. The dataset enables the analysis and prediction of the biological activities of molecules based on their chemical features. It provides valuable insights for drug discovery processes and can be used in developing quantitative structure-activity relationship (QSAR) models to identify potent compounds for targeted protein inhibition.

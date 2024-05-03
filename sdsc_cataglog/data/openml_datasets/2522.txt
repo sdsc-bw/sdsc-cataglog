@@ -1,0 +1,3 @@
+name: FOREX_eurpln-hour-High
+dataset_id: 41787.0
+description: The dataset FOREX_eurpln-hour-High contains hourly high values for the EUR/PLN currency pair in the foreign exchange market. The dataset provides insight into the fluctuating highs of the exchange rate between the Euro and the Polish Zloty over time. It includes a range of hourly data points, allowing analysis of the currency pair's performance throughout different hours of the day. This dataset is valuable for traders and analysts looking to understand the volatility and trends in the EUR/PLN exchange rate, and it can support decision-making in foreign exchange trading strategies.

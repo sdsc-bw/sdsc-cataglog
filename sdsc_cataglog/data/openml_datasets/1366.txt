@@ -1,0 +1,3 @@
+name: QSAR-TID-14037
+dataset_id: 3343.0
+description: The dataset QSAR-TID-14037 contains 185 substances with their corresponding binary target classes. It was derived from a larger dataset and is used for predicting acute toxicity of tested chemicals to the fathead minnow fish species. The substances are represented by 1394 molecular descriptors, which were calculated using ChemBioOffice Ultra 11.0 software. The target classes indicate the substances' toxicity levels, with Class 1 representing highly toxic and Class 2 representing non-toxic or less toxic substances. This dataset is valuable for developing predictive models and studying the toxicity of chemicals on aquatic organisms.

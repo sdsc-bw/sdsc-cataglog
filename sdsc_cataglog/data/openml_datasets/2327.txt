@@ -1,0 +1,3 @@
+name: philippine
+dataset_id: 41145.0
+description: The dataset "Philippine" is a collection of information related to the Philippines. It covers a variety of topics, including demographics, economy, education, and health. This dataset is comprehensive and provides valuable insights into the status and trends within the country. It includes data from various reliable sources and is regularly updated to ensure accuracy. Researchers, policymakers, and analysts can utilize this dataset to study and understand the different aspects of the Philippines, identify areas for improvement, and make informed decisions. Overall, the Philippine dataset serves as a valuable resource for anyone interested in analyzing and exploring the country's various facets.

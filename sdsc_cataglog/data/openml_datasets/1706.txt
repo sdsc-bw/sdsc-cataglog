@@ -1,0 +1,3 @@
+name: QSAR-TID-10549
+dataset_id: 3689.0
+description: The dataset QSAR-TID-10549 includes information on a series of compounds and their corresponding biological activity. The data consists of 1,549 instances and 14 features, including molecular descriptors and experimental results. The compounds were tested for their ability to inhibit the enzyme tyrosyl-DNA-phosphodiesterase 1 (TDP-1), which plays a crucial role in repairing DNA damage. The dataset is useful for analyzing the relationship between the compounds' structural properties and their inhibitory activity. It can be used for developing quantitative structure-activity relationship (QSAR) models to predict the inhibitory activity of new compounds.

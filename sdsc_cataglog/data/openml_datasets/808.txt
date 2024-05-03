@@ -1,0 +1,3 @@
+name: rsctc2010_2
+dataset_id: 1078.0
+description: The dataset rsctc2010_2 consists of various examples that represent different type of land covers extracted from remotely sensed images. It has a total of 4772 instances, with 4263 instances in the training set and 509 instances in the testing set. Each instance is described by 72 attributes, including statistical, spectral and textural features. The dataset aims to aid researchers in developing algorithms for land cover classification. The classification task involves 20 different land cover types, such as industrial zones, meadows, rivers, and residential zones. This dataset provides an opportunity to explore pattern recognition and machine learning techniques in the field of land cover classification.

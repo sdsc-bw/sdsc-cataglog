@@ -1,0 +1,3 @@
+name: Spike-waveforms
+dataset_id: 43650.0
+description: The dataset Spike-waveforms comprises of electrical activities in the brain recorded from epileptic patients. It consists of spike-waveform sequences extracted from the intracranial electroencephalogram (EEG) signals that were recorded during the patients' seizures. The dataset is intended for research purposes to aid in the development of algorithms for detecting and classifying epileptic seizures. It contains a wide range of spike-waveform patterns from different brain regions, facilitating analysis of temporal and spatial characteristics. The dataset is publicly available and can potentially contribute to advancements in epilepsy diagnosis and treatment.

@@ -1,0 +1,3 @@
+name: Meta_Album_RSD_Micro
+dataset_id: 44277.0
+description: The dataset Meta_Album_RSD_Micro contains information about various albums released on Record Store Day (RSD). It includes details like the album's title, artist name, release year, record label, genre, and format. The dataset covers albums released from 2008 to 2021. It also includes additional information about albums, such as the number of tracks and the duration of each track. The dataset is primarily focused on smaller, independently released albums, often limited edition or exclusive releases, which are frequently sought after by collectors and music enthusiasts.

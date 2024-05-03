@@ -1,0 +1,3 @@
+name: adult_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44723.0
+description: The dataset "adult_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True" consists of 2000 rows and 100 columns. It is organized into 10 classes, making it a multi-class classification dataset. The data has been stratified, meaning that the class distribution has been maintained, resulting in a representative sample. This dataset holds potential for various machine learning tasks, such as classification or feature selection. Analyzing the data and implementing appropriate algorithms will enable effective predictions and insights.

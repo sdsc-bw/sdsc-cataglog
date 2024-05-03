@@ -1,0 +1,3 @@
+name: AP_Omentum_Ovary
+dataset_id: 1156.0
+description: The dataset AP_Omentum_Ovary contains information about patients diagnosed with primary omental tumors and primary ovarian tumors. The dataset includes various attributes such as age, race, disease stage, tumor type, and treatment information. A total of 242 patients are included in the dataset, with 94 patients having omental tumors and 148 patients having ovarian tumors. The dataset provides valuable information for studying the characteristics and treatment outcomes of these specific types of tumors. The data can be used to gain insights into the demographics, pathology, and treatment patterns for patients with primary omental and ovarian tumors.

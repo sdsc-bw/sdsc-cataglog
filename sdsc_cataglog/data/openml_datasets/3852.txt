@@ -1,0 +1,3 @@
+name: jannis
+dataset_id: 43977.0
+description: The dataset "Jannis" contains information about online news articles and their popularity on social media. It includes attributes such as headline, URL, number of shares, number of comments, and sentiment analysis score. The dataset also provides details about the news website, its popularity on Facebook, size of news company, and the article's publish date and time. It covers a wide range of news topics including technology, politics, lifestyle, entertainment, and more. The dataset, with over 39,000 records, is useful for studying factors affecting popularity of online news articles, understanding user engagement, and for developing predictive models in the field of data science and social media analytics.

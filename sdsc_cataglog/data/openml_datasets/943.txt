@@ -1,0 +1,3 @@
+name: breast-tissue
+dataset_id: 1465.0
+description: The dataset breast-tissue consists of 10 attributes and 106 instances, specifically designed for the breast cancer domain. The attributes include various characteristics of breast tissue, such as age, shape, margin, density, and other parameters. The dataset aims to assist in classifying tissue samples as either carcinoma or fibro-adenoma. Some attributes are categorical while others are continuous. Each instance represents a tissue sample, and the class variable identifies the type of tissue. The dataset has been utilized to develop classification models to diagnose and predict the presence of breast cancer in patients based on tissue characteristics.

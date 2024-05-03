@@ -1,0 +1,3 @@
+name: QSAR-TID-101349
+dataset_id: 3599.0
+description: The dataset QSAR-TID-101349 consists of 1584 chemical compounds, each described by 821 numerical descriptors designed to predict the aquatic toxicity of the compounds. The target variable in this dataset is the toxicity value, measured as -log10(molar concentration causing 50% mortality within 48 hours) for the water flea Daphnia Magna. The dataset includes compounds from diverse chemical families, with varying levels of toxicity. The input variables comprise a wide range of physicochemical properties, including atom-based, electronic, constitutional, geometrical, and topological descriptors. This dataset can be used for regression analysis or to develop machine learning models for toxicity prediction.

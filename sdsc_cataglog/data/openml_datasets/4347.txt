@@ -1,0 +1,3 @@
+name: jasmine_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44525.0
+description: The dataset jasmine_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset with 2000 rows, 10 classes, and 100 columns. It has been stratified, meaning that the distribution of classes is maintained in the dataset. The dataset contains diverse data points with a wide range of variables and is likely suitable for various machine learning tasks. However, detailed information about the specific nature or purpose of the dataset is not provided in these sentences.

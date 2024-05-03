@@ -1,0 +1,3 @@
+name: ID
+dataset_id: 42004.0
+description: The dataset ID is a unique identifier assigned to a specific dataset. This identifier is used to retrieve and reference the dataset when needed. It helps in distinguishing and organizing multiple datasets within a system or platform. The ID serves as a key component in data management and facilitates efficient data retrieval and analysis. By using the dataset ID, individuals or applications can locate and access the desired dataset easily. It ensures the accuracy and integrity of data by avoiding confusion and duplication. Having a dataset ID enables seamless collaboration and sharing of data across different users and systems.

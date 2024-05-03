@@ -1,0 +1,3 @@
+name: QSAR-TID-10297
+dataset_id: 3924.0
+description: The QSAR-TID-10297 dataset contains information about a series of organic compounds and their corresponding molecular properties. It includes 187 compounds with 79 different molecular features, as well as their associated activity levels against a specific target. The compounds were tested using quantitative structure-activity relationship (QSAR) models to predict their biological activity. The dataset also includes additional descriptors like the chemical structure, formula, and molecular weight of the compounds. QSAR-TID-10297 is useful for developing and evaluating models for predicting the activity of similar compounds and can aid in drug discovery and medicinal chemistry research.

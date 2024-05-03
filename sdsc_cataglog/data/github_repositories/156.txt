@@ -1,0 +1,3 @@
+repo_name: gluon-nlp
+link: https://github.com/dmlc/gluon-nlp
+description: GluonNLP is a toolkit that helps you solve NLP problems. It provides easy-to-use tools that helps you load the text data, process the text data, and train models. See our documents at https://nlp.gluon.ai/master/index.html. To facilitate both the engineers and researchers, we provide command-line toolkits for downloading and processing the NLP datasets. For more details, you may refer to GluonNLP Datasets and GluonNLP Data Processing Tools. You may go to tests to see how to run the unittests. You can use Docker to launch a JupyterLab development environment with GluonNLP installed. For more details, you can refer to the guidance in tools/docker.

@@ -1,0 +1,3 @@
+name: City-Quality-of-Life-Dataset
+dataset_id: 43827.0
+description: The dataset City-Quality-of-Life-Dataset comprises valuable information about the quality of life in various cities around the world. It contains detailed statistics on a range of factors, such as infrastructure, education, healthcare, safety, environment, and more. The dataset helps in understanding the overall livability and well-being of different cities. With a wide coverage of cities from different countries, it enables comparisons and analysis of quality of life across various regions. The dataset is frequently updated, offering up-to-date information for researchers, policymakers, and urban planners to make informed decisions and improvements in urban development and quality of life initiatives.

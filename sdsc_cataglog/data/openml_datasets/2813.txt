@@ -1,0 +1,3 @@
+name: forest_fires
+dataset_id: 42363.0
+description: The dataset "forest_fires" contains information about forest fires in the region of Montesinho Natural Park in northeast Portugal. It consists of 517 instances with 13 attributes, including the date of the fire, the coordinates of its location, the month and day of the week, and various weather parameters such as temperature, humidity, wind speed, and rain. The dataset also includes the area of the forest that was burned in each instance. The purpose of this dataset is to analyze the factors that contribute to forest fires and develop predictive models to help prevent and manage them effectively.

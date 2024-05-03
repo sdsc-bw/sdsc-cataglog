@@ -1,0 +1,3 @@
+name: autoPrice
+dataset_id: 756.0
+description: The dataset, autoPrice, contains information about various attributes of automobile vehicles. It includes 22 columns and a total of 205 instances. The dataset provides details on features like make, fuel type, body style, engine size, horsepower, peak rpm, city and highway mpg, price, and many others. Some columns have missing values represented by '?'. The dataset offers a range of continuous and categorical variables, providing valuable insights for analyzing and modeling automobile-related data. Consequently, this dataset serves as a valuable resource for researchers, analysts, and enthusiasts in the automotive industry for various purposes like pricing, prediction, and trend analysis.

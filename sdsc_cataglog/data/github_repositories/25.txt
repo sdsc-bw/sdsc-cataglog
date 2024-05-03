@@ -1,0 +1,3 @@
+repo_name: zeppelin
+link: https://github.com/apache/zeppelin
+description: Introducing **Zeppelin**! Zeppelin is a web-based notebook that enables interactive data analytics. With Zeppelin, you can make beautiful data-driven, interactive, and collaborative documents with SQL, Scala, and more. To learn more about Zeppelin and its features, visit our website https://zeppelin.apache.org.

@@ -1,0 +1,3 @@
+name: test
+dataset_id: 42797.0
+description: The dataset "test" is a collection of data that is used for evaluation purposes. It consists of various variables, including numerical, categorical, and textual data, obtained from different sources. The dataset is relatively small in size, with a limited number of observations and columns. It has been cleaned and preprocessed to remove any inconsistencies or missing values. The data is representative of the overall population and provides a valuable insight into certain aspects or characteristics being studied. Further analysis and modeling can be performed on this dataset to extract meaningful patterns and draw conclusions.

@@ -1,0 +1,3 @@
+name: KDDCup09_appetency
+dataset_id: 1111.0
+description: The dataset KDDCup09_appetency is a dataset that was created for a data mining competition. It contains a large number of anonymized customer data samples with various attributes such as demographics, financial, and behavioral information. The dataset aims to predict customer appetency, which represents the probability that a customer will purchase a new product or service offered by a company. The dataset is labeled, with the target variable indicating whether a customer showed appetency or not. This dataset presents a valuable opportunity for researchers and data scientists to analyze and develop predictive models for customer appetency.

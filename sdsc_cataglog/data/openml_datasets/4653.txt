@@ -1,0 +1,3 @@
+name: cars
+dataset_id: 44994.0
+description: The dataset "cars" contains information related to various car models. It consists of multiple attributes such as the car's make, model, year of production, horsepower, weight, and number of cylinders. The dataset also includes data on the car's fuel consumption, engine displacement, and acceleration. Some additional attributes present in the dataset provide details about the car's country of origin, whether it is a foreign or domestic model, and its car classification (compact, midsize, etc.). The dataset "cars" offers a comprehensive collection of car-related information that can be used for various analytical and research purposes.

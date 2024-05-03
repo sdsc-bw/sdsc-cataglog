@@ -1,0 +1,3 @@
+name: Player_names
+dataset_id: 42199.0
+description: The dataset "Player_names" provides information about different players. It likely includes the names of players, potentially along with additional data such as their respective teams or positions. The dataset focuses on player-specific information and can be used for various purposes, such as analysis, statistics, or creating player profiles. It may also be useful for creating applications or systems that require player-related data. Overall, the dataset is a valuable resource for obtaining information about a wide range of players, making it suitable for use in sports-related industries, research, and other domains.

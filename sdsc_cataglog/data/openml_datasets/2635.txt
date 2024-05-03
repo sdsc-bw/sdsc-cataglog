@@ -1,0 +1,3 @@
+name: Forex
+dataset_id: 41906.0
+description: The dataset Forex contains historical currency exchange rates data, encompassing a wide range of currencies from various countries. It provides information on the buying and selling rates for these currencies throughout different time periods, allowing for analysis of trends and patterns in the forex market. The dataset includes data on exchange rates for major currencies like the US dollar, euro, British pound, and Japanese yen, as well as numerous other currencies. It covers a significant timeframe, providing useful insights into the fluctuating rates over the years. Researchers and analysts can utilize this dataset to explore and understand the dynamics of the global forex market.

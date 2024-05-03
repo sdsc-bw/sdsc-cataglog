@@ -1,0 +1,3 @@
+name: genbase
+dataset_id: 41467.0
+description: The dataset "genbase" is a collection of DNA sequences from various sources, including viruses, bacteria, and other organisms. It was created for the purpose of classification and prediction tasks in the field of bioinformatics. The dataset consists of 662 sequences, each representing a gene, and is split into two classes: "plus" and "minus". The "plus" class includes genes that are transcribed during a certain process, while the "minus" class represents genes that are not transcribed. Genbase is widely used in machine learning and data mining research to develop models that can predict gene transcription based on sequence characteristics.

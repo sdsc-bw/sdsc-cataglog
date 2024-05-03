@@ -1,0 +1,3 @@
+name: covid-19_sentiments-India200320---310520
+dataset_id: 43697.0
+description: The dataset "covid-19_sentiments-India200320---310520" contains information about sentiments related to the COVID-19 pandemic in India. The dataset covers a timeframe from 20th March 2020 to 31st May 2020. It includes data on people's sentiments, opinions, and emotions expressed through various platforms like social media and news articles. The dataset provides insights into the public sentiment towards the pandemic situation in India during this period. It can be used for sentiment analysis and understanding the public's response to the COVID-19 outbreak in the country.

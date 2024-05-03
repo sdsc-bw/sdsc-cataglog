@@ -1,0 +1,3 @@
+repo_name: imglab
+link: https://github.com/NaturalIntelligence/imglab
+description: ImgLab is a web-based tool designed to label images for objects that can be used to train dlib or other object detectors. It is platform independent and runs directly from the browser, requiring minimal CPU and memory. ImgLab features auto suggestion, plugins, different shapes, and keyboard shortcuts, among others. To learn more about how to use ImgLab's features, please check the demo video tutorial/demonstration or the user guide. If you are interested in contributing to ImgLab, please read CONTRIBUTING.md for the details on our code of conduct and the process for submitting pull requests.

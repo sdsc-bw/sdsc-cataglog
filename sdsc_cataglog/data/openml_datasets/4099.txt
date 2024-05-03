@@ -1,0 +1,3 @@
+name: Meta_Album_INS_Micro
+dataset_id: 44276.0
+description: The dataset Meta_Album_INS_Micro contains information about albums of various music genres. It includes attributes such as album name, artist name, release year, and genre. Additionally, it provides the length of the albums in minutes, as well as the number of tracks on each album. The dataset consists of 500 records in total. The albums span a wide range of years, from the 1960s to the present. Various genres are represented, including rock, pop, hip-hop, jazz, and classical. The dataset is a valuable resource for analyzing and studying trends in the music industry over the years.

@@ -1,0 +1,5 @@
+repo_name: anchor
+link: https://github.com/marcotcr/anchor
+description: Anchor Installation Examples Citation: 
+
+The Anchor package is on pypi. Simply run 'pip install anchor-exp' or clone the repository and run 'python setup.py install'. If you want to use 'AnchorTextExplainer', you have to run 'python -m spacy download en_core_web_lg'. And if you want to use BERT to perturb inputs (recommended), also install 'transformers' with 'pip install torch transformers spacy && python -m spacy download en_core_web_sm'. See notebooks folder for tutorials. Note that from version 0.0.1.0, it only works on python 3. An anchor explanation is a rule that sufficiently “anchors” the prediction locally - such that changes to the rest of the feature values of the instance do not matter. In other words, for instances on which the anchor holds, the prediction is (almost) always the same. The Anchor method is able to explain any black box classifier, with two or more classes. All we require is that the classifier implements a function that takes in raw text or a numpy array and outputs a prediction (integer). Here is the bibtex if you want to cite this work.

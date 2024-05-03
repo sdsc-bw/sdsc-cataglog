@@ -1,0 +1,3 @@
+name: covertype
+dataset_id: 43948.0
+description: The dataset covertype contains cartographic variables of 581,012 30x30 meter cells from the Roosevelt National Forest in Colorado. Each cell represents a 1-hectare area. The dataset includes 54 attributes, such as elevation, slope, aspect, soil type, wilderness area, and more. The target attribute is the cover type of the forest, which can be one of seven categories (spruce/fir, lodgepole pine, ponderosa pine, cottonwood/willow, aspen, douglas-fir, Krummholz) or an outlier class. The dataset can be used for classification or regression tasks, and has been widely used in machine learning research to predict forest cover types based on the provided attributes.

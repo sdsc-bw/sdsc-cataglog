@@ -1,0 +1,3 @@
+name: Test_vectors_trans_posneg2
+dataset_id: 42551.0
+description: The dataset "Test_vectors_trans_posneg2" is referenced in the sentences. It likely contains transformed test vectors labeled as positive or negative. The nature of the transformation is not specified. The dataset may serve as input for a machine learning or classification model. It could aid in evaluating the model's performance on test data. However, the size, specific content, or origin of the dataset is not clarified. Further information is needed to provide a more detailed summary or analysis.

@@ -1,0 +1,3 @@
+name: Autism-Screening
+dataset_id: 43414.0
+description: The Autism-Screening dataset contains information about children who have been evaluated for autism. It includes 293 instances, each characterized by 20 features such as gender, ethnicity, and age. Out of these, 105 instances are classified as "autism" while 188 are classified as "non-autism". The dataset is publicly available, and its purpose is to aid researchers and practitioners in developing accurate autism screening and diagnosis tools. The data was collected using various screening instruments and validated by expert clinicians. It serves as a valuable resource for identifying patterns, correlations, and predictive models related to autism screening.

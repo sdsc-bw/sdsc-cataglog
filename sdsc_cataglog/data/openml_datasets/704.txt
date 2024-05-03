@@ -1,0 +1,3 @@
+name: pasture
+dataset_id: 964.0
+description: The dataset "pasture" provides information about various attributes related to pastures in an agricultural setting. It contains data on the type of pasture (natural or improved), the plant species present, the nutritional quality, and the soil characteristics. The dataset also includes information on the physical characteristics of the pastures, such as size, slope, and aspect. Additionally, it provides details about the management practices, including grazing intensity, fertilization, and irrigation. This dataset is valuable for analyzing the factors that influence pasture quality and productivity, as well as for implementing effective pasture management strategies to optimize agricultural productivity.

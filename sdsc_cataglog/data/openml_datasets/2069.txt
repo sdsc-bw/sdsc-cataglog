@@ -1,0 +1,3 @@
+name: QSAR-TID-10654
+dataset_id: 4055.0
+description: The dataset QSAR-TID-10654 contains information about compounds' chemical properties and biological activities. The dataset has 1055 instances and 202 features, including molecular descriptors and fingerprints. The task is to predict compounds' inhibitory effect, measured as the concentration that causes 50% inhibition of a target protein. The range of inhibitory concentrations is from 0.0001 to 1000000 nmol/L. The dataset exhibits balanced class distribution, with approximately 59% positive and 41% negative instances. QSAR-TID-10654 provides valuable information for developing predictive models and understanding the relationship between chemical features and biological activities for compounds.

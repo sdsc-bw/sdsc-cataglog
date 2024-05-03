@@ -1,0 +1,3 @@
+name: SMK
+dataset_id: 45100.0
+description: The SMK dataset is a collection of social media posts composed by users who were asked to reflect on their personal experiences, emphasizing any personal growth they may have gained. The dataset contains over 3.3 million posts collected from a variety of social media platforms. Each post in the dataset is accompanied by information such as the user's age, gender, and level of education. The dataset was created to facilitate research on personal growth and is intended to be used for sentiment analysis and natural language processing tasks. It provides a large and diverse collection of social media texts for researchers to analyze for insights into personal development.

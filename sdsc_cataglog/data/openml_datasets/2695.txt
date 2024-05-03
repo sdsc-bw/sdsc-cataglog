@@ -1,0 +1,3 @@
+name: iris
+dataset_id: 42041.0
+description: The dataset "iris" is a well-known and widely used dataset in machine learning and statistics. It contains measurements of four features (sepal length, sepal width, petal length, and petal width) for three different species of iris flowers (setosa, versicolor, and virginica). The dataset consists of 150 observations, with 50 samples from each species. It is often used for classification tasks, as the different species can typically be distinguished based on their feature measurements. The iris dataset is a popular choice for beginners in machine learning due to its simplicity and availability, making it a useful tool for learning and experimenting with algorithms.

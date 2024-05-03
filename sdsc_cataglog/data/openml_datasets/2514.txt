@@ -1,0 +1,3 @@
+name: FOREX_eursek-hour-High
+dataset_id: 41779.0
+description: The dataset "FOREX_eursek-hour-High" focuses on the high prices of the EUR/SEK currency pair at hourly intervals. It provides information on the highest value reached by the currency pair within each hour. The dataset likely contains historical data, allowing for analysis of past trends and patterns in the EUR/SEK pair. It is a valuable resource for traders and investors looking to understand the historical performance of the currency pair in terms of its highest value within each hour. The dataset could facilitate the development of trading strategies or the identification of profitable trading opportunities.

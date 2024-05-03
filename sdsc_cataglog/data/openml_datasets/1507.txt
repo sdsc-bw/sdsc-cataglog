@@ -1,0 +1,3 @@
+name: QSAR-TID-20033
+dataset_id: 3490.0
+description: The dataset QSAR-TID-20033 consists of molecular features of various chemical compounds that are believed to be linked to their biological activity. These features include molecular descriptors such as constitutional, topological, geometrical, and electrostatic, as well as quantum-chemical descriptors. The dataset also includes the biological activity of each compound, measured as the inhibitory concentration against an enzyme. The dataset aims to aid in the development of predictive models for the biological activity of chemical compounds. It contains a total of 1055 instances, with 41 descriptors and one target variable, making it suitable for machine learning and regression analysis.

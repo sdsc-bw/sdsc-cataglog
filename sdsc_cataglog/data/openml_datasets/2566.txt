@@ -1,0 +1,3 @@
+name: FOREX_eurdkk-hour-Close
+dataset_id: 41831.0
+description: The FOREX_eurdkk-hour-Close dataset contains hourly closing prices for the currency pair EUR/DKK in the foreign exchange market. The dataset provides information on the exchange rate between the Euro (EUR) and the Danish Krone (DKK) at different points in time. The data is recorded on an hourly basis, capturing the closing price of the currency pair for each hour. This dataset can be used to analyze trends and fluctuations in the exchange rate between EUR and DKK over time and to study the relationship between these two currencies in the foreign exchange market.

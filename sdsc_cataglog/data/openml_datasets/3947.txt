@@ -1,0 +1,3 @@
+name: MagicTelescope
+dataset_id: 44073.0
+description: The dataset MagicTelescope contains information about high-level gamma-ray counts recorded by a ground-based gamma-ray telescope. It includes 19,020 instances and 11 attributes, 10 of which are quantitative and one is qualitative. The dataset does not have any missing values. The aim is to predict whether a gamma-ray source is a signal from a pulsar star (target class) or background noise. The dataset is skewed, with 66% of instances representing the background class and 34% representing the signal class. It was obtained from the MAGIC Gamma Telescope located in the Canary Islands. The dataset can be found on the UCI Machine Learning Repository.

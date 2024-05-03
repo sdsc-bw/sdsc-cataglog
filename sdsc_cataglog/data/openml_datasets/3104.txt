@@ -1,0 +1,3 @@
+name: gnfuv-pi-4
+dataset_id: 42981.0
+description: The dataset gnfuv-pi-4 provides information on major crimes that occurred in the city of Chicago from 2001 to present. It includes details about the type of crime, location, date, and time. The dataset is updated regularly and contains a large amount of data. It is maintained by the Chicago Police Department and can be accessed by the public. Researchers, analysts, and policymakers can use this dataset to analyze crime patterns, identify trends, and develop strategies for crime prevention and law enforcement. The dataset is valuable for understanding the crime landscape in Chicago and making informed decisions regarding public safety measures.

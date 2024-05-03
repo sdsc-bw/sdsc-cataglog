@@ -1,0 +1,3 @@
+name: Click_prediction_small_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44764.0
+description: The dataset called Click_prediction_small_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows and 100 columns. It has been stratified into 10 classes for classification purposes. The dataset has been created using a specific seed to ensure reproducibility. It is used to predict click events. However, no further information about the specific variables or the context of the dataset is provided.

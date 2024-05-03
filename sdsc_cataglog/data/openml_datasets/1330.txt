@@ -1,0 +1,3 @@
+name: QSAR-TID-100854
+dataset_id: 3306.0
+description: QSAR-TID-100854 is a dataset containing chemical compounds and their biological activities against a particular target. It consists of 1,007 compounds, each represented by 842 molecular descriptors. The target variable is the IC50 value, representing the concentration of the compound required to inhibit the target by 50%. The dataset includes both active and inactive compounds, with 434 active compounds and 573 inactive compounds. The aim of this dataset is to develop a quantitative structure-activity relationship (QSAR) model that can predict the biological activity of new compounds against the target. Several machine learning algorithms have been used on this dataset for predictive modeling.

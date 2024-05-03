@@ -1,0 +1,3 @@
+name: QSAR-TID-100853
+dataset_id: 3602.0
+description: The dataset QSAR-TID-100853 contains information on the biological activity of a set of compounds. It consists of 1053 instances with 41 attributes, including 40 molecular descriptors and a target variable indicating the activity. The target variable is a continuous numeric value ranging from -1.9 to 5.7. The dataset has been used for developing quantitative structure-activity relationship (QSAR) models to predict the activity of compounds. It has been preprocessed to remove duplicate instances and normalize the attribute values. The dataset is freely available for research purposes and can be used to develop and evaluate machine learning models for predicting compound activity.

@@ -1,0 +1,3 @@
+name: Pollen-Luxembourg-1992-2018
+dataset_id: 43648.0
+description: The dataset Pollen-Luxembourg-1992-2018 contains information about pollen levels in Luxembourg from the years 1992 to 2018. It includes data on various types of pollen, such as birch, grass, and ragweed, along with their respective counts. The dataset also includes information about the dates when the data was collected and the location of the monitoring site. This dataset is valuable for studying pollen patterns, allergenic plants, and their impact on human health over a span of 26 years in Luxembourg. Researchers can use this dataset to analyze and understand the trends and changes in pollen levels over time.

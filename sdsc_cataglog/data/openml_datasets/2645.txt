@@ -1,0 +1,3 @@
+name: Sick_numeric
+dataset_id: 41944.0
+description: The dataset Sick_numeric contains 30 attributes and 3,000 instances. It is a binary classification dataset designed to predict the presence of a specific medical condition. The target attribute indicates whether a person is sick (1) or well (0). The dataset has missing values in several attributes, denoted by "?". The numerical attributes range in scale and are not normalized. The dataset is derived from real-life patient data, with information collected from various medical examinations. The dataset provides valuable insights for developing machine learning models to classify and predict the presence of the medical condition.

@@ -1,0 +1,3 @@
+name: U.S.-Airbnb-Open-Data
+dataset_id: 43369.0
+description: The U.S.-Airbnb-Open-Data dataset contains information regarding Airbnb listings across the United States, including various attributes of the properties and their availability. The dataset consists of 1,541,305 observations and 29 columns of data. The columns cover a wide range of features such as host ID, property type, neighborhood, review scores, availability, pricing, and more. It provides comprehensive information that can be used for various analytical purposes, including studying the Airbnb market, identifying trends, and making data-driven decisions related to rental properties or the tourism industry in the United States.

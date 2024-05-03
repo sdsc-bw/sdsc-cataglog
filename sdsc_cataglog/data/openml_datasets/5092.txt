@@ -1,0 +1,3 @@
+name: chen_10_null
+dataset_id: 45633.0
+description: The dataset chen_10_null contains null values in some of its variables. It consists of ten variables related to financial information. The variables include "age," "education," "income," "savings," "employment status," "debt," "credit score," "housing status," "marital status," and "gender." The dataset is organized with each variable representing a column, and each row representing an individual. The null values in the dataset indicate missing or unknown information for some individuals. This dataset is essential for analyzing the relationship between financial factors and other variables.

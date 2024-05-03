@@ -1,0 +1,3 @@
+name: mini_insect_1
+dataset_id: 43886.0
+description: The dataset mini_insect_1 is a collection of data regarding various insect species. It includes information such as the species' scientific names, family, order, and kingdom. There are a total of 100 insect species in this dataset. The data has been collected from different sources, and efforts have been made to ensure the accuracy and reliability of the information. Additionally, the dataset provides details on the geographical distribution of each species, including the latitude and longitude coordinates of their habitats. Overall, mini_insect_1 serves as a valuable resource for studying and analyzing insect biodiversity.

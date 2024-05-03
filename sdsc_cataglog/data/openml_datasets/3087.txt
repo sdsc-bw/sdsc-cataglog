@@ -1,0 +1,3 @@
+name: wimbledon-women-2013
+dataset_id: 42964.0
+description: The dataset "wimbledon-women-2013" contains information related to the women's singles matches played during the 2013 Wimbledon tournament. It provides details such as the player names, country, ranking, and the outcome of each match. The dataset also includes statistics like the number of aces, double faults, and games won by each player. Additionally, it includes information about the duration of the match and the type of court surface it was played on. This dataset is a valuable resource for analyzing the performance of players, identifying trends, and gaining insights into the 2013 Wimbledon women's tournament.

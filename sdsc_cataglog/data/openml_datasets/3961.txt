@@ -1,0 +1,3 @@
+name: phoneme
+dataset_id: 44087.0
+description: The phoneme dataset consists of data collected from human speakers pronouncing phonetic sounds. It contains recordings of 1,846 different phonemes from 100 speakers, with each speaker producing 18 phonemes. The dataset includes both male and female speakers, covering a wide range of ages. The recordings have been sampled at a frequency of 16kHz and are stored in WAV file format. Each recording is approximately 10 seconds long. This dataset is commonly used in research and development of speech recognition systems, phonetics, and linguistics. The dataset provides valuable resources for studying phonemes and their variations across different speakers.

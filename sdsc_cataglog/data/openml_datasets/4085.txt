@@ -1,0 +1,3 @@
+name: anneal
+dataset_id: 44262.0
+description: The dataset anneal is used for classification tasks and consists of 898 samples with 38 input variables and 6 output classes. It contains data from continuous variables, as well as categorical variables with varying ranges and levels of measurement. The goal of the dataset is to predict the value of the class attribute based on the input variables, which include factors like chemical composition, processing method, and continuous variables relating to the final microstructure. The dataset offers a variety of challenges, such as handling missing values and dealing with categorical variables with different levels, making it suitable for various classification algorithms and data preprocessing techniques.

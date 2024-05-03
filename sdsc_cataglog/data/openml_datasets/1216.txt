@@ -1,0 +1,3 @@
+name: QSAR-TID-102807
+dataset_id: 3192.0
+description: The dataset QSAR-TID-102807 consists of chemical compounds and their corresponding biological activities. It contains various molecular descriptors, such as lipophilicity and molecular weight, which provide insights into the chemical properties of the compounds. The dataset is primarily focused on predicting the acute aquatic toxicity of the compounds, using regression analysis. It includes 1,057 instances and 10 attributes. The target variable is the toxicity expressed as the negative logarithm of the 50% lethal concentration. The dataset is valuable for researchers working in the fields of pharmaceuticals, biotechnology, and toxicology, aiding in the development of safer and more effective chemicals.

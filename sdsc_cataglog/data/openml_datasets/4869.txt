@@ -1,0 +1,3 @@
+name: diabetes_8
+dataset_id: 45227.0
+description: The dataset diabetes_8 contains information related to diabetes patients' medical records. It includes 768 observations and 9 variables, including the patient's pregnancy status, glucose level, blood pressure, skin thickness, insulin level, body mass index (BMI), diabetes pedigree function, age, and the target variable, indicating whether the patient has diabetes or not. The dataset provides valuable insights into the factors that contribute to diabetes, allowing for effective analysis and prediction of the disease. It is a comprehensive resource for researchers and healthcare professionals aiming to understand and address diabetes-related challenges.

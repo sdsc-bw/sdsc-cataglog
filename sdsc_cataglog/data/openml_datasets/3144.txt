@@ -1,0 +1,3 @@
+name: art_daily_nojump2
+dataset_id: 43049.0
+description: The dataset art_daily_nojump2 contains video footage captured within an art exhibit, consisting of 60 surveillance video segments. Each segment has a duration of approximately 15 seconds. The videos were recorded for the purpose of monitoring the exhibit and detecting any abnormal behaviors or activities. The dataset was created for training and evaluating video anomaly detection algorithms. The videos are stored in the h264 format with a resolution of 640x360 pixels and a frame rate of 12 frames per second. The dataset provides ground truth labels indicating the presence or absence of anomaly events in each video segment.

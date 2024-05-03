@@ -1,0 +1,3 @@
+name: dataset_time
+dataset_id: 42644.0
+description: The dataset named dataset_time contains information about time series data. It consists of multiple columns including 'datetime' that represents the timestamp of each data point. Other columns in the dataset provide relevant information about the corresponding timestamp such as 'temperature', 'humidity', and 'pressure'. The dataset_time is structured in a tabular format with rows representing different timestamps and columns representing different variables. This dataset can be used for analyzing and forecasting time-dependent data patterns.

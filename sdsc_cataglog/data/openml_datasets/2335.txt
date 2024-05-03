@@ -1,0 +1,3 @@
+name: rl
+dataset_id: 41160.0
+description: The dataset RL is a collection of different reinforcement learning environments and tasks gathered from various sources. It includes several classic control tasks, such as CartPole and MountainCar, as well as Atari 2600 games. The datasets are designed to be used in training reinforcement learning agents and evaluating their performance. The environments in the dataset provide state representations, rewards, and possible actions for the agents to interact with. RL dataset aims to serve as a benchmark for evaluating the effectiveness of different reinforcement learning algorithms and approaches in solving complex tasks and games.

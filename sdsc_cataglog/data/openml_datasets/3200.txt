@@ -1,0 +1,3 @@
+name: coronary_dataset
+dataset_id: 43154.0
+description: The coronary_dataset is a dataset that contains information about various medical conditions related to the heart and coronary arteries. It includes data on patients' age, sex, blood pressure, cholesterol level, blood sugar level, electrocardiographic results, maximum heart rate achieved, exercise-induced angina, and the presence of a heart disease. The dataset consists of 303 records, with each record representing a different patient. It is commonly used for research and analysis related to heart diseases and can provide insights into risk factors and potential diagnostic markers for coronary artery disease.

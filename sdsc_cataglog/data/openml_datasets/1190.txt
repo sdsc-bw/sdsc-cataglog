@@ -1,0 +1,3 @@
+name: QSAR-TID-279
+dataset_id: 3166.0
+description: The dataset QSAR-TID-279 contains information about the toxicity of certain chemical compounds. It includes 879 descriptors for 1055 compounds, along with their corresponding logarithm of experimental toxicity against Vibrio fischeri. The goal is to predict the toxicity of new chemical compounds based on their descriptors. The dataset is publicly available and has been used in machine learning research. It provides a valuable resource for developing models and algorithms in the field of toxicology and chemical risk assessment.

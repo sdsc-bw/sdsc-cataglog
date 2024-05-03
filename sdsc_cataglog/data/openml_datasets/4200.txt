@@ -1,0 +1,3 @@
+name: covertype_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44381.0
+description: The dataset covertype_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True contains information about forest cover types. It consists of 2,000 rows and 100 columns with 10 different classes. The dataset is stratified, meaning that it includes proportional representation of each class. This dataset is useful for studying the different types of forest covers and their characteristics. It provides an opportunity to analyze and predict the various classes of forest cover based on the available features. With a large number of rows and columns, it offers a comprehensive set of data to explore and build models for forest cover type classification.

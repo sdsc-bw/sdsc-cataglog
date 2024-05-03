@@ -1,0 +1,3 @@
+name: QSAR-TID-10950
+dataset_id: 4071.0
+description: The dataset QSAR-TID-10950 contains 1,500 chemical compounds with their respective molecular descriptors and solubility values. These descriptors, which describe different aspects of the compounds such as size, shape, and connectivity, were calculated using software based on quantum-mechanical theories. The solubility values were measured experimentally. The dataset aims to explore the relationship between the molecular descriptors and the solubility of the compounds using machine learning algorithms. The dataset is divided into training and test sets, with 1,200 compounds in the training set and 300 in the test set.

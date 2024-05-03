@@ -1,0 +1,3 @@
+name: kdd_internet_usage
+dataset_id: 981.0
+description: The dataset "kdd_internet_usage" contains information on Internet usage. It includes variables such as the user's age, gender, education level, income, the type of device used to access the Internet, the purpose of Internet usage, the time spent online, and the user's satisfaction level. The data was collected over a certain period and provides insights into how different demographic factors affect Internet usage habits. This dataset can be useful for analyzing user behavior trends, conducting market research, and developing targeted advertising strategies. It can also help researchers understand the impact of Internet usage on various aspects of life.

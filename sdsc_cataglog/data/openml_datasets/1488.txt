@@ -1,0 +1,3 @@
+name: QSAR-TID-102414
+dataset_id: 3470.0
+description: The dataset QSAR-TID-102414 is a collection of chemical compounds with accompanying information on their biological activity. It contains 1,024 compounds and 524 features calculated from their structures. The biological activity of these compounds is measured using a logarithm of inhibitory concentration. The dataset includes compound identifiers, molecular descriptors, and the biological activity values. The compounds come from various sources, including research articles and databases, and were selected based on their structural diversity. This dataset can be used for quantitative structure-activity relationship (QSAR) modeling and drug discovery research.

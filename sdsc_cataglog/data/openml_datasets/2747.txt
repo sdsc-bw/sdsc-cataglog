@@ -1,0 +1,3 @@
+name: SVHN_medium
+dataset_id: 42141.0
+description: The dataset SVHN_medium is a subset of the Street View House Numbers (SVHN) dataset. It contains color images of house numbers in street-level photos from Google Street View. The images in SVHN_medium dataset are cropped around the digits and resized to a fixed size, making it suitable for machine learning tasks. It consists of over 600,000 labeled images that are divided into training, validation, and testing sets. The dataset is challenging due to various factors like digit segmentation, hard-to-read characters, and cluttered backgrounds. It offers a valuable resource for researchers and developers working on tasks like character recognition, object detection, and deep learning.

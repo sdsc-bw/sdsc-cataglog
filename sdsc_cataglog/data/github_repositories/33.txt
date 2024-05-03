@@ -1,0 +1,3 @@
+repo_name: jActivity2PMML
+link: https://github.com/teco-kit/jActivity2PMML
+description: This package illustrates how to deploy code to create PMML models for sensor data collected via jActivity. The function "getPMML(json_file)" can be run by handing over a JSON file containing "sensor", "label", and "classifier" information. An example of this JSON file is provided. To use this package, install it with devtools by running "install_github("jActivity2PMML")". To run the app in OpenCPU, load the library and browse to the corresponding URL.

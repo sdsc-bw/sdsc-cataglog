@@ -1,0 +1,3 @@
+name: pair0002
+dataset_id: 43296.0
+description: The dataset pair0002 illustrates the relationship between the genes MMP3 and Psoriasis. The dataset contains information on the expression levels of these genes in different individuals with and without Psoriasis. It includes data from 43 samples, with 28 samples from individuals with Psoriasis and 15 samples from individuals without the condition. The dataset also provides information on the age, sex, and disease severity of the individuals. Analysis of the dataset reveals that the expression level of MMP3 is significantly higher in individuals with Psoriasis compared to those without the condition. This dataset provides valuable insights into the potential role of the MMP3 gene in Psoriasis.

@@ -1,0 +1,3 @@
+name: QSAR-TID-12396
+dataset_id: 3918.0
+description: The dataset QSAR-TID-12396 contains information related to a chemical compound called SEP-227947, which is used in the treatment of osteoarthritis. The dataset includes a total of 9245 instances and 1029 numerical attributes, along with a target variable indicating the inhibitory potency of SEP-227947 on the 5-lipoxygenase enzyme. The dataset is compiled using quantum mechanical descriptors and physicochemical properties that provide insights into the compound's structure and behavior. The dataset aims to facilitate the development of a quantitative structure-activity relationship (QSAR) model to predict the inhibitory potency of similar compounds.

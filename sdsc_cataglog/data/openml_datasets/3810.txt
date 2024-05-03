@@ -1,0 +1,3 @@
+name: mushroom
+dataset_id: 43923.0
+description: The mushroom dataset is a collection of information about mushrooms. It contains various features for each mushroom, such as its cap shape, cap color, odor, gill size, stalk color, and many more. The dataset is used to classify mushrooms into poisonous or edible categories based on these features. With more than 8000 instances, the dataset provides a comprehensive and diverse range of mushrooms. The data is primarily categorical, but also includes a few numerical attributes. It is widely used for machine learning classification tasks and has been extensively studied in the field of data analysis.

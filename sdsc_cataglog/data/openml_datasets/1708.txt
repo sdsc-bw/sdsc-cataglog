@@ -1,0 +1,3 @@
+name: QSAR-TID-10984
+dataset_id: 3691.0
+description: The dataset QSAR-TID-10984 contains information about 4,898 chemical compounds. It includes 102 molecular descriptors which are used to predict the toxicity and carcinogenicity of these compounds. Each compound is labeled as either "positive" or "negative" based on its toxic/carcinogenic properties. The data was collected using quantum mechanics calculations, and it is organized into a CSV file format. The dataset is designed for use in the field of Quantitative Structure-Activity Relationship (QSAR) studies and can help researchers in predicting the potential toxicity and carcinogenicity of new chemical compounds.

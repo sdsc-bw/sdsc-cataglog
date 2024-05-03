@@ -1,0 +1,3 @@
+name: fri_c2_1000_5
+dataset_id: 912.0
+description: The dataset fri_c2_1000_5 contains information on 1000 user profiles from an online social networking site. Each profile consists of 5 features, including demographic information such as age, gender, and location, as well as social network attributes. The dataset has been anonymized to ensure privacy. The purpose of this dataset is to study various user behaviors and trends within the social network. Researchers can use this dataset to analyze relationships between different features and draw insights regarding user preferences and patterns. The dataset provides a valuable resource for understanding social network dynamics and can be utilized for developing targeted marketing strategies or recommendation systems.

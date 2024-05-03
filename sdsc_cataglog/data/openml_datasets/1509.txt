@@ -1,0 +1,3 @@
+name: QSAR-TID-100834
+dataset_id: 3492.0
+description: The dataset QSAR-TID-100834 contains information about the toxicity of certain chemical compounds. It consists of 1055 instances and 14 numerical input variables. The target variable is binary, with 878 instances labeled as non-toxic and 177 instances labeled as toxic. The features are derived from molecular descriptors and graph-based matrices, representing various characteristics of the compounds. The dataset was developed for the purpose of training and evaluating predictive models for toxicity prediction. The data is publicly available and can be utilized for tasks related to chemoinformatics, drug design, and toxicity assessment in the pharmaceutical industry.

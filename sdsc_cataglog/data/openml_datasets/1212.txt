@@ -1,0 +1,3 @@
+name: QSAR-TID-100483
+dataset_id: 3188.0
+description: The dataset QSAR-TID-100483 provides information on the biological activity of a set of chemical compounds. It consists of 410 compounds and 2,525 molecular descriptors, including constitutional, topological, geometrical, and electronic properties. The biological activity is measured using a mutant strain of Salmonella typhimurium bacteria and is given as the negative logarithm of the concentration needed to inhibit bacterial growth by 50% (pIC50 value). The dataset has been split into two sets, one for training and one for testing. The aim of this dataset is to develop quantitative structure-activity relationship (QSAR) models to predict the bioactivity of new compounds.

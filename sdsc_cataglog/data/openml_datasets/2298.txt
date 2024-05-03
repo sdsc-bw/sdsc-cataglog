@@ -1,0 +1,3 @@
+name: climate-model-simulation-crashes
+dataset_id: 40994.0
+description: The dataset "climate-model-simulation-crashes" consists of information about crashes that occur during climate model simulations. The data includes details about the crashes such as the date, time, location, and severity. It also provides information about the climate model being used and any specific conditions or parameters that may have contributed to the crash. The dataset aims to analyze the frequency and causes of these crashes in order to improve the stability and reliability of climate models. Understanding and mitigating these crashes is crucial for accurate predictions and simulations in climate science.

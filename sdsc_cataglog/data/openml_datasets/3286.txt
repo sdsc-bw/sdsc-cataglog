@@ -1,0 +1,3 @@
+name: Comprehensive-database-of-Minerals
+dataset_id: 43356.0
+description: The dataset Comprehensive-database-of-Minerals is a rich collection of information comprising various properties and characteristics of minerals. It consists of detailed data on over 6000 different minerals, including their chemical composition, crystallography, physical properties, and geological occurrences. This dataset is incredibly comprehensive and covers a wide range of minerals, making it a valuable resource for researchers, geologists, and mineral enthusiasts alike. With its extensive information on mineral properties, the dataset allows for in-depth analysis and exploration of the mineral kingdom, contributing to advancements in mineralogy and Earth sciences as a whole.

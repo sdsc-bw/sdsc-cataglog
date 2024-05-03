@@ -1,0 +1,3 @@
+name: QSAR-TID-11868
+dataset_id: 3480.0
+description: The dataset QSAR-TID-11868 is a collection of chemical compounds with associated biological activities. It consists of 4,877 compounds, each described by 78 molecular descriptors. These descriptors represent various chemical properties such as size, shape, and polarity of the molecules. The dataset also includes the corresponding biological activities, measured as IC50 values, which represent the inhibitory concentration required to inhibit the particular biological target. This dataset is relevant for developing quantitative structure-activity relationship (QSAR) models, which aim to predict the biological activity of compounds based on their molecular properties.

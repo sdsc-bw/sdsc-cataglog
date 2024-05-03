@@ -1,0 +1,3 @@
+name: QSAR-TID-36
+dataset_id: 3820.0
+description: QSAR-TID-36 is a dataset consisting of 1,191 chemical compounds and their corresponding toxicity values. The compounds belong to a specific class of chemicals called triazoles and their toxicity was determined using in vitro assays. The dataset includes various molecular descriptors such as the number of atoms, presence of certain functional groups, and molecular weight. It also contains binary values indicating the presence or absence of particular features. The toxicity values range from 0 to 6, with higher values indicating a higher level of toxicity. QSAR-TID-36 is utilized for developing quantitative structure-activity relationship (QSAR) models to predict the toxicity of triazole compounds.

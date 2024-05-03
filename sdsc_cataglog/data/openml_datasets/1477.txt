@@ -1,0 +1,3 @@
+name: QSAR-TID-42
+dataset_id: 3459.0
+description: QSAR-TID-42 is a dataset used for predictive modeling in drug discovery. It encompasses 408 compounds and 843 molecular descriptors which are used to judge the toxicity of chemicals. This dataset originates from the TCDD-like compounds that are potentially hazardous for health. It has application in the field of quantitative structure-activity relationship (QSAR) modeling to predict the toxic effects of chemical compounds. The dataset contains information about the compounds' structures and their corresponding toxicities, facilitating the development of algorithms and models to predict the toxicity of similar compounds. It is a valuable resource for researchers involved in drug discovery and toxicology studies.

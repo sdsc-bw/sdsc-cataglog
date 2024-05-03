@@ -1,0 +1,3 @@
+name: fri_c4_100_100
+dataset_id: 828.0
+description: The dataset fri_c4_100_100 consists of 100 features and 100 instances. It is named after the "Fourier Ringed Intensity" (FRI) representation of 2D images. The dataset focuses on character recognition tasks, specifically English alphabet letters from A to Z. Each instance in the dataset represents an image of a letter, and the 100 features correspond to the intensity of different frequencies in the FRI representation of the image. The dataset aims to enable research on image recognition and machine learning algorithms, particularly those focusing on character recognition and pattern analysis.

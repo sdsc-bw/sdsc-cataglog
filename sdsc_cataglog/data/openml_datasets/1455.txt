@@ -1,0 +1,3 @@
+name: QSAR-TID-103163
+dataset_id: 3435.0
+description: The dataset QSAR-TID-103163 contains information about the toxicity of chemical compounds. It consists of 4109 instances with 1024 features, including 1023 molecular descriptors and the toxicity level as the target variable. The compounds were evaluated using the k nearest neighbors method, and the toxicity levels were represented by IC50 values. The dataset is part of the QSAR (Quantitative Structure-Activity Relationship) project, which aims to develop models that relate the chemical structure of compounds to their biological activity. QSAR-TID-103163 is widely used for toxicological studies and developing predictive models for compound toxicity.

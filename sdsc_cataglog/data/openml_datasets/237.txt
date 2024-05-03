@@ -1,0 +1,3 @@
+name: fl2000
+dataset_id: 477.0
+description: The dataset fl2000 contains information from 2000 flights, gathered for research purposes. It includes various attributes such as departure and arrival times, flight distances, departure and arrival delays, and airline carrier information. The dataset is primarily focused on domestic flights within the United States. It can be utilized for analyzing factors affecting flight delays, examining on-time performance of airlines, studying flight distances, and investigating carrier-specific patterns. The fl2000 dataset serves as a valuable resource for researchers, airlines, and policymakers to gain insights into flight operations and facilitate improvements in the aviation industry.

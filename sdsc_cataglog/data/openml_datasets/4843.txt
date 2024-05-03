@@ -1,0 +1,3 @@
+name: win95pts_4
+dataset_id: 45201.0
+description: Win95pts_4 is a dataset that contains information about performance measurements for various tasks on Windows 95 operating system. It includes data related to CPU utilization, disk access time, file transfer rates, memory usage, and network throughput. The dataset consists of multiple instances, each corresponding to a different configuration or setup. It provides insights into the impact of different hardware configurations and system settings on performance. The dataset also contains information about the type of application running during the measurements, such as scientific, database, or interactive. The goal of the dataset is to analyze and understand the factors affecting performance on Windows 95.

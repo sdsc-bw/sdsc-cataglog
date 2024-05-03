@@ -1,0 +1,3 @@
+name: kin8nm
+dataset_id: 807.0
+description: The dataset kin8nm consists of 8192 instances and 8 numerical attributes. It is a regression problem where the goal is to predict the target variable. The data has been preprocessed and normalized, and there are no missing values. The target variable is a real number, ranging from -1.26 to 20. Our task is to build a model using this dataset that can accurately predict the target value given the input attributes. The dataset has been widely used for evaluating regression algorithms and can provide insights into building robust prediction models.

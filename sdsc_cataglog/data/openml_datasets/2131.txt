@@ -1,0 +1,3 @@
+name: QSAR-TID-10621
+dataset_id: 4117.0
+description: The dataset QSAR-TID-10621 is derived from a study on the aquatic toxicity of various compounds. The study aimed to develop quantitative structure-activity relationship (QSAR) models to predict the toxicity of new compounds. The dataset contains 372 compounds with 11 molecular descriptors that represent the chemical properties of the compounds. The aquatic toxicity of each compound is measured by the concentration that leads to 50% inhibition of the luminescent bacteria Vibrio fischeri. The compounds showed a wide range of toxicity values, indicating diverse chemical structures. This dataset is valuable for developing models to predict the toxicity of new compounds for environmental risk assessment purposes.

@@ -1,0 +1,3 @@
+name: QSAR-TID-12862
+dataset_id: 3810.0
+description: The dataset QSAR-TID-12862 contains information about a large number of compounds and their corresponding biological activities. It includes 3158 instances and 1024 attributes. The attributes provide various information about the compounds, such as molecular properties, topological properties, and electronic properties. The dataset is primarily used for developing quantitative structure-activity relationship (QSAR) models in drug discovery and toxicology prediction. Researchers can utilize this dataset to explore the relationship between the compounds' properties and their biological activities, potentially leading to the development of new drugs and understanding the mechanism of action of existing drugs.

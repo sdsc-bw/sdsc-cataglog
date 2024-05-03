@@ -1,0 +1,3 @@
+name: irish
+dataset_id: 451.0
+description: The dataset "Irish" consists of information related to the Irish population. It appears to be a comprehensive collection of data regarding various aspects and characteristics of the Irish people. The dataset could potentially include demographic information such as age, gender, and location of the individuals. It may also provide insights into their cultural practices, educational background, employment status, and socioeconomic factors. The purpose of the dataset is not explicitly mentioned, but it seems useful for conducting research and analysis on the Irish population. Overall, the "Irish" dataset is likely to contain valuable information for understanding and studying the Irish community in depth.

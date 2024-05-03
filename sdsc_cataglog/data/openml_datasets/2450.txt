@@ -1,0 +1,3 @@
+name: FOREX_eurhuf-hour-High
+dataset_id: 41715.0
+description: The dataset FOREX_eurhuf-hour-High contains information related to the EUR/HUF currency pair in hourly intervals. It includes data such as the highest price of the currency pair during each hour. The dataset provides insights into the volatility and liquidity of the EUR/HUF market over a specific period of time. Researchers and traders can use this dataset to analyze price movements, identify patterns, and make informed decisions when trading this currency pair. The data can be helpful in studying the relationship between the Euro and the Hungarian Forint and predicting future price changes.

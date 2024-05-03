@@ -1,0 +1,3 @@
+name: cnn-stock-pred-nyse
+dataset_id: 43004.0
+description: The dataset "cnn-stock-pred-nyse" is used for stock prediction on the New York Stock Exchange (NYSE) and contains various features such as stock prices, trading volume, and market indexes. The dataset is in CSV format and comprises over 700,000 rows with 7 columns. The columns include the date, open price, highest price, lowest price, close price, adjusted close price, and volume of each stock. The dataset is suitable for exploring and analyzing stock market trends and can be utilized to build predictive models for stock price movements and trading strategies on the NYSE.

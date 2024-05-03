@@ -1,0 +1,3 @@
+name: rabe_131
+dataset_id: 692.0
+description: The dataset "rabe_131" consists of 131 images of the Rabe building at the University of Bremen. The images were taken from different angles and at different times of the day, capturing various lighting conditions. Each image is labeled with corresponding environmental and contextual parameters, such as weather conditions, time of day, and visibility. The dataset aims to support research activities in the field of computer vision, specifically related to scene understanding, lighting estimation, and context-aware image analysis. It provides a diverse set of images that can be used for developing and testing algorithms in these areas.

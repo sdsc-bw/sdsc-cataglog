@@ -1,0 +1,3 @@
+name: QSAR-TID-10396
+dataset_id: 4084.0
+description: The dataset QSAR-TID-10396 contains information on 1,100 chemical compounds and their corresponding biological activity values. The compounds were tested for their potential as inhibitors of the breast cancer-resistant protein (BCRP). The dataset includes descriptors such as hydrophobicity, molecular weight, and polarity, which can be used to predict the biological activity of new compounds. The biological activity values range from 0 to 1, where 1 indicates high inhibitory activity. The dataset is useful for developing quantitative structure-activity relationship (QSAR) models to aid in the design of new compounds with potential as BCRP inhibitors.

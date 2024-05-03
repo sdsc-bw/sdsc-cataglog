@@ -1,0 +1,3 @@
+name: blood-transfusion-service-center_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44597.0
+description: The dataset "blood-transfusion-service-center_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" consists of 2000 rows and 100 columns. It has been generated with 10 classes and is stratified. The dataset focuses on blood transfusion service centers. The specific content and details of the dataset are not mentioned in the given information. This dataset can be useful for various purposes, such as analyzing and predicting factors related to blood transfusion services. However, in order to obtain a better understanding of the dataset and its potential applications, further information would be required.

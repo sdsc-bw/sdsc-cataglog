@@ -1,0 +1,3 @@
+name: abalone
+dataset_id: 183.0
+description: The abalone dataset contains measurements of physical attributes (such as length, diameter, height, and weight) of abalone, a type of marine snail. The dataset also includes the number of rings, which can be used to approximate the age of the abalone. It consists of 4177 samples collected from the waters of Tasmania, Australia. This dataset is often used in data science and machine learning to explore various prediction tasks, such as predicting the age of an abalone based on its physical characteristics. It has been extensively studied and is available for research purposes.

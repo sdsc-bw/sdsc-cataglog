@@ -1,0 +1,3 @@
+name: fri_c3_100_25
+dataset_id: 639.0
+description: The dataset fri_c3_100_25 comprises 100 instances and 25 attributes. It is characterized by categorical features, each ranging from 1 to 3 possible values. The attributes describe various aspects such as personal preferences, economic information, and social characteristics. The dataset is part of the FIMI Repository for frequent itemset mining and is utilized to assess the efficiency and accuracy of diverse data mining algorithms. It serves as a benchmark for evaluating techniques such as itemset mining, association rule learning, and clustering algorithms. The dataset's compact size makes it suitable for experimentation and analysis without overwhelming computational resources.

@@ -1,0 +1,3 @@
+name: ibm-employee-performance
+dataset_id: 43895.0
+description: The dataset "ibm-employee-performance" consists of information about employees' performance at IBM. It includes data about various attributes such as age, gender, marital status, education level, job role, and job satisfaction level. There are also columns that provide details about the employees' distance from home, working hours, and monthly income. Additionally, the dataset includes performance metrics like total working years, years in the current role, and years since last promotion. It is a comprehensive dataset that enables analysis and evaluation of factors influencing employee performance and satisfaction at IBM.

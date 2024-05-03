@@ -1,0 +1,3 @@
+name: analcatdata_challenger
+dataset_id: 1013.0
+description: The dataset analcatdata_challenger contains information about causes of the Space Shuttle Challenger disaster in 1986. It includes variables like the number of O-rings at risk, temperature, and the failure outcome. The data is organized in 23 rows and 5 columns, representing different flights. The dataset includes variables such as temperature and the number of O-rings that were at risk for failure. The data provides insight into the relationship between these variables and the failure outcome. Additionally, the dataset helps analyze the impact of temperature on O-ring failures, which could help in improving the safety and design of future space missions.

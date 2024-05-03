@@ -1,0 +1,3 @@
+name: analcatdata_germangss
+dataset_id: 475.0
+description: The dataset analcatdata_germangss contains information related to the German Credit Scoring System (GSS). It includes 1,000 instances and nine attributes. The attributes in the dataset provide details such as age, sex, employment duration, frequency of checks, credit history and purpose, credit amount, status, savings account balance, employment status, number of dependents, property ownership, type of residence, foreign worker status, and whether or not an applicant received a loan. This dataset is useful for analyzing and predicting creditworthiness and evaluating the effectiveness of the German Credit Scoring System.

@@ -1,0 +1,3 @@
+name: fri_c1_1000_50
+dataset_id: 837.0
+description: The fri_c1_1000_50 dataset consists of 1000 records with 50 features each. It is likely a structured dataset containing various types of data such as numerical, categorical, or textual. The records represent different entities or observations, while the features represent different characteristics or attributes of those entities. This dataset could be used for various purposes, including data analysis, machine learning models, or statistical modeling. Researchers or analysts can explore the relationships between the features, perform descriptive or predictive analysis, and uncover insights or patterns within the dataset.

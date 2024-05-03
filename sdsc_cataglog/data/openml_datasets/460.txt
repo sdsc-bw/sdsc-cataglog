@@ -1,0 +1,3 @@
+name: vineyard
+dataset_id: 713.0
+description: The dataset "vineyard" contains information about a vineyard. It includes data related to various aspects of grape growing and wine production. The dataset consists of multiple columns, each representing a different variable such as weather conditions, soil composition, grape variety, grape yield, and quality of wine produced. The dataset also includes information about the geographical location of the vineyard, including latitude and longitude coordinates. This dataset is useful for studying and analyzing the relationship between different factors and their impact on grape growing and wine production in vineyards.

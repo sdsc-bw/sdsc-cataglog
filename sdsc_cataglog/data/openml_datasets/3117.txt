@@ -1,0 +1,3 @@
+name: mocap-hand-postures
+dataset_id: 42997.0
+description: The mocap-hand-postures dataset contains 12 pre-defined hand postures recorded using a motion capture system. The dataset includes recordings from 30 subjects, resulting in a total of 360 samples. Each hand posture sample consists of 22 3D joint positions. The dataset provides both the raw joint positions and the normalized joint positions. Additionally, the dataset provides the corresponding angle values for each joint position. The mocap-hand-postures dataset aims to aid in the development and evaluation of hand gesture recognition algorithms, particularly for motion capture-based systems.

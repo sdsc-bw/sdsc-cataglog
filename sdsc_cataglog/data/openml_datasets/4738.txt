@@ -1,0 +1,3 @@
+name: Lymphoma-3
+dataset_id: 45094.0
+description: The Lymphoma-3 dataset consists of gene expression data collected from patients with diffuse large B-cell lymphoma (DLBCL). It comprises 50 samples from DLBCL patients, including 16 samples from the germinal center B-cell-like (GCB) subtype and 34 samples from activated B-cell-like (ABC) subtype. The gene expression profiles were obtained using microarray technology. Along with the gene expression data, clinical information such as survival status and treatment response is also provided. This dataset serves as a valuable resource for studying the molecular characteristics and potential biomarkers associated with different subtypes of DLBCL.

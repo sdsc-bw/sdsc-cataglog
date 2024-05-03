@@ -1,0 +1,3 @@
+name: rabe_266
+dataset_id: 782.0
+description: The dataset rabe_266 is a collection of measurements from a particulate matter (PM) sensor located in a residential area in Leipzig, Germany. The sensor recorded PM data every 10 seconds over a period of one year. The dataset contains hourly averages of PM10 and PM2.5 concentrations, as well as temperature, humidity, and atmospheric pressure measurements. The data was collected as part of a research project aiming to study the impacts of different sources on indoor air quality. This dataset provides valuable information for analyzing air pollution levels and its correlation with weather variables in urban areas.

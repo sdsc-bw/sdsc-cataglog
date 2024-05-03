@@ -1,0 +1,3 @@
+name: pc4_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44612.0
+description: The dataset pc4_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns, with 10 different classes. It is stratified, meaning that the distribution of classes is balanced. The dataset is likely a classification problem, with each row corresponding to an instance and the columns representing features. The dataset could be used for tasks such as machine learning or data analysis, where the goal is to predict the class of a given instance based on its features.

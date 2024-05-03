@@ -1,0 +1,3 @@
+repo_name: dash
+link: https://github.com/plotly/dash
+description: Dash Dash is the most downloaded, trusted Python framework for building ML & data science web apps. Built on top of Plotly.js, React and Flask, Dash ties modern UI elements like dropdowns, sliders, and graphs directly to your analytical Python code. Read our tutorial (proudly crafted ❤️ with Dash itself).

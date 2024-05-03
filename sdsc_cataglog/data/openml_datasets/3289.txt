@@ -1,0 +1,3 @@
+name: Nintendo3DS-Games
+dataset_id: 43359.0
+description: The dataset Nintendo3DS-Games contains information about various games available for the Nintendo 3DS console, released between 2011 and 2013. The dataset includes details such as the game's name, developer, publisher, genre, release date, and rating. It also provides information on sales numbers in various regions, including North America, Europe, and Japan. The dataset offers insights into the popularity and success of different games, as well as their regional variations in terms of sales. This dataset could be useful for analyzing market trends, identifying successful game developers, and understanding regional preferences for Nintendo 3DS games.

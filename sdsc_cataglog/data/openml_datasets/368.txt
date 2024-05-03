@@ -1,0 +1,3 @@
+name: fri_c3_500_5
+dataset_id: 617.0
+description: The dataset fri_c3_500_5 consists of 500 samples, each having 5 features. It is a part of the FRI framework, aiming to enhance algorithm evaluation on classification tasks. The dataset was generated using the FRI Generator, with the complexity level set to 3. The features of this dataset, along with their corresponding classes, were randomly generated following certain patterns and distributions. The dataset serves as a benchmark for evaluating classification algorithms, allowing researchers to compare the performance of their algorithms in a standardized manner.

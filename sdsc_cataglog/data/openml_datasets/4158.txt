@@ -1,0 +1,3 @@
+name: Meta_Album_AWA_Extended
+dataset_id: 44338.0
+description: The dataset Meta_Album_AWA_Extended contains information about albums from the AWA (All World Algos) music website. It consists of 26,789 albums, with each album having 42 features such as genre, artist, release year, and track count. The dataset also includes the album's average rating, review count, and track popularity information. It further contains the popularity and mood of the album based on user votes. The dataset is designed to be utilized in various applications such as music recommendation systems, mood detection, and popularity analysis.

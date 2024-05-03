@@ -1,0 +1,3 @@
+name: QSAR-TID-11279
+dataset_id: 3920.0
+description: The dataset QSAR-TID-11279 contains information related to the toxicity of certain chemical compounds. It consists of 950 samples, each having 828 features. These features include molecular descriptors like atom counts, bond counts, molecular weight, and topological indices. The dataset also includes the corresponding toxicity values for each sample, which were measured using animal testing. The purpose of this dataset is to enable the development of quantitative structure-activity relationship (QSAR) models, which can predict the toxicity of similar compounds based on their molecular properties. The dataset is valuable for researchers involved in drug development and chemical safety assessment.

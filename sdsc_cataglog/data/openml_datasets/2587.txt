@@ -1,0 +1,3 @@
+name: FOREX_eurchf-minute-High
+dataset_id: 41852.0
+description: The dataset FOREX_eurchf-minute-High contains information about the highest exchange rate (High) for the currency pair EUR/CHF in minute intervals. The dataset likely includes data on the highest price reached during each minute for this currency pair. It is specifically focused on the EUR/CHF exchange rate and provides minute-level granularity, enabling a detailed analysis of swing highs and trends within each minute. This dataset is likely useful for traders and analysts who are interested in studying minute-level fluctuations in the EUR/CHF exchange rate and identifying patterns or potential trading opportunities.

@@ -1,0 +1,3 @@
+name: QSAR-TID-100418
+dataset_id: 3501.0
+description: The dataset QSAR-TID-100418 comprises 1055 compounds with molecular structures and their corresponding biological activities against a particular target. It includes 9 input variables depicting the atomic and bond properties along with molecular weights and surface areas. The target variable represents the biological activity value. The dataset aims to develop a quantitative structure-activity relationship (QSAR) model to predict the activity of similar compounds. A diverse range of chemical families and varying activity values are encompassed in the dataset. It can be employed to construct machine learning models and study the relationship between molecular structure and biological activity.

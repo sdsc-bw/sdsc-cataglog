@@ -1,0 +1,3 @@
+name: pbcseq
+dataset_id: 802.0
+description: The pbcseq dataset is a collection of next-generation sequencing (NGS) data from primary biliary cholangitis (PBC) patients. It includes RNA-seq data from liver tissue and peripheral blood mononuclear cells (PBMCs) of 12 PBC patients, as well as PBMCs from 8 healthy controls. The dataset contains information about gene expression, alternative splicing events, and SNPs (single nucleotide polymorphisms) in PBC patients compared to healthy controls. It provides valuable insights into the molecular mechanisms underlying PBC and offers a resource for further investigations into the disease and potential biomarkers or therapeutic targets.

@@ -1,0 +1,3 @@
+name: freMTPL2sev
+dataset_id: 41215.0
+description: The dataset freMTPL2sev is a collection of data related to automobile insurance claims. It contains information on various attributes such as the insured vehicle's age, power, and brand, as well as detailed descriptions of the accident's characteristics and severity. The dataset includes around 70,000 instances, representing different claims. It has been made available for research purposes, particularly to explore the relationship between several factors and the severity of automobile accidents and insurance claims. The dataset provides an opportunity to analyze and develop models that can predict the severity of future insurance claims based on various variables.

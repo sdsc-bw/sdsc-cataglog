@@ -1,0 +1,3 @@
+name: IEEE80211aa-GATS
+dataset_id: 43198.0
+description: The IEEE80211aa-GATS dataset is a collection of network trace files containing data from a simulated IEEE 802.11aa-based wireless local area network (WLAN) with Generic Advertisement Service (GATS). The dataset consists of files captured at various locations with different network conditions, such as network load and signal strength. It includes both downlink and uplink traffic, providing a comprehensive view of network performance. The traces are organized into different folders based on their properties. This dataset can be used for various research purposes, including protocol design, performance evaluation, and quality of service improvement in WLAN networks.

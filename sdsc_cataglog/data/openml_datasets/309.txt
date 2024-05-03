@@ -1,0 +1,3 @@
+name: analcatdata_apnea1
+dataset_id: 557.0
+description: The dataset "analcatdata_apnea1" contains information about patients suffering from sleep apnea, a sleep disorder where breathing stops and starts repeatedly. The dataset includes 30 variables representing different aspects of the patients' conditions, including age, sex, obesity, and other health parameters. It also provides data on the severity of the apnea and the effectiveness of different types of treatment provided to the patients. This dataset serves as a valuable resource for researchers and healthcare professionals interested in understanding the factors associated with sleep apnea and exploring the effectiveness of different treatment options.

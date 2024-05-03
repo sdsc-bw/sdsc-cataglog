@@ -1,0 +1,3 @@
+name: gina_prior2
+dataset_id: 1041.0
+description: The "gina_prior2" dataset contains information about research studies related to primary biliary cholangitis (PBC) - a chronic liver disease. It includes data on various parameters of patients, such as age, sex, and liver biochemistry, collected over a span of three years. The dataset also provides details about their response to treatment and progression of the disease. The purpose of this dataset is to investigate the effectiveness of a medication called GINaBRIAl in treating PBC. The data is organized in different tables and can be used for further analysis and research on PBC and its treatment options.

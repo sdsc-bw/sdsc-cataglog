@@ -1,0 +1,3 @@
+name: KDDCup99_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44779.0
+description: The dataset is called KDDCup99_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True and it contains 2000 rows and 100 columns. There are 10 classes in the dataset and stratification is applied. Stratification means that the dataset is divided into subsets or strata based on specific criteria to ensure that each subset represents a particular characteristic of the whole dataset. The dataset could be used for various machine learning tasks such as classification or clustering, as it provides a diverse range of data with multiple classes and features to analyze and model.

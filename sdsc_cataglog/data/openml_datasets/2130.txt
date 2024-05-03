@@ -1,0 +1,3 @@
+name: QSAR-TID-12828
+dataset_id: 4116.0
+description: The dataset QSAR-TID-12828 contains information on the mutagenic effect of chemical compounds on bacteria. It consists of 1527 instances and 41 attributes. The target variable is binary, indicating whether a compound is mutagenic or not. The dataset includes structural, topological, and quantum chemical descriptors of the compounds. These descriptors provide information about the molecular structure, shape, and size of the compounds. The dataset is relevant for research in the field of computational toxicology and can be used to develop machine learning models for predicting the mutagenic activity of chemical compounds.

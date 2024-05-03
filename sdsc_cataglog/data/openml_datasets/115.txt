@@ -1,0 +1,3 @@
+name: IMDB.drama
+dataset_id: 273.0
+description: The dataset IMDB.drama is a collection of various films from different genres, released at different times, and produced by various companies. It includes highly acclaimed movies as well as lesser-known ones. The dataset provides important information such as the film's title, release year, runtime, genre, director, and cast. It also includes details about user ratings and reviews. The dataset offers a comprehensive overview of the drama genre in the film industry, making it useful for analyzing trends, comparing movies, and understanding audience preferences. Researchers and movie enthusiasts can utilize this dataset to study the characteristics and impact of drama films.

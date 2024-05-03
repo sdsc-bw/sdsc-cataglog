@@ -1,0 +1,3 @@
+name: analcatdata_uktrainacc
+dataset_id: 760.0
+description: The dataset analcatdata_uktrainacc is reviewed in these sentences. This dataset contains information related to car accidents in the UK and is composed of 35 columns. The data includes variables such as the date and time of the accident, the weather conditions, the type of road, and the severity of the accident. The dataset, which covers a period of 36 months, also provides data on the number of vehicles involved, previous accidents at the same location, and roadworks in progress. It can be used for analyzing the factors contributing to car accidents and developing strategies to minimize their occurrence.

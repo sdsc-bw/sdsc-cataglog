@@ -1,0 +1,3 @@
+name: Internet-Advertisements
+dataset_id: 40978.0
+description: The dataset "Internet-Advertisements" presents data on internet advertisements, collected from different websites over a period of time. It contains information related to attributes such as the website, ad size, industry category, type of ad, ad location, ad price, and the number of times the ad was displayed or clicked on. The dataset aims to analyze the effectiveness of online advertisements and their impact on user engagement and revenue generation. It provides an opportunity for researchers and marketers to understand the trends and patterns in internet advertisements, and to develop strategies that optimize ad performance and maximize returns on investment.

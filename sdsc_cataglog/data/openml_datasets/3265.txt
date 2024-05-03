@@ -1,0 +1,3 @@
+name: Austin-Weather
+dataset_id: 43335.0
+description: The Austin-Weather dataset contains hourly weather data recorded from the years 2013 to 2017 in Austin, Texas. The data includes various weather attributes like temperature, humidity, wind speed, and pressure. It also provides information about specific weather events such as rain, fog, or snow. The dataset includes data from multiple weather stations located in different parts of Austin. The dataset size is about 10GB, with over a million records. This dataset is valuable for analyzing and studying weather patterns, climate change, and predicting future weather conditions in the Austin area.

@@ -1,0 +1,3 @@
+name: vehicleNorm
+dataset_id: 1242.0
+description: The dataset vehicleNorm consists of normalized versions of two vehicle datasets: vehicle.csv and vehicle.csv. It contains information about various attributes of vehicles like manufacturer, model, displacement, horsepower, weight, acceleration, and country of origin. The dataset has 398 instances and 8 numeric attributes. Missing values have been replaced with question marks. The dataset was originally sourced from UCI Machine Learning Repository and was used for pattern recognition to classify vehicles into one of three categories: car, truck, or bus. The dataset is useful for various tasks like data analysis, pattern recognition, and classification algorithms.

@@ -1,0 +1,3 @@
+name: Overwatch-competitions-data-7-seasons
+dataset_id: 43577.0
+description: The dataset "Overwatch-competitions-data-7-seasons" provides comprehensive information about competitive matches in the game Overwatch over a span of 7 seasons. The dataset includes various attributes such as player names, heroes chosen, match results, and detailed statistics. It is a valuable resource for gaining insights into player performance, team strategies, and meta trends. The dataset can be used for analysis and research purposes in the field of esports. Overall, this dataset offers a comprehensive and in-depth understanding of the competitive Overwatch scene over multiple seasons, making it a valuable resource for Overwatch enthusiasts and analysts alike.

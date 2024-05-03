@@ -1,0 +1,3 @@
+name: QSAR-TID-10031
+dataset_id: 3907.0
+description: The QSAR-TID-10031 dataset contains information about chemical compounds and their biological activity against a specific target. The dataset includes 8,802 instances and 13 input features. The target variable is binary, indicating whether a compound is active or inactive against the target. The dataset was created using a combination of experimental and computational methods. Each instance represents a compound and provides information about its structural properties, such as molecular weight, surface area, and solubility. The dataset is useful for developing quantitative structure-activity relationship (QSAR) models to predict the biological activity of chemical compounds.

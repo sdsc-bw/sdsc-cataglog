@@ -1,0 +1,3 @@
+name: Household-monthly-electricity-bill
+dataset_id: 43588.0
+description: The dataset "Household-monthly-electricity-bill" contains information about the monthly electricity bills of various households. It includes data on the meter reading, consumption, and cost of electricity for each household. The dataset also provides details such as the house size, number of occupants, and the time period for which the bills were recorded. The data is collected from a diverse set of households, representing different locations, sizes, and socio-economic backgrounds. This dataset can be utilized to analyze patterns in electricity consumption, compare bills across households, and identify factors influencing electricity costs.

@@ -1,0 +1,3 @@
+name: riccardo_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44755.0
+description: The dataset riccardo_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2,000 rows and 100 columns. It has been created with a seed value of 2 and stratified into 10 different classes. The variable "riccardo" represents the dataset itself. The dataset has been created for analysis or learning purposes and can be used to observe patterns, trends, and relationships between variables. The stratification process ensures that each class within the dataset is represented equally. The dataset is relatively large and can be employed for various statistical and machine learning analyses.

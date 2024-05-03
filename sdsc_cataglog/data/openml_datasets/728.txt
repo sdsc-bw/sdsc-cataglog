@@ -1,0 +1,3 @@
+name: fl2000
+dataset_id: 988.0
+description: The fl2000 dataset contains information about flight delays and cancellations from about a thousand flights. It includes variables such as the flight number, origin and destination airports, and scheduled departure and arrival times. The dataset also provides details on the actual departure and arrival times, as well as the delay in minutes for each flight. Additionally, it includes information on the cause of delays or cancellations. The data is collected over a specific time period and can be used for analyzing and predicting flight delays and cancellations, and identifying factors that contribute to these incidents.

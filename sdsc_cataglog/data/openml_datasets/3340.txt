@@ -1,0 +1,3 @@
+name: Coronavirus-Disease-(COVID-19)
+dataset_id: 43410.0
+description: The dataset Coronavirus-Disease- (COVID-19) contains information about the pandemic caused by the novel coronavirus. The dataset comprises data on the number of confirmed cases, deaths, and recoveries from COVID-19 across various regions and countries. It provides time series data, allowing the analysis of trends and patterns in the spread of the virus. The dataset also includes information about testing, hospitalizations, and other relevant parameters. It is a comprehensive resource for researchers, healthcare professionals, and policymakers to study and assess the impact of COVID-19 and make informed decisions to control the pandemic.

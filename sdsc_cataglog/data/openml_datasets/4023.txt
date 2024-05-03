@@ -1,0 +1,3 @@
+name: road-safety
+dataset_id: 44161.0
+description: The road-safety dataset provides detailed information on accidents that occurred in Great Britain from 2005 to 2014. It encompasses various attributes such as accident severity, location, weather conditions, and vehicle type involved. The dataset aims to aid in understanding the factors influencing road accidents and their consequences. It includes data on approximately 1.7 million accidents, providing an extensive range of variables for analysis. The dataset has been compiled by police authorities and can be valuable for researchers, policymakers, and individuals interested in studying road safety and developing strategies to reduce accidents and improve road conditions.

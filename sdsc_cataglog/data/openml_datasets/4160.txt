@@ -1,0 +1,3 @@
+name: Meta_Album_RSD_Extended
+dataset_id: 44341.0
+description: Meta_Album_RSD_Extended is a dataset that contains information about albums released on Record Store Day. It includes various attributes such as artist, album name, genres, and release date. The dataset also provides data on the album format, label, country of origin, and whether it is a limited edition or not. Additionally, it includes information on the quantity of copies released and the retail price. The dataset is extensive, covering multiple years and featuring albums from a wide range of genres. It serves as a valuable resource for analyzing trends in the music industry and studying the impact of Record Store Day on album releases.

@@ -1,0 +1,3 @@
+name: Weather
+dataset_id: 45619.0
+description: The dataset "Weather" is a comprehensive collection of weather observations from multiple locations around the world. It contains information about temperature, humidity, wind speed, and precipitation, recorded at various intervals such as hourly, daily, or monthly. This dataset enables analysis and comparison of weather patterns across different regions and over time. It provides valuable insights into seasonal variations, climate trends, and extreme weather events. The data is organized in a structured format, making it easy to access and manipulate for research and forecasting purposes. Overall, the "Weather" dataset acts as a valuable resource for studying and understanding weather patterns globally.

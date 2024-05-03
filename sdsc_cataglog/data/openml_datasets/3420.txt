@@ -1,0 +1,3 @@
+name: COVID-19-Mexico-Clean--Order-by-States
+dataset_id: 43495.0
+description: The COVID-19-Mexico-Clean--Order-by-States dataset provides comprehensive information on the COVID-19 outbreak in Mexico. It is structured in an orderly manner, sorted by states. The dataset includes various variables such as the number of confirmed cases, deaths, recovered individuals, and active cases per state. It also provides data on hospitalizations, both general and intensive care units, and ventilators available in each state. The dataset further offers regional data on COVID-19 tests conducted and their corresponding positive rates. This dataset is crucial for analyzing and monitoring the spread of the virus across different states in Mexico.

@@ -1,0 +1,3 @@
+name: drug-directory
+dataset_id: 43044.0
+description: The drug-directory dataset is a comprehensive collection of information related to different drugs. It includes details such as drug names, descriptions, indications, dosages, side effects, drug interactions, and precautions. The dataset provides a rich source of information regarding the various medications available on the market. It can be utilized by researchers, healthcare professionals, and pharmaceutical companies for various purposes, including drug research, pharmacovigilance, and medication management. With its extensive coverage, the drug-directory dataset serves as a valuable resource for studying and understanding the characteristics and effects of different drugs.

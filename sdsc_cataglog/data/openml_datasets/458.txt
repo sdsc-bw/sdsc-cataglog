@@ -1,0 +1,3 @@
+name: visualizing_ethanol
+dataset_id: 711.0
+description: The dataset visualizing_ethanol provides information on the production and consumption of ethanol in different countries. It includes data on the annual ethanol production, consumption, and trade volume for each country from 1960 to 2018. The dataset also includes information on ethanol's biofuel contribution and its role in reducing greenhouse gas emissions. The dataset aims to assist researchers and policymakers in analyzing the trends and patterns in ethanol production and consumption worldwide.

@@ -1,0 +1,3 @@
+name: regime_alimentaire
+dataset_id: 42172.0
+description: The dataset regime_alimentaire contains information related to the dietary habits and preferences of individuals. It includes data on the types of foods consumed, meal patterns, and the nutritional value of the diet. The dataset also provides information on the individuals' age, gender, and lifestyle factors that may influence their dietary choices. The purpose of this dataset is to analyze and understand the relationship between dietary habits and various factors such as health outcomes, socioeconomic status, and cultural practices. Researchers can use this dataset to explore patterns, trends, and correlations in dietary behaviors and further investigate the impact of different factors on dietary choices.

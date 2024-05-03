@@ -1,0 +1,3 @@
+name: QSAR-TID-12854
+dataset_id: 3954.0
+description: The dataset QSAR-TID-12854 consists of chemical compounds with potential anti-cancer activity. It contains 252 compounds with their respective molecular descriptors. The aim of this dataset is to predict the biological activity of these compounds, specifically their inhibitory activity against the human liver cancer HepG2 cell line. Three different target biological activities are provided: IC50, ED50, and GI50. These represent the concentration of the compound required for 50% inhibition, 50% effective dose, and 50% growth inhibition respectively. The dataset also includes information about the chemical structure, such as bond counts, molecular weight, and topological descriptors.

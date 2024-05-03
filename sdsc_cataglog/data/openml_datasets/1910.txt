@@ -1,0 +1,3 @@
+name: QSAR-TID-179
+dataset_id: 3895.0
+description: The dataset QSAR-TID-179 is a collection of chemical compounds with associated bioactivity information. It contains 1,179 molecules that are structurally diverse and have been tested for their inhibitory activity against a target protein. The compounds are represented by their molecular descriptors, which include 177 numerical values calculated from their chemical structures. The bioactivity values range from 0 to 8, indicating the level of inhibition observed. This dataset is useful for developing quantitative structure-activity relationship (QSAR) models to predict the inhibitory activity of new chemical compounds against the target protein.

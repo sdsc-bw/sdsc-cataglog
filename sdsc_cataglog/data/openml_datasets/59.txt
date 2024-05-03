@@ -1,0 +1,3 @@
+name: pokerhand
+dataset_id: 155.0
+description: The pokerhand dataset comprises of 1,025,010 instances and 11 attributes, containing data related to poker hands. Each instance records the suits and ranks of five playing cards, representing a poker hand. The target variable classifies the type of hand (e.g., a flush or a straight), and it has ten possible classes. The dataset also includes other attributes like the number of each suit (spades, hearts, diamonds, clubs) present in the hand, and the rank of the highest and lowest cards. This dataset aims to facilitate the analysis and prediction of poker hand types with machine learning techniques.

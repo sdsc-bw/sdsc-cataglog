@@ -1,0 +1,3 @@
+name: kdd_ipums_la_97-small_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44395.0
+description: The dataset kdd_ipums_la_97-small_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows and 100 columns. It is stratified with 10 classes. The dataset is a small subset of the kdd_ipums_la_97 dataset and was generated using a random seed of 3. It is used for classification tasks and can be used for training and testing machine learning models. The stratification helps ensure a balanced representation of each class in the dataset. The dataset provides a limited but representative sample of the larger dataset for analysis and modeling purposes.

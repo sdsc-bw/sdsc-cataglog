@@ -1,0 +1,3 @@
+name: SensorDataResource
+dataset_id: 23383.0
+description: The SensorDataResource dataset consists of sensor data collected from various sources. It includes information about various environmental factors such as temperature, humidity, air quality, and noise levels. The data is collected at regular intervals and stored in a structured format. The dataset is widely used for research and analysis in fields related to environmental sciences, health monitoring, and smart cities. It provides a valuable resource for studying and understanding the impact of various factors on the environment and human well-being. Researchers can access the dataset for further analysis and development of applications related to sensor data technology.

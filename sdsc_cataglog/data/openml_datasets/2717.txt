@@ -1,0 +1,3 @@
+name: beer_reviews
+dataset_id: 42088.0
+description: The dataset "beer_reviews" contains information about different beer products and their reviews. It provides data on various aspects of each beer, including beer name, beer style, overall review rating, aroma, appearance, palate, and taste. The dataset also includes information about the brewery that produces each beer, such as the brewery name, country, and state. Additionally, it provides data on the reviewer's profile, including attributes like age, gender, and the number of reviews they have submitted. This dataset is rich in detail and can be used for analyzing trends, preferences, and characteristics of different beers and breweries.

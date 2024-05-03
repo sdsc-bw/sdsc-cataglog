@@ -1,0 +1,3 @@
+name: QSAR-TID-100917
+dataset_id: 3629.0
+description: The dataset QSAR-TID-100917 contains information on 800 compounds and their bioactivity against malaria. It includes various molecular descriptors such as TPSA, HBA, HBD, MW, and LogP, which describe the different properties and characteristics of the compounds. The dataset also provides the bioactivity values as the outcome variable, which represents the effectiveness of the compounds against malaria. These values were determined experimentally using the inhibition concentration (IC50) method. QSAR-TID-100917 is a valuable resource for researchers looking to develop new drugs against malaria and explore the relationship between molecular descriptors and bioactivity.

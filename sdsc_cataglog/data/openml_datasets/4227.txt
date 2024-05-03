@@ -1,0 +1,3 @@
+name: bank-marketing_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44405.0
+description: The dataset, bank-marketing_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True, contains information related to a bank marketing campaign. It has 2000 rows with 100 columns, and is stratified with 10 different classes. The dataset likely includes data on various marketing parameters such as customer demographics, campaign outcomes, and investment details. For researchers or analysts studying marketing strategies, this dataset provides a sample of diverse data points within a controlled setting. By examining patterns within the data, they can derive insights and make informed decisions to improve marketing campaigns and customer acquisition.

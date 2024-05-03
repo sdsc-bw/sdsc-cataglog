@@ -1,0 +1,3 @@
+name: QSAR-TID-100855
+dataset_id: 3931.0
+description: The dataset QSAR-TID-100855 contains 7733 non-evaluated chemical compounds that were used for training and validating the QSAR models. The data includes a variety of properties of the compounds, such as molecular weight, octanol-water partition coefficient, and molecular refractivity. This dataset was specifically designed to evaluate the classification ability of QSAR models for predicting potential human health hazards. The compounds in the dataset are classified into two categories: mutagenic and non-mutagenic, allowing for the identification of mutagenic compounds. This dataset can be useful for researchers and developers of QSAR models in predicting the mutagenicity of chemical compounds.

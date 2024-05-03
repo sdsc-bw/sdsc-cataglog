@@ -1,0 +1,3 @@
+name: car_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44619.0
+description: The dataset car_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True contains information about cars with 2000 rows and 100 columns. The data is stratified and divided into 10 different classes. The dataset likely includes various attributes related to cars, such as make, model, year, color, and features. The stratification ensures that each class is represented proportionally in the dataset. With 2000 rows, the dataset is relatively large and may provide a comprehensive analysis of car-related data.

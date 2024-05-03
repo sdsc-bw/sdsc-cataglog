@@ -1,0 +1,3 @@
+name: QSAR-TID-12742
+dataset_id: 3980.0
+description: The dataset QSAR-TID-12742 contains information on the biological activity of different molecules. It consists of 342 chemical compounds, each with 1024 molecular fingerprints, as well as their respective inhibition activity values against a specific target enzyme. The data is categorized into active and inactive compounds based on their inhibition activity. The dataset is intended for developing models to predict the inhibition activity of new compounds. It is suggested that researchers interested in this dataset analyze the molecular fingerprints to identify important features and build accurate predictive models.

@@ -1,0 +1,3 @@
+name: pc4_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44608.0
+description: The dataset pc4_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns. There are 10 different classes in the dataset, meaning it contains data from 10 distinct categories. The dataset has been stratified, indicating that the samples are distributed in a way that represents the overall population accurately. The dataset's name suggests that it was generated using a random seed of 0, ensuring reproducibility. Overall, this dataset provides a structured and balanced representation of the data across multiple classes, making it suitable for various statistical analyses and machine learning tasks.

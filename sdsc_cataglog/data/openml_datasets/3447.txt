@@ -1,0 +1,3 @@
+name: Yu-Gi-Oh-Normal-Monster-Cards
+dataset_id: 43523.0
+description: The dataset Yu-Gi-Oh-Normal-Monster-Cards contains information about normal monster cards from the popular trading card game Yu-Gi-Oh. It includes various attributes of the cards, such as their type, level, attack and defense points, as well as their corresponding card image URL. The dataset is structured in a tabular format, with each row representing a different card and the columns containing the respective card attributes. This dataset can be used for various purposes, such as analyzing the distribution of card attributes or training machine learning models to predict card attributes based on other features.

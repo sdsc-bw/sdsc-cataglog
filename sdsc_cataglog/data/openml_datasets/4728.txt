@@ -1,0 +1,3 @@
+name: 11_Tumors
+dataset_id: 45084.0
+description: The dataset "11_Tumors" contains information about tumors in patients. It includes various attributes such as age, gender, tumor size, and histological type. The dataset consists of 949 instances, with each instance representing a patient. The target attribute refers to whether the patient has a benign or malignant tumor. The dataset is relatively balanced, with approximately 68% of cases being benign tumors and 32% being malignant tumors. The dataset is suitable for classification tasks and can be used to build predictive models to identify the nature of tumors based on the given attributes.

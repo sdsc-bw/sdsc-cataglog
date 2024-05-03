@@ -1,0 +1,3 @@
+name: jannis
+dataset_id: 45021.0
+description: The dataset named Jannis is being discussed in the following sentences. The dataset contains information about a range of topics, including social interactions, user behavior, and online activity. It is a valuable resource for analyzing patterns, trends, and correlations among these variables. Jannis is large in size and covers an extensive time period, providing researchers with a robust and comprehensive dataset to explore. It is particularly useful for studies related to social network analysis, online communities, and user engagement. Overall, Jannis offers a rich and diverse dataset that can serve as a foundation for various research projects.

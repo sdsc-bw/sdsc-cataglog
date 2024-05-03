@@ -1,0 +1,3 @@
+name: Diabetes(scikit-learn)
+dataset_id: 41515.0
+description: The scikit-learn dataset "Diabetes" consists of medical data related to diabetes. It includes information from 442 patients, such as age, sex, body mass index (BMI), blood pressure, etc. The target variable is a quantitative measure of disease progression one year after baseline. The dataset is commonly used for predicting disease progression based on the given patient features. It serves as a valuable resource for developing machine learning models and algorithms for diagnosing and managing diabetes.

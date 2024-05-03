@@ -1,0 +1,3 @@
+name: QSAR-TID-11298
+dataset_id: 3882.0
+description: The dataset QSAR-TID-11298 contains information on the physicochemical properties and bioactivity of a set of compounds. It includes 8 attributes, such as molecular weight, polar surface area, and number of rotatable bonds, which are important for predicting a compound's toxicity. These attributes are labeled as active or inactive based on whether the compound shows toxicity. The dataset consists of 1055 instances, with 47% labeled as active and 53% as inactive. The data was collected using quantitative structure-activity relationship (QSAR) modeling methods, and it provides valuable insights for developing safer chemicals and drugs.

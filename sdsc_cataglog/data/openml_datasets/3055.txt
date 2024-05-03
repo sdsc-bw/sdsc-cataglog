@@ -1,0 +1,3 @@
+name: dgf_test
+dataset_id: 42883.0
+description: The dataset dgf_test consists of diverse data instances that are required to be classified into two categories. It comprises 49 features including real and integer values. Some of the features represent geographic information, while others define the characteristics of the instances. The dataset has a total of 561 instances, each belonging to one of the two aforementioned categories. However, the imbalance between the classes is notable, as one category has significantly more instances than the other. This dataset serves as a benchmark for classification algorithms and can be used to evaluate their performance and accuracy.

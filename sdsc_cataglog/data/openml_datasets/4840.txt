@@ -1,0 +1,3 @@
+name: win95pts_1
+dataset_id: 45198.0
+description: The dataset win95pts_1 represents results from an experiment conducted on a Windows 95 computer system. It consists of 4,185 observations and 4 variables. The variables include "memory", which represents the memory allocated to the system, "cache", which denotes the size of the cache available, "channels", which indicates the number of channels the system supports, and "speed", which represents the processor speed in MHz. The purpose of the experiment was to study the relationship between these variables and the system's performance. The dataset provides valuable information for analyzing the impact of memory, cache, channels, and processor speed on the performance of a Windows 95 system.

@@ -1,0 +1,3 @@
+name: Historical-Weather-data-of-Goa-India
+dataset_id: 43409.0
+description: The dataset named Historical-Weather-data-of-Goa-India contains weather information about the region of Goa, India, collected over a specific time period. It includes various weather parameters such as temperature, humidity, pressure, wind speed, and precipitation. The dataset is available in both CSV and JSON formats and can be used to analyze past weather patterns and trends in Goa. This dataset can be valuable for weather forecasters, researchers, and analysts to study and understand the climatic conditions of Goa and its surrounding areas. The data can provide insights into the seasonal variations and long-term climate trends in the region.

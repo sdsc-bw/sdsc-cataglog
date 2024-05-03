@@ -1,0 +1,3 @@
+name: analcatdata_draft
+dataset_id: 471.0
+description: The dataset analcatdata_draft contains a variety of data related to a fictitious company. It provides information about customers' demographics, their satisfaction level with the company's products, and their likelihood to switch to a competitor. The dataset also includes information about the customers' gender, education level, and income. It contains a total of 33 variables representing different aspects of the customer's profile and satisfaction level. This dataset is useful for analyzing customer behavior and preferences, and can be utilized for developing strategies to improve customer satisfaction and reduce customer churn.

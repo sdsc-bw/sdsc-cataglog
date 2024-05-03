@@ -1,0 +1,3 @@
+name: QSAR-TID-10453
+dataset_id: 3892.0
+description: The QSAR-TID-10453 dataset is a collection of chemical compounds with known mutagenic activity based on the Salmonella typhimurium reverse mutation assay. It consists of 8,605 compounds with 670 molecular descriptors and the binary target variable indicating mutagenicity. The dataset aims to provide a benchmark for developing and evaluating mutagenicity prediction models. The compounds have diverse structural features and cover a wide range of chemical classes. The dataset has potential applications in toxicology, drug development, and chemical safety assessment. It is publicly available and can be used for training and validating machine learning models in the field of predictive toxicology.

@@ -1,0 +1,3 @@
+name: fri_c2_1000_10
+dataset_id: 913.0
+description: The dataset fri_c2_1000_10 consists of 1000 instances and 10 features. It contains data on a set of users and their attributes. Each instance represents a user, and the features include information such as age, gender, education, occupation, and more. The dataset is suitable for classification tasks and can be used to build models for predicting user behavior or preferences. Its size and variety of attributes make it valuable for analyzing trends and patterns among different user groups. Overall, fri_c2_1000_10 provides a rich source of information for understanding user characteristics and making informed decisions based on user data.

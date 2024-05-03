@@ -1,0 +1,3 @@
+name: QSAR-TID-17052
+dataset_id: 3653.0
+description: The dataset QSAR-TID-17052 is a collection of chemical compounds categorized based on their potential to inhibit thrombin. It comprises 10,352 different compounds, each represented by 5 molecular descriptors and a binary target variable indicating their thrombin inhibition activity. The dataset aims to aid in the development of quantitative structure-activity relationship (QSAR) models to predict the thrombin inhibition activity of new compounds. QSAR-TID-17052 has been previously used in studies to validate the performance of machine learning algorithms in thrombin inhibition prediction. It serves as a valuable resource for researchers working in drug discovery and computational chemistry.

@@ -1,0 +1,3 @@
+name: QSAR-TID-107
+dataset_id: 3872.0
+description: The QSAR-TID-107 dataset consists of the chemical structure and anti-HIV activity of 107 compounds. This dataset is used for quantitative structure-activity relationship (QSAR) modeling to predict the bioactivity of new compounds. The compounds' structures are represented by 2D chemical descriptors, including molecular properties and substructural fragments. The anti-HIV activity is measured by experimental IC50 values. The dataset provides a valuable resource for developing new anti-HIV drugs through computational methods. QSAR models trained on this dataset can aid in the discovery of potent compounds that can effectively inhibit the HIV virus.

@@ -1,0 +1,3 @@
+name: analcatdata_broadwaymult
+dataset_id: 452.0
+description: The dataset analcatdata_broadwaymult contains information about Broadway shows and their marketing campaigns. It includes 91 observations and 14 variables. These variables provide details about the show's features such as the number of songs, the number of characters, the show's genre, and its target audience. The dataset also includes information on the advertising campaigns undertaken for each show, such as the budget allocated for advertising in different mediums such as television, radio, and newspapers. This dataset can be used to analyze the relationship between the marketing strategies employed and the success of Broadway shows.

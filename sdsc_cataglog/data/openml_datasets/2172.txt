@@ -1,0 +1,3 @@
+name: Buzzinsocialmedia_Twitter
+dataset_id: 4549.0
+description: The Buzzinsocialmedia_Twitter dataset contains information about Twitter users related to the Buzzinsocialmedia platform. It includes various attributes such as user ID, follower count, friend count, listed count, account creation date, and favorites count. The dataset also contains tweets posted by these users, including the tweet ID, tweet creation date, tweet text, retweet count, favorite count, and user mentions. Additionally, there is information about the URLs mentioned in the tweets, including the URL domain and the number of times it was mentioned. The dataset allows for analysis of user and tweet-related metrics and can provide insights into user behavior and engagement on Twitter.

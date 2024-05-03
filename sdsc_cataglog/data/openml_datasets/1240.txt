@@ -1,0 +1,3 @@
+name: QSAR-TID-11414
+dataset_id: 3216.0
+description: The dataset QSAR-TID-11414 consists of 5,000 records representing chemical compounds. Each record contains 42 descriptors that provide information about the structural, topological, and electrostatic properties of the compounds. The target variable for this dataset is experimental IC50 values, which represent the potency of the compounds in inhibiting the activity of a specific target. The dataset was created to develop quantitative structure-activity relationship (QSAR) models for predicting the IC50 values based on the compound descriptors. The dataset is publicly available and can be used for research purposes in the field of drug discovery and computational chemistry.

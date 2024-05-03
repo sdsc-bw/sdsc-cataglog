@@ -1,0 +1,3 @@
+name: Shipping
+dataset_id: 45074.0
+description: The dataset "Shipping" contains information related to shipping activities including vessel names, types, sizes, and ownership details. It also includes data on the vessels' origins, destinations, and routes, providing insights into global shipping patterns. Other information available in the dataset includes the duration of voyages, cargoes transported, and port calls made. Additionally, the dataset offers details about vessel movements and positions using latitude and longitude coordinates. The dataset, which likely covers a specified time period, is extensive, allowing for comprehensive analysis of the shipping industry and its impact on trade and transportation.

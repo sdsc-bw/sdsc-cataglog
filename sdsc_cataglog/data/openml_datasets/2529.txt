@@ -1,0 +1,3 @@
+name: FOREX_nzdusd-minute-Close
+dataset_id: 41794.0
+description: The dataset "FOREX_nzdusd-minute-Close" consists of minute-by-minute closing prices for the NZD/USD currency pair in the foreign exchange market. The dataset likely contains a large amount of data points, providing a comprehensive view of the price movements of this particular currency pair over a specific timeframe. The closing prices are crucial in analyzing the performance of the currency pair as they highlight the final price at which a trading day concludes. Traders and researchers can utilize this dataset to study patterns, trends, and fluctuations in the NZD/USD exchange rate, aiding in their decision-making process and conducting in-depth market analysis.

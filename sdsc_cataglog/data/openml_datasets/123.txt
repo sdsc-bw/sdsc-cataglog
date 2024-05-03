@@ -1,0 +1,3 @@
+name: isolet
+dataset_id: 300.0
+description: The isolet dataset is a collection of speech data intended for the development and evaluation of speaker-independent machine learning algorithms. It consists of 7797 samples from 150 different subjects, with each sample representing a speech utterance. The dataset includes 26 attributes, such as spectral coefficients, spatiotemporal parameters, and pre-processed attributes. The goal is to classify the samples into one of 26 classes, each representing a different letter in the English alphabet. The dataset has been widely used in research for tasks such as speech recognition, feature selection, and speaker identification.

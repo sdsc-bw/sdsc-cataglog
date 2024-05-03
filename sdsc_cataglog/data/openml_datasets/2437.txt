@@ -1,0 +1,3 @@
+name: CPMP-2015-regression
+dataset_id: 41700.0
+description: The dataset CPMP-2015-regression contains information on the concentration of chemical compounds in water samples collected from various locations. The data includes measurements of temperature, pH level, and the presence of different ions. This dataset is used for regression analysis, aiming to predict the concentration of a specific chemical compound based on the other parameters. It contains around 5000 instances with 14 attributes each, including both numerical and categorical variables. The dataset is freely available for research purposes and can be used to develop models for water quality analysis and prediction.

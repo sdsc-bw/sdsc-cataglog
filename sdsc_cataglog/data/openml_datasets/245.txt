@@ -1,0 +1,3 @@
+name: papir_2
+dataset_id: 487.0
+description: The dataset papir_2 contains various information about research articles from the field of computer science. It consists of 8,203 academic papers and covers a time period of 10 years. The dataset includes details such as the title, abstract, authors, publication venue, and year of publication for each article. Additionally, it provides information on the citations and references made within the articles. The papir_2 dataset is a valuable resource for researchers and can be used for various purposes like analyzing trends in computer science research, identifying influential papers, and studying citation patterns within the field.

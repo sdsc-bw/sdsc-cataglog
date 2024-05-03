@@ -1,0 +1,3 @@
+name: fri_c0_250_5
+dataset_id: 776.0
+description: The dataset fri_c0_250_5 contains information about people's friendships. The dataset has 250 nodes or people, and each person has 5 relationships or friendships recorded in the dataset. It provides details such as the strength of each friendship and the labels representing the communities to which individuals belong. The dataset's structure is based on an undirected graph, with each node representing a person and each edge representing a friendship between two people. The dataset serves as a valuable resource for studying social networks, friendship dynamics, and community detection algorithms.

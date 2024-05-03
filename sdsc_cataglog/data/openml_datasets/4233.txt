@@ -1,0 +1,3 @@
+name: phoneme_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44411.0
+description: The dataset "phoneme_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" consists of 2000 rows and 100 columns. It is stratified and classified into 10 different classes. The dataset focuses on phonemes, which are the smallest units of sound in language. It is likely a dataset used for phoneme recognition or classification tasks. The stratification implies that the dataset is evenly distributed across the different classes, ensuring a balanced representation. The dataset could be useful for training and evaluating machine learning models that aim to classify or identify different phonemes accurately.

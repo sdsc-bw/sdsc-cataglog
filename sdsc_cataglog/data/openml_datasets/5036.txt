@@ -1,0 +1,3 @@
+name: Epsilon
+dataset_id: 45575.0
+description: The dataset Epsilon is a collection of data from advertising campaign interactions. It consists of more than 400,000 instances and includes 200 features. The data describes the user's demographic information, browsing history, and interactions with ads. Additionally, it contains anonymized features to maintain privacy. The dataset was created to predict whether a particular user will click on an advertisement. It is widely used in the machine learning community for testing classification algorithms.

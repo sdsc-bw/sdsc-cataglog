@@ -1,0 +1,3 @@
+name: vancouver_employee
+dataset_id: 42089.0
+description: The dataset vancouver_employee contains information about employees working for the City of Vancouver, Canada. It includes details about their position, department, employee group, hire date, termination date, work location, and salary. The dataset provides insights into the city's workforce composition, employee turnover, and compensation structure. It can be utilized for various analyses, such as identifying trends in hiring practices, evaluating employee satisfaction, and comparing salaries between different departments or positions. The dataset is regularly updated to reflect changes in the workforce, ensuring that the information remains current and valuable for decision-making and research purposes.

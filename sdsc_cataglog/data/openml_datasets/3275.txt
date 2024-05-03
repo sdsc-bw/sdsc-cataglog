@@ -1,0 +1,3 @@
+name: Quora_Insincere_Questions_2018
+dataset_id: 43345.0
+description: The Quora_Insincere_Questions_2018 dataset is focused on identifying insincere questions on the Quora platform. It was created to tackle the problem of users posting questions that are offensive, misleading, or intended to provoke. The dataset consists of over 1.3 million questions, out of which approximately 80,000 are labeled as insincere. The dataset contains various features, including the question text, as well as some additional metadata. It aims to be a valuable resource for training machine learning models to automatically detect and filter out such insincere questions on Quora.

@@ -1,0 +1,3 @@
+repo_name: label-studio
+link: https://github.com/heartexlabs/label-studio
+description: Label Studio is an open source data labeling tool. It lets you label data types like audio, text, images, videos, and time series with a simple and straightforward UI and export to various model formats. It can be used to prepare raw data or improve existing training data to get more accurate ML models. You can customize Label Studio to fit your needs and have a custom dataset. The software can be installed locally with Docker or pip, or deployed in a cloud instance. Label Studio includes templates for labeling data and can be integrated with your existing tools.

@@ -1,0 +1,3 @@
+name: QSAR-TID-43
+dataset_id: 3731.0
+description: The QSAR-TID-43 dataset contains information about the molecular structure and biological activity of 43 compounds. It includes 1D and 2D molecular descriptors such as logP, molecular weight, lipophilicity, hydrogen bond donors, among others. The dataset also provides binary information about the activities of the compounds on a particular target. The dataset aims to analyze the relationship between the molecular descriptors and the biological activity of the compounds, allowing the development of predictive models for future compounds. It serves as a valuable resource for researchers working in the field of drug discovery and chemoinformatics.

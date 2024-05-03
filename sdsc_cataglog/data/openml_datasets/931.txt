@@ -1,0 +1,3 @@
+name: PieChart2
+dataset_id: 1452.0
+description: The dataset "PieChart2" contains information about the distribution of different categories within a given dataset. It consists of various columns, such as "Category" which categorizes the data, and "Value" which represents the corresponding value or frequency for each category. The dataset also includes additional columns like "Color" and "Label" for associating colors and labels with each category. It provides an organized representation of data for visualization purposes, particularly for creating pie charts. The dataset facilitates a clear understanding of the proportions and relationships between different categories within a dataset.

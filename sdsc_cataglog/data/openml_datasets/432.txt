@@ -1,0 +1,3 @@
+name: rabe_166
+dataset_id: 684.0
+description: The dataset rabe_166 contains information about 166 lung cancer patients who were treated with radiotherapy. It includes various factors such as age, sex, smoking status, and tumor characteristics. The patients were followed up for a period of time to analyze the survival rate and treatment outcomes. The dataset also includes variables related to the treatment, such as dose and fractionation of radiotherapy. Additionally, data about potential adverse events and complications during the treatment are included. This dataset is valuable for studying the effectiveness and side effects of radiotherapy in lung cancer patients and can contribute to improving treatment strategies.

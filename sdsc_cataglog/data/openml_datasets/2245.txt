@@ -1,0 +1,3 @@
+name: mofn-3-7-10
+dataset_id: 40680.0
+description: The dataset mofn-3-7-10 is a collection of synthetic datasets used for multi-objective feature selection (MOFS) evaluation. It consists of three subsets, each representing a different version of the MOFS problem. These subsets contain various instances and their corresponding features. The dataset is further divided into training and test sets for evaluation purposes. MOFS aims to select a subset of features that optimizes multiple objectives simultaneously. The mofn-3-7-10 dataset provides a benchmark for evaluating different MOFS algorithms and comparing their performance on these synthetic datasets.

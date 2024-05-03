@@ -1,0 +1,3 @@
+name: Click_prediction_small_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44767.0
+description: The dataset named "Click_prediction_small_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns. It consists of 10 different classes and has been stratified during its creation. The purpose of the dataset is likely related to click prediction, indicating that it may contain features and labels concerning online advertisements or user interactions. With a small size and stratified distribution, this dataset could be suitable for training and testing machine learning models aimed at predicting user clicks. It can serve as a valuable resource for understanding and developing click prediction algorithms.

@@ -1,0 +1,3 @@
+name: Amazon_employee_access_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44709.0
+description: The dataset Amazon_employee_access_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True contains information about Amazon employee access permissions. It has a total of 2000 rows and 10 classes. The dataset has 100 columns, representing various features. Stratify is set to true, indicating that the data is properly distributed across all classes. This dataset is likely to be used for tasks involving access control, such as determining if an employee has permission to access certain resources within Amazon's infrastructure. The dataset may also be used for training models to predict access rights based on employee characteristics and other variables.

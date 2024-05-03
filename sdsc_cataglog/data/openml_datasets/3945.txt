@@ -1,0 +1,3 @@
+name: bank-marketing
+dataset_id: 44071.0
+description: The bank-marketing dataset contains information about marketing campaigns of a Portuguese bank. It consists of 41,188 records with data on various customer attributes such as age, job type, marital status, education level, and housing loan. The dataset was collected through phone calls, with each record including the outcome of the call, whether the client subscribed to a term deposit or not. The dataset also includes details about the contact, such as the month, day of the week, and duration of the call. It serves as a valuable resource for exploring the effectiveness and efficiency of marketing campaigns in the banking sector.

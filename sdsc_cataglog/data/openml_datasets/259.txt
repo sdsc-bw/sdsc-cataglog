@@ -1,0 +1,3 @@
+name: analcatdata_supreme
+dataset_id: 504.0
+description: The dataset analcatdata_supreme contains information about cases heard by the Supreme Court of the United States. It consists of 272 instances with 16 attributes. These attributes include the term, issue, jurisdiction, petitioner, respondent, lower court, facts, lower court disposition, lower court judge, majority opinion writer, vote, opinion, direction, and case name. The dataset provides details about different legal cases, their outcomes, and the stakeholders involved. It can be used for various analyses and insights into the Supreme Court's decision-making process, voting patterns, and the impact of lower court decisions on the final ruling.

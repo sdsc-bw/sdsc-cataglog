@@ -1,0 +1,3 @@
+name: QSAR-TID-100417
+dataset_id: 3928.0
+description: The dataset QSAR-TID-100417 contains information about the quantitative structure-activity relationships (QSAR) of certain compounds. It consists of 4,417 data instances and 19 input variables, which represent molecular descriptors of the compounds. The dataset is focused on predicting the toxic and non-toxic properties of the compounds based on their structural features. The variables include features like molecular weight, hydrophobicity, and connectivity indices. The dataset is suitable for training machine learning models to predict a compound's toxicity based on its structural properties. This dataset can be valuable in drug discovery and toxicity prediction research.

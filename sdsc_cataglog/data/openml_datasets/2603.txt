@@ -1,0 +1,3 @@
+name: FOREX_eurpln-day-High
+dataset_id: 41868.0
+description: The dataset FOREX_eurpln-day-High contains information about the daily high exchange rates for EUR/PLN currency pairs in the foreign exchange (FOREX) market. It provides data related to the highest value of the EUR/PLN pair recorded during each trading day. The dataset is likely to have a temporal structure, with each observation corresponding to a specific day. It can be used for various purposes, such as analyzing trends, evaluating volatility, or designing trading strategies. The dataset's focus on high exchange rates of EUR/PLN highlights the importance of fluctuations and potential investment opportunities in this specific currency pair.

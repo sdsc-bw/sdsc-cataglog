@@ -1,0 +1,3 @@
+name: synchronous_machine
+dataset_id: 44968.0
+description: The dataset "synchronous_machine" contains data on the electrical power output of a synchronous machine. It includes various parameters such as temperature, inlet pressure, outlet pressure, and flow rate. The dataset also provides information on the machine's efficiency, power factor, and stator current. The data was collected at regular intervals over a period of time. The purpose of the dataset is to analyze the performance of synchronous machines and gain insights into their operating conditions. The dataset is available for public use and can be used for research, analysis, and training purposes in the field of electrical engineering.

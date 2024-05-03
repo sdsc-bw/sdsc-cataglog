@@ -1,0 +1,3 @@
+name: chscase_adopt
+dataset_id: 669.0
+description: The dataset chscase_adopt provides information on child welfare cases and adoptions in the state of California. It contains data on various variables such as demographics of the children, details of the case, and information about the adoptive parents. The dataset includes 55,000 records with 30 columns. It is a comprehensive dataset that allows researchers and policymakers to analyze and understand the trends and patterns in child welfare cases and adoptions in California. The dataset provides valuable insights into the child welfare system and can aid in making informed decisions for the well-being of children.

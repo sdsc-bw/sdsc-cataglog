@@ -1,0 +1,3 @@
+name: covertype
+dataset_id: 44112.0
+description: The dataset covertype consists of cartographic information for predicting forest cover type based on biophysical attributes. It includes seven different forest cover types classified into 30 x 30 meter cells from four wilderness areas located in the Roosevelt National Forest of northern Colorado. The attributes present in the dataset include elevation, slope, aspect, soil type, and wilderness area. There are a total of 581,012 entries in the dataset, with each entry representing a 30 x 30 meter cell. This dataset is commonly used in machine learning research for classification tasks related to forest cover type prediction.

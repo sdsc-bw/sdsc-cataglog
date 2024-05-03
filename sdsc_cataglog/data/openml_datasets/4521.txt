@@ -1,0 +1,3 @@
+name: Fashion-MNIST_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44700.0
+description: The dataset Fashion-MNIST_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True includes 2000 rows of data with 10 different classes and 100 columns. It is a stratified dataset, meaning the data is divided in such a way that each class is represented proportionally. The dataset is likely related to fashion, as it is named "Fashion-MNIST." The seed value of 2 suggests that the randomization of the data was generated using a specific seed. The dataset may be used for tasks like image classification or fashion trend analysis.

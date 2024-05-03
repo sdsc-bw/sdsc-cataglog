@@ -1,0 +1,3 @@
+name: cnn-stock-pred-sp
+dataset_id: 43006.0
+description: The dataset cnn-stock-pred-sp contains information related to stock market predictions using a Convolutional Neural Network (CNN) approach. It consists of observations spanning a period from 2005 to 2018. The data includes features such as sentiment analysis scores, news volume, and market volatility. The target variable in the dataset is the daily percentage change in the Standard and Poor's 500 index (S&P 500). This dataset can be utilized to develop and test predictive models for stock market analysis, particularly in relation to the S&P 500 index.

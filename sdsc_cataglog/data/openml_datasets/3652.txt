@@ -1,0 +1,3 @@
+name: 1996-2019-NBA-Stats-Complete-With-Player-Stats
+dataset_id: 43728.0
+description: The dataset "1996-2019-NBA-Stats-Complete-With-Player-Stats" contains comprehensive statistical information about NBA players from the years 1996 to 2019. It includes detailed player-level data, such as the number of games played, minutes played, field goals attempted and made, three-point attempts and made, free throws attempted and made, rebounds, assists, steals, blocks, turnovers, personal fouls, and points scored. The dataset encompasses a wide range of player attributes and performance metrics, making it a valuable resource for analyzing and understanding NBA player statistics over a vast period of time.

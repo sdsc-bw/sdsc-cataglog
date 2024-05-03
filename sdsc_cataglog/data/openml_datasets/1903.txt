@@ -1,0 +1,3 @@
+name: QSAR-TID-11968
+dataset_id: 3888.0
+description: The dataset QSAR-TID-11968 contains information about 1,196 chemical compounds and their associated biological activities. It includes 4,217 molecular descriptors that describe various properties of the compounds. The biological activity values of each compound are indicated by the EC50 values, which represent the concentration required for 50% inhibition. The dataset was derived from the DrugBank database and further preprocessed. It can be used for various quantitative structure-activity relationship (QSAR) studies to predict the activity of new chemical compounds based on their molecular descriptors.

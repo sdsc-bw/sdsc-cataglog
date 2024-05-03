@@ -1,0 +1,3 @@
+name: credit-g_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44500.0
+description: The dataset credit-g_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True has 2000 rows and 100 columns. It consists of 10 classes and is stratified, meaning that the class distribution is approximately equal in each part of the dataset. This dataset likely contains information about credit-related attributes, such as credit scores, loan amounts, payment history, and other relevant details. With its stratified nature, it can be used to train and test machine learning models that aim to predict credit-related outcomes. The dataset's specific seed value (2) ensures reproducibility, allowing for consistent results when working with the data.

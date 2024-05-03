@@ -1,0 +1,3 @@
+name: MiniBooNE
+dataset_id: 41150.0
+description: The MiniBooNE dataset is a collection of experimental data from the MiniBooNE neutrino oscillation experiment. Neutrinos are subatomic particles that carry no electric charge and have a very small mass. The dataset includes measurements that aim to understand the behavior of neutrinos and their oscillations. The experiment involves firing a beam of neutrinos at a detector and analyzing the interactions that occur. The dataset consists of various properties and characteristics of these interactions, such as the energy and momentum of the particles involved. The data is used to study neutrino oscillations, which have significant implications for our understanding of fundamental physics.

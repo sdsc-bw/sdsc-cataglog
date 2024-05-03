@@ -1,0 +1,3 @@
+name: fri_c1_250_10
+dataset_id: 647.0
+description: The dataset fri_c1_250_10 has a total of 250 instances and 10 attributes. It contains information regarding the time of each instance, as well as various other characteristics. The dataset represents a challenging problem of scheduling tasks on an unrelated parallel processors system, where each task has a specific execution time on each processor. The dataset is considered to be very demanding due to the large number of instances and the complexity of the scheduling problem. The dataset aims to help researchers and practitioners analyze and develop efficient scheduling algorithms and techniques for parallel processing systems.

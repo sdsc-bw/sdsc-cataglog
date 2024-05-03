@@ -1,0 +1,3 @@
+name: QSAR-TID-137
+dataset_id: 3475.0
+description: The dataset QSAR-TID-137 contains 1102 chemical compounds, each described by 128 attributes. These compounds are divided into two classes: active and inactive and have been tested for their inhibitory activity against HIV-1 integrase. The objective is to predict the activity of a given compound based on its attributes. The dataset provides information on molecular structure, atom types, and connectivity. The primary focus of this dataset is to facilitate the development of predictive QSAR (Quantitative Structure-Activity Relationship) models for HIV-1 integrase inhibitors. It is a valuable resource for researchers in drug discovery and computational chemistry.

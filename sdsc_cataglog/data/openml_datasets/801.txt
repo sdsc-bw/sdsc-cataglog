@@ -1,0 +1,3 @@
+name: pc2
+dataset_id: 1069.0
+description: The dataset pc2 contains information about 500 personal computers (PCs) and their specifications. It includes variables like the model, processor speed, display size, hard drive capacity, and price. The dataset also includes the performance rating of each PC, which is based on various benchmarks and tests. The goal of the dataset is to analyze the relationship between the PC specifications and its performance rating. This dataset can be used to gain insights into the factors that influence the performance of personal computers and aid in the decision-making process for purchasing PCs.

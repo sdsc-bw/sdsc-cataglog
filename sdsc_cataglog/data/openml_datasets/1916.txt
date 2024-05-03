@@ -1,0 +1,3 @@
+name: QSAR-TID-30023
+dataset_id: 3901.0
+description: The dataset QSAR-TID-30023 contains 1,098 instances and 3 inputs, which include the features presented in the International Protein Index (IPI) database. The aim of this dataset is to assess the potential toxicity of various compounds, mainly proteins. The toxicity is measured using a binary variable indicating whether the compound is toxic or not. The dataset was obtained by collecting experimental data from protein sequences. The inputs were encoded using a combination of alignment and composition-based descriptors. This dataset is intended to be used for toxicity prediction and can be beneficial in designing safer compounds and drugs.

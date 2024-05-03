@@ -1,0 +1,3 @@
+name: Churn_Telco_Europa
+dataset_id: 44228.0
+description: The dataset Churn_Telco_Europa is based on a telecommunication company in Europe. It contains various variables such as customer information, services used, and billing details. The dataset aims to analyze customer churn, meaning the tendency of customers to switch to a different provider. It includes information on both churned and non-churned customers, providing insights into the factors that contribute to customer attrition. The dataset can be utilized to develop predictive models and strategies to minimize churn, ultimately improving customer retention and profitability for the telecommunication company.

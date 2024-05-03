@@ -1,0 +1,3 @@
+repo_name: notebook
+link: https://github.com/jupyter/notebook
+description: The Jupyter Notebook is a web-based notebook environment for interactive computing. It allows users to automate workflows, host and manage packages, find and fix vulnerabilities, create instant dev environments, write better code with AI, collaborate outside of code, and fund open source developers. In this notebook, we will introduce the Jupyter Notebook and its two most recently released major versions, Notebook v5 and Classic Notebook v6, as well as the transition to Notebook v7. We will also provide installation and usage instructions, as well as information on development, contributing, community guidelines, and the Jupyter Development Team.

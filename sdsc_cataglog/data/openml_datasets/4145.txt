@@ -1,0 +1,3 @@
+name: Meta_Album_ACT_40_Extended
+dataset_id: 44325.0
+description: The dataset "Meta_Album_ACT_40_Extended" provides extended information about albums from the music industry. It includes details such as the album's title, release date, genre, label, and artist. Additionally, it contains data on the album's sales and certification status. This dataset aims to offer a comprehensive overview of albums, allowing for analysis and insights into the music industry dynamics. The data within "Meta_Album_ACT_40_Extended" can be used to study trends, success factors, and patterns in the release and performance of albums across different genres and labels.

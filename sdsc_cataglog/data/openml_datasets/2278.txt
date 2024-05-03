@@ -1,0 +1,3 @@
+name: Run_or_walk_information
+dataset_id: 40922.0
+description: The dataset "Run_or_walk_information" contains information about different activities, including whether the person was running or walking. It includes 88588 rows and 4 columns. The columns consist of timestamp, acceleration data in the x, y, and z directions. The dataset provides a time series of measurements recorded while the individual was engaged in running or walking. It offers a rich source of data to analyze patterns and trends in movement activities. The dataset likely serves as a valuable resource for conducting research on physical activity and exercise habits.

@@ -1,0 +1,3 @@
+name: QSAR-TID-10692
+dataset_id: 3979.0
+description: The dataset QSAR-TID-10692 contains a collection of molecular descriptors and activity data for 181 molecules. The molecules are dengue virus inhibitors and are characterized by various physicochemical properties, such as molecular weight, octanol-water partition coefficient, and hydrogen bonding. The activity data represents the IC50 values, which measure the concentration required to inhibit 50% of the dengue virus. This dataset is important for developing quantitative structure-activity relationship (QSAR) models to predict the inhibitory potency of similar compounds and aid in designing more effective dengue virus inhibitors.

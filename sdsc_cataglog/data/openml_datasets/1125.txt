@@ -1,0 +1,3 @@
+name: QSAR-TID-30049
+dataset_id: 3101.0
+description: The dataset QSAR-TID-30049 contains information about chemical compounds and their biological activity against a specific target. It consists of 6,519 instances and 74 molecular descriptors, such as topological and physicochemical properties of the compounds. The compounds are classified into two classes: active and inactive, based on their bioactivity. The dataset aims to support the development of quantitative structure-activity relationship (QSAR) models for predicting the bioactivity of new compounds. The dataset has been used in various research studies to test and develop different machine learning algorithms and QSAR models.

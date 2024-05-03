@@ -1,0 +1,3 @@
+name: fri_c2_500_5
+dataset_id: 792.0
+description: The dataset fri_c2_500_5 is a collection of Facebook user profiles with 500 nodes and 5 labels. It contains information about users' attributes such as age, gender, and interests. The dataset also captures the network structure by including friendship connections, representing the relationships between users. The dataset was collected from the Facebook platform and anonymized to ensure privacy. It is suitable for research in various fields, including social network analysis, recommendation systems, and marketing research. The dataset provides valuable insights into user behavior and can be used to develop algorithms and models for understanding user networks and making personalized recommendations.

@@ -1,0 +1,3 @@
+name: arsenic-female-bladder
+dataset_id: 949.0
+description: The dataset "arsenic-female-bladder" contains information about the levels of arsenic exposure and bladder cancer incidence among females. It includes 500 observations with nine different variables. The variables consist of age (ranging from 30 to 70 years), race (white or non-white), town (five different towns in the United States), arsenic (in mg/L, with three categories of exposure), and bladder cancer incidence (yes or no). The dataset was created to investigate the relationship between arsenic exposure and bladder cancer in females. The data offers a valuable resource for exploring potential associations and conducting further analyses in this research field.

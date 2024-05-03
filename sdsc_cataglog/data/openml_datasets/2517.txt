@@ -1,0 +1,3 @@
+name: FOREX_usdjpy-hour-Close
+dataset_id: 41782.0
+description: The dataset FOREX_usdjpy-hour-Close contains hourly closing prices for the currency pair USD/JPY in the foreign exchange (FOREX) market. The dataset includes information on the exchange rate between the US dollar (USD) and the Japanese yen (JPY) at different points in time. The prices are recorded at hourly intervals, providing a comprehensive view of the USD/JPY exchange rate over a specific time period. This dataset can be used for various data analysis and modeling purposes, such as forecasting exchange rate movements, understanding market dynamics, and developing trading strategies in the FOREX market.

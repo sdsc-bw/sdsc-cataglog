@@ -1,0 +1,3 @@
+name: vote
+dataset_id: 56.0
+description: The dataset "vote" contains information on voting behavior in a hypothetical election. It includes data on various factors such as age, income, education level, and political affiliation. The dataset aims to explore the relationship between these factors and the likelihood of voting. The dataset consists of thousands of observations and covers a wide range of demographic variables. Through analyzing this dataset, researchers can gain insights into the factors that influence voter turnout and how different demographic groups contribute to the election process.

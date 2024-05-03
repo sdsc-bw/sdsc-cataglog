@@ -1,0 +1,3 @@
+name: pol
+dataset_id: 44008.0
+description: The dataset "pol" contains information on politicians, including their political party affiliation, gender, political ideology, and the state they represent. It also includes details on the amount of money they received in campaign contributions and their voting record on different issues. The dataset aims to provide comprehensive data on politicians in the United States and is used for various research purposes, such as studying political polarization, campaign finance, and policy preferences. It is a valuable resource for analyzing political dynamics and conducting empirical studies on the behavior of elected officials.

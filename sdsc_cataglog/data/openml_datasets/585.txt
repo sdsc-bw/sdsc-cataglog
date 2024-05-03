@@ -1,0 +1,3 @@
+name: stock
+dataset_id: 841.0
+description: The dataset "stock" contains information about various stocks, including their company names, ticker symbols, sector, industry, and market cap. It also includes daily stock prices for each stock, along with their respective volumes. The dataset covers a time period spanning several years, allowing for analysis of stock price trends over time. The dataset is organized in a tabular format, making it easy to extract and analyze data. It provides a comprehensive overview of different stocks and their performance in the market, which can be useful for investors, researchers, and analysts.

@@ -1,0 +1,3 @@
+name: QSAR-TID-102421
+dataset_id: 3065.0
+description: The dataset QSAR-TID-102421 consists of various QSAR (Quantitative Structure-Activity Relationship) features of chemical compounds. It was created for the purpose of predicting the inhibitory activity against cybercriminals. The dataset contains a total of 8,529 instances and 102 features, including molecular descriptors and fingerprints. Each instance is labeled with a binary value representing its inhibitory activity. The dataset is aimed at developing predictive models for cybercrime inhibition. The data was obtained from publicly available sources and the dataset is made available for research purposes. The original paper provides detailed information about the dataset.

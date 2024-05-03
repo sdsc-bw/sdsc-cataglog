@@ -1,0 +1,3 @@
+name: cholesterol
+dataset_id: 204.0
+description: The dataset titled "Cholesterol" focuses on the levels of cholesterol in the human body, which is known to impact heart health. It contains information such as age, gender, and measurements of different cholesterol types like HDL and LDL. The dataset consists of 1,000 samples, including both healthy individuals and those with heart conditions. It aims to study the relationship between cholesterol levels and various factors like age and gender. The dataset will be useful for analyzing and understanding the impact of cholesterol on cardiovascular health, potentially leading to the development of strategies for prevention and treatment of heart diseases.

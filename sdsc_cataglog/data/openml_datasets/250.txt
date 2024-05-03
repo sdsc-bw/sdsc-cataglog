@@ -1,0 +1,3 @@
+name: wind_correlations
+dataset_id: 493.0
+description: The dataset wind_correlations consists of information about correlations between wind speed measurements from different locations. It includes data from various locations and timestamps, allowing for the examination of how wind speed measurements relate to each other over time. The dataset provides valuable insights into the spatial and temporal connections of wind patterns, which can help predict and understand wind behaviors. This information can be extremely useful for various industries, such as renewable energy, climate research, and urban planning, as it allows for better planning and decision-making based on wind patterns and potential variability.

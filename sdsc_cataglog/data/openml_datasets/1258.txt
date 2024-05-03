@@ -1,0 +1,3 @@
+name: QSAR-TID-10653
+dataset_id: 3234.0
+description: The dataset QSAR-TID-10653 consists of 1,053 compounds, each of which has 253 molecular descriptors. These descriptors represent characteristics of the compounds, such as shape, size, and chemical properties. The dataset also includes the measured activity of the compounds against a specific biological target. The compounds are divided into two classes: active and inactive. The dataset is intended to be used for developing and evaluating machine learning models that can predict the activity of compounds against the biological target based on their molecular descriptors. It provides an opportunity to explore the relationship between molecular properties and biological activity.

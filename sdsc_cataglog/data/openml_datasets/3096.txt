@@ -1,0 +1,3 @@
+name: ct-slice-localization
+dataset_id: 42973.0
+description: The dataset ct-slice-localization is a collection of computed tomography (CT) scans of patients' heads. It focuses on the localization of a specific slice among the CT scan images. The dataset consists of 53500 images, with each image labeled with the exact location of the slice within the head. The location is represented by a two-dimensional coordinate system. Additionally, the dataset includes the width and height measurements of the slice as well as the skull and brain measurements. This dataset has been created to aid in the development of algorithms and models to accurately localize CT slices and provide better medical diagnoses and treatment plans.

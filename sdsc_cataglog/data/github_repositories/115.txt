@@ -1,0 +1,3 @@
+repo_name: superintendent
+link: https://github.com/janfreyberg/superintendent
+description: The Superintendent is an `ipywidget`-based interactive labelling tool for your data that allows flexible labelling of all kinds of data, as well as combining data-labelling tasks with statistical or machine learning models to enable quick and practical active learning. To get started with Superintendent, you can take a look at the documentation and examples provided at http://www.janfreyberg.com/superintendent/ before installing it using pip and enabling the required jupyter extension. If you want to contribute to the library, test dependencies will also need to be installed.

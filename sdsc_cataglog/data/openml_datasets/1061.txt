@@ -1,0 +1,3 @@
+name: covertype
+dataset_id: 1596.0
+description: The dataset covertype contains information about the forest cover type for different areas in the Roosevelt National Forest of Northern Colorado. It has seven classes representing the cover types as follows: spruce/fir, lodgepole pine, ponderosa pine, cottonwood/willow, aspen, Douglas-fir, and Krummholz. The dataset comprises 581,012 instances with 54 attributes, including quantitative and qualitative features such as elevation, slope, aspect, distance to water sources, and soil type. This dataset is commonly used in machine learning tasks and has been widely studied for classification and prediction purposes, such as identifying the dominant forest cover type based on the given attributes.

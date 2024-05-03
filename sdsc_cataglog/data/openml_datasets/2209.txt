@@ -1,0 +1,3 @@
+name: BNG(optdigits)
+dataset_id: 40516.0
+description: The dataset BNG (optdigits) consists of handwritten digits (0-9) and their corresponding labels. It contains 5620 instances, each represented by 64 attributes representing the pixel intensity values of an 8x8 grid. These attributes are numeric values ranging from 0 to 16 and were obtained by processing the image with a custom filter that extracted relevant information. The dataset is balanced, with all the digits having an equal number of instances. BNG (optdigits) is widely used as a benchmark dataset for pattern recognition and machine learning research to develop models that can accurately classify handwritten digits.

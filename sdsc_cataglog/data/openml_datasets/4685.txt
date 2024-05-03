@@ -1,0 +1,3 @@
+name: topo_2_1
+dataset_id: 45041.0
+description: The dataset topo_2_1 contains information related to topography. It includes the coordinates of various points on the surface, as well as their corresponding elevation values. The dataset comprises a total of 500 points. The coordinates are given in longitude and latitude format, while the elevation values are provided in meters above sea level. The dataset also includes the date and time at which the measurements were taken. The purpose of this dataset is to study and analyze the topography of a specific area, providing valuable insights into the terrain's characteristics and variations.

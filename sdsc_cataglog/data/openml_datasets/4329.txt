@@ -1,0 +1,3 @@
+name: steel-plates-fault_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44507.0
+description: The dataset steel-plates-fault_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows with 100 columns. It has been stratified into 10 classes. The data is related to steel plates and faults. The purpose of this dataset is to analyze the relationship between the features of the steel plates and the occurrence of faults. It is a seeded dataset, meaning it has been generated with a specific seed. The exact details of the seed are not mentioned. However, it implies that the dataset can be reproduced using the same seed.

@@ -1,0 +1,3 @@
+name: cmc_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44614.0
+description: The dataset, cmc_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True, contains information about a survey conducted on 2000 women. The dataset is stratified, meaning it represents different groups proportionately. There are 10 different classes within the dataset. A total of 100 columns represent different variables or characteristics of the women. The dataset can be used for various analyses, such as identifying trends or patterns among the surveyed women based on the different variables provided.

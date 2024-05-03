@@ -1,0 +1,3 @@
+name: League-of-Legends---(LCL)-2019
+dataset_id: 43793.0
+description: The League of Legends (LCL) dataset for 2019 pertains to the professional eSports league in Russia and CIS countries. The dataset includes various attributes related to the matches such as team names, player statistics, team compositions, and match outcomes. It contains information on over 4,000 matches played by 10 different teams throughout the season. The data can be utilized to perform analyses and gain insights into the performance of players, teams, and overall trends in the league.

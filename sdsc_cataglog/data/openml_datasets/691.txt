@@ -1,0 +1,3 @@
+name: arsenic-male-lung
+dataset_id: 951.0
+description: The dataset "arsenic-male-lung" contains information about the concentration of arsenic in the lungs of male individuals. The data was collected from a study conducted on a sample of male subjects in a specific region. The dataset includes different variables such as age, smoking status, and the amount of arsenic found in the lungs. The goal of this dataset is to understand the relationship between arsenic exposure, lung health, and other factors. Researchers can utilize this dataset to analyze and explore potential associations between arsenic levels and lung-related health issues in males.

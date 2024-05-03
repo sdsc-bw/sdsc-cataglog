@@ -1,0 +1,3 @@
+name: QSAR-TID-101503
+dataset_id: 3379.0
+description: The dataset QSAR-TID-101503 contains information on the biological activity of various compounds. It consists of 1055 instances and 308 attributes, including the compound's structural, topological, and physicochemical properties. The dataset aims to predict the compounds' ability to inhibit Thymidine Kinase 1 (TK) in humans, which is important for anticancer drug development. It was created to aid in the development of models for quantitative structure-activity relationship (QSAR) studies. The dataset has been processed to remove missing values and outliers, making it suitable for analysis and modeling purposes.

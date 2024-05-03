@@ -1,0 +1,3 @@
+name: bank-marketing_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44406.0
+description: The dataset "bank-marketing_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" is a dataset with 2000 rows and 100 columns. It has 10 different classes and is stratified, meaning it has been divided into groups that maintain the same class distribution as the original dataset. The dataset is related to bank marketing, indicating that it may contain information about marketing efforts by banks. The seed number 4 suggests that it has been randomly sampled or divided into subsets using a specific seed value. Overall, this dataset provides a manageable amount of data with a varied range of classes, making it suitable for analysis and classification tasks.

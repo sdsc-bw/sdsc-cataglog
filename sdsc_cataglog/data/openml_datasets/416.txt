@@ -1,0 +1,3 @@
+name: rmftsa_ladata
+dataset_id: 666.0
+description: The dataset rmftsa_ladata contains time series data collected at various locations in Los Angeles. It consists of 61 series, each representing a different variable such as temperature, humidity, and wind speed. The data spans from 1968 to 1977, with various frequencies ranging from daily to monthly measurements. Some series have missing values, which are indicated as NA. The dataset is useful for studying and analyzing climate patterns, as well as for developing forecasting models for weather-related phenomena in the Los Angeles area. The data is openly available and can be accessed for research purposes.

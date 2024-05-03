@@ -1,0 +1,3 @@
+name: Diabetes(scikit-learn)
+dataset_id: 44194.0
+description: The Diabetes dataset from scikit-learn is a commonly used dataset for regression analysis and machine learning tasks. It consists of 442 instances, each having 10 numerical attributes such as age, sex, body mass index, and blood pressure. The target variable is a quantitative measure of disease progression one year after baseline. The dataset is often used to predict the progression of diabetes based on the given features. Features have been normalized and should be used to predict the target value continuously. It is frequently utilized for evaluating regression models and comparing different algorithms in the field of diabetes research.

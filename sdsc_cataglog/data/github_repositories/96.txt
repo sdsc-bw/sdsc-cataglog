@@ -1,0 +1,3 @@
+repo_name: mist
+link: https://github.com/Hydrospheredata/mist
+description: Hydrosphere Mist is a serverless proxy for Spark cluster. Mist provides a new functional programming framework and deployment model for Spark applications.

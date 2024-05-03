@@ -1,0 +1,3 @@
+name: hailfinder_4
+dataset_id: 45179.0
+description: The dataset hailfinder_4 contains information about hailstorms in the United States. It includes data from 1955 to 2012 and has 25 different attributes. Some of these attributes include the date and time of the hailstorm, the location where it occurred, the size of the hailstones, and the associated property damage. The dataset also provides information about the storm's severity, such as the maximum hailstone diameter, wind speed, and duration. Hailfinder_4 is a comprehensive dataset that can be used for analyzing hailstorms and their impact over several decades, helping researchers and meteorologists understand hailstorm patterns and develop better forecasting models.

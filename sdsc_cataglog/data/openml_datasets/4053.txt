@@ -1,0 +1,3 @@
+name: NewspaperChurn
+dataset_id: 44226.0
+description: The dataset NewspaperChurn focuses on predicting customer churn in the newspaper industry. It contains information about customers, including their demographic characteristics, usage patterns, and whether they churned or not. The dataset consists of approximately 70,000 records, with each record containing 31 features. The features include variables such as customer age, length of customer relationship, customer tenure, customer interests, customer satisfaction, and customer usage patterns. The dataset provides a valuable resource for building predictive models and analyzing factors that contribute to customer churn in the newspaper industry.

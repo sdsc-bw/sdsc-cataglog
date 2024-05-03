@@ -1,0 +1,3 @@
+name: SigmaCabPrediction
+dataset_id: 43609.0
+description: The dataset SigmaCabPrediction is a collection of data that can be used to train and test predictive models for taxi cab arrival times. It contains information about the timestamp of the request, the longitude and latitude of the pickup and drop-off locations, as well as other variables like the weather conditions and the number of passengers. The goal of this dataset is to provide a comprehensive and diverse set of features that can be used to predict taxi arrival times accurately. It can be used in machine learning projects, particularly for developing algorithms that can optimize transportation services and improve customer satisfaction.

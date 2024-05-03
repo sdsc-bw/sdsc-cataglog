@@ -1,0 +1,3 @@
+name: 1-million-Reddit-comments-from-40-subreddits
+dataset_id: 43504.0
+description: The dataset "1-million-Reddit-comments-from-40-subreddits" contains one million comments from 40 different subreddits. These comments were collected from users on the Reddit platform and cover a wide range of topics and discussions. The dataset provides valuable insights into the behavior and preferences of Reddit users as they engage in various communities. It offers a significant amount of data for analysis and research purposes, allowing researchers to study different subreddits, user interactions, and trends. The dataset is a comprehensive resource for understanding the dynamics and patterns within the Reddit community.

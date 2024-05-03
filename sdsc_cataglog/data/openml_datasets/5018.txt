@@ -1,0 +1,3 @@
+name: ATLAS-Higgs-Boson-Machine-Learning-Challenge-2014
+dataset_id: 45551.0
+description: The ATLAS Higgs Boson Machine Learning Challenge 2014 dataset comprises energy and momentum measurements from proton-proton collisions carried out by the ATLAS experiment at CERN. The aim of the challenge was to classify these collisions into events where a Higgs Boson is produced or where other background processes occur. The dataset contains 250,000 events, each with 30 features, including variables like momentum, energy, angles, and particle identification. The task was to develop an algorithm that could accurately distinguish Higgs Boson events from background events. This dataset has served as a benchmark for machine learning algorithms in high-energy physics.

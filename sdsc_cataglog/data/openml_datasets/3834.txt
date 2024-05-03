@@ -1,0 +1,3 @@
+name: Diabetes(scikit-learn)
+dataset_id: 43959.0
+description: The Diabetes dataset in the scikit-learn library consists of medical records of patients diagnosed with diabetes. It contains 442 instances with ten numeric features, including body mass index, blood pressure, and glucose concentration, along with a quantitative measure of disease progression. The target variable is a continuous value representing the progression of the disease after one year. This dataset is often used for regression tasks, aiming to predict disease progression based on the given features. It is commonly used for exploring and implementing machine learning algorithms in healthcare and diabetes-related research.

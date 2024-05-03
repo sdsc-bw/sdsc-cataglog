@@ -1,0 +1,3 @@
+name: Ailerons
+dataset_id: 43995.0
+description: The dataset Ailerons is related to an aircraft's aileron control system, which helps in controlling the roll movement of the aircraft. It contains various measurements, including inputs, outputs, and controlled variables, obtained from a flight simulator. The dataset consists of over 7,000 instances and 40 attributes. The inputs represent the pilot's control activities, such as the measurement of the control stick, while the outputs represent the corresponding measurements of the aileron deflection. The dataset aims to model the aileron dynamics by analyzing the relationship between inputs and outputs, providing valuable insights for the design and evaluation of control systems for aircraft.

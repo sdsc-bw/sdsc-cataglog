@@ -1,0 +1,3 @@
+name: polish-bankruptcy-2year
+dataset_id: 42984.0
+description: The dataset "polish-bankruptcy-2year" provides information regarding bankruptcies of Polish companies over a two-year period. The dataset consists of 5,590 instances with 64 attributes. Each instance represents a company, and the attributes include financial ratios, industry sector classification, and bankruptcy status (either 0 for non-bankrupt or 1 for bankrupt). The dataset primarily focuses on bankruptcy prediction and can be utilized for developing predictive models or conducting statistical analyses. The data can provide insights into the financial health and factors contributing to bankruptcy in Polish companies, aiding in risk assessment and decision-making processes for businesses and investors.

@@ -1,0 +1,3 @@
+name: QSAR-TID-12861
+dataset_id: 3673.0
+description: The QSAR-TID-12861 dataset contains information about the biological activity of compounds related to the treatment of tuberculosis. The dataset includes data on 1,286 different compounds and their corresponding biological activity values. It also provides details about the chemical structure of the compounds, such as atom types and positions. The dataset aims to establish a connection between the chemical structure and the biological activity of these compounds. The biological activity values are presented as either active or inactive, based on their effect on tuberculosis. This dataset is valuable for researchers and scientists working on the discovery and development of new tuberculosis treatments.

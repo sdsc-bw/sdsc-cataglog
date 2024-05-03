@@ -1,0 +1,3 @@
+name: mlr_ranger_rng
+dataset_id: 42458.0
+description: The dataset "mlr_ranger_rng" is a benchmark regression dataset used for evaluating machine learning algorithms. It contains 100,000 samples and 20 numerical features, including a target variable. The target variable represents a continuous value, making this a regression problem. There are no missing values in this dataset, which makes it convenient for analysis. The dataset has been generated using a random number generator and includes a balanced distribution of target values. It serves as a reliable dataset for assessing the accuracy and performance of regression algorithms in various machine learning tasks.

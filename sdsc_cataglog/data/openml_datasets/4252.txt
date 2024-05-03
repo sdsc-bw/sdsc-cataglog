@@ -1,0 +1,3 @@
+name: jannis_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44430.0
+description: The dataset jannis_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True is a collection of data organized in rows and columns, with a total of 2,000 rows. It consists of 10 classes or categories and 100 columns. The dataset is stratified, meaning that it is divided into subsets that represent each class proportionally. It is likely that this dataset is used for classification tasks or analysis where the class labels and multiple features are important. However, specific details about the nature of the data or its purpose are not provided in the given sentences.

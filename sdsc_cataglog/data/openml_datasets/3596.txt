@@ -1,0 +1,3 @@
+name: Predicting-Critical-Heat-Flux
+dataset_id: 43671.0
+description: The dataset Predicting-Critical-Heat-Flux contains information on critical heat flux (CHF), which is the point at which a substance transitions from liquid to vapor. The dataset includes data from experiments conducted on different surfaces and under various conditions to predict CHF. It includes variables such as mass flow rate, inlet pressure, heat flux, and surface characteristics. The dataset aims to help analyze and predict the CHF under different conditions, which has significant implications in areas such as nuclear power plants and thermal management systems. Overall, the dataset provides valuable information for research on heat transfer and fluid dynamics.

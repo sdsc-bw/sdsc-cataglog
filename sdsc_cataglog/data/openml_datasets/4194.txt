@@ -1,0 +1,3 @@
+name: electricity_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44375.0
+description: The dataset called electricity_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True consists of data about electricity consumption with various attributes. It contains 2000 rows and 100 columns. The data is categorized into 10 classes, possibly based on different electricity consumption patterns. The dataset follows a stratified sampling approach, where the data is divided into homogeneous groups, ensuring representation of each class. With these properties, the dataset seems to be well-suited for analysis related to electricity consumption patterns and their classifications.

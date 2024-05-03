@@ -1,0 +1,3 @@
+name: schizo
+dataset_id: 466.0
+description: The dataset "schizo" includes information on schizophrenia patients and healthy controls. It contains a rich set of variables, such as demographic characteristics, cognitive test scores, and brain imaging data. The dataset consists of 200 participants, with 100 diagnosed with schizophrenia and 100 being healthy controls. It aims to investigate the neurobiological and cognitive factors associated with schizophrenia. The variables included in the dataset allow for a thorough analysis of various dimensions relevant to this psychiatric disorder, offering a valuable resource for researchers in understanding schizophrenia and potentially improving diagnostics and treatment strategies.

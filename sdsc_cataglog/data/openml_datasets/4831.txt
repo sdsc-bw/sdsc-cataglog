@@ -1,0 +1,3 @@
+name: hepar2_3
+dataset_id: 45189.0
+description: The hepar2_3 dataset contains information related to the production process of heparin, a widely used anticoagulant. The data includes 42 variables, such as raw material properties, process parameters, intermediate and final product characteristics. The dataset consists of 171 observations, representing different batches of heparin production. The aim of the data collection is to analyze the impact of various process variables on the final product attributes and identify any significant correlations. This dataset provides valuable insights into the quality control and optimization of the heparin production process, aiding in improving the consistency and effectiveness of this critical medication.

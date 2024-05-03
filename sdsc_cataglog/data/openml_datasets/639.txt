@@ -1,0 +1,3 @@
+name: hip
+dataset_id: 898.0
+description: The dataset "hip" contains information on a variety of topics related to hip health. It includes data on patient demographics, medical history, physical examination findings, and surgical procedures for individuals undergoing total hip arthroplasty. The dataset aims to investigate factors associated with outcomes and complications of hip surgery. It also includes various indices and questionnaires assessing pain, function, and quality of life pre- and post-operatively. The dataset is comprehensive and aims to provide valuable insights into hip health and surgical outcomes, helping researchers and healthcare professionals better understand and improve hip surgery outcomes.

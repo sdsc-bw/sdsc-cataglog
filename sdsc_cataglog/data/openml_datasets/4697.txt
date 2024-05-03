@@ -1,0 +1,3 @@
+name: cmc
+dataset_id: 45053.0
+description: The dataset "cmc" contains information about women's contraceptive methods in Thailand. It includes data on various factors such as the woman's age, education, religion, occupation, and desired number of children, as well as details about the contraceptive method used. There are a total of 1,470 instances in the dataset, with each instance representing a woman. The dataset is useful for studying the factors that influence contraceptive use and understanding the patterns and trends among women regarding their contraceptive choices in Thailand.

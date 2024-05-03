@@ -1,0 +1,3 @@
+name: Dril-Tweets
+dataset_id: 43521.0
+description: The dataset Dril-Tweets consists of tweets authored by the Twitter user @dril, known for their distinctive and surreal humor. It includes a total of approximately 56,000 tweets, collected over a span of ten years, from 2008 to 2018. The tweets cover a wide range of topics, often employing irony and sarcasm to deliver their comedic effect. The dataset is widely used in natural language processing research and has been utilized to train language models for generating humorous text. Dril-Tweets is available for public access and serves as a valuable resource for studying internet humor and developing computational models for humor recognition.

@@ -1,0 +1,3 @@
+name: chscase_funds
+dataset_id: 801.0
+description: The chscase_funds dataset contains information about funds received by community health service centers (CHC) in the United States. The dataset includes details such as the name of the CHC, the state location, the funding agency, and the type of grant received. It also includes information about the amount of funding received and the year it was allocated. The dataset covers a wide range of years, from 2001 to 2018, allowing for analysis of trends and patterns in funding for CHCs over time. This dataset is valuable for researchers, policymakers, and healthcare administrators interested in understanding the financial support provided to CHCs and its impact on healthcare access and quality.

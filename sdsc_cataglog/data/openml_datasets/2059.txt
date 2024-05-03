@@ -1,0 +1,3 @@
+name: QSAR-TID-259
+dataset_id: 4045.0
+description: The QSAR-TID-259 dataset contains 1055 compounds and their corresponding toxicity values. Each compound is represented by 41 molecular descriptors, which provide information about its chemical composition and structure. The toxicity values in the dataset range from 0 to 3, indicating the toxicity level of each compound. The dataset aims to assist in developing predictive models for toxicological studies. The dataset is publicly available and can be used for various purposes, such as determining the factors influencing toxicity or predicting toxicological outcomes for new compounds.

@@ -1,0 +1,3 @@
+name: kdd_ipums_la_97-small_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44393.0
+description: The dataset kdd_ipums_la_97-small_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns. It is stratified into 10 classes. It is a small subset of the larger kdd_ipums_la_97 dataset. The seed used for sampling is 1. The dataset is implemented in IPUMS LA 97 format, which is a harmonized and integrated dataset that provides information about individuals and households from various data sources. The dataset aims to provide a comprehensive understanding of the population in Los Angeles in 1997.

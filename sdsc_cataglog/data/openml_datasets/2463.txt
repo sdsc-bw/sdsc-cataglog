@@ -1,0 +1,3 @@
+name: FOREX_cadjpy-minute-High
+dataset_id: 41728.0
+description: The dataset FOREX_cadjpy-minute-High contains minute-by-minute data of the high price for the CAD/JPY currency pair in the foreign exchange (FOREX) market. This dataset provides information on the highest price reached by the currency pair within each minute. It can be utilized to analyze the price trends, volatility, and potential trading opportunities specific to the CAD/JPY pair. It may be useful for traders and analysts seeking to understand the historical performance and behavior of CAD/JPY and formulate informed trading strategies based on the high price levels in minute intervals.

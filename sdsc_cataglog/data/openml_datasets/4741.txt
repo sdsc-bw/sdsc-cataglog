@@ -1,0 +1,3 @@
+name: MLL
+dataset_id: 45097.0
+description: The MLL dataset is a collection of annotated three-dimensional medical lung images. It contains images from patients with various lung diseases, such as pneumonia or lung cancer, as well as from healthy individuals. The dataset consists of CT scans, which can be used for various medical diagnoses and research purposes. It offers a valuable resource for developing and testing machine learning algorithms in the field of medical imaging. The dataset is publicly available and has been widely used in the scientific community to advance the development of AI-based solutions for lung disease detection and classification.

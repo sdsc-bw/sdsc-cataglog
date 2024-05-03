@@ -1,0 +1,3 @@
+name: vertebra-column
+dataset_id: 1524.0
+description: The vertebra-column dataset consists of measurements from diagnostic medical images of patients with normal and abnormal spinal conditions. The dataset contains six biomechanical attributes derived from the shape and orientation of the pelvis and lumbar spine, as well as the sacral slope and pelvic incidence. The seventh attribute represents the classification of the patients into one of three categories: normal, disk hernia, or spondylolisthesis. The dataset includes 310 instances, with each instance represented by these seven attributes. This dataset aims to aid in the development of diagnostic systems for spinal conditions based on the biomechanical features extracted from medical images.

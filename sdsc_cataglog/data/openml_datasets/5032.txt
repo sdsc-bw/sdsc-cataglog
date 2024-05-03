@@ -1,0 +1,3 @@
+name: DBLP-QuAD
+dataset_id: 45569.0
+description: The dataset DBLP-QuAD is a large-scale knowledge graph that combines information from the academic domain (DBLP) with textual representations (QuAD). It consists of more than 1.6 million entities and over 5.4 million relations. The dataset includes detailed metadata about papers, authors, venues, and their interconnections. DBLP-QuAD is designed to facilitate research in various natural language processing (NLP) tasks such as question answering, entity linking, and knowledge graph construction. It provides a valuable resource for exploring information retrieval, semantic understanding, and machine learning techniques in the context of academic research.

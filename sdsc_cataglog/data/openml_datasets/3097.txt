@@ -1,0 +1,3 @@
+name: gas-turbine-2011
+dataset_id: 42974.0
+description: The gas-turbine-2011 dataset consists of data collected from a power plant gas turbine for a period of six years. The data includes 36733 instances with 11 attributes and one target variable. The attributes include variables such as temperature, pressure, and emissions, while the target variable represents the turbine energy yield. The dataset aims to predict the turbine energy yield based on the different attributes. It can be utilized for regression or time series analysis tasks. The dataset is freely available and can be accessed for research purposes.

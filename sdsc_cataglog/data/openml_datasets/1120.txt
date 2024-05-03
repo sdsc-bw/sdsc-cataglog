@@ -1,0 +1,3 @@
+name: QSAR-TID-52
+dataset_id: 3096.0
+description: QSAR-TID-52 is a dataset that contains information about the biodegradability of chemical compounds. It consists of 1055 instances, with each instance representing a compound. The dataset includes 7 input attributes such as molecular weight, number of atoms, and number of rings, along with an output attribute indicating the biodegradability class. The data is highly imbalanced, with around 80% of compounds considered non-biodegradable. The dataset was created to train machine learning models for predicting biodegradability based on the given attributes, aiding in the development of more environmentally friendly chemical compounds.

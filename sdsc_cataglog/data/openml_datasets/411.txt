@@ -1,0 +1,3 @@
+name: rabe_265
+dataset_id: 660.0
+description: The dataset rabe_265 consists of various environmental parameters collected from a research vessel named R/V Roger Revelle during the Rabe 2019 cruise. It covers a time span from July 31 to August 31, 2019, and includes measurements such as temperature, salinity, oxygen, and nutrient concentrations. These parameters were gathered from different depths and locations in the Labrador Sea and Irminger Sea of the North Atlantic. The dataset aims to provide insights into the physical and biogeochemical properties of these regions and their variations over time. It is available for further analysis and research purposes.

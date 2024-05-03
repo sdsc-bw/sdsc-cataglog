@@ -1,0 +1,3 @@
+name: micro-mass
+dataset_id: 1515.0
+description: The dataset "micro-mass" contains information about microbial mass (in grams) in different soil samples. Each sample represents a distinct location in a field. The dataset includes variables such as soil type, moisture content, temperature, and pH levels. It also includes details about the microbial species present in each sample. The dataset aims to study the relationship between these variables and microbial mass, potentially providing insights into the environmental factors influencing microbial growth. The dataset is useful for researchers studying soil microbiology, ecology, and the impact of soil conditions on microbial communities.

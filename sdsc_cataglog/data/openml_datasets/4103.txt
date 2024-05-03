@@ -1,0 +1,3 @@
+name: Meta_Album_MD_6_Micro
+dataset_id: 44280.0
+description: The dataset called Meta_Album_MD_6_Micro focuses on micro-level details of albums. It contains information about albums such as their titles, artists, release dates, genres, and durations. The dataset also includes details about the songs within each album, such as their titles, durations, and positions on the album. Additionally, it provides information about the album's sales, including the number of copies sold and certified sales. The dataset aims to provide a comprehensive understanding of albums at a granular level, enabling researchers to analyze various aspects and trends related to album production and consumption.

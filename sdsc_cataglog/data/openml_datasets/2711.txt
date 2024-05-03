@@ -1,0 +1,3 @@
+name: wine_reviews
+dataset_id: 42074.0
+description: The wine_reviews dataset consists of a collection of wine reviews, containing various details like the wine's variety, winery, region, country, and description. It includes information on over 130,000 different wines, spanning across different countries and regions. The dataset also provides ratings for each wine, which allows for analysis in terms of quality and popularity. The reviews in the dataset are written by different individuals, providing a wide range of opinions and perspectives on the wines. Overall, this dataset offers comprehensive information for conducting analyses and understanding the characteristics and preferences associated with different types of wine.

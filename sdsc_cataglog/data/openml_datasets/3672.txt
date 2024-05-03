@@ -1,0 +1,3 @@
+name: Generation-8-Pokemon
+dataset_id: 43749.0
+description: The Generation-8-Pokemon dataset contains information about the eighth generation of Pokémon, a popular fictional franchise. It includes data on 81 new Pokémon introduced in Pokémon Sword and Shield games, which were released in 2019. Each Pokémon entry offers details like its unique identifier, name, type, abilities, base stats, evolution chain, and more. The dataset also provides additional information about the abilities and items that can be used in battles. It is a comprehensive resource for fans and researchers interested in analyzing and understanding the characteristics and attributes of Generation-8 Pokémon.

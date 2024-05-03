@@ -1,0 +1,3 @@
+name: timing-attack-dataset-15-micro-seconds-delay-2022-09-09
+dataset_id: 45488.0
+description: The dataset timing-attack-dataset-15-micro-seconds-delay-2022-09-09 is a collection of data related to timing attacks. These attacks involve measuring the time taken by a system to perform certain operations and exploiting any variations to gather information. The dataset specifically focuses on a delay of 15 microseconds. It is timestamped on September 9, 2022, indicating the dataset's relevance and currency. This dataset can be valuable for researchers and practitioners studying timing attacks and developing countermeasures. With its specific focus on a 15-microsecond delay, it offers a detailed analysis of timing vulnerabilities at a highly granular level.

@@ -1,0 +1,3 @@
+name: World-Top-Chess-Players-(August-2020)
+dataset_id: 43566.0
+description: The dataset "World-Top-Chess-Players-(August-2020)" provides information about the top chess players from around the globe as of August 2020. The dataset contains various attributes for each chess player, including their name, country, FIDE rating, their year of birth, and gender. It also includes the titles achieved by the players, which could be Grandmaster(GM), International Master(IM), FIDE Master(FM), Woman Grandmaster(WGM), or Woman International Master(WIM). With this dataset, chess enthusiasts and researchers can analyze the rankings, demographics, and achievements of the world's top chess players as of August 2020.

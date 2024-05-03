@@ -1,0 +1,3 @@
+name: hepatitisC
+dataset_id: 1087.0
+description: The hepatitisC dataset contains information related to patients diagnosed with Hepatitis C. It includes demographic details such as age, gender, and symptoms present in the patients. The dataset also provides medical history like alcohol consumption, drug usage, and the presence of other liver diseases. Laboratory test results, including liver function tests and viral load measurements, are included in the dataset as well. The patients are categorized into different groups based on the severity of the disease. The dataset aims to assist in studying the factors influencing the progression of Hepatitis C and improving patient care and treatment outcomes.

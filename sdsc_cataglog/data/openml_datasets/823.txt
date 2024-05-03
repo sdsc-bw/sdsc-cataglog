@@ -1,0 +1,3 @@
+name: Brainsize
+dataset_id: 1093.0
+description: The dataset Brainsize comprises information on the brain size and other variables of 40 participants from the University of Amsterdam. The participants were selected from three groups: men who played chess intensively, women who played chess intensively, and people who never played chess. The variables include the total intracranial volume, the weight of the brain, the height of the person, and the gender. This dataset aims to investigate differences in brain size among the three groups based on gender and chess-playing habits. It offers valuable insights into the relationship between brain size, gender, and chess expertise.

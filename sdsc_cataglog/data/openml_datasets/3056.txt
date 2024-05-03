@@ -1,0 +1,3 @@
+name: absenteeism-at-work
+dataset_id: 42887.0
+description: The absenteeism-at-work dataset contains information about absenteeism from work in a transportation company. The dataset is comprised of 740 instances with 21 attributes, which include employees' reasons for absences, their work-related factors, and their demographic characteristics. The dataset provides valuable information for analyzing and understanding the factors that contribute to absenteeism in the workplace. The dataset's attributes cover various dimensions, allowing for a comprehensive exploration of the topic. This dataset offers researchers and analysts an opportunity to study absenteeism at work and develop insights and strategies to address this issue in organizations more effectively.

@@ -1,0 +1,3 @@
+name: QSAR-TID-101226
+dataset_id: 4087.0
+description: The dataset QSAR-TID-101226 contains information on chemical compounds and their biological activities. It consists of 45,732 instances with 969 attributes, including 960 molecular descriptors and 9 biological response classes. The dataset aims to assist in the development of quantitative structure-activity relationship (QSAR) models. The compounds were tested for their interactions with target proteins, and the biological response classes indicate the level of activity. The dataset can be used for predicting bioactivity levels of new compounds and understanding the relationship between molecular structure and biological activity. It provides valuable insights for drug discovery and design.

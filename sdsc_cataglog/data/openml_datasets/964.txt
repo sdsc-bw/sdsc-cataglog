@@ -1,0 +1,3 @@
+name: phoneme
+dataset_id: 1489.0
+description: The dataset phoneme consists of phoneme speech recognition data collected from around 4500 phonetically rich sentences spoken by 630 speakers. The sentences are evenly distributed across various categories such as question, statement, command, etc. The dataset includes audio files recorded at a sampling rate of 16 kHz and features like intensity, pitch, and spectral coefficients. Each sentence is labeled with its corresponding phonetic transcription, and the dataset also provides information on speaker demographics like age and gender. The phoneme dataset serves as a valuable resource for research in automatic speech recognition systems and phonetic analysis.

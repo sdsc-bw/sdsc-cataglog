@@ -1,0 +1,3 @@
+name: fri_c0_500_50
+dataset_id: 888.0
+description: The dataset fri_c0_500_50 is composed of 500 instances with 50 attributes. It was created as part of a study on friendship relationships in a university. The instances represent different pairs of students who were evaluated according to different attributes, such as their major, gender, graduation year, and resident status. The dataset provides valuable information about student friendships and can be utilized for further research and analysis.

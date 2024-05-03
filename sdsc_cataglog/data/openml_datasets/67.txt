@@ -1,0 +1,3 @@
+name: satimage
+dataset_id: 182.0
+description: The satimage dataset is a collection of satellite image data used for land cover classification. It consists of 4,435 instances with 36 continuous features representing spectral values at different wavelengths. These features were extracted from 3x3 patches of pixels in multi-spectral imagery. The dataset comes with seven classes representing different land cover types, including barren land, trees, grassland, and more. Satimage is a challenging dataset due to the presence of overlapping classes, making accurate classification difficult. The dataset is widely used for benchmarking machine learning algorithms in the field of remote sensing and has been employed in various land cover classification studies.

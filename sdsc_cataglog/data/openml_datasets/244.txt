@@ -1,0 +1,3 @@
+name: papir_1
+dataset_id: 486.0
+description: The dataset "papir_1" consists of 1,000 records and includes information on paper products. It contains various attributes such as the type of paper, its dimensions, weight, and color. Additionally, information about the manufacturer, price, and quantity of each product is provided. The dataset also features a column indicating whether the product is recycled or not. The data is structured in CSV format, allowing for easy access and analysis. Overall, "papir_1" can serve as a valuable resource for studying paper product trends, conducting market research, and exploring eco-friendly options.

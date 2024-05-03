@@ -1,0 +1,3 @@
+name: Short_Track_Speed_Skating
+dataset_id: 41022.0
+description: The dataset Short_Track_Speed_Skating provides information on various aspects related to the sport of short track speed skating. It includes data on athletes, races, and results from different events, such as the ISU Short Track World Cup and Olympic Games. The dataset covers multiple seasons and includes details like athletes' names, nationalities, and dates of birth, as well as race outcomes, times, and rankings. It also includes information on the tracks used for the events. Overall, the Short_Track_Speed_Skating dataset offers a comprehensive collection of data for analyzing and studying the sport of short track speed skating.

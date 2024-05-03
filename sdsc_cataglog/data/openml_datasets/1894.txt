@@ -1,0 +1,3 @@
+name: QSAR-TID-11426
+dataset_id: 3879.0
+description: QSAR-TID-11426 is a dataset intended for predicting the activity of molecules as inhibitors of proteins associated with the Ebola virus. It consists of 10,505 chemical compounds, described by 7,493 molecular descriptors, along with their measured biological activity values. The dataset is provided in a CSV format, where each row represents a different compound, and the columns represent the descriptors and activity values. The purpose of this dataset is to facilitate the development of effective drugs and therapies for combating the Ebola virus. Various machine learning algorithms and statistical models can be employed on this dataset for predictive modeling and drug discovery purposes.

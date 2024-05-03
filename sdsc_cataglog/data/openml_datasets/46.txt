@@ -1,0 +1,3 @@
+name: vehicle
+dataset_id: 54.0
+description: The dataset "vehicle" contains information about various attributes of vehicles, such as the make, model, year, price, mileage, fuel type, and color. It consists of a comprehensive collection of data points for different types of vehicles. The dataset can be utilized for performing analysis, statistical research, and machine learning tasks related to the automotive industry. It includes data on both new and used vehicles, providing a wider range of options for analysis. With its diverse range of variables, the vehicle dataset becomes a valuable resource for understanding and predicting trends in the automobile market.

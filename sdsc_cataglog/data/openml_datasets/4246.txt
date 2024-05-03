@@ -1,0 +1,3 @@
+name: eye_movements_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44424.0
+description: The dataset "eye_movements_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True" consists of eye movement data with 2000 rows and 100 columns. It contains information about eye movements across 10 different classes or categories. The dataset has been stratified, meaning that the distribution of classes within the dataset is representative of the overall population. This dataset can be useful for studying and analyzing eye movements in relation to different categories, and can contribute to research in various fields such as psychology, human-computer interaction, and neuroscience.

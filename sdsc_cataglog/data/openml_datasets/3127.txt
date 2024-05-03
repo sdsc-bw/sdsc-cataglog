@@ -1,0 +1,3 @@
+name: hcv-data
+dataset_id: 43009.0
+description: The HCV-data dataset contains information on 535 patients who have been diagnosed with Hepatitis C Virus (HCV) infection. The dataset includes 28 attributes that provide detailed information about each patient, such as their age, gender, BMI, and laboratory test results. The dataset is valuable for studying the effects of various factors on the progression of HCV infection and the effectiveness of different treatments. It has been extensively used in research studies and can help in gaining insights into the disease and improving treatment strategies.

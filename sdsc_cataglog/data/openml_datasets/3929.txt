@@ -1,0 +1,3 @@
+name: analcatdata_supreme
+dataset_id: 44055.0
+description: The dataset analcatdata_supreme is about a Supreme Court database that contains information on important court cases in the United States. The dataset consists of 43 cases with 7 attributes each, including the year the case was decided, the petitioner, the respondent, the issue discussed, the decision reached, the decision direction, and the authority making the decision. The dataset aims to provide researchers with valuable information for studying Supreme Court decisions and their outcomes. It can be utilized to analyze trends, patterns, and factors influencing court rulings, thus contributing to understanding the functioning of the US legal system.

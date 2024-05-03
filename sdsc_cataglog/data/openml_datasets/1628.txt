@@ -1,0 +1,3 @@
+name: QSAR-TID-10505
+dataset_id: 3613.0
+description: The dataset QSAR-TID-10505 contains information on the bioactivity of different compounds against HIV-1 protease. It consists of 41 compounds with 8 molecular descriptors and a binary outcome variable indicating whether the compound is active or inactive against the target. The dataset is useful for building predictive models to determine the bioactivity of similar compounds. The molecular descriptors provide information about the chemical properties of the compounds, while the outcome variable allows for classification tasks. Overall, QSAR-TID-10505 serves as a valuable resource for research in drug discovery and medicinal chemistry related to HIV-1 protease inhibition.

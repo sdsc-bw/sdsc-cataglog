@@ -1,0 +1,3 @@
+name: Meta_Album_MD_5_BIS_Micro
+dataset_id: 44252.0
+description: Meta_Album_MD_5_BIS_Micro is a dataset consisting of metadata related to albums. The dataset includes information such as the album name, artist, release date, genre, and duration. The purpose of the dataset is to provide detailed information about various albums for analysis and research purposes. The dataset is expected to be useful for music scholars, researchers, and data analysts interested in studying trends and patterns in album production and consumption. It is a comprehensive collection of album metadata that can be utilized to gain insights into the music industry and its evolution over time.

@@ -1,0 +1,3 @@
+name: QSAR-TID-19907
+dataset_id: 3670.0
+description: The dataset QSAR-TID-19907 contains information about the biological activities of various compounds. It consists of 19907 instances, each represented by 102 attributes. The target variable identifies the compound's activity as either active or inactive. The dataset provides details on the compounds' physicochemical properties, molecular fingerprints, and topological indices. Additionally, it includes data on the number of hydrogen donors and acceptors, as well as the compound's molecular weight and druglikeness score. This dataset is useful for training models to predict the activity of similar compounds and can be employed in drug discovery and development research.

@@ -1,0 +1,3 @@
+name: QSAR-TID-101188
+dataset_id: 3908.0
+description: The dataset QSAR-TID-101188 contains information about the quantitative structure-activity relationship (QSAR) of molecules. It includes 733 compounds, each with 41 molecular descriptors. The dataset aims to predict the biological activity of the compounds, specifically their ability to inhibit the hERG potassium ion channel. The molecular descriptors provide information about the structure, shape, and properties of the compounds, allowing for the development of predictive models. The dataset was created for the purpose of developing computational tools for drug design and toxicity prediction, with a focus on preventing the occurrence of drug-induced cardiac arrhythmias.

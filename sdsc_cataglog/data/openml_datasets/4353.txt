@@ -1,0 +1,3 @@
+name: airlines_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44531.0
+description: The dataset "airlines_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True" consists of 2000 rows and 100 columns. It has a stratified distribution with 10 classes. The dataset was created with a seed value of 3. Stratification is the process of dividing the dataset in such a way that each class is represented proportionally. This dataset can be used for various classification tasks, as it provides a diverse range of data points with multiple features. It can be especially valuable for machine learning algorithms that require a balanced distribution of classes.

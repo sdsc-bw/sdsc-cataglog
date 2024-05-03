@@ -1,0 +1,3 @@
+name: QSAR-TID-12475
+dataset_id: 3041.0
+description: The dataset QSAR-TID-12475 contains information about 520 chemicals and their toxic qualities. It includes 7 attributes, such as molecular weight, number of rotatable bonds, and polarizability, that are believed to be related to the chemicals' toxic effects. The toxic effects of the chemicals are assessed on a scale ranging from -1.6 to 1.3. The dataset aims to build models that can predict the toxicity of new chemicals based on their attributes. The dataset is publicly available and can be used by researchers to develop new models and algorithms for toxicity prediction.

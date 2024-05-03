@@ -1,0 +1,3 @@
+name: fri_c1_500_10
+dataset_id: 641.0
+description: The dataset fri_c1_500_10 consists of 500 documents that span across 10 different categories. Each document is represented as a "bag of words" representation where the presence of each word is denoted by a binary value. The dataset provides insights into the frequency at which each word appears in the documents across different categories. It is aimed at facilitating research on text classification, topic modeling, and related tasks. The dataset is widely used in academic and industry settings for various natural language processing and machine learning experiments. Overall, fri_c1_500_10 is a valuable resource for exploring text-based applications.

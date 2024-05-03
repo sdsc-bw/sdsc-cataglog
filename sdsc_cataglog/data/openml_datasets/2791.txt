@@ -1,0 +1,3 @@
+name: Asteroid_Dataset
+dataset_id: 42252.0
+description: The Asteroid_Dataset is a comprehensive collection of information about asteroids in our solar system, specifically those that have been discovered and observed. It includes data about their orbital properties, physical characteristics, and other related information. The dataset provides details such as the asteroid's name, diameter, composition, and its closest approach to Earth. It also includes information about their discovery, such as the date and location it was first observed. The dataset serves as a valuable resource for studying and understanding asteroids, their behavior, and their potential impact on our planet.

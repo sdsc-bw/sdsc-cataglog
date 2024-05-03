@@ -1,0 +1,3 @@
+name: plasma_retinol
+dataset_id: 915.0
+description: The dataset plasma_retinol consists of data from a study that examined the level of plasma retinol, a type of vitamin A, in the blood of individuals. The study included 315 participants, with 157 being men and 158 being women. The data gathered includes various variables such as age, sex, smoking habits, BMI, and blood pressure measurements. This dataset was used to analyze the relationship between plasma retinol levels and these different variables. The findings of this study can provide valuable insights into the factors that influence plasma retinol levels and their potential health implications.

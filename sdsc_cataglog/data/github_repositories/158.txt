@@ -1,0 +1,3 @@
+repo_name: semantic
+link: https://github.com/github/semantic
+description: `semantic` is a Haskell library and command line tool for parsing, analyzing, and comparing source code. It offers features such as automating workflows, hosting and managing packages, finding and fixing vulnerabilities, and instant dev environments. Users can write better code with AI, as well as collaborate outside of code. There are also options to fund open source developers and access GitHub community articles. The tool requires at least GHC 8.10.1 and Cabal 3.0 and builds only on Unix systems. Architecturally, `semantic` leverages a number of interesting algorithms and techniques. Contributions are welcome and Semantic is licensed under the MIT license.

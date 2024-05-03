@@ -1,0 +1,3 @@
+name: dgf_96f4164d-956d-4c1c-b161-68724eb0ccdc
+dataset_id: 43026.0
+description: The dataset dgf_96f4164d-956d-4c1c-b161-68724eb0ccdc is a dataset containing information about an unknown subject. It consists of multiple sentences that provide details about different aspects of the dataset. The sentences mention that the dataset has 1,000 records, with each record containing 12 attributes or features. These attributes include numerical, categorical, and timestamp values. The dataset is also mentioned to be well-structured, with missing values and outliers handled appropriately. It is intended for use in machine learning models and data analysis tasks. No further information about the subject or specific contents within the dataset is provided.

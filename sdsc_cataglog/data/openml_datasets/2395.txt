@@ -1,0 +1,3 @@
+name: Diabetes(scikit-learn)
+dataset_id: 41519.0
+description: The Diabetes dataset in scikit-learn is composed of ten baseline variables, including age, sex, body mass index (BMI), blood pressure, and six blood serum measurements. The target variable is a quantitative measure of disease progression one year after the baseline measurements. The dataset contains information from 442 patients, with each patient having 10 continuous feature variables and a target value. It is commonly used for regression and predictive modeling tasks to study and develop algorithms for diabetes prediction and management. The dataset is easily accessible and can be utilized for machine learning experimentation and research purposes.

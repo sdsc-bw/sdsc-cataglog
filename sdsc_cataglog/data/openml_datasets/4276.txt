@@ -1,0 +1,3 @@
+name: road-safety_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44454.0
+description: The dataset road-safety_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset related to road safety with 2000 rows and 100 columns. It is randomized with a seed of 1, meaning it can be reproduced. The dataset is stratified, which suggests that the proportional representation of classes in the dataset is maintained. There are 10 classes in total. The dataset contains information about various factors related to road safety, which are distributed across the 100 columns. It can be used for analysis and modeling related to road safety to understand patterns and make predictions.

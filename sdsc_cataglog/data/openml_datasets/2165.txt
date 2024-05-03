@@ -1,0 +1,3 @@
+name: GesturePhaseSegmentationProcessed
+dataset_id: 4538.0
+description: GesturePhaseSegmentationProcessed is a dataset that comprises four different hand gesture phases, namely open, close, rotate, and shift. The dataset includes 171 annotated video sequences with varying camera angles and lighting conditions, captured using two different cameras. Each video sequence represents a single instance of a person performing a particular hand gesture. The dataset also provides additional information such as RGB, depth, and skeleton data. The dataset aims to support research in automated hand gesture recognition and understanding, enabling the development of robust gesture-based interfaces and applications.

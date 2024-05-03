@@ -1,0 +1,3 @@
+name: zoo
+dataset_id: 62.0
+description: The dataset "zoo" contains 101 animal records. Each record represents an animal from a zoo, and has 17 attributes that describe various characteristics such as the animal's name, its type (mammal, bird, fish, etc.), its hair type, its skin type, whether it lays eggs or not, and more. The dataset also includes information on the animals' domestication and conservation status. This dataset is commonly used for classification tasks and has been used to predict the type of an animal based on its attributes. It serves as a valuable resource for studying and analyzing animal behavior and characteristics.

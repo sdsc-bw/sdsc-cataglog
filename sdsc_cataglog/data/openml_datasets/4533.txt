@@ -1,0 +1,3 @@
+name: Amazon_employee_access_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44712.0
+description: The dataset "Amazon_employee_access_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns. It has been stratified into 10 different classes. The dataset represents access privileges of Amazon employees and is seed number 4. This dataset likely contains information about the access levels of different employees within Amazon's system. It may be used to understand patterns and trends in employee access or to build models for predicting access privileges based on certain factors. The stratification of the dataset into 10 classes suggests that there are specific categories or levels of access being represented.

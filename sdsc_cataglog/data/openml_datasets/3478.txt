@@ -1,0 +1,3 @@
+name: Global-School-Closures-for-COVID-19
+dataset_id: 43554.0
+description: The dataset Global-School-Closures-for-COVID-19 provides information about school closures worldwide due to the COVID-19 pandemic. It includes data on the date of closure, the country and region, and the educational level affected. The dataset also includes information on the reopening dates and the reasons behind the closures. This dataset is significant as it sheds light on the extent of school closures globally and enables an analysis of the impact on education and potential learning loss. Researchers, policymakers, and educators can utilize this dataset to make informed decisions regarding educational strategies and interventions during the pandemic.

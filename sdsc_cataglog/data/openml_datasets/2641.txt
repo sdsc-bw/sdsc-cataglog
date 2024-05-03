@@ -1,0 +1,3 @@
+name: MIP-2016-PAR10-classification
+dataset_id: 41939.0
+description: The dataset MIP-2016-PAR10-classification is a collection of real-world instances from various domains, used for benchmarking classification algorithms in the field of machine learning. It includes 11 different classification tasks, each having its own set of features and labels. The dataset is aimed at evaluating computational intelligence techniques and performance metrics. It contains a total of 197 instances, with a varying number of features and classes across different tasks. The dataset is publicly available and can be used for research purposes to compare the performance of different classification algorithms.

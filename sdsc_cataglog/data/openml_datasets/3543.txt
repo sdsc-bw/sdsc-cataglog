@@ -1,0 +1,3 @@
+name: Car-sales
+dataset_id: 43619.0
+description: The Car-sales dataset provides insights into car sales in various regions and includes information about different car models, their attributes, and their sales performance. The dataset contains data about factors like horsepower, acceleration, miles per gallon, and car prices. It also includes details about the car manufacturer, the number of doors, the type of car, and the origin of production. This dataset can be used for analysis and prediction purposes, allowing researchers to identify trends and patterns in the car sales industry based on various attributes. It provides a comprehensive overview of the car sales market, assisting in making informed decisions and strategies.

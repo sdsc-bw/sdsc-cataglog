@@ -1,0 +1,3 @@
+name: cleaned-Edge-IIoTset
+dataset_id: 45582.0
+description: The dataset called cleaned-Edge-IIoTset is aimed at facilitating research related to Industrial Internet of Things (IIoT). It contains data collected from sensors placed in an industrial environment, capturing various parameters such as temperature, humidity, and vibration. The dataset has been carefully cleaned and preprocessed to remove any anomalies or missing values. It also includes metadata that describes the sensors and their properties. The goal of this dataset is to enable researchers to analyze the collected data and develop effective algorithms and models for IIoT applications.

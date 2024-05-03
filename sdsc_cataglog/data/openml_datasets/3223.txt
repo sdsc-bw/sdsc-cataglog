@@ -1,0 +1,3 @@
+name: 1StudentPerfromance
+dataset_id: 43255.0
+description: The dataset "1StudentPerfromance" contains information about the academic performance of students. It includes data for mathematics and Portuguese language exams, as well as other attributes such as gender, parental level of education, and family size. The dataset also provides socio-economic factors like student's travel time, study time, and extra educational support. It consists of 33 variables and 1044 instances. The dataset aims to explore the factors that might influence student performance. The data was collected from a high school in Portugal through school reports and questionnaires. The dataset can be used for various analyses and predictions related to academic performance.

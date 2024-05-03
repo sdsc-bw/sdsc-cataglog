@@ -1,0 +1,3 @@
+name: mfeat-zernike
+dataset_id: 22.0
+description: The dataset mfeat-zernike contains a collection of 2000 images divided into 10 classes for each of the five morphological features. These features are computed from the images of handwritten digits that have been preprocessed and centered in a square box of 128×128 pixels. The dataset offers a comprehensive representation of characters' shapes, textures, and symmetries. Each image in the dataset is transformed into a set of Zernike moments, which creates a numerical description of the image's shape. This dataset is commonly used in machine learning research to develop and evaluate algorithms for pattern recognition and image classification.

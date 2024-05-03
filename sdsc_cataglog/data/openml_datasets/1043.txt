@@ -1,0 +1,3 @@
+name: ijcnn
+dataset_id: 1575.0
+description: The dataset IJCNN, also known as the International Joint Conference on Neural Networks dataset, is a popular and widely used collection of data in machine learning and neural network research. It consists of various datasets and tasks, including classification, regression, time series forecasting, and more. The dataset provides a rich source of information for researchers to develop and evaluate their algorithms and models. It includes features such as input patterns, target outputs, and additional information for each task. The IJCNN dataset is regularly updated and used in numerous studies, making it an essential resource for the neural network community.

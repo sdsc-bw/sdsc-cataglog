@@ -1,0 +1,3 @@
+name: QSAR-TID-10880
+dataset_id: 3364.0
+description: The QSAR-TID-10880 dataset contains information about the biological activity of several compounds. It includes 10,880 instances, each with 41 descriptors and one output value for the activity. The dataset is divided into two subsets, with 8,880 instances in the training set and 2,000 instances in the test set. The descriptors cover different aspects of the compounds, such as molecular properties and chemical structure. The dataset aims to facilitate the development of predictive models to determine the biological activity of new compounds, which can be useful in drug discovery and development processes.

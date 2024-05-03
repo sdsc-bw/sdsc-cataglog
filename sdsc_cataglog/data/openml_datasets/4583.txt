@@ -1,0 +1,3 @@
+name: kick_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44762.0
+description: The dataset kick_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2,000 rows and 100 columns. It has been stratified into 10 classes, meaning that each class has been proportionally represented in the dataset. This dataset is likely used for classification tasks. The term "kick" in the dataset name suggests that it may be related to a specific domain or problem. However, without further information, it is difficult to determine the exact nature of the data.

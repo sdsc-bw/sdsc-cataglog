@@ -1,0 +1,3 @@
+name: pair0004
+dataset_id: 43298.0
+description: The dataset pair0004 includes information about 800 patients who underwent a specific procedure. The data has been collected from various sources such as medical records, surveys, and demographic information. It contains features like age, gender, pre-operative health conditions, post-operative outcomes, and details of the procedure. The dataset also includes variables related to the length of hospital stay, complications encountered during the procedure, and patient satisfaction levels. The purpose of collecting this data is to analyze the effectiveness and safety of the procedure, study the impact of different variables on patient outcomes, and identify any patterns or correlations that may exist.

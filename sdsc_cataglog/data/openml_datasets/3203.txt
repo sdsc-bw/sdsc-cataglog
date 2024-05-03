@@ -1,0 +1,3 @@
+name: superconduct
+dataset_id: 43174.0
+description: The dataset "superconduct" contains data related to superconductivity, a fascinating phenomenon where materials conduct electric current with zero resistance at low temperatures. The dataset includes 21 columns and over 21,000 rows, covering various properties of superconducting materials. These properties include the critical temperature, composition, lattice parameters, and more. The dataset features a mixture of numerical and categorical data, providing a comprehensive collection for studying superconductivity. Researchers can utilize this dataset to explore correlations between different properties and gain insights that could potentially enhance the understanding and development of superconducting materials.

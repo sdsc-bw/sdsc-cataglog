@@ -1,0 +1,3 @@
+name: QSAR-TID-20025
+dataset_id: 3225.0
+description: The QSAR-TID-20025 dataset is a collection of chemical compounds with their corresponding inhibitory activity values against human immunodeficiency virus type 1 (HIV-1) integrase enzyme. It contains a total of 167 molecules and 13 descriptors. The descriptors provide information about the compounds' topology, shape, and electronic properties. These properties were calculated using theoretical methods and molecular modeling techniques. The dataset aims to support the development of predictive models for the inhibition of HIV-1 integrase enzyme. It can be used for further research and analysis in the field of drug discovery and design.

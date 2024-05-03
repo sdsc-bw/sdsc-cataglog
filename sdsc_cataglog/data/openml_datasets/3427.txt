@@ -1,0 +1,3 @@
+name: Online-P2P-Lending
+dataset_id: 43502.0
+description: The Online-P2P-Lending dataset provides information about loan listings on a peer-to-peer lending platform. It contains data relevant to over 100,000 loan listings, including various attributes such as loan amount, interest rate, loan grade, and loan status. The dataset also includes borrower related data like income, employment length, home ownership status, and credit scores. With this dataset, researchers can analyze lending trends, identify factors influencing loan default rates, and develop predictive models for loan performance. The dataset is beneficial for financial institutions, policymakers, and investors interested in understanding and mitigating risks associated with peer-to-peer lending.

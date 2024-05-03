@@ -1,0 +1,3 @@
+name: titanic_1
+dataset_id: 42441.0
+description: The titanic_1 dataset consists of information regarding the passengers aboard the Titanic, a historic ship that sank in 1912. It contains data on 891 passengers, including their age, gender, passenger class, fare, and survival status. The dataset also includes details about their siblings/spouses and parents/children on board, as well as their cabin number and embarkation location. There are missing values in the dataset, particularly in the age and cabin number columns. Overall, the titanic_1 dataset provides valuable insights into the demographics and characteristics of the individuals who were on board the Titanic.

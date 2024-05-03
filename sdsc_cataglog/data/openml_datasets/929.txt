@@ -1,0 +1,3 @@
+name: MindCave2
+dataset_id: 1450.0
+description: MindCave2 is a dataset aimed at advancing the field of neuroscience by providing comprehensive brain recordings from mice. It covers various types of neural activity, including electrophysiology and calcium imaging, and consists of recordings from multiple brain regions. The dataset also includes various behavioral data, allowing researchers to analyze brain activity in relation to behavior. MindCave2 is designed to be highly valuable for studying brain circuits and their relation to behavior, helping unravel the complex functioning of the brain. It aims to facilitate discoveries of principles underlying brain activities and contribute to the development of medical treatments for neurological disorders.

@@ -1,0 +1,3 @@
+name: QSAR-TID-17063
+dataset_id: 3729.0
+description: The dataset QSAR-TID-17063 contains information about the biological activity of pesticides. It includes 186 samples, each with 20 features that describe molecular properties. These features are associated with the binding affinity values of the pesticides towards the human androgen receptor (AR). The dataset aims to predict the binding affinity of new pesticides towards the AR based on their molecular properties, which is crucial for assessing their potential toxic effects. The dataset is useful for researchers and scientists working in the field of drug discovery, toxicology, and environmental risk assessment.

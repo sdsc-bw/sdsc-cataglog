@@ -1,0 +1,3 @@
+name: win95pts_9
+dataset_id: 45206.0
+description: The dataset win95pts_9 contains information about performance measurements for the Windows 95 operating system. It includes 18 attributes, such as processor speed, cache size, and benchmarks for various tasks. The data was collected from a sample of 140 computers running Windows 95. Each computer was tested multiple times to obtain accurate performance measures. The purpose of this dataset is to analyze the relationship between hardware attributes and system performance. The dataset provides a valuable resource for researchers and analysts studying the performance of Windows 95 and its impact on different hardware configurations.

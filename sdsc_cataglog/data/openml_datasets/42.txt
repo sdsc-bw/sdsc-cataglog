@@ -1,0 +1,3 @@
+name: tic-tac-toe
+dataset_id: 50.0
+description: The tic-tac-toe dataset is a collection of 958 instances representing different game situations with 9 attributes. Each instance corresponds to a board configuration of a tic-tac-toe game. The instances were labeled with the class attribute, "Class", which represents the game's outcome: "positive" for win (1), "negative" for loss (0), or "draw" (2). The dataset does not present any missing values. The attribute "Class" was derived based on information from the previous and current board configurations. This dataset serves as a valuable resource for learning and developing machine learning algorithms to predict the outcome of a tic-tac-toe game based on its board configuration.

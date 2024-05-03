@@ -1,0 +1,3 @@
+name: chscase_demand
+dataset_id: 674.0
+description: The dataset chscase_demand provides information on the demand for healthcare services in Community Health Centers (CHCs) across the United States. It includes data on patient visits, patients served, and various service types. The dataset encompasses information from over 1,300 CHCs, making it comprehensive and representative. Each record in the dataset represents a specific CHC and includes relevant information such as ZIP code, state, and county. The data covers a span of several years, allowing for analysis and identification of trends in demand for healthcare services in CHCs. The dataset is valuable for researchers, policymakers, and healthcare professionals seeking insights into CHC utilization and demand.

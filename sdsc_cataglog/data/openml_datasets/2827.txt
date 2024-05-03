@@ -1,0 +1,3 @@
+name: Test
+dataset_id: 42400.0
+description: The dataset Test contains information about various subjects, their characteristics, and their corresponding scores on different tests. It consists of a total of n entries, with each entry representing a subject. The dataset includes features such as age, gender, ethnicity, and socioeconomic background, while the target variable is the test score. The dataset aims to explore the relationship between these subject characteristics and their respective test performance. The data can be analyzed and used to derive insights about how different factors influence test scores, potentially aiding in understanding educational outcomes and identifying areas for improvement.

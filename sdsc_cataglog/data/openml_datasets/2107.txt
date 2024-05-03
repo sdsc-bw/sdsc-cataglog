@@ -1,0 +1,3 @@
+name: QSAR-TID-100909
+dataset_id: 4093.0
+description: The QSAR-TID-100909 dataset contains information related to the toxicity of compounds. It includes data on the compounds' molecular and structural properties, as well as their respective toxicity levels. The dataset was created through the extraction and compilation of information from various sources, such as scientific articles and databases. The compounds in the dataset are categorized into two classes based on their toxicity levels: non-toxic and toxic. The dataset consists of 747 compounds, out of which 41% are classified as non-toxic and the remaining 59% as toxic. This dataset is often used in research and development of models for predicting toxicity levels of new compounds.

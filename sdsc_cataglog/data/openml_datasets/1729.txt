@@ -1,0 +1,3 @@
+name: QSAR-TID-64
+dataset_id: 3712.0
+description: The dataset QSAR-TID-64 is focused on predicting the acute aquatic toxicity of various compounds. It contains 64 different molecules, with a total of 29 descriptors (i.e., features) that characterize their molecular structures. The toxicity is expressed as an LC50 value, indicating the concentration at which 50% of the organisms will die within a specified time window. The dataset aims to address the task of regression, predicting the continuous toxicity values. These values can range from 0.053 to 9.61, with an average of 3.69. QSAR-TID-64 is frequently used in research to develop models for toxicology prediction and evaluating the performance of machine learning algorithms.

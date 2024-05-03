@@ -1,0 +1,3 @@
+repo_name: fairness-comparison
+link: https://github.com/algofairness/fairness-comparison
+description: The repository is meant to facilitate the benchmarking of fairness aware machine learning algorithms. The associated paper is a comparative study of fairness-enhancing interventions in machine learning by Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian, Sonam Choudhary, Evan P. Hamilton, and Derek Roth. To install this software, run: `$ pip3 install fairness`.

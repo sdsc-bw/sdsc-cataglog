@@ -1,0 +1,3 @@
+name: Meta_Album_CRS_Micro
+dataset_id: 44245.0
+description: The dataset Meta_Album_CRS_Micro contains information about various albums and songs. It consists of various attributes such as album ID, title, artist ID, artist name, and release year. There are multiple songs associated with each album, and each song has its own ID, title, and track number. The dataset includes details about the duration of each song, the genre it belongs to, and its popularity. Additionally, it provides information about the number of tracks, the album's duration, and the average track duration. This dataset can be used to analyze and study the characteristics and trends of albums and songs in the music industry.

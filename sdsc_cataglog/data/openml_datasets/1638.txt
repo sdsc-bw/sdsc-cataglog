@@ -1,0 +1,3 @@
+name: QSAR-TID-101433
+dataset_id: 3623.0
+description: The QSAR-TID-101433 dataset is a collection of chemical compounds and their biological activities, compiled for the purpose of developing quantitative structure-activity relationship (QSAR) models. The dataset consists of 1473 compounds, each characterized by 166 features that describe the structural properties of the molecules. The biological activity of these compounds has been measured and annotated. The dataset includes information on inhibitors, substrates, and peptides, making it useful for studying drug discovery and design. This dataset can be a valuable resource for researchers in the field of cheminformatics and computational chemistry to develop predictive models for various biological activities.

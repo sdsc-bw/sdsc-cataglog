@@ -1,0 +1,3 @@
+name: Cruise_Travels
+dataset_id: 43742.0
+description: The dataset named Cruise_Travels consists of various details related to cruise travels. It includes information about the different factors that influence travelers' satisfaction, such as food quality, cleanliness, onboard activities, and facilities. The dataset further includes the ratings given by the travelers for these factors, enabling an analysis of their preferences and satisfaction levels. It also provides information about the demographic attributes of the travelers, including their age group, gender, and nationality. This dataset allows for an in-depth examination of various aspects of cruise travels, providing insights into traveler preferences and expectations.

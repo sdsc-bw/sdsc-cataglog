@@ -1,0 +1,3 @@
+name: FOREX_chfjpy-minute-Close
+dataset_id: 41729.0
+description: The dataset FOREX_chfjpy-minute-Close contains minute-level data of the closing prices for the CHF/JPY currency pair in the foreign exchange (FOREX) market. It is a comprehensive dataset that covers a wide range of time periods and provides valuable information for analyzing the CHF/JPY exchange rate. The dataset includes information such as the date and time of each recorded closing price. This dataset is useful for quantitatively studying the fluctuations and trends in the CHF/JPY exchange rate and can be utilized in various financial and economic analyses.

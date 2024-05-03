@@ -1,0 +1,3 @@
+name: QSAR-TID-10113
+dataset_id: 3043.0
+description: The dataset QSAR-TID-10113 consists of 7,225 instances with 191 molecular descriptors. The goal of this dataset is to predict the aquatic toxicity of various compounds. The aquatic toxicity is measured as the concentration that inhibits 50% of the population growth rate of the bacteria Photobacterium phosphoreum. The molecular descriptors are numerical values that represent different properties of the compounds. The dataset contains both toxic and non-toxic compounds, with toxic ones being the minority. The data requires preprocessing to handle missing values, and it is recommended to use machine learning algorithms for prediction tasks based on this dataset.

@@ -1,0 +1,3 @@
+name: traffic_violations_100k
+dataset_id: 43641.0
+description: The dataset named traffic_violations_100k contains information about 100,000 traffic violations. It provides details such as the date, time, and location of the violation, along with the type of violation, whether it was moving or non-moving, and the outcome or disposition of the violation. Additionally, the dataset includes information about the driver, including their gender, race, and age range. It also includes details about the vehicle involved in the violation, such as its make, model, and year. This dataset can be utilized to analyze patterns and trends in traffic violations and can help understand factors contributing to these violations.

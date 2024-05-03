@@ -1,0 +1,3 @@
+name: Weather
+dataset_id: 45587.0
+description: The dataset "Weather" provides comprehensive weather information for various locations around the world. It includes historical data as well as forecasts for future periods. The dataset contains a wide range of variables to describe weather conditions such as temperature, humidity, precipitation, wind speed, and atmospheric pressure. It covers multiple aspects like daily, hourly, and monthly weather patterns, providing researchers and analysts with valuable insights for climate studies, weather forecasting, and trend analysis. With its extensive geographical coverage and detailed weather parameters, this dataset is essential for understanding and analyzing weather phenomena on a global scale.

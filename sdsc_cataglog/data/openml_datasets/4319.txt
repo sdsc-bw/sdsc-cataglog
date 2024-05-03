@@ -1,0 +1,3 @@
+name: numerai28.6_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44497.0
+description: The dataset numerai28.6_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True has 2000 rows and 100 columns. It is stratified, meaning the distribution of classes in the dataset is similar to the population. There are 10 classes in the dataset, allowing for multiple categories or labels. The seed value 4 ensures reproducibility. The dataset is a part of the Numerai competition, where participants use machine learning models to predict the target variable. It serves as a test dataset for the competition, providing a limited number of rows and diverse features for analysis.

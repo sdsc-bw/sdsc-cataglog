@@ -1,12 +1,26 @@
-from constants import CHROMA_SETTINGS, SOURCE_DIRECTORY, PERSIST_DIRECTORY
+from utils.constants import CHROMA_SETTINGS, SOURCE_DIRECTORY, PERSIST_DIRECTORY
 from langchain import PromptTemplate, LLMChain
 from langchain.chains import RetrievalQA
 from langchain.embeddings import HuggingFaceInstructEmbeddings
 from langchain.llms import HuggingFacePipeline
 from transformers import LlamaTokenizer, LlamaForCausalLM, pipeline, AutoModelForCausalLM, AutoTokenizer
+from transformers import T5Tokenizer, T5ForConditionalGeneration
 import torch
 
-def get_response_from_localgpt(prompt, model_name = "TheBloke/vicuna-7B-1.1-HF"):
+def  get_response_from_localgpt(prompt, model_name = "google/flan-t5-base"):
+    tokenizer = T5Tokenizer.from_pretrained("google/flan-t5-base")
+    model = T5ForConditionalGeneration.from_pretrained("google/flan-t5-base")
+    
+    input_ids = tokenizer(prompt, return_tensors="pt").input_ids
+    
+    outputs = model.generate(input_ids)
+    decoding = tokenizer.decode(outputs[0])
+
+    response = decoding.removeprefix('<pad> ').removesuffix('</s>')
+
+    return response
+
+def get_response_from_localgpt2(prompt, model_name = "TheBloke/vicuna-7B-1.1-HF"):
     """
     实现ingest功能，输入是所有的readme 描述
     """
@@ -64,7 +78,8 @@ def load_model_for_text_generation(model_name = "TheBloke/vicuna-7B-1.1-HF"):
     If you are running this for the first time, it will download a model for you.
     subsequent runs will use the model from the disk.
     """
-    # tokenizer = LlamaTokenizer.from_pretrained(model_name)
+    #tokenizer = LlamaTokenizer.from_pretrained(model_name)
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
 
     # model = LlamaForCausalLM.from_pretrained(model_name,
     #                                          #   load_in_8bit=True, # set these options if your GPU supports them!

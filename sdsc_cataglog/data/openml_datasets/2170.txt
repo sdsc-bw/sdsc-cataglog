@@ -1,0 +1,3 @@
+name: Plants
+dataset_id: 4546.0
+description: The dataset "Plants" contains information about different species of plants, their characteristics, and their habitats. The dataset includes data on plant height, flower color, leaf shape, and other features. It also provides details on the geographical distribution of each plant species, including the countries and regions where they can be found. The dataset is comprehensive and encompasses a wide range of plant species from various parts of the world. It is useful for researchers, botanists, and conservationists who are interested in studying and understanding plant biodiversity, as well as for educational purposes.

@@ -1,0 +1,3 @@
+name: arcene_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44574.0
+description: The dataset arcene_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True is a benchmark dataset used for binary classification tasks. It contains 2000 rows and 100 columns, representing various features. The dataset is divided into 10 classes, making it suitable for multiclass classification as well. The stratify parameter is set to True, indicating that the class distribution is preserved while splitting the data into training and testing sets. This dataset is commonly used to test and evaluate classification algorithms and techniques, allowing researchers to compare their models' performance on a standardized dataset.

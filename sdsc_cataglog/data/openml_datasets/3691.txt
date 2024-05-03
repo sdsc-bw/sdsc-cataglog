@@ -1,0 +1,3 @@
+name: Traffic-counting-using-cameras
+dataset_id: 43768.0
+description: The dataset Traffic-counting-using-cameras provides information on traffic counts collected from cameras installed at various locations. The dataset contains data from three different camera locations and includes attributes such as location, date, time, and vehicle count. The dataset aims to analyze and understand traffic patterns at these locations. The data can be analyzed to study traffic trends, identify peak hours, and evaluate the impact of external factors on traffic. It can be useful for city planning, traffic management, and predicting future traffic volume. The dataset provides a valuable resource for traffic analysis and planning purposes.

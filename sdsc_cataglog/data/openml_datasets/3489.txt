@@ -1,0 +1,3 @@
+name: Google-Play-Store-Reviews
+dataset_id: 43565.0
+description: The dataset Google-Play-Store-Reviews contains information about user reviews of various apps available on the Google Play Store. It consists of over 14,000 reviews, with a focus on sentiment analysis. The dataset includes attributes such as the app category, number of installs, content rating, and user sentiment. Additionally, it contains details about the review itself, such as the text, title, and rating given by the user. The dataset provides a valuable resource for analyzing user feedback and sentiments towards different apps, assisting in the evaluation and improvement of app performance and user satisfaction on the Google Play Store.

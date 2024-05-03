@@ -1,0 +1,3 @@
+name: fri_c2_500_25
+dataset_id: 643.0
+description: The dataset fri_c2_500_25 consists of 500 instances, each containing 25 attributes. It provides information on various features and their relationships. The attribute values include numeric ranges, binary values, and nominal values. The dataset aims to aid in the analysis and evaluation of classification algorithms. The instances are divided into two classes, with approximately an equal number of instances belonging to each class. It is part of the FRI (Faculty of Computer and Information Science, University of Ljubljana) classification dataset collection and can be used for research and development purposes.

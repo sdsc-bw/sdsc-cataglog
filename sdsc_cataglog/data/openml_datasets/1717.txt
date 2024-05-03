@@ -1,0 +1,3 @@
+name: QSAR-TID-10407
+dataset_id: 3700.0
+description: The QSAR-TID-10407 dataset is related to the quantitative structure-activity relationship (QSAR) field. It consists of 3,067 compounds characterized by 208 molecular descriptors and a binary target variable indicating their biological activity. The dataset aims to predict the inhibitory activity of compounds against HIV-1 reverse transcriptase using machine learning models. The descriptors represent various properties, such as connectivity indices, molecular properties, and thermodynamic data. The dataset can be used to develop models for drug design and intervention against HIV-1. It is available on the UCI Machine Learning Repository and has been used in related research studies.

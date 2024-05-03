@@ -1,0 +1,3 @@
+name: solar-flare
+dataset_id: 40702.0
+description: The solar-flare dataset provides information about solar flares, which are sudden and intense bursts of energy that occur on the surface of the Sun. It consists of multiple features such as the class of the flare, number of times it occurred, duration, peak flux, etc. The dataset was collected from the solar flares recorded by the GOES spacecraft. It aims to classify the flares based on their properties and predict their class. The solar-flare dataset is widely used in various studies and research related to solar activity, forecasting, and understanding the behavior of these energetic events.

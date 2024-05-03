@@ -1,0 +1,3 @@
+name: QSAR-TID-11058
+dataset_id: 3387.0
+description: The dataset QSAR-TID-11058 is a compilation of 420 molecules with their respective attributes and activity values against a specific biological target. It involves a total of 52 molecular descriptors that quantify various chemical properties such as atomic and bond contributions. The data aims to assist in analyzing and predicting the biological activity of compounds based on their molecular characteristics. Additionally, QSAR models can be developed using this dataset to understand the relationship between the chemical structure and the biological response. The dataset provides valuable information for researchers and scientists involved in drug discovery and design processes.

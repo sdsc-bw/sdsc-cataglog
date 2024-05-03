@@ -1,0 +1,3 @@
+name: mildew_2
+dataset_id: 45155.0
+description: The dataset mildew_2 consists of information related to mildew attacks on plants. It contains data on various parameters such as plant age, plant height, temperature, humidity, sunlight hours, and the severity of the mildew attack. The dataset also includes other relevant information like the usage of fungicides and the presence of neighboring plants. The purpose of this dataset is to analyze and understand the factors influencing the severity of mildew attacks on plants. The collected data can be used to develop strategies for preventing and managing mildew in agricultural practices and plant growth.

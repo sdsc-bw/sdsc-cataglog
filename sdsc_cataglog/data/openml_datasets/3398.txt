@@ -1,0 +1,3 @@
+name: Dogecoin-Historical-Data
+dataset_id: 43472.0
+description: The dataset Dogecoin-Historical-Data is a compilation of historical data for the cryptocurrency Dogecoin. It consists of information about the price, volume, and market cap of Dogecoin from various sources. The dataset includes records from April 2013 to October 2021, providing a comprehensive view of the coin's performance over the years. The data is provided in a structured format, allowing for easy analysis and exploration. This dataset is valuable for researchers, traders, and enthusiasts interested in understanding the trends and patterns of Dogecoin and its market dynamics.

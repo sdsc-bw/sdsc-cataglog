@@ -1,0 +1,3 @@
+name: FOREX_eurusd-day-Close
+dataset_id: 41791.0
+description: The dataset named FOREX_eurusd-day-Close pertains to the closing prices of the EUR/USD currency pair in the foreign exchange (FOREX) market. The dataset likely contains daily data points. It focuses primarily on the closing price of the EUR/USD pair, indicating the exchange rate of the Euro against the US Dollar at the end of each trading day. The dataset is presumably relevant for studying the performance, trends, and volatility of this particular exchange rate over time. This forex dataset can serve as a valuable resource for conducting various kinds of analysis, such as forecasting, trading strategies, or statistical modeling.

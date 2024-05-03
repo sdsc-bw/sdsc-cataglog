@@ -1,0 +1,3 @@
+repo_name: grover
+link: https://github.com/rowanz/grover
+description: Grover is a model for Neural Fake News, designed for both generation and detection. It can also be used for other generation tasks. You can find more information about Grover on the project page at rowanzellers.com/grover or in the full paper at arxiv.org/abs/1905.12616. The grover can be set up using the provided instructions, which are easy to follow. Grover-Mega is now publicly available, and you can download it using download_model.py.

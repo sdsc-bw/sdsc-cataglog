@@ -1,0 +1,3 @@
+name: credit_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44352.0
+description: The dataset credit_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns. It has 10 classes and is stratified. The dataset is likely related to credit data, possibly involving credit scores or credit ratings. Stratification suggests that the dataset is balanced, with each class having an equal representation. The purpose and specific details of the dataset are not provided, so further analysis or context is needed to fully understand its significance or application.

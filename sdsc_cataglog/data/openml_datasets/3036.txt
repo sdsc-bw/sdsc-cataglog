@@ -1,0 +1,3 @@
+name: olindda_outliers
+dataset_id: 42793.0
+description: The dataset olindda_outliers contains information about outlier events in the OLIN/DDA dataset. It includes data from sensors placed at a wastewater treatment plant and monitors measurements related to process variables such as pH, conductivity, and temperature. The dataset consists of several columns, including the timestamp, measurement type, value, and status. The value column represents the recorded measurement value, while the status column indicates whether the measurement is normal or an outlier. The dataset is useful for analyzing and studying outlier events in the wastewater treatment process and can provide insights for process improvement and anomaly detection.

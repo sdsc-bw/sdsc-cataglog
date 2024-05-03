@@ -1,0 +1,3 @@
+name: QSAR-TID-10547
+dataset_id: 4057.0
+description: The QSAR-TID-10547 dataset contains various molecular descriptors and class labels for a group of chemical compounds. It is primarily used for developing quantitative structure-activity relationship (QSAR) models to predict the toxicity of the compounds. The dataset consists of 10547 instances with 161 features, including 160 molecular descriptors and one class label indicating the compound's toxicity. The descriptors represent properties like molecular shape, size, and connectivity. The dataset aims to assist researchers in understanding the relationship between the molecular characteristics of compounds and their toxicological properties, aiding in the development of safer chemicals.

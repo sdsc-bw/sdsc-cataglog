@@ -1,0 +1,3 @@
+name: fri_c0_250_50
+dataset_id: 603.0
+description: The dataset fri_c0_250_50 consists of data from an online social network called "Friender." The network has 250 users and each user has 50 friends. The dataset includes information about the users' age, gender, and location. It also contains details about the friendship connections, such as the timestamp of when the friendship was established. The dataset can be used to analyze different aspects of the social network, including patterns of friendships, geographical distribution of users, and demographic characteristics. Its size is relatively small, making it suitable for various types of analysis and research on online social networks.

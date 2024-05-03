@@ -1,0 +1,3 @@
+name: Diabetes130US_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44580.0
+description: The dataset named Diabetes130US_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True contains information related to diabetes from 2000 rows with 10 classes and 100 columns. The dataset is stratified, meaning that it is divided into subgroups that have similar characteristics. The dataset likely includes various features related to diabetes, including demographic information, medical history, and other relevant factors. Analyzing this dataset can provide insights into the relationship between different variables and the occurrence and management of diabetes.

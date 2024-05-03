@@ -1,0 +1,3 @@
+name: QSAR-TID-100835
+dataset_id: 3074.0
+description: The dataset QSAR-TID-100835 is used for Quantitative Structure-Activity Relationship (QSAR) testing. It contains information about chemical compounds and their biological activities. The dataset consists of 4936 instances with 1024 attributes, including molecular descriptors and experimental results. The compounds have been classified into 2 activity classes: "active" and "inactive." The dataset aims to predict the activity of new compounds based on their molecular characteristics. It is useful for studying the relationship between chemical structures and biological activities, aiding in drug discovery and development processes.

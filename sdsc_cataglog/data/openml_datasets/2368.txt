@@ -1,0 +1,3 @@
+name: yeast
+dataset_id: 41473.0
+description: The yeast dataset is a collection of 1484 genes from the yeast Saccharomyces cerevisiae. It contains various attributes related to the genes, such as the presence or absence of certain motifs, promoter regions, and other characteristics. These attributes are used to classify the genes into different classes, such as whether they are related to cell cycle regulation, cellular metabolism, or other functional categories. The dataset is used for classification and clustering tasks, as well as for studying gene expression patterns and gene-function relationships in yeast. It serves as a valuable resource for understanding the molecular biology of yeast and its various cellular processes.

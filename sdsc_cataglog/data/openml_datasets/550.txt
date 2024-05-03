@@ -1,0 +1,3 @@
+name: fri_c4_500_50
+dataset_id: 805.0
+description: The dataset fri_c4_500_50 contains a collection of articles from the French news website fr.wikipedia.org. The articles have been crawled and include both the content and metadata. The dataset consists of 500 articles, with each article being represented by 50 features. The features describe various aspects of the articles, such as the length, topic, and the number of links. This dataset can be used for various natural language processing (NLP) tasks, such as text classification, sentiment analysis, or topic modeling in the French language.

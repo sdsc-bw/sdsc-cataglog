@@ -1,0 +1,3 @@
+name: kc1_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44630.0
+description: The dataset "kc1_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True" has 2000 rows and 100 columns. It consists of 10 different classes and follows a stratified sampling method. This means that the dataset has been divided into subsets based on the class variable, ensuring each subset retains the same proportion of classes as the entire dataset. The dataset contains information pertaining to various classes in a structured manner, allowing for further analysis and insights to be extracted. The dataset's design and structure make it suitable for classification tasks and studying relationships between variables within the dataset.

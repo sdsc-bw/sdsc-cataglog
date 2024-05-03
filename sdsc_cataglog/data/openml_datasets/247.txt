@@ -1,0 +1,3 @@
+name: hip
+dataset_id: 490.0
+description: The dataset "hip" includes information about hip fractures among adults over the age of 18. It contains data from hospitals, emergency departments, and outpatient centers in the United States. The dataset includes variables such as age, gender, race, ethnicity, location, and the cause of the hip fracture. It provides valuable insights into the demographics and circumstances surrounding hip fractures, which can help researchers and healthcare professionals understand risk factors and develop strategies for prevention and treatment. Overall, the "hip" dataset serves as a valuable resource for studying hip fractures and improving patient outcomes.

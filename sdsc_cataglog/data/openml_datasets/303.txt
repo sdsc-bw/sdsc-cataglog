@@ -1,0 +1,3 @@
+name: analcatdata_michiganacc
+dataset_id: 551.0
+description: The dataset "analcatdata_michiganacc" contains information collected from car accidents that occurred in Michigan. It includes data on various factors related to the accidents, such as the weather conditions, road surface conditions, and the severity of the accidents. The dataset also includes demographics of the drivers involved, such as their age, gender, and the type of vehicle they were driving. Additionally, it provides information about the insurers involved and the claims filed, as well as details about the vehicle and its safety features. This dataset can be used to analyze and understand the factors contributing to car accidents in Michigan and develop strategies for improved road safety.

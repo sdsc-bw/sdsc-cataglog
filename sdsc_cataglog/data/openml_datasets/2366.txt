@@ -1,0 +1,3 @@
+name: scene
+dataset_id: 41471.0
+description: This dataset contains a collection of images and annotations related to various scenes. It aims to facilitate research on computer vision tasks such as object detection, image segmentation, and scene classification. The images cover a broad range of scene types, including indoor, outdoor, urban, rural, and natural environments. Each image is accompanied by detailed annotations that provide information about the objects and regions within the scene. The dataset aims to enable the development and evaluation of algorithms for scene understanding and perception. Researchers can use this dataset to train and test machine learning models for various computer vision tasks.

@@ -1,0 +1,3 @@
+name: QSAR-TID-11534
+dataset_id: 3585.0
+description: The dataset QSAR-TID-11534 contains 3,883 unique chemical compounds, each of which is represented by a set of numerical descriptors. These descriptors were obtained using the PaDEL-Descriptor software. The dataset also includes a target variable that represents the inhibitory concentration of each compound. The target variable is given in logarithmic form. The compounds in the dataset are diverse in terms of their chemical structures and can be potentially useful in drug discovery. The dataset is available for research purposes and can be used to develop models for predicting the inhibitory concentration of new compounds.

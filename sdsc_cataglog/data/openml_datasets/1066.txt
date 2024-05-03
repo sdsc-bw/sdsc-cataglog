@@ -1,0 +1,3 @@
+name: QSAR-TID-12886
+dataset_id: 3042.0
+description: The dataset QSAR-TID-12886 contains 7,210 unique chemical compounds. Each compound is represented by 3D molecular descriptors as well as their respective qualitative "biological response" classification. The descriptors include 22 molecular properties that describe the compound's structure and behavior. The "biological response" classification denotes the activity of the compound against a certain target protein. The dataset provides insights into the relationship between a compound's properties and its biological activity, which can be used for predicting the activity of new compounds and aiding in drug development and design.

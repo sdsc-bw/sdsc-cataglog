@@ -1,0 +1,3 @@
+name: fri_c0_1000_10
+dataset_id: 595.0
+description: The dataset "fri_c0_1000_10" consists of 1000 instances of 10 continuous input features. These features are believed to have a high correlation with the output variable, making them significant for prediction. The dataset does not have any missing values. The target variable is binary, with two possible classes. The class distribution is slightly imbalanced, with one class having a higher frequency than the other. Given this information, the dataset is suitable for classification tasks, particularly those focused on high-correlation features and imbalanced class distributions.

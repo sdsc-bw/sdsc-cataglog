@@ -1,0 +1,3 @@
+name: CPMP-2015-runtime-classification
+dataset_id: 41919.0
+description: The CPMP-2015-runtime-classification dataset contains information about the runtime characteristics of different software packages. It specifically focuses on the execution time and memory usage of these packages in various scenarios. The dataset consists of 9,729 instances, each with 10 attributes, including the package name, input size, and various runtime metrics. The goal is to classify the software packages into three categories based on their runtime behavior: low, medium, or high. This dataset can be useful for researchers and developers in analyzing and predicting the runtime behavior of software packages in different environments.

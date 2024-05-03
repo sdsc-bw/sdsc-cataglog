@@ -1,0 +1,3 @@
+name: QSAR-TID-101032
+dataset_id: 3544.0
+description: The QSAR-TID-101032 dataset contains information on the pharmacokinetic properties of various chemical compounds. The dataset consists of 1,032 instances, with each instance having 52 attributes. The goal is to predict the toxic dose of a particular compound based on these attributes. The attributes include molecular descriptors such as connectivity indices, topological indices, and physicochemical properties. The dataset also provides information on the chemical class and biological activity of each compound. This dataset has been widely used for the development and validation of quantitative structure-activity relationship (QSAR) models to predict toxic doses.

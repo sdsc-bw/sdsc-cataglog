@@ -1,0 +1,3 @@
+name: Hyperplane
+dataset_id: 43122.0
+description: The dataset Hyperplane is a synthetic dataset that consists of 400 samples with 1000 features each. It is labeled with two classes, positive and negative. The classes are evenly distributed among the samples. This dataset is commonly used in machine learning experiments due to its artificial nature. Each feature is generated independently by randomly sampling from a standard normal distribution. The data is designed to have a clear linear separability, making it a suitable choice for algorithms that aim to solve binary classification problems.

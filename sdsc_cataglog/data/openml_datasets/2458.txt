@@ -1,0 +1,3 @@
+name: FOREX_cadchf-hour-High
+dataset_id: 41723.0
+description: The dataset FOREX_cadchf-hour-High contains hourly high price data for the CAD/CHF (Canadian dollar/Swiss franc) currency pair in the foreign exchange market. It provides information about the highest price reached during each hour. The dataset is likely to be used by traders, analysts, and researchers to study and analyze the price movements and trends of the CAD/CHF pair. It could be used to develop trading strategies, backtest trading models, or conduct technical analysis. The dataset is time-series data and covers a specific period, allowing users to study patterns and fluctuations in the high prices of CAD/CHF over the given timeframe.

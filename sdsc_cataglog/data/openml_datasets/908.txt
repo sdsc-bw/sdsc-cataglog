@@ -1,0 +1,3 @@
+name: MyIris
+dataset_id: 1413.0
+description: The dataset MyIris contains information about different species of iris flowers. It includes measurements of the sepal length, sepal width, petal length, and petal width of each flower. The dataset comprises a total of 150 observations, with 50 samples of each species (setosa, versicolor, and virginica). The measurements were collected using a digital caliper. The dataset is widely used in machine learning and pattern recognition research. It serves as a benchmark dataset for classification algorithms due to its well-defined and easily separable characteristics. Overall, MyIris provides valuable insights into the characteristics and classification of iris flowers.

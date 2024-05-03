@@ -1,0 +1,3 @@
+name: MagicTelescope_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44398.0
+description: The dataset MagicTelescope_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True contains information related to an astronomical dataset. It comprises 2000 rows and 100 columns with 10 different classes. Stratification is applied to maintain a proportional representation of each class. The dataset aims to identify the type of source based on features derived from the high-energy gamma-ray images. The dataset is significant for studies related to astrophysics and could potentially aid in the identification and classification of celestial sources.

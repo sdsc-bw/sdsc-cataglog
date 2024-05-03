@@ -1,0 +1,3 @@
+name: hate_det12
+dataset_id: 42425.0
+description: The dataset "hate_det12" is focused on classifying hate speech on social media platforms. It contains a collection of tweets labeled as hate speech or non-hate speech. The dataset comprises 24,802 tweets, with 14,680 tweets labeled as hate speech and 10,122 labeled as non-hate speech. The data was collected using keyword-based queries, and specific guidelines were followed to determine what constitutes hate speech. The dataset aims to provide resources for training and evaluating hate speech detection models. Additionally, the dataset includes information about the offensive language, stereotypes, and targeted communities present in the hate speech tweets.

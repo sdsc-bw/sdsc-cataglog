@@ -1,0 +1,3 @@
+name: dataset_time_5
+dataset_id: 42652.0
+description: The dataset dataset_time_5 contains information about a number of various events and their respective timestamps. It includes a column for event ID, event type, and a timestamp column showing the precise time at which each event occurred. This dataset offers a comprehensive view of event occurrences over a specific timeframe, allowing for time-based analysis and insights. The dataset_time_5 facilitates the examination of temporal patterns, event frequencies, and potential correlations between different event types. It forms a valuable resource for researchers, analysts, and data scientists interested in investigating time-dependent phenomena and conducting time series analysis.

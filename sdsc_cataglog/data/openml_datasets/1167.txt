@@ -1,0 +1,3 @@
+name: QSAR-TID-20139
+dataset_id: 3143.0
+description: The dataset QSAR-TID-20139 contains molecular descriptors and the corresponding IC50 values for 1813 chemical compounds. These compounds were tested against the parasite Trypanosoma cruzi, which causes Chagas disease. The dataset includes 888 binary features and 21 continuous features along with one target variable representing the IC50 values. The IC50 values were measured in micrograms per milliliter (μg/mL) and were transformed into the logarithmic form (-log10) to improve linear regression analysis. The dataset is intended for the development of quantitative structure-activity relationship (QSAR) models to predict the inhibitory activity of compounds against the Trypanosoma cruzi parasite.

@@ -1,0 +1,3 @@
+name: GTSRB-HOG02
+dataset_id: 41988.0
+description: The dataset GTSRB-HOG02 is a collection of images containing traffic signs from German streets. It consists of 40 classes, each representing a different type of traffic sign. The dataset is divided into training, validation, and test sets, with a total of 41,610 images. The images were pre-processed using Histogram of Oriented Gradients (HOG) feature extraction method to represent the shape of the signs. This dataset is commonly used for training machine learning models to recognize and classify traffic signs accurately.

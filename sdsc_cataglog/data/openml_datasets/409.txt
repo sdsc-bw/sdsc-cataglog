@@ -1,0 +1,3 @@
+name: fri_c3_250_25
+dataset_id: 658.0
+description: The dataset fri_c3_250_25 is a collection of 250 records with 25 attributes. Each record represents a post on an online forum, while the attributes provide information about the content of the post. The dataset is labeled, with each record classified into one of five categories based on the sentiment of the post. The attributes include the post's title, author, date and time of publication, and the number of views, comments, and votes it has received. This dataset can be used for sentiment analysis, text classification, and social media research to understand the attitudes and opinions expressed in online forum discussions.

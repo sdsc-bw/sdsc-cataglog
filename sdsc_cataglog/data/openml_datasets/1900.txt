@@ -1,0 +1,3 @@
+name: QSAR-TID-12247
+dataset_id: 3885.0
+description: The QSAR-TID-12247 dataset is a panel composed of organic compounds used to predict their mutagenic potential. It consists of 3888 instances and 828 molecular descriptors. The compounds come from four different databases and have been evaluated using Ames mutagenicity assays. The dataset contains both categorical and numerical features, with the majority of instances being non-mutagenic. However, there is a class imbalance issue as only 15% of the instances are mutagenic. The dataset is aimed at developing machine learning models to accurately predict mutagenicity, with the potential to contribute to the development of safer chemicals.

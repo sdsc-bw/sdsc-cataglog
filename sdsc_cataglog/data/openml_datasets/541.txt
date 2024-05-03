@@ -1,0 +1,3 @@
+name: cpu
+dataset_id: 796.0
+description: The dataset cpu contains 209 observations and 7 variables. It was originally used in a study to predict the CPU performance of a computer based on certain characteristics. The variables include MYCT (machine cycle time), MMIN (minimum main memory), MMAX (maximum main memory), CACH (cache memory), CHMIN (minimum channels), and CHMAX (maximum channels). The target variable is PRP (published relative performance). The dataset has been widely used in regression analysis and machine learning to explore relationships between computer performance and these factors.

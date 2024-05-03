@@ -1,0 +1,3 @@
+name: bank-marketing
+dataset_id: 44074.0
+description: The dataset bank-marketing contains information about a direct marketing campaign carried out by a bank. The campaign aimed to convince customers to subscribe to a term deposit. It includes attributes such as age, job, marital status, education, default status, housing loan, personal loan, contact type, month, day of the week, campaign duration, and previous outcome. The dataset consists of 41,188 instances. The goal is to predict whether a customer will subscribe to the term deposit or not. This dataset is commonly used for classification and analysis purposes, especially in the financial and banking sectors.

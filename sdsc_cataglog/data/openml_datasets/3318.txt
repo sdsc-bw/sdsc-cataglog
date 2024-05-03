@@ -1,0 +1,3 @@
+name: Cinema-Tickets
+dataset_id: 43388.0
+description: The dataset "Cinema-Tickets" contains information related to the sale of movie tickets at various cinema locations. It includes data on specific movie titles, the film's genre, the date of the screening, and the cinema's seating capacity. The dataset also provides details about the ticket prices, such as the standard ticket price and any discounts or promotions offered. Additionally, it records the number of tickets sold for each movie screening, allowing for the analysis of audience attendance. This dataset can be used to explore trends in movie ticket sales, understand customer preferences, and optimize pricing strategies in the cinema industry.

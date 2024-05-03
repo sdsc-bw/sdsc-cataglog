@@ -1,0 +1,3 @@
+name: residential_building
+dataset_id: 42366.0
+description: The dataset "residential_building" contains information about various residential buildings. It includes data on the location of the buildings, their size, the number of floors, the number of units, and the year they were built. The dataset also provides information on the types of buildings, such as apartments, houses, or condos. Additionally, it contains details on the amenities available in the buildings, like parking spaces, swimming pools, or fitness centers. The dataset is valuable for conducting research and analysis in the real estate industry, urban planning, or any field requiring insights into residential building characteristics and trends.

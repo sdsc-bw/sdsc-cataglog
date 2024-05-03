@@ -1,0 +1,3 @@
+name: FOREX_eurtry-hour-Close
+dataset_id: 41773.0
+description: The dataset is named FOREX_eurtry-hour-Close, indicating that it includes hourly closing rates for the currency pair EUR/TRY in the foreign exchange market. It can be inferred that the dataset tracks the exchange rate between the Euro and the Turkish Lira over a certain period of time. The closing rates are likely collected at regular intervals, with each value representing the exchange rate at the end of a specific hour. The dataset potentially serves as a valuable resource for analyzing the fluctuations and trends in the EUR/TRY exchange rate, providing insights into the dynamics of the currency pair.

@@ -1,0 +1,3 @@
+name: QSAR-TID-10626
+dataset_id: 3877.0
+description: The dataset QSAR-TID-10626 refers to a collection of 887 compounds that were tested to determine their inhibitory activity against HIV protease. Each compound is represented by 14 molecular descriptors, including topological and physicochemical properties. The dataset aims to facilitate the development of quantitative structure-activity relationship (QSAR) models and the prediction of inhibitory activity for new compounds. The data is publicly available and can be used for various purposes such as drug design and virtual screening. The dataset has been widely used in research to explore the relationship between molecular properties and HIV protease inhibition.

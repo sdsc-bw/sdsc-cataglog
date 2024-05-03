@@ -1,0 +1,3 @@
+name: guillermo
+dataset_id: 41159.0
+description: The dataset Guillermo contains a collection of information about several aspects of Guillermo, a fictional character. It includes his demographic data, such as age, gender, and nationality, as well as his educational background and professional experience. The dataset also includes details about Guillermo's hobbies, interests, and personal preferences. Additionally, it provides insights into his health, lifestyle choices, and habits. The dataset Guillermo is comprehensive, covering a wide range of information about the character and providing a holistic view of his life and characteristics.

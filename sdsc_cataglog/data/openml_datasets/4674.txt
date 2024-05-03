@@ -1,0 +1,3 @@
+name: pol
+dataset_id: 45030.0
+description: The "pol" dataset consists of data that is related to political ideology and preferences. It contains various attributes, including demographic information such as age, gender, and education level. The dataset also includes political variables like party affiliation, voter registration status, and political orientation. Responses regarding policy preferences, social issues, and political engagement are also recorded. The dataset is comprehensive and covers a wide range of political topics, making it valuable for analyzing political trends and understanding the behavior of individuals with different political ideologies.

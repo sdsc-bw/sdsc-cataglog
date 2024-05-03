@@ -1,0 +1,3 @@
+name: Reddit-WallStreetBets-Posts
+dataset_id: 43373.0
+description: The dataset Reddit-WallStreetBets-Posts contains information about posts made on the WallStreetBets subreddit on Reddit. The dataset includes over 2 million posts from January 2014 to February 2021. Each post entry in the dataset consists of various attributes, such as post ID, title, self-text, score, number of comments, author, and creation date. The data is collected using the Reddit API and provides insights into the discussions, sentiments, and trends among the WallStreetBets community. The dataset can be utilized to conduct research on stock market behavior, sentiment analysis, and understanding the dynamics of online investment communities.

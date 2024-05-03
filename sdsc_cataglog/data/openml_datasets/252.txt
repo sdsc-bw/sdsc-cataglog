@@ -1,0 +1,3 @@
+name: baseball-pitcher
+dataset_id: 495.0
+description: The dataset "baseball-pitcher" contains information about professional baseball pitchers. It includes data on various attributes such as the pitcher's age, height, weight, handedness, and their performance metrics such as earned run average (ERA), strikeouts, walks, and games played. The dataset also includes details about the pitches thrown by each pitcher, including the type of pitch (fastball, curveball, etc.), the velocity of the pitch, and the movement of the pitch. This dataset is useful for analyzing and studying the performance and characteristics of baseball pitchers, as well as identifying trends and patterns within the pitching data.

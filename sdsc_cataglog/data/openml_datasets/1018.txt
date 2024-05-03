@@ -1,0 +1,3 @@
+name: volcanoes-e5
+dataset_id: 1546.0
+description: The dataset volcanoes-e5 provides information about volcanoes around the world. It includes attributes like the volcano name, country, latitude, longitude, elevation, and type. The dataset contains over 1,500 records, encompassing volcanoes from various countries such as Japan, Iceland, and Indonesia. It also includes information about the volcano type, whether it is a stratovolcano, shield volcano, or a caldera. Additionally, it provides data on the volcano's elevation, which ranges from a few meters to several thousand meters. This dataset is useful for studying and analyzing volcanoes, their distribution, and characteristics across different regions globally.

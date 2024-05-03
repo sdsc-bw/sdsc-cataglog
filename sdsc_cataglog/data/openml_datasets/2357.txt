@@ -1,0 +1,3 @@
+name: okcupid-stem
+dataset_id: 41440.0
+description: The dataset "okcupid-stem" is a collection of profiles from the online dating website OkCupid. It includes information about users' personal attributes, interests, and preferences. The data is categorized into different sections such as demographics, lifestyle, and education. The dataset has over 50,000 instances and contains both numerical and textual information. Some of the features provided are age, gender, body type, diet, and smoking habits. It also offers insights into users' hobbies, favorite music, and political views. This dataset can be used to analyze patterns in online dating behavior, preferences, and for building recommendation systems.

@@ -1,0 +1,3 @@
+name: colleges
+dataset_id: 42134.0
+description: The dataset "colleges" contains information about various colleges such as their name, location, ownership type, admission rate, SAT average score, size, tuition fees, and graduation rate. It provides a comprehensive overview of colleges across the United States, including private, public, and community colleges. The dataset includes details about individual colleges as well as aggregated statistics. It enables researchers, educators, and policymakers to analyze and compare colleges based on factors like location, admission competitiveness, academic performance, cost, and student population. This dataset serves as a valuable resource for insights into the diverse landscape of colleges in the United States.

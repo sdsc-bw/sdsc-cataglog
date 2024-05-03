@@ -1,0 +1,3 @@
+name: autoMpg
+dataset_id: 196.0
+description: The autoMpg dataset contains information regarding the fuel efficiency of various car models. It includes data about the number of cylinders, horsepower, weight, and related attributes of different vehicles. The dataset provides information for 398 cars, collected from various sources, including government offices and commercial publications. The goal of this dataset is to predict the MPG (miles per gallon) ratings of these cars based on their attributes. It also includes missing values, which are represented by the '?' symbol. The dataset is commonly used for analyzing fuel efficiency and developing predictive models for future car models.

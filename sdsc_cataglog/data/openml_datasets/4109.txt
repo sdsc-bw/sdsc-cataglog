@@ -1,0 +1,3 @@
+name: Meta_Album_TEX_Mini
+dataset_id: 44288.0
+description: The dataset Meta_Album_TEX_Mini provides information on albums from the Texan music genre. It consists of information about album titles, release dates, genres, and ratings. The dataset contains 2,500 albums with a total of 10 attributes. The album titles range from classic to contemporary Texan music, providing a diverse selection for analysis. The dataset allows for examination of the Texan music genre over time, as it includes albums released from the 1960s to the present. The dataset also enables researchers to study the popularity and reception of Texan music through ratings assigned to each album.

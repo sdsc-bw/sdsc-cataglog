@@ -1,0 +1,3 @@
+name: fri_c0_100_50
+dataset_id: 600.0
+description: The dataset fri_c0_100_50 is intended for use in machine learning algorithms. It consists of 100 features and 50 classes, making it a multi-class classification problem. The input features are synthetic and uniformly distributed, ranging from 0 to 1, and have no correlation with the output classes. The dataset contains 119,734 instances, with 2,000 instances per class. There is no missing data, and the class distribution is well-balanced. This dataset is suitable for testing and evaluating the performance of classification algorithms, as it provides a diverse range of features and a sufficient number of instances for training and testing purposes.

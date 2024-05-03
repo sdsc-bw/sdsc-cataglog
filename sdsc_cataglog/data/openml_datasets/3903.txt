@@ -1,0 +1,3 @@
+name: student_performance_por
+dataset_id: 44029.0
+description: The dataset "student_performance_por" contains information about Portuguese students' performance in their secondary education. The data includes various attributes such as school, sex, age, family size, parental education level, travel time, study time, failures, extracurricular activities, and more. The dataset comprises 649 instances with 33 features. It was collected through school reports and questionnaires. The dataset aims to analyze the impact of different factors on students' final grades and provide insights into the Portuguese educational system. The dataset is publicly available and has been utilized for various data analysis and machine learning tasks.

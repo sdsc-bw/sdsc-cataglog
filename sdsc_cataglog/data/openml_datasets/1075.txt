@@ -1,0 +1,3 @@
+name: QSAR-TID-208
+dataset_id: 3051.0
+description: The QSAR-TID-208 dataset contains information on the biological activity of a set of compounds. The dataset includes 208 samples with 8 features each. The compounds were tested for their activity against a specific target protein. The features include various molecular descriptors such as atom-based, bond-based, and topological descriptors. The dataset also provides the activity values for the compounds, which can be used to develop predictive models for identifying compounds with similar activity. QSAR-TID-208 can be a valuable resource for researchers working in drug discovery and computational chemistry, aiming to develop new molecules with desired biological activity.

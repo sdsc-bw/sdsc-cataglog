@@ -1,0 +1,3 @@
+name: diabetes_9
+dataset_id: 45228.0
+description: The diabetes_9 dataset is designed to understand and predict the progression of diabetes in patients. It consists of 9 features, including glucose, blood pressure, and body mass index (BMI), along with their corresponding measurements. The dataset includes 442 instances, representing multiple patients. Each instance also contains a target variable, indicating the progression of diabetes after a year. The dataset is widely used for research purposes, such as studying the impact of various factors on diabetes progression and developing predictive models.

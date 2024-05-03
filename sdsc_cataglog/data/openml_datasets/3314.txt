@@ -1,0 +1,3 @@
+name: Diabetes-Data-Set
+dataset_id: 43384.0
+description: The Diabetes-Data-Set is used for the purpose of predicting disease progression in diabetes patients. It consists of ten baseline variables, including age, sex, body mass index, blood pressure, and others, and one target variable, indicating whether disease progression occurred within a year of baseline measurements. The dataset contains information from 442 diabetes patients. The data was collected from the National Institute of Diabetes and Digestive and Kidney Diseases. This dataset is commonly used for studying and developing predictive models for diabetes progression, and it serves as a valuable resource for researchers and healthcare professionals in understanding and managing this chronic disease.

@@ -1,0 +1,3 @@
+name: electricity
+dataset_id: 43964.0
+description: The dataset "electricity" contains information on the electricity consumed by different countries over a specific time period. It includes variables such as the country's name, the year of consumption, the electricity consumption in kilowatt-hours (kWh), and the population size. The data is sourced from various official statistics and reliable sources. The dataset covers a comprehensive range of countries from all continents and includes data from multiple years. It provides valuable insights into the electricity consumption patterns of different countries, allowing for comparisons and analysis of trends over time. The dataset is well-documented and easily accessible for research purposes.

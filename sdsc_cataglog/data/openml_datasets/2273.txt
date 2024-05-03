@@ -1,0 +1,3 @@
+name: Satellite
+dataset_id: 40900.0
+description: The dataset called Satellite is used to classify multi-spectral land images into various terrain types for land use and land cover mapping. It contains data collected from the Landsat 7 satellite, covering four broad categories of terrains: residential, industrial, highway, and river. The images are in the form of 3x3 pixel patches, with each patch labeled with one of the aforementioned terrains. The dataset consists of a total of 6,435 labeled patches, with a balanced distribution among the four classes. It serves as a useful resource for various machine learning tasks related to land use and land cover analysis.

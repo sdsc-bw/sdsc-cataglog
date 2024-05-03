@@ -1,0 +1,3 @@
+name: FOREX_eurnok-hour-Close
+dataset_id: 41859.0
+description: The dataset "FOREX_eurnok-hour-Close" contains information about the closing prices of the EUR/NOK currency pair on an hourly basis. The dataset likely includes historical data, displaying the closing price at different points in time. The EUR/NOK currency pair represents the exchange rate between the Euro and the Norwegian Krone. The dataset may be used for various purposes, such as analyzing trends, making predictions, or backtesting trading strategies. The hourly interval provides a detailed view of how the exchange rate fluctuates throughout the day. Researchers, analysts, and traders interested in the EUR/NOK exchange rate may find this dataset helpful for their analyses and decision-making processes.

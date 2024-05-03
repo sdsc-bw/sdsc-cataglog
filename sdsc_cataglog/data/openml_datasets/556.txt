@@ -1,0 +1,3 @@
+name: fri_c1_100_25
+dataset_id: 812.0
+description: The dataset fri_c1_100_25 is a collection of data containing 100 records. Each record consists of 25 attributes or variables. The specific details of the attributes are not mentioned. It is inferred that the dataset may be related to a classification problem due to the inclusion of the term "c1" in its name. "Fri" could indicate the dataset's suitability for analyzing information related to Fridays, but the context is unclear. As per available information, this dataset provides limited information, primarily focusing on the number of records and attributes it contains.

@@ -1,0 +1,3 @@
+name: FOREX_audcad-minute-Close
+dataset_id: 41854.0
+description: The dataset FOREX_audcad-minute-Close represents a collection of minute-level data for the AUD/CAD currency pair in the foreign exchange market. It provides information about the closing prices of this particular currency pair. The dataset includes a range of records covering various time intervals, each containing a specific closing price value. This data can be used to analyze the dynamics and trends of the AUD/CAD exchange rate over time. The minute-level granularity enables traders and researchers to gain precise insights into short-term movements and patterns in the market. Overall, the dataset offers a valuable resource for understanding and forecasting the AUD/CAD currency pair's performance.

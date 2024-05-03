@@ -1,0 +1,3 @@
+name: isolet
+dataset_id: 43985.0
+description: The isolet dataset is a collection of 7797 features extracted from spoken letter recordings of 150 different speakers. Each speaker recorded the same 150 utterances multiple times, providing variation in pronunciation, intonation, and pacing. These features include attributes such as pitch, intensity, and MFCC coefficients. The goal of this dataset is to enable the development and testing of machine learning algorithms for speaker-independent, isolated-word recognition. The dataset has been pre-processed to remove noise and normalize intensity levels. It can be used for tasks like speaker identification, speech recognition, and language analysis.

@@ -1,0 +1,3 @@
+name: QSAR-TID-14071
+dataset_id: 3204.0
+description: The QSAR-TID-14071 dataset is a collection of chemical compounds and their associated properties. It contains 1,407 instances and 167 attributes, with a binary class label indicating the compounds' toxicity as either active or inactive. The attributes include molecular descriptors and algorithm-based features that provide information about the compounds' structure and properties. The dataset aims to aid in the development of quantitative structure-activity relationship (QSAR) models, which predict the biological activity of new compounds. It was originally constructed for the purposes of QSAR modeling contest organized by the Pesticide Program Dialogue Committee (PPDC) in the United States.

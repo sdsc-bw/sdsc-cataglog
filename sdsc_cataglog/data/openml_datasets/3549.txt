@@ -1,0 +1,3 @@
+name: Stock-price-trend-prediction
+dataset_id: 43625.0
+description: The dataset Stock-price-trend-prediction offers data on stock prices and their corresponding features to predict their future trends. It comprises various attributes such as the opening and closing prices, highest and lowest prices during a trading day, volume of shares traded, and the adjusted closing price. The dataset primarily focuses on S&P 500 stock market indices within the timeframe of January 2000 to October 2016. Additionally, it provides indicators like the moving average, relative strength index, and stochastic oscillator. This dataset is considered highly relevant for training machine learning models, particularly for predicting stock price trends.

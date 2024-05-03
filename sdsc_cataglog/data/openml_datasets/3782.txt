@@ -1,0 +1,3 @@
+name: AAPL_stock_price_2021_2022_1
+dataset_id: 43881.0
+description: The dataset AAPL_stock_price_2021_2022_1 contains information about Apple Inc.'s stock price fluctuations from the year 2021 to early 2022. The dataset likely includes various data points such as the date, opening price, closing price, high price, low price, and volume of shares traded. It provides a comprehensive overview of how Apple's stock price performed during this period, allowing users to analyze trends, identify patterns, and make informed investment decisions. Researchers and analysts can use this dataset to study the market dynamics, evaluate Apple's stock performance, and perform various statistical and predictive analyses related to the company's stock.

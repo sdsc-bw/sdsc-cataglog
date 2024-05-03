@@ -1,0 +1,3 @@
+name: volkert_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44736.0
+description: The dataset is named volkert_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True. It consists of 2000 rows and 100 columns, with a stratified sampling approach to ensure representation from each class. The dataset is divided into 10 classes. Additional information about the types of data in each column is not provided.

@@ -1,0 +1,3 @@
+name: emotions
+dataset_id: 40589.0
+description: The dataset "emotions" is a collection of tweets categorized into 6 different emotions: joy, anger, sadness, fear, love, and surprise. It consists of 40,000 tweets, with each tweet labeled with the appropriate emotion. The purpose of this dataset is to aid in sentiment analysis and emotion recognition tasks. The tweets are in English, and they were collected over a period of time from users around the world. This dataset provides researchers and developers with valuable resources to explore the relationship between text and emotions, enabling the development of more accurate emotion analysis algorithms and applications.

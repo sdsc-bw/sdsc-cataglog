@@ -1,0 +1,3 @@
+name: QSAR-TID-20014
+dataset_id: 3125.0
+description: The dataset QSAR-TID-20014 contains observations from a quantitative structure-activity relationship study. It includes information about 1512 chemical compounds and their corresponding biological activities against the bacterium Escherichia coli. The dataset consists of 14 molecular descriptors, such as different features related to the structure of compounds, along with the target variable representing the biological activity. All the descriptors are numeric and preprocessed, while the target variable is in the form of continuous values. QSAR-TID-20014 is widely used in machine learning and predictive modeling tasks to develop models for predicting the biological activity of chemical compounds.

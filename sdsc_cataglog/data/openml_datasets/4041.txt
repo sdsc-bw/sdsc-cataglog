@@ -1,0 +1,3 @@
+name: Intersectional-Bias-Assessment-(Training-Data)
+dataset_id: 44201.0
+description: The dataset Intersectional-Bias-Assessment-(Training-Data) is introduced, which focuses on assessing biases related to race and gender in machine learning models. It contains textual prompts where two demographic groups and an occupation are given, and the task is to predict the sentiment towards the statement for each group-occupation pair. The dataset is created to highlight intersectional biases and challenges faced by various social groups. It is derived from the Wikimedia project and annotated by human evaluators. The dataset aims to aid researchers in developing fair and unbiased AI systems, and to promote inclusivity and diversity in machine learning models.

@@ -1,0 +1,3 @@
+name: fri_c2_500_10
+dataset_id: 627.0
+description: The fri_c2_500_10 dataset contains information about the friendships among a group of 500 individuals. The dataset has a total of 10 attributes. The attributes include personal information like age, gender, and occupation, as well as social network-related details such as the number of friends and the amount of time spent on social media. This dataset can be utilized for various analyses, including examining the impact of age and gender on friendship patterns, studying the relationship between occupation and social media activity, and exploring the overall structure of the friendship network within this specific group of 500 individuals.

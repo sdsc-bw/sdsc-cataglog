@@ -1,0 +1,3 @@
+name: fri_c1_100_50
+dataset_id: 636.0
+description: The dataset fri_c1_100_50 is named after a particular experiment. It consists of 100 samples or instances, each with 50 attributes or features. It is a classification dataset, and its purpose is to predict the class label of a given sample using the attributes provided. The attributes are a combination of numerical and categorical variables. Although the nature of the data is not specified, it can be inferred that it is suitable for supervised learning algorithms. The dataset has a moderate size, which can be used for training and evaluating various machine learning models.

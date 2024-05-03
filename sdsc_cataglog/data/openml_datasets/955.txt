@@ -1,0 +1,3 @@
+name: ilpd
+dataset_id: 1480.0
+description: The dataset ilpd contains information about liver patient data, collected from Indian Liver Patient Database. The dataset consists of 583 entries and contains 10 attributes, including age, gender, total bilirubin, direct bilirubin, alkaline phosphatase, aspartate aminotransferase, total proteins, albumin, albumin and globulin ratio, and liver disease outcome. The dataset is aimed at predicting liver disease diagnosis based on the given attributes. The dataset has been preprocessed to handle missing values and outliers. However, it is important to note that the dataset is unbalanced, with a higher number of liver patients compared to non-liver patients.

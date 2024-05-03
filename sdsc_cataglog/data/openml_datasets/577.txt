@@ -1,0 +1,3 @@
+name: bank32nh
+dataset_id: 833.0
+description: The dataset bank32nh is a collection of data that contains 452 observations and 16 variables. It was gathered from a Portuguese banking institution for the purpose of analyzing their customers' response to marketing campaigns. The dataset includes information such as age, marital status, education, occupation, and housing details. It also provides indicators of the customer's financial behavior, such as number of days since last contact, number of contacts made, and the outcome of the previous marketing campaigns. This dataset can be used for various analysis and prediction tasks related to marketing effectiveness and customer behavior in banking.

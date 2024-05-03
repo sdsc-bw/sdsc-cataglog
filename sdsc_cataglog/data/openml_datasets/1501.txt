@@ -1,0 +1,3 @@
+name: QSAR-TID-12131
+dataset_id: 3484.0
+description: The QSAR-TID-12131 dataset is a collection of chemical compounds with corresponding activity values. It contains 114 compounds, each represented by 5 molecular descriptors and a binary activity value indicating its activity against a specific target. These descriptors provide structural information about the compounds. The dataset aims to predict the activity of new compounds using the given descriptors. The dataset is suitable for building machine learning models for classification or regression tasks in drug discovery or chemoinformatics. It can be used to develop QSAR models to assess the potential activity of unknown compounds and aid in designing new chemical entities.

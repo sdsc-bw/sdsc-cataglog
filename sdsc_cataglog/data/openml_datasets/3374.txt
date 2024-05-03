@@ -1,0 +1,3 @@
+name: Melbourne-Housing-Snapshot
+dataset_id: 43447.0
+description: The Melbourne-Housing-Snapshot dataset provides information on housing prices, property types, and other related features in Melbourne. The dataset includes various attributes such as the number of rooms, land size, building proportions, and location. It covers a range of housing types, including houses, townhouses, and apartments. The dataset also includes data on the sale method, seller type, and the year of sale. With a total of 34,857 entries, this dataset can be used for conducting analysis, predicting housing prices, and evaluating the real estate market in Melbourne.

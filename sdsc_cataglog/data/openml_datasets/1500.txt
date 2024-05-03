@@ -1,0 +1,3 @@
+name: QSAR-TID-20023
+dataset_id: 3483.0
+description: The dataset QSAR-TID-20023 contains information on the biological activity of various compounds. It includes a total of 2,023 chemical compounds and their respective bioactivity values. These compounds were tested against a specific target protein to determine their potential effectiveness as drugs. The dataset provides additional attributes such as molecular descriptors, fingerprints, and classification labels for each compound. It was created to aid in the development of predictive models for drug discovery and has been widely used in the field of chemoinformatics and bioinformatics research.

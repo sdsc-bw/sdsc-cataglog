@@ -1,0 +1,3 @@
+name: QSAR-TID-10970
+dataset_id: 3444.0
+description: The dataset QSAR-TID-10970 contains 800 compounds and their corresponding quantitative structure-activity relationship (QSAR) values. The compounds comprise various organic molecules with diverse chemical structures. Each compound is assigned a numeric value that represents its biological activity or property. The dataset was created to aid in developing predictive models for drug design and discovery. It provides a valuable resource for researchers and analysts working in the field of QSAR modeling and drug development.

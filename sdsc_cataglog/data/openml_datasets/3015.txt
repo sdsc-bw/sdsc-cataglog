@@ -1,0 +1,3 @@
+name: okcupid-stem
+dataset_id: 42734.0
+description: The dataset called okcupid-stem is used for analyzing user profiles on the online dating platform OkCupid. It includes various features like age, gender, height, body type, and education level. There are also columns indicating the user's personality traits and preferences, as well as their answers to multiple-choice and free-text questions. Additionally, the dataset provides information about the languages spoken, ethnicity, and religion of the users. This dataset is often used for research on human behavior, online dating patterns, and developing matchmaking algorithms. It provides a rich source of information for studying trends and patterns in online dating.

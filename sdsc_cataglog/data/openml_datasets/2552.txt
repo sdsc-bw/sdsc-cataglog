@@ -1,0 +1,3 @@
+name: FOREX_audusd-minute-Close
+dataset_id: 41817.0
+description: The dataset named FOREX_audusd-minute-Close is related to Forex trading and specifically focuses on the AUD/USD currency pair. It consists of minute-level data of the closing prices for this currency pair. The dataset likely includes information about the fluctuations and movements in the exchange rates of Australian dollar (AUD) and US dollar (USD). This dataset may be useful for analyzing the historical trends, patterns, and volatility in the AUD/USD exchange rates for traders and researchers in the foreign exchange market. It contains a comprehensive set of minute-by-minute closing price data, enabling detailed analysis and insights into the AUD/USD pair.

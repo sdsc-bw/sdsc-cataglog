@@ -1,0 +1,3 @@
+name: 515K-Hotel-Reviews-Data-in-Europe
+dataset_id: 43712.0
+description: The dataset "515K-Hotel-Reviews-Data-in-Europe" contains information on 515,000 hotel reviews in Europe. It includes reviews from different sources, such as TripAdvisor and Booking.com, from various European countries. The dataset provides details on the hotels, including their geographical locations, average ratings, and the number of reviews received. Furthermore, it includes information about the reviewers, such as their nationalities and the languages they used to write the reviews. The dataset offers valuable insights into the hotel industry in Europe, allowing for analysis on factors like hotel performance, customer satisfaction, and trends in the tourism sector.

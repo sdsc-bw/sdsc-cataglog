@@ -1,0 +1,3 @@
+name: QSAR-TID-10441
+dataset_id: 3703.0
+description: QSAR-TID-10441 is a dataset consisting of molecular descriptors and bioactivity data for 902 compounds. The aim of this dataset is to predict quantitative structure-activity relationships (QSAR) for small molecules. It consists of 101 columns, including various molecular descriptors such as atom count, bond count, and topological structure indices. The bioactivity data includes inhibitory concentration (IC50) values, which indicate the effectiveness of a compound in inhibiting a specific biological target. This dataset provides valuable information for researchers studying QSAR and drug discovery. It can be used to develop predictive models and identify potential drug candidates with desired bioactivity profiles.

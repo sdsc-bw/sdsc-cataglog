@@ -1,0 +1,3 @@
+name: hcdr
+dataset_id: 45071.0
+description: The dataset hcdr contains information about credit default risk, specifically related to clients of a European Bank. It includes data on 307,511 clients and 122 features, encompassing personal attributes, previous loan applications, and repayment history. The dataset was compiled to analyze and predict the likelihood of a client defaulting on their loan payments. It also includes information regarding clients' demographic factors such as age, gender, and education level. The dataset is widely used in the financial industry for developing models and algorithms to assess creditworthiness and make informed lending decisions.

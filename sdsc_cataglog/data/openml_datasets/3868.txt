@@ -1,0 +1,3 @@
+name: isolet
+dataset_id: 43993.0
+description: The isolet dataset is a collection of spoken alphabets and digits recorded from different speakers. It consists of 7,797 samples obtained from 150 different speakers. Each sample is a 617-dimensional feature vector representing different attributes of the recorded speech. The dataset is commonly used in pattern recognition and machine learning research for tasks like speech recognition and speaker identification. The isolet dataset is publicly available and its usage is accompanied by a series of preprocessing steps, including normalization and dimensionality reduction. This dataset serves as a valuable resource for developing and evaluating various algorithms in the field of speech and audio processing.

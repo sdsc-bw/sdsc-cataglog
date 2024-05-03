@@ -1,0 +1,3 @@
+name: sf2
+dataset_id: 41489.0
+description: The dataset sf2 is a comprehensive and extensive data source used in the Social Explorer platform. It contains vast information collected from the U.S. decennial census and provides valuable insights into various demographic and social aspects of American communities. It encompasses data on population demographics, housing characteristics, economic factors, educational attainment, and more. The sf2 dataset covers a wide range of geographical levels, including states, counties, cities, census tracts, and more. With its wealth of data, the sf2 dataset is an essential resource for researchers, policymakers, and analysts aiming to understand the dynamics and trends of American communities.

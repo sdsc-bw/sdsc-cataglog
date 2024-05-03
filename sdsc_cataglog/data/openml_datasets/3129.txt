@@ -1,0 +1,3 @@
+name: dgf_96f4164d-956d-4c1c-b161-68724eb0ccdc
+dataset_id: 43025.0
+description: The dataset dgf_96f4164d-956d-4c1c-b161-68724eb0ccdc contains information related to a specific subject. The dataset is named dgf_96f4164d-956d-4c1c-b161-68724eb0ccdc and contains a variety of data points. The dataset is likely to include information about different variables or attributes, possibly related to a specific study, project, or research. It is not possible to provide further details about the dataset's content, as the description does not offer any specific information about its nature or purpose.

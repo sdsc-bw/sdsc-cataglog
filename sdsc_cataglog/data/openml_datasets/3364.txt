@@ -1,0 +1,3 @@
+name: Adult-Census-Income
+dataset_id: 43436.0
+description: The Adult-Census-Income dataset comprises information about individuals from the United States, containing various attributes related to their demographic, financial, and social characteristics. It includes details such as age, education level, marital status, occupation, gender, race, and native country. The dataset aims to determine whether an individual's income exceeds a certain threshold based on the provided attributes. The data can be utilized for various analytical purposes, including classification, regression, and clustering tasks. It can also be used to study factors influencing income disparities among different groups in society.

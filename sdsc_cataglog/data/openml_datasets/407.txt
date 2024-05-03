@@ -1,0 +1,3 @@
+name: fri_c1_100_5
+dataset_id: 656.0
+description: The dataset named "fri_c1_100_5" consists of 100 instances with 5 attributes. Each instance represents a unique set of values for the given attributes. The dataset provides a comprehensive collection of data for analysis and study purposes. It is likely to be relevant in various fields, such as machine learning and data mining, where the exploration of data patterns and trends is crucial. With its substantial sample size and attribute diversity, the dataset offers an opportunity to conduct in-depth analysis and derive meaningful insights. Researchers and practitioners can leverage this dataset to develop and test models or algorithms in order to tackle real-world problems effectively.

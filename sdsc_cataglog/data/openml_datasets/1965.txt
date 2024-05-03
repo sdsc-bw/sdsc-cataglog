@@ -1,0 +1,3 @@
+name: QSAR-TID-10907
+dataset_id: 3951.0
+description: QSAR-TID-10907 is a dataset that contains information about the bioactivity of compounds against a certain enzyme. The dataset consists of 3,314 compounds, each described by 4,280 calculated molecular descriptors. These descriptors provide information on various molecular properties such as size, shape, and chemical composition. The bioactivity of each compound is measured using a binary classification system, indicating whether the compound is active or inactive against the enzyme. This dataset can be used for developing and evaluating quantitative structure-activity relationship (QSAR) models to predict the bioactivity of new compounds against the enzyme of interest.

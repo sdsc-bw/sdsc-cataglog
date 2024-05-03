@@ -1,0 +1,3 @@
+name: pigs_3
+dataset_id: 45255.0
+description: The dataset pigs_3 contains information about different aspects of pig production. These include details about the pigs' birth, such as the date and number of piglets born in each litter. It also includes information on the pigs' growth, such as their weight and feed intake at different time intervals. The dataset also provides insights into the pigs' health, with indicators like thermometer measurements and medication usage. Additionally, the dataset records data related to the pigs' environment, like the average temperature and humidity in their surroundings. Overall, pigs_3 offers a comprehensive collection of information pertaining to pig production and can be used for various analysis and research purposes.

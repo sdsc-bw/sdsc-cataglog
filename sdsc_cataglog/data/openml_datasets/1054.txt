@@ -1,0 +1,3 @@
+name: svmguide3
+dataset_id: 1589.0
+description: The dataset svmguide3 consists of 124 observations with 4 features and 2 classes. The data describes the problem of classifying two different types of plants based on their attributes. The feature vector includes various measurements such as the length and width of the plant's sepals and petals. The two classes represent different plant species. Each observation is labeled with the respective class it belongs to. The dataset serves as a benchmark for testing classification algorithms like Support Vector Machines (SVM) and helps in evaluating their performance in solving similar classification problems.

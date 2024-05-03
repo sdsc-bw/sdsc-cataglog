@@ -1,0 +1,3 @@
+name: xd6
+dataset_id: 40693.0
+description: The dataset xd6 is a time series dataset that contains hourly data of PM2.5 concentrations, temperature, pressure, humidity, wind speed, and wind direction in Beijing, China from 2010 to 2015. It consists of 52584 instances with 6 features. PM2.5 concentrations range from 0 to 994. The dataset has missing values that are indicated as NA. It is used for various applications such as air quality prediction and studying the impact of air pollutants on health and environment. The data is collected from multiple air quality monitoring stations in Beijing and additional meteorological data sources.

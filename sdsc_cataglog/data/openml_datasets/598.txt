@@ -1,0 +1,3 @@
+name: fishcatch
+dataset_id: 854.0
+description: The dataset "fishcatch" provides information on the catch of fish species in various locations. It contains data on the species caught, the weight, and the fishing effort exerted. The dataset includes information from multiple fishing vessels over a significant period of time, allowing for the analysis of fish catch trends. It captures data from various regions and seasons, providing a comprehensive view of fish catch across different conditions. This dataset is valuable for studying fish populations, examining the impact of fishing on particular species, and making informed decisions on sustainable fishing practices.

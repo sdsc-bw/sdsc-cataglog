@@ -1,0 +1,3 @@
+name: ausopen-women-2013
+dataset_id: 42971.0
+description: The dataset ausopen-women-2013 contains information on the 2013 Australian Open Women's singles tennis matches. It includes details such as the tournament round, player names, their country of origin, their ranking, and the outcome of each match. The data also provides the number of aces, double faults, and total points won by each player in every match. Additionally, it includes information on the duration of the matches, including the time taken for each set. With this dataset, researchers and tennis enthusiasts can analyze player performance, match statistics, and gain insights into the outcome of the tournament.

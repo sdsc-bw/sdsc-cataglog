@@ -1,0 +1,3 @@
+name: pbc
+dataset_id: 524.0
+description: The pbc dataset is used to study the primary biliary cirrhosis (pbc) disease. It consists of data from 418 patients diagnosed with pbc, including their demographic information, clinical measurements, and laboratory test results. The dataset contains 19 variables, including age, sex, bilirubin levels, cholesterol levels, and spleen size. The data was collected over the course of four years, with some patients being followed for up to twelve years. This dataset serves as a valuable resource for understanding the progression and prognosis of pbc, as well as evaluating potential treatments and interventions.

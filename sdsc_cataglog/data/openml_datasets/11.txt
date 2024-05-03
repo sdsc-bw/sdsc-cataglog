@@ -1,0 +1,3 @@
+name: breast-cancer
+dataset_id: 13.0
+description: The breast-cancer dataset is a collection of data related to breast cancer patients. It contains information about various factors such as biopsies, tumor size, lymph node status, and age of patients. The dataset aims to aid in the prediction and diagnosis of breast cancer. It consists of a total of 569 instances, divided into two classes: malignant and benign tumors. The dataset is widely used in research and machine learning applications to develop models capable of accurately classifying breast cancer cases as malignant or benign based on the provided features.

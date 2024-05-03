@@ -1,0 +1,3 @@
+name: QSAR-TID-10019
+dataset_id: 3264.0
+description: The dataset QSAR-TID-10019 collects quantitative structure-activity relationship (QSAR) measurements for 28 compounds, each characterized by 214 molecular descriptors. The goal is to predict the activity value of these compounds against a specific target protein. The data was generated using various computational methods and has been analyzed using regression techniques to build predictive models. The dataset also provides the activity class (active/inactive) for each compound. QSAR-TID-10019 enables research and development in drug discovery and protein-ligand interaction, fostering the development of novel molecules with desired biological activity.

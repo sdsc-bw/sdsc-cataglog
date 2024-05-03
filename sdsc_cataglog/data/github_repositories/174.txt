@@ -1,0 +1,3 @@
+repo_name: missingno
+link: https://github.com/ResidentMario/missingno
+description: Introducing "missingno," a toolset for visualizing and managing missing data in datasets. With "missingno," users can get quick visual summaries of their dataset's completeness or lack thereof. Simply install the tool by running "pip install missingno," and begin using its various visualization options, including the "nullity matrix," "bar plot," and "correlation heatmap." The tool also includes a dendrogram for more in-depth analysis of variable completion trends. For configuration details and more, refer to the "CONFIGURATION.md" file in the repository. For bug reports, feature suggestions, and contributions, see the respective sections in the "CONTRIBUTING.md" file.

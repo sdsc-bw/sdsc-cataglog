@@ -1,0 +1,3 @@
+name: FOREX_nzdusd-minute-High
+dataset_id: 41807.0
+description: The dataset named FOREX_nzdusd-minute-High provides minute-level historical data for the currency pair NZD/USD in the foreign exchange (FOREX) market. It focuses on the high prices observed during each minute. The dataset likely includes information about the highest recorded price for the given currency pair within each minute, potentially spanning various time periods. The data is valuable for analyzing the price dynamics, identifying trends, and conducting detailed technical analysis for NZD/USD trading. With minute-level granularity, traders and analysts can gain accurate insights into the market's volatility, fluctuations, and potential opportunities for trade execution or risk management strategies.

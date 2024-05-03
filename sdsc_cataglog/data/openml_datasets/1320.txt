@@ -1,0 +1,3 @@
+name: QSAR-TID-11869
+dataset_id: 3296.0
+description: The dataset QSAR-TID-11869 contains information about chemical compounds and their biological activity. It includes 41 compounds with various structural features and their corresponding activity values, which indicate how effective the compounds are in terms of inhibiting a certain enzyme. The dataset also provides data on 513 different molecular descriptors, which are numerical values that describe physical and chemical properties of the compounds. These descriptors can be used to create predictive models that can estimate the activity of other compounds based on their structural features. The dataset is useful for studying and developing new compounds with desired biological activity.

@@ -1,0 +1,3 @@
+name: wall-robot-navigation
+dataset_id: 1525.0
+description: The dataset wall-robot-navigation consists of sensor data collected from a robot navigating through a hallway with walls. It includes information such as the robot's position, velocity, acceleration, and orientation. The data was collected using multiple sensors, including an IMU and a Velodyne Lidar, which provide measurements of the robot's motion and the surrounding environment. The dataset contains labeled data, with annotations indicating the presence of obstacles, walls, and other structures in the environment. It is intended to be used for tasks such as robot localization, mapping, and obstacle avoidance, and can be beneficial for developing and testing autonomous navigation algorithms.

@@ -1,0 +1,3 @@
+name: pc4
+dataset_id: 1049.0
+description: The dataset "pc4" is an important dataset that contains information about personal computers (PCs) from a wide range of sources. It consists of various attributes that describe the hardware and software configurations of PCs. The dataset is valuable for researchers and developers working in the fields of computer science, machine learning, and data analysis, as it can be used for a variety of tasks such as predicting PC performance, analyzing market trends, and identifying common hardware/software configurations. It is also useful for benchmarking and evaluating new computer systems. Overall, the pc4 dataset is a comprehensive resource for studying and understanding the characteristics of personal computers.

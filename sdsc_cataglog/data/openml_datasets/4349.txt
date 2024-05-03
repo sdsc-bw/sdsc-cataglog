@@ -1,0 +1,3 @@
+name: jasmine_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44527.0
+description: The dataset named jasmine_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns. It is categorized into 10 classes. The dataset follows a stratified sampling approach, indicating that the distribution of classes is maintained in the sampled data. The dataset likely represents various features or attributes of a certain population, which are organized in columns. The specific nature of the dataset, such as the meaning of the rows and columns, or the purpose of the classification, is not mentioned in the summary.

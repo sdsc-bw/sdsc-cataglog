@@ -1,0 +1,3 @@
+repo_name: ClickHouse
+link: https://github.com/ClickHouse/ClickHouse
+description: ClickHouse® is an open-source column-oriented database management system that allows generating analytical data reports in real-time. It offers features such as automating workflows, managing packages, finding and fixing vulnerabilities, providing instant dev environments, using AI to write better code, and collaborating outside of code. ClickHouse also allows users to fund open source developers and provides GitHub community articles.

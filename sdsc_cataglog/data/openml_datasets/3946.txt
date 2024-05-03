@@ -1,0 +1,3 @@
+name: phoneme
+dataset_id: 44072.0
+description: The dataset phoneme consists of recordings of spoken phonemes, which are the smallest units of sound in a language. It contains 5404 instances and 2 attributes. The first attribute represents the frequency of the phoneme, while the second attribute indicates the duration in milliseconds. The dataset is labeled with the corresponding phonetic transcription for each instance. The recordings were collected from 460 speakers, with each speaker producing multiple instances of each phoneme. This dataset is commonly used for tasks like phoneme recognition and classification, as well as speech synthesis and speech analysis.

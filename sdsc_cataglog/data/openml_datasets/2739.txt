@@ -1,0 +1,3 @@
+name: medical_charges
+dataset_id: 42130.0
+description: The dataset "medical_charges" contains information related to medical charges for a group of individuals. It includes various attributes such as age, sex, body mass index (BMI), number of children, smoking status, region, and medical charges. The dataset aims to explore the factors that might influence medical charges. The age of the individuals range from 18 to 64 years old, and they have an average BMI of 30. The dataset also indicates whether the individuals are smokers and provides details about their regional location. This dataset could be useful for conducting analysis on healthcare costs and understanding the impact of various factors on medical charges.

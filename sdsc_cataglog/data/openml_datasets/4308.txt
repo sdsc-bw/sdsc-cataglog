@@ -1,0 +1,3 @@
+name: Australian_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44486.0
+description: The dataset "Australian_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True" has 2000 rows and 100 columns. It consists of 10 distinct classes, suggesting it may be a classification problem. The dataset is also stratified, meaning that each class has a proportional representation in the sample. However, no other details about the dataset's content, features, or target variable are provided. Further analysis and exploration are required to understand the nature and purpose of this dataset.

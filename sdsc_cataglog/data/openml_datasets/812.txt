@@ -1,0 +1,3 @@
+name: rsctc2010_6
+dataset_id: 1082.0
+description: The dataset rsctc2010_6 contains information about different biomedical articles. It consists of a collection of 6,663 documents in XML format. Each document represents an article in the field of biomedical science. The dataset includes information about the title, abstract, and full text of each article, as well as additional metadata such as authors, publication date, and source. The articles cover a wide range of topics in the biomedical field, including genetics, diseases, and medical advancements. The dataset is available for research and analysis purposes, aiming to facilitate the exploration and understanding of biomedical literature.

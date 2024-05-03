@@ -1,0 +1,3 @@
+name: SyskillWebert-Sheep
+dataset_id: 376.0
+description: The dataset SyskillWebert-Sheep contains information related to the virtual personal assistant, SyskillWebert. It includes data points such as user requests, system responses, user ratings, and context information. The dataset was created to facilitate research in dialogue systems and was developed by engaging users in conversations with the virtual assistant. The conversations cover various topics, including weather, sports, movies, and more. The dataset aims to promote the development of better dialogue systems by providing a large-scale and diverse set of conversations. It is freely available for research purposes and has been used in several studies in natural language processing and dialogue systems.

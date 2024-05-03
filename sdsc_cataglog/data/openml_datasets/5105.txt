@@ -1,0 +1,3 @@
+name: rossmann_store_sales_processed
+dataset_id: 45646.0
+description: The dataset "rossmann_store_sales_processed" contains information about daily sales of various stores in the Rossmann drugstore chain. It includes features such as store ID, the day of the week, the month, the year, whether the store was open, the number of customers, sales, promotions, school holidays, state, and other attributes. The dataset has been preprocessed, presumably by cleaning and transforming the data. It is likely to be used for analyzing and forecasting store sales, understanding the impact of different factors on sales, and optimizing store operations.

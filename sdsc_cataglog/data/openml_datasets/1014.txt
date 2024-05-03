@@ -1,0 +1,3 @@
+name: volcanoes-e1
+dataset_id: 1542.0
+description: The dataset volcanoes-e1 is a comprehensive collection of information about volcanoes worldwide. It provides details on the location, type, elevation, and activity status of each volcano, as well as information on past eruptions. The dataset also includes data on the composition of volcanic rocks and gases, allowing for a more in-depth analysis of volcanic activity. With over 1,500 entries, it covers volcanoes from various regions and provides a valuable resource for researchers and geologists studying volcanism. The dataset is regularly updated to ensure its accuracy and usefulness in understanding the volatile nature of volcanoes.

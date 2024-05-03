@@ -1,0 +1,3 @@
+name: AP_Omentum_Prostate
+dataset_id: 1125.0
+description: The AP_Omentum_Prostate dataset is composed of data related to prostate cancer patients and specifically focuses on the omentum, a fatty tissue in the abdominal area. The dataset includes information about patient demographics, clinical characteristics, outcomes, histopathological features, and molecular data. It contains 450 records, each with 26 variables, collected from a single institution. The dataset is used to investigate the prognostic factors and biological markers associated with prostate cancer and the role of the omentum in disease progression. It provides a valuable resource for understanding and improving the diagnosis, treatment, and management of prostate cancer patients.

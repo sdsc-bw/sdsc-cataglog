@@ -1,0 +1,3 @@
+name: fri_c2_1000_25
+dataset_id: 589.0
+description: The fri_c2_1000_25 dataset contains information related to 1000 subjects and consists of 25 attributes. This dataset is primarily focused on analyzing friendship connections and is likely to provide insights into social network analysis. The attributes within the dataset are not specified, so it is unclear what specific information is included. However, with its large sample size and potential for studying friendship networks, this dataset can be valuable for researchers and analysts interested in understanding relationships and connectivity within social networks.

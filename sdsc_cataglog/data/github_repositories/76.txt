@@ -1,0 +1,3 @@
+repo_name: r2pmml
+link: https://github.com/jpmml/r2pmml
+description: R2PMML is an R package that allows users to convert R models to PMML. This library is a thin R wrapper around the JPMML-R library. The package offers base functionality, data pre-processing, and advanced functionality for model conversion. Additionally, it provides the option to tweak JVM configuration and to employ a custom converter class. To install R2PMML, users may use the `install.packages("r2pmml")` command for a release version from CRAN or install the latest snapshot version from GitHub using the `devtools` package. For documentation and license information, please refer to the R2PMML package page.

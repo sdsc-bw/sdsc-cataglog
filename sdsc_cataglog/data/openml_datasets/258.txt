@@ -1,0 +1,3 @@
+name: wind
+dataset_id: 503.0
+description: The wind dataset contains information about the wind speed and direction at different locations over a specific time period. It includes measurements from various meteorological stations across a region. The dataset provides detailed records of wind patterns, allowing for analysis and understanding of factors such as wind variability, trends, and seasonal fluctuations. It includes variables such as date, time, location, wind speed, and wind direction. This dataset is useful for studying meteorology, climate change, renewable energy, and understanding the impact of wind on various activities such as agriculture, aviation, and outdoor sports.

@@ -1,0 +1,3 @@
+name: cmc_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44616.0
+description: The dataset cmc_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns. It contains information classified into 10 different classes. The stratify option is set to True, meaning that the dataset is divided into these classes in a proportional manner, ensuring balanced representation. The dataset is likely to be used for classification or clustering tasks, as it includes a large number of rows and relatively high-dimensional data. The provided seed value indicates that the dataset was randomly generated, and this seed number ensures reproducibility of the dataset if needed.

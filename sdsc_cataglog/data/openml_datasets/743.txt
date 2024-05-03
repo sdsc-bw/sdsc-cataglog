@@ -1,0 +1,3 @@
+name: primary-tumor
+dataset_id: 1003.0
+description: The primary-tumor dataset comprises information about patients with different types of primary tumors. It includes data about the tumor's size, site, and histological code. The size variable indicates the size of the primary tumor in millimeters. The site variable provides details about the tumor's location in the body, such as respiratory, digestive, or urinary. The histological code represents the classification of the tumor based on its microscopic characteristics. The dataset is useful for analyzing and understanding the characteristics and distribution of primary tumors, which can aid in cancer research and treatment strategies.

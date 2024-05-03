@@ -1,0 +1,3 @@
+name: QSAR-TID-12753
+dataset_id: 3566.0
+description: QSAR-TID-12753 is a dataset containing information about the biological activity of 752 molecules against a specific target protein. The dataset includes 520 quantitative molecular descriptors, which describe various physicochemical properties of the molecules. The target protein is an important enzyme involved in a biological process, making it a potential drug target. The dataset can be used to develop predictive models for the biological activity of molecules and to identify potential drug candidates. It is publicly available and can be used for research purposes in the field of drug discovery and development.

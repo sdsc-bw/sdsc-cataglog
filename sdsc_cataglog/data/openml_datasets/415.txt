@@ -1,0 +1,3 @@
+name: sleuth_case2002
+dataset_id: 665.0
+description: The dataset sleuth_case2002 consists of information about a fictional crime investigation. It includes details like the age, gender, and occupation of suspects, as well as their relationships with the victim. It also provides alibis, evidence found at the scene, and the final outcome of the investigation. The dataset aims to offer a realistic simulation of a criminal case for educational purposes. The information can be used for various analysis and modeling tasks, such as determining patterns and relationships between suspects and their characteristics, or evaluating the effectiveness of different investigative techniques.

@@ -1,0 +1,3 @@
+name: DSN
+dataset_id: 44233.0
+description: The dataset DSN contains data related to radio telescopes used to track and communicate with deep space missions. It includes information about the antenna and signal characteristics, as well as the time and duration of various activities. The dataset covers a wide range of missions, including those from NASA, ESA, and other space agencies. It also provides data on spacecraft and their trajectories, along with details about the transmitter and receiver systems. The DSN dataset serves as a valuable resource for researchers and engineers working on deep space communication and tracking systems.

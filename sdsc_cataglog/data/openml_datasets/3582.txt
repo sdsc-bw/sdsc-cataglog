@@ -1,0 +1,3 @@
+name: Brain-cancer-gene-expression---CuMiDa
+dataset_id: 43657.0
+description: The dataset "Brain-cancer-gene-expression---CuMiDa" contains gene expression data that can be used to study brain cancer. The dataset includes information about the expression levels of various genes in brain cancer samples. The samples were collected from different patients with different types and stages of brain cancer. The dataset also includes clinical information about the patients, such as age, gender, and survival status. This dataset can be a valuable resource for researchers interested in understanding the genetic factors involved in brain cancer development and progression.

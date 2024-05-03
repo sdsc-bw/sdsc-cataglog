@@ -1,0 +1,3 @@
+name: QSAR-TID-102473
+dataset_id: 3635.0
+description: The dataset QSAR-TID-102473 contains information about the biological activity of molecules. It has 1024 instances with 41 different attributes, including descriptors and target variables. The goal is to predict the biological activity of compounds based on their molecular structure. The dataset has been previously used for developing predictive models for classification and regression tasks. It has also been utilized for comparing different machine learning algorithms and evaluating their performance. This dataset provides valuable insights for the development of new drugs and compounds by enabling the identification of potential bioactive molecules.

@@ -1,0 +1,3 @@
+name: Meta_Album_FLW_Micro
+dataset_id: 44239.0
+description: The dataset Meta_Album_FLW_Micro contains information about albums, artists, and their respective genres. It provides detailed attributes such as release date, duration, and popularity score. The dataset also includes information on track titles, their durations, and album rankings. It covers a wide range of music genres including pop, rock, hip-hop, and classical. The dataset offers comprehensive information to analyze and understand album trends, artist popularity, and genre preferences. It can be valuable for music industry professionals, researchers, and enthusiasts to explore and gain insights into the ever-evolving landscape of the music industry.

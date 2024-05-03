@@ -1,0 +1,3 @@
+name: IRIS-flower-dataset
+dataset_id: 43839.0
+description: The IRIS flower dataset is a widely used dataset in machine learning. It contains samples of measurement data for three different species of the Iris flower: setosa, versicolor, and virginica. Each sample consists of measurements of the sepal length, sepal width, petal length, and petal width of various flowers. The dataset was introduced by the statistician Ronald Fisher in 1936 and has since become a benchmark dataset for classification algorithms. It is often used to demonstrate techniques in pattern recognition, data visualization, and clustering. The dataset has 150 instances and is evenly distributed among the three classes, with 50 samples per class.

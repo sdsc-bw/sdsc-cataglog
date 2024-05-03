@@ -1,0 +1,3 @@
+name: QSAR-TID-30033
+dataset_id: 3716.0
+description: The dataset QSAR-TID-30033 contains information on 3,033 chemical compounds and their corresponding biological activity. Each compound is described by 313 molecular descriptors, which provide information about their chemical properties. The biological activity of the compounds is reported as an IC50 value, which represents the concentration needed to inhibit a specific target. The dataset also includes additional information such as drug-like properties and toxicological classification of the compounds. This dataset has been used to develop quantitative structure-activity relationship (QSAR) models to predict the biological activity of potential new compounds based on their molecular descriptors.

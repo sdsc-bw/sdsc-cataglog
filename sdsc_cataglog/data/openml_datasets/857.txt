@@ -1,0 +1,3 @@
+name: AP_Prostate_Uterus
+dataset_id: 1131.0
+description: The dataset AP_Prostate_Uterus contains information about patients with prostate and uterus diseases. It includes various attributes such as patient age, gender, tumor size, malignant status, and treatment details. The dataset aims to analyze the relationship between these attributes and the patient's prognosis. It consists of 500 records and has been collected from multiple medical institutions over a period of five years. The dataset's main goal is to aid in the development of predictive models for diagnosing and treating prostate and uterus diseases. Adequate data preprocessing has been performed to ensure accuracy and reliability for further analysis.

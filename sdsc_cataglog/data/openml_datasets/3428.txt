@@ -1,0 +1,3 @@
+name: COVID19-cases-by-country
+dataset_id: 43503.0
+description: COVID19-cases-by-country is a dataset that provides information about the confirmed cases, deaths, and recoveries of COVID-19 for various countries. It includes data about the number of cases per day, starting from January 2020. The dataset covers a wide range of countries from different continents. It is regularly updated and maintained to provide up-to-date information on the global COVID-19 situation. It is a valuable resource for researchers, policymakers, and journalists to analyze and understand the spread and impact of the virus worldwide.

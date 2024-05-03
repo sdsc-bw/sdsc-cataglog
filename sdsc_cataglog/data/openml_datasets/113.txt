@@ -1,0 +1,3 @@
+name: hungarian
+dataset_id: 231.0
+description: The dataset "hungarian" is a collection of data related to patients with heart disease. It consists of 294 samples with 13 attributes each. The attributes include information about the patients' age, sex, chest pain type, resting blood pressure, cholesterol level, fasting blood sugar, rest electrocardiographic results, maximum heart rate achieved, exercise-induced angina, ST depression induced by exercise, slope of the peak exercise ST segment, number of major vessels colored by fluoroscopy, and thalassemia. The dataset aims to facilitate research on heart disease diagnosis and prognosis, helping to develop models and algorithms to predict and prevent cardiovascular problems.

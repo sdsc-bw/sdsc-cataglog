@@ -1,0 +1,3 @@
+name: train
+dataset_id: 42624.0
+description: The dataset "train" contains various information about a train, including its arrival and departure times, route, and passenger details. It consists of comprehensive records that provide details about the train's performance, such as delays and cancellations, as well as historical data on its usage and occupancy rates. Additionally, the dataset contains information about the train's facilities, amenities, and services available on board, offering insights into the overall customer experience. With this dataset, researchers and analysts can analyze and study patterns, trends, and factors affecting train services, ultimately leading to improved strategies for operations and passenger satisfaction.

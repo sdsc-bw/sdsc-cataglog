@@ -1,0 +1,3 @@
+name: credit-g_reproduced_1
+dataset_id: 44098.0
+description: The dataset credit-g_reproduced_1 contains information about credit card users, their demographics, and credit card payment behavior. It has 50,000 instances and 23 attributes, including age, gender, education, marital status, and payment history. The target variable is the likelihood of default payments. The dataset was created by reproducing a similar dataset with adjusted simulation settings. It aims to provide a realistic representation of credit card data for research purposes. The dataset is commonly used in studies related to credit risk assessment and prediction models.

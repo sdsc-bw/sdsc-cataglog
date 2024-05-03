@@ -1,0 +1,3 @@
+name: volcanoes-a4
+dataset_id: 1530.0
+description: The dataset volcanoes-a4 contains information about volcanoes around the world. It includes attributes such as the name, country, region, and type of volcano. The dataset also provides details about the eruption history, including the last known eruption, activity status, and the volcano's elevation. Additionally, information about the latitude, longitude, and coordinates of each volcano is included. There are a total of 10,887 volcanoes in the dataset, with the majority located in the Pacific Ring of Fire. The dataset provides a comprehensive overview of volcanoes globally and can be utilized for various research and analysis purposes.

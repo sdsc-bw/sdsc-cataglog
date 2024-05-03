@@ -1,0 +1,3 @@
+name: New-York-City---Citywide-Payroll-Data
+dataset_id: 43744.0
+description: The dataset "New-York-City---Citywide-Payroll-Data" contains information regarding the payroll of New York City employees. It provides details such as names, titles, departments, salaries, and overtime compensation. The dataset is annually updated with data from various city agencies. The information can be used for analyzing payroll trends, identifying patterns, and conducting research on city employee compensation. It is publicly available for download and can be accessed through the NYC Open Data portal. The dataset is useful for individuals and organizations interested in studying financial aspects of New York City's workforce.

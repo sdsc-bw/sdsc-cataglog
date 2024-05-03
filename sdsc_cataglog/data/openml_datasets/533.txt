@@ -1,0 +1,3 @@
+name: triazines
+dataset_id: 788.0
+description: The dataset "triazines" contains information about the degradation of six triazines herbicides in different environmental conditions. The data was collected from laboratory experiments and includes variables such as the temperature, pH level, and time. The dataset aims to determine the influence of these factors on the degradation rates of the herbicides. It contains 14 columns and 720 rows, with each row representing a specific combination of conditions. This dataset can be used to analyze and understand the degradation behavior of these herbicides, helping in the assessment and management of their environmental impact.

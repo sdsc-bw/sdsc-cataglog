@@ -1,0 +1,3 @@
+name: OVA_Endometrium
+dataset_id: 1142.0
+description: The dataset OVA_Endometrium consists of gene expression data derived from endometrial cancer patients. The data includes information on differential gene expression between tumor samples and normal adjacent tissue samples. The study aims to identify genes that are differentially expressed in endometrial cancer and to understand their potential role in disease progression. The dataset also provides clinical information such as patient age, tumor grade, and stage, which can be used for further analysis and correlation with gene expression patterns. This dataset could be useful for researchers studying endometrial cancer and seeking to identify potential therapeutic targets or biomarkers for diagnosis and prognosis.

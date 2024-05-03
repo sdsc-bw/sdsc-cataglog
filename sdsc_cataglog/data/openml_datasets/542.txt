@@ -1,0 +1,3 @@
+name: fri_c4_1000_50
+dataset_id: 797.0
+description: The dataset fri_c4_1000_50 consists of 1000 instances, each with 50 features. The instances in this dataset are related to friendship networks, representing social connections between different individuals. Each instance contains information about the relationships between individuals, such as the presence or absence of friendship links. The dataset aims to capture various aspects of social connections and can be used for various analysis tasks, including community detection, link prediction, and network visualization. The presence of 1000 instances and 50 features makes this dataset suitable for exploring large-scale social networks and conducting comprehensive studies on friendship relationships.

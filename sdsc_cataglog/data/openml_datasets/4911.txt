@@ -1,0 +1,3 @@
+name: munin_6
+dataset_id: 45269.0
+description: The dataset munin_6 is a collection of data that contains information about the performance of the Munin monitoring system. It includes measurements taken every five minutes for various metrics such as CPU usage, memory usage, and disk space usage. The data spans a period of ten days, from February 1st to February 10th. It provides insights into the overall performance trends and patterns, allowing for analysis and optimization of the Munin monitoring system. The dataset is valuable for researchers and practitioners in the field of system monitoring and optimization.

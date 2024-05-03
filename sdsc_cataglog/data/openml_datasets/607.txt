@@ -1,0 +1,3 @@
+name: sleuth_ex2015
+dataset_id: 864.0
+description: The dataset sleuth_ex2015 contains information related to online customer reviews. It includes data from various e-commerce websites and social media platforms. The dataset provides details about the product categories, ratings given by customers, and the sentiment of their reviews. It also includes additional variables such as the number of helpful votes received, the number of images associated with the review, and the length of the review text. The dataset aims to assist in analyzing customer feedback and sentiment towards different products, allowing businesses to gain insights into customer satisfaction and make informed decisions based on the reviews.

@@ -1,0 +1,3 @@
+name: eye_movements_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44442.0
+description: The dataset "eye_movements_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" contains eye movement data. It has 2000 rows and 100 columns. The data is divided into 10 different classes. The "stratify" parameter is set to true, indicating that the data has been sampled in a way to represent the proportions of each class. This dataset is likely to be used for studying eye movement patterns and analyzing the relationship between eye movements and different variables.

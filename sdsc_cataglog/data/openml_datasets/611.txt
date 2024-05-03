@@ -1,0 +1,3 @@
+name: fri_c4_100_25
+dataset_id: 868.0
+description: The dataset fri_c4_100_25 is related to social networks and contains information about Facebook users' interactions. It consists of 100 circles representing different communities and 25 users in each community, resulting in a total of 2,500 users. The dataset provides details on the users' attributes, such as their gender and age, along with their social connections. Each user is assigned a unique ID, and their connections are represented by the IDs of their friends. This dataset is useful for studying the dynamics and patterns of social interactions within online communities and can be utilized for network analysis and community detection algorithms.

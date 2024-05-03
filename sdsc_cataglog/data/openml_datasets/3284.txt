@@ -1,0 +1,3 @@
+name: Radar-Traffic-Data
+dataset_id: 43354.0
+description: The Radar-Traffic-Data dataset is a collection of radar data pertaining to traffic. This dataset contains information about the measurements collected by a radar device installed in a real-world traffic scenario. The data includes attributes such as the date and time of the measurements, the speed and position of the vehicles, and additional details about the road conditions. It is a valuable resource for studying and analyzing various traffic-related phenomena, such as vehicle flow, congestion patterns, and traffic behavior. Researchers and analysts can utilize this dataset to develop models and algorithms for traffic management, optimization, and other related applications.

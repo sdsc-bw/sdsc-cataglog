@@ -1,0 +1,3 @@
+name: Moonrise-Moonset--Phases-Timings-(UK-2005-2017)
+dataset_id: 43559.0
+description: The dataset "Moonrise-Moonset--Phases-Timings- (UK-2005-2017)" provides information about moonrise, moonset, and moon phases in the United Kingdom from 2005 to 2017. This dataset contains detailed timings and dates of the moonrise and moonset, including the azimuth and elevation angles. It also includes information about the moon phases, such as the new moon, first quarter, full moon, and last quarter. The dataset is a valuable resource for researchers, astronomers, and anyone interested in studying or observing the moon's movements and phases in the UK during the specified time period.

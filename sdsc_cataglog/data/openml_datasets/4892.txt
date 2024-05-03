@@ -1,0 +1,3 @@
+name: pathfinder_9
+dataset_id: 45250.0
+description: The dataset pathfinder_9 contains data from the Pathfinder mission, specifically from the ninth Mars Pathfinder mission. The dataset includes information gathered from the rover Sojourner, which examined the surface of Mars. It contains various data about the mission, such as atmospheric conditions, gravity measurements, and the composition of the Martian soil. The data is stored in different formats, including CSV and Excel, and is organized into different categories such as atmospheric data, soil characteristics, and rover navigation. This dataset is a valuable resource for studying the conditions and characteristics of Mars during the Pathfinder mission.

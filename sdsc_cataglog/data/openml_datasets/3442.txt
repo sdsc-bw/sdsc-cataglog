@@ -1,0 +1,3 @@
+name: New-York-Times-Best-Sellers
+dataset_id: 43518.0
+description: The New-York-Times-Best-Sellers dataset contains information about books that have topped the New York Times Best Sellers List. It includes details like the title, author, publication date, publisher, and genre of each book. The dataset also provides rankings based on weeks on the list and ranks them separately for fiction and non-fiction categories. It covers a wide range of genres, including literary fiction, mysteries, romance, science fiction, and more. The dataset serves as a valuable resource for understanding the popularity and success of books in the publishing industry and can be utilized for various research and analysis purposes.

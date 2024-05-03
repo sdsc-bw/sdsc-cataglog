@@ -1,0 +1,3 @@
+name: hypothyroid
+dataset_id: 1000.0
+description: The dataset named hypothyroid contains information about patients with thyroid disorders. It includes a total of 3772 instances, each consisting of 30 attributes. The dataset was collected from thyroid patients who received care at a medical center located in Serbia. The patients' age ranges from 1 to 91 years, with an average of 51.7 years. Gender distribution suggests that the majority (74%) of patients are female. The dataset also includes information about thyroid surgery, as well as various laboratory test results. Overall, this dataset provides a comprehensive overview of patients with hypothyroidism and their associated attributes.

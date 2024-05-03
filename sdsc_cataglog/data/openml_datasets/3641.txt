@@ -1,0 +1,3 @@
+name: Consumer-Price-Index-in-Denver-CO
+dataset_id: 43717.0
+description: The dataset "Consumer-Price-Index-in-Denver-CO" provides information about the consumer price index (CPI) in Denver, Colorado. It includes data on various categories such as housing, transportation, food, and healthcare. The CPI is an essential economic indicator that measures the average change in prices of goods and services purchased by households over time. By analyzing this dataset, one can gain insights into the inflation rate and the cost of living in Denver, which can be useful for economists, policymakers, and individuals looking to understand the trends and make informed decisions related to their expenses.

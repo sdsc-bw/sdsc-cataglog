@@ -1,0 +1,3 @@
+name: QSAR-TID-11969
+dataset_id: 3205.0
+description: The dataset QSAR-TID-11969 contains a collection of molecules with known chemical and toxicological properties. It focuses on the prediction of a molecule's aquatic toxicity, specifically towards fathead minnows. The dataset consists of 2233 instances, each describing a molecule with 828 molecular descriptors. The descriptors include information about the molecules' 2D and 3D properties, constitutional and topological attributes, and quantum-chemical features. The data has been preprocessed to handle missing values and duplicates. It has been used for the development of quantitative structure-activity relationship (QSAR) models to predict the aquatic toxicity of new molecules for risk assessment purposes.

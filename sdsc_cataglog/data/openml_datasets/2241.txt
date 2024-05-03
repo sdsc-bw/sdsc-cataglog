@@ -1,0 +1,3 @@
+name: ecoli
+dataset_id: 40671.0
+description: The ecoli dataset comprises information about the biological attributes of 336 proteins from the Escherichia coli bacteria. The dataset contains 7 classes of proteins, labeled as "cp", "im", "imU", "om" ,"omL" ,"pp" and "ppU". Each protein is described by 8 attributes, including the molecular weight, the net charge, the average hydrophobicity, and more. The dataset aims to classify the proteins into their respective functional categories based on these attributes. The dataset has been widely utilized in machine learning and pattern recognition studies to develop algorithms for protein function prediction.

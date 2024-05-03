@@ -1,0 +1,3 @@
+name: sonar
+dataset_id: 40.0
+description: The sonar dataset is a classification problem that involves distinguishing between rocks(R) and mines(M) based on sonar signals. It consists of 208 observations where each one is represented by 60 numerical attributes which are the strength of returning echo in different angles. The dataset is divided into two sets, one for training and the other for testing. The classification objective of this dataset is to accurately identify the type of object (rock or mine) based on the sonar signals. Various machine learning algorithms have been applied to this dataset to analyze its classification accuracy and explore effective ways of distinguishing between rocks and mines using sonar signals.

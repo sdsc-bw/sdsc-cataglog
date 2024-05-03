@@ -1,0 +1,3 @@
+name: QSAR-TID-100435
+dataset_id: 3961.0
+description: The dataset QSAR-TID-100435 contains information on the biological activity of different compounds against the target enzyme dihydrofolate reductase (DHFR). It includes a total of 105 compounds with 23 molecular descriptors and a binary outcome parameter indicating their activity. The aim of this dataset is to develop quantitative structure-activity relationship (QSAR) models that can predict the activity of new compounds against DHFR. QSAR models can be useful in drug discovery to identify potential lead compounds. The dataset is publicly available and can be used for research purposes to develop and evaluate QSAR models for predicting the activity of compounds against DHFR.

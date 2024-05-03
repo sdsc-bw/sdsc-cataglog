@@ -1,0 +1,3 @@
+name: rl_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44452.0
+description: The dataset "rl_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" contains information organized in 10 classes and 2000 rows. Each row consists of 100 columns. The dataset has been stratified, meaning that the classes are represented proportionally in the dataset. It is not mentioned what type of data is included in the dataset, but it can be inferred that there are multiple variables, each with 100 data points. Further details about the dataset or its purpose are not provided in the given information.

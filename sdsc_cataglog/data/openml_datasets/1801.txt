@@ -1,0 +1,3 @@
+name: QSAR-TID-10711
+dataset_id: 3784.0
+description: The QSAR-TID-10711 dataset is a collection of data related to chemical compounds and their biological activities. It comprises 873 compounds, with each record including 1024 molecular descriptors and a binary outcome indicating whether the compound inhibits efflux pumps or not. The descriptors consist of physicochemical properties and structural features of the compounds. The dataset is intended for the development of quantitative structure-activity relationship (QSAR) models to predict the inhibitory activity of new compounds. It can be used to aid in drug discovery and development, particularly in designing molecules with desired properties to target efflux pump inhibition.

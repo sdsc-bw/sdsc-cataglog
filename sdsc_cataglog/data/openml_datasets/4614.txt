@@ -1,0 +1,3 @@
+name: KDDCup09-Upselling_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44792.0
+description: KDDCup09-Upselling_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset with 2000 rows and 100 columns. It has 10 different classes, and the data has been stratified. The dataset is part of the KDD Cup 2009 competition, which aimed to predict customer churn and upselling in the telecommunications industry. It is one of several seed datasets used for experimentation and testing in the competition. The dataset provides valuable information for understanding customer behavior and patterns, and it is widely used for building predictive models and developing strategies to improve customer retention and upselling.

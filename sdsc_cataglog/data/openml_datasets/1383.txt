@@ -1,0 +1,3 @@
+name: QSAR-TID-10544
+dataset_id: 3360.0
+description: The dataset QSAR-TID-10544 contains information about 10544 chemical compounds and their biological activity against the human African trypanosomiasis parasite. The dataset consists of 425 molecular descriptors, such as physicochemical properties, topological indices, and functional groups. Each compound is labeled with a binary activity value indicating whether it is active or inactive against the parasite. The dataset aims to develop models that can predict the activity of new chemical compounds against the parasite, aiding in the discovery of effective drugs for human African trypanosomiasis treatment. The dataset also includes additional information like compound identifiers, names, and sources.

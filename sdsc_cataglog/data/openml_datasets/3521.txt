@@ -1,0 +1,3 @@
+name: 150K-Lyrics-Labeled-with-Spotify-Valence
+dataset_id: 43597.0
+description: The dataset "150K-Lyrics-Labeled-with-Spotify-Valence" contains 150,000 song lyrics that have been labeled with Spotify valence values. Valence is a measure of the musical positiveness or negativeness of a song. The dataset includes various genres such as pop, rock, hip-hop, and country. Each song lyric is labeled with a valence value ranging from 0 to 1, with 0 representing a negative emotion and 1 representing a positive emotion. The dataset provides a valuable resource for analyzing the correlation between lyrics and emotions, and can be useful for sentiment analysis and music recommendation systems.

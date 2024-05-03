@@ -1,0 +1,3 @@
+name: christine_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44683.0
+description: The dataset "christine_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True" is a dataset with 2000 rows, 10 classes, and 100 columns. It has been stratified, meaning that the distribution of classes is representative of the overall dataset. This dataset may contain various types of data, given the number of columns. The exact nature and purpose of this dataset are not mentioned, therefore further information is needed to understand its context and significance.

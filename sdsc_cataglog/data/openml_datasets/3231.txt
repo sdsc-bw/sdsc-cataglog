@@ -1,0 +1,3 @@
+name: Graph_Inference_Dataset
+dataset_id: 43286.0
+description: The Graph_Inference_Dataset is a dataset created for the task of graph inference. It contains data instances in the form of graphs, where nodes represent entities and edges represent relationships between them. Each graph instance has a set of input features and labels that indicate the presence or absence of a specific relationship. The dataset is designed to help researchers and practitioners develop and evaluate various graph inference algorithms. It can be utilized in areas such as social network analysis, knowledge graph completion, and recommendation systems. The Graph_Inference_Dataset provides a valuable resource for advancing graph inference techniques and applications.

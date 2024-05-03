@@ -1,0 +1,3 @@
+name: cpu_small
+dataset_id: 227.0
+description: The dataset cpu_small represents data on the performance of CPUs. It contains 8192 data points and 7 attributes. The attributes include the address of the data thread, the status of the thread, the amount of time the thread has been running, the priority of the thread, the CPU time used, the amount of time the thread has been waiting, and the number of interrupts the thread has experienced. The dataset can be used for various analyses and models regarding CPU performance, optimization, and scheduling.

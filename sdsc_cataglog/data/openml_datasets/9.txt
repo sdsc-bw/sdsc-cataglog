@@ -1,0 +1,3 @@
+name: balance-scale
+dataset_id: 11.0
+description: The balance-scale dataset is a dataset that contains information about balance scales used in a physical education course. It consists of 625 instances and four attributes. The first attribute represents the left weight on the scale, while the second attribute represents the left distance from the fulcrum. The third attribute represents the right weight, and the fourth attribute represents the right distance from the fulcrum. The dataset is evenly balanced, with each of the three possible classes (B, L, R) having an equal number of instances. The balance-scale dataset is commonly used to train and test machine learning models for classification tasks.

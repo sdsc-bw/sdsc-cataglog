@@ -1,0 +1,3 @@
+name: Leukemia
+dataset_id: 45090.0
+description: The Leukemia dataset is a collection of gene expression data related to leukemia, a type of cancer affecting the blood and bone marrow. It contains information about the expression levels of thousands of genes in different samples, including healthy individuals and leukemia patients. The dataset aims to investigate the gene expression patterns that may be associated with leukemia development and progression. It also includes clinical information such as patient age, gender, and subtype of leukemia. Researchers can use this dataset to identify potential biomarkers for diagnosis, prognosis, and treatment response prediction, thus improving the understanding and management of leukemia.

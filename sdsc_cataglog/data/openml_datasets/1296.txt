@@ -1,0 +1,3 @@
+name: QSAR-TID-100865
+dataset_id: 3272.0
+description: The dataset QSAR-TID-100865 contains 1055 chemical compounds, each associated with a binary classification label indicating its potential toxicity. The compounds were analyzed to understand their molecular properties and predict their potential toxicity. The dataset comprises molecular descriptors for each compound, including physicochemical, topological, and connectivity indices. Additional features like solvent accessibility, antigenicity, and hydrophobicity were also considered. The dataset is relevant for researchers in the field of drug discovery and toxicology, as it can aid in identifying potentially toxic compounds or assessing the toxic properties of new chemical entities.

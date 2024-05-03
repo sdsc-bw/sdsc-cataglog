@@ -1,0 +1,3 @@
+name: QSAR-TID-30044
+dataset_id: 3123.0
+description: QSAR-TID-30044 is a dataset that includes data related to the ecological toxicity of certain chemicals. It contains information on 3,044 chemical compounds and their corresponding toxicity values. The dataset covers a wide range of chemicals, including herbicides, insecticides, and fungicides. Each chemical is characterized by various molecular descriptors, such as topological indices, constitutional indices, and electrotopological state indices. The dataset aims to provide information that can be used to develop quantitative structure-activity relationship (QSAR) models, which can serve as a basis for predicting the ecological toxicity of new chemicals.

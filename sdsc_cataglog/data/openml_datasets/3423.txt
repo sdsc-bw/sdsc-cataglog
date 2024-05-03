@@ -1,0 +1,3 @@
+name: Land-Market-in-Saudi-Arabia
+dataset_id: 43498.0
+description: The dataset Land-Market-in-Saudi-Arabia is a comprehensive collection of information regarding land transactions in Saudi Arabia. It includes data on various aspects such as land prices, land area, location, and type of ownership. The dataset covers a wide range of regions in Saudi Arabia, providing insights into the real estate market throughout the country. The information is valuable for analyzing trends, making investment decisions, and understanding the dynamics of the land market in Saudi Arabia. Overall, the dataset serves as a valuable resource for researchers, analysts, and policymakers interested in the Saudi Arabian real estate sector.

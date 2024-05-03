@@ -1,0 +1,3 @@
+name: fri_c2_100_5
+dataset_id: 726.0
+description: The dataset fri_c2_100_5 consists of information about friendships between individuals from a social network. It contains 100 nodes (individuals) and 5 attributes. The data provides details on the friendships between these individuals, such as the source and target nodes of each friendship. Additionally, attributes are provided for each node, including their gender, age, and educational background. This dataset offers insights into the social connections and characteristics of the individuals within the network. It can be useful for analyzing social behaviors, relationship patterns, and how individual attributes influence friendship formation within the group.

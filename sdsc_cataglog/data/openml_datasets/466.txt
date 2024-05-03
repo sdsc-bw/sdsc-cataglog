@@ -1,0 +1,3 @@
+name: veteran
+dataset_id: 719.0
+description: The dataset "veteran" contains information on military veterans from the United States. It includes various attributes such as age, gender, race, military branch, deployment status, and disabilities. The dataset provides details on veterans' employment status, education level, and household income. It also captures information about their access to healthcare services, use of VA benefits, and utilization of mental health resources. The dataset aims to assist researchers, policymakers, and organizations working towards the well-being and support of veterans by providing insights into their demographics, challenges, and needs.

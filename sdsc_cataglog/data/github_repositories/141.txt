@@ -1,0 +1,3 @@
+repo_name: azkaban
+link: https://github.com/azkaban/azkaban
+description: Azkaban is a platform that allows users to automate any workflow, host and manage packages, find and fix vulnerabilities, create instant dev environments, write better code with AI, and collaborate outside of code. Users can access GitHub community articles to get help, but should note that the documentation is in development. Azkaban builds use Gradle and requires Java 8 or higher. The platform can be installed using a set of commands that run on *nix platforms like Linux, OS X. It is important to note that creating certain branches may cause unexpected behavior, and that contributors cannot currently be retrieved.

@@ -1,0 +1,3 @@
+name: California-Housing-Prices
+dataset_id: 43705.0
+description: The California-Housing-Prices dataset captures various features of houses in California, such as location, number of rooms, population proximity, median income, and median house value. It contains 20,640 samples, with the majority (20,433) belonging to the training set and the remaining 207 in the test set. The data has been cleaned and preprocessed for machine learning purposes. Target values are continuous in nature and are capped at $500,001. The dataset provides an opportunity to explore and predict housing prices in California using various regression techniques.

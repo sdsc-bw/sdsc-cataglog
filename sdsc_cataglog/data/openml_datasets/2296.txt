@@ -1,0 +1,3 @@
+name: sylva_agnostic
+dataset_id: 40992.0
+description: The dataset sylva_agnostic encompasses various features of trees, their growth, and related ecological data. It consists of 95 instances, each representing a different tree within a particular forest area. The features include information about the type of tree species, age, diameter, height, and the area's environmental conditions. The dataset aims to provide a comprehensive understanding of tree growth patterns and help in predicting future growths. It can be used for research in forest ecology, biodiversity analysis, and sustainable forest management practices.

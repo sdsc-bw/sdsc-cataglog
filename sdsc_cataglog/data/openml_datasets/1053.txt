@@ -1,0 +1,3 @@
+name: w8a
+dataset_id: 1588.0
+description: The dataset w8a is a collection of documents classified into eight categories. Each document is represented by a feature vector consisting of 300-word frequencies. The dataset contains 49,749 documents with a total of 300,000 features. The documents are predominantly from the web and cover topics like business, entertainment, and sports. The dataset is often used for text classification tasks and machine learning research. However, it is worth noting that the dataset is highly imbalanced, with a significant number of documents belonging to one category compared to others.

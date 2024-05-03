@@ -1,0 +1,3 @@
+name: autism-adult-data
+dataset_id: 42878.0
+description: The dataset autism-adult-data contains information about adults with autism. It includes demographic information such as age, gender, and ethnicity. The dataset also includes information about their autism diagnosis, such as the age of diagnosis and the type of diagnosis received. Additionally, it contains information about their level of functioning, including their IQ score and adaptive behavior scores. The dataset also includes information about comorbid conditions, such as mental health disorders and medical conditions. Overall, this dataset provides a comprehensive overview of adults with autism, allowing researchers to understand various aspects of their lives and experiences.

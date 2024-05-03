@@ -1,0 +1,3 @@
+name: Tamilnadu-Crop-production
+dataset_id: 43461.0
+description: The dataset Tamilnadu-Crop-production contains information about the production of various crops in the Indian state of Tamil Nadu. The dataset includes data for multiple years and provides details about the area cultivated, yield per hectare, and total production of each crop. The crops covered in the dataset include major food crops like paddy, millets, pulses, and oilseeds, as well as commercial crops like cotton, sugarcane, and tobacco. The dataset can be valuable for researchers, policymakers, and agricultural experts to analyze crop trends, identify patterns, and make informed decisions regarding crop production and planning in Tamil Nadu.

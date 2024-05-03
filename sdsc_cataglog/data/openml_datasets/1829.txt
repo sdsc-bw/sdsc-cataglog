@@ -1,0 +1,3 @@
+name: QSAR-TID-100412
+dataset_id: 3813.0
+description: The QSAR-TID-100412 dataset is a collection of molecules and their corresponding binary toxicity values. It contains 1055 instances with 41 numerical attributes, including molecular properties and descriptors. The toxicity values represent whether the molecule is toxic or non-toxic. The dataset is commonly used in the field of Quantitative Structure-Activity Relationship (QSAR) studies to develop models that can predict toxicity based on molecular properties. It has potential applications in drug discovery and environmental risk assessment. Researchers can explore this dataset to understand the relationship between molecular characteristics and toxicity, and develop predictive models for toxicity evaluation.

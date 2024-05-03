@@ -1,0 +1,3 @@
+name: semeion
+dataset_id: 1501.0
+description: The Semeion dataset consists of handwritten digits (0-9) collected from 80 people. Each digit is stored in a 16x16 matrix, resulting in 256 attributes per instance. In order to preprocess the dataset, all instances have been centered in a 32x32 image. The first 200 instances come from different writers, while the remaining 200 come from the same writers as the first 200 but with some slight modifications, resulting in a total of 400 instances. The dataset is often used for pattern recognition tasks and classification algorithms to study and analyze handwriting recognition.

@@ -1,0 +1,3 @@
+name: rabe_265
+dataset_id: 780.0
+description: The dataset rabe_265 comprises a collection of documents obtained from the website rabeclass.org. It contains 265 XML files, each representing a course taught at the University of Rabe. The dataset provides information about various aspects of the courses, such as lecture notes, assignments, and exams. Each file contains metadata including the course name, instructor, semester, and year. The files are organized into different directories based on the course's subject area. The dataset aims to facilitate research in the field of education by offering a comprehensive collection of course materials from a single institution.

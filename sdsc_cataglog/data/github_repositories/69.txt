@@ -1,0 +1,3 @@
+repo_name: modin
+link: https://github.com/modin-project/modin
+description: Modin is a drop-in replacement for pandas that allows you to instantly speed up your workflows by scaling pandas so it uses all of your cores. It works particularly well on larger datasets, where pandas becomes painfully slow or runs out of memory. Modin can handle datasets that pandas cannot, allowing you to work with hundreds of gigabytes of data without worrying about substantial slowdowns or memory errors. Modin can be installed with pip on Linux, Windows, and MacOS, and it automatically detects which engine(s) you have installed and uses that for scheduling computation. You can also choose a specific compute engine to run on by setting the environment variable MODIN_ENGINE.

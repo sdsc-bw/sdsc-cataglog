@@ -1,0 +1,3 @@
+name: autoUniv-au4-2500
+dataset_id: 1548.0
+description: The dataset autoUniv-au4-2500 contains information on 2500 instances of cars. Each instance has 27 attributes, including the car model, manufacturer, price, number of doors, horsepower, and others. The dataset is relevant for companies and individuals interested in car-related analysis, such as predicting car prices or understanding the factors that influence horsepower. The dataset was collected from various sources, ensuring a diverse range of car models and manufacturers. It provides a valuable resource for training and testing machine learning algorithms in the automotive domain. Researchers can utilize this dataset for exploring patterns, making predictions, and gaining insights into the car industry.

@@ -1,0 +1,3 @@
+name: QSAR-TID-216
+dataset_id: 3515.0
+description: The dataset QSAR-TID-216 comprises 216 molecules and their corresponding activity values as measured against a specific molecular target. Each molecule is represented by a set of 380 molecular descriptors, which are used to predict the activity values. The dataset was created to investigate the quantitative structure-activity relationship (QSAR) of these molecules and the target. The molecules in the dataset have varying degrees of activity, representing a diverse range of chemical compounds. The dataset can be utilized for developing predictive models or testing algorithms aimed at predicting molecular activity against the specific target.

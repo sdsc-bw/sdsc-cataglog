@@ -1,0 +1,3 @@
+name: Wine
+dataset_id: 42184.0
+description: The Wine dataset contains information about different varieties of wine, such as red and white wines. It includes attributes that describe the chemical properties of the wines, like acidity levels and sugar content. The dataset also provides details regarding the quality and origin of the wines. In total, there are 13 features in the dataset, which provide insights into the characteristics of the wines. The data is collected from various sources and can be used for analysis, modeling, and predicting wine quality based on the given attributes. The dataset offers valuable information for wine enthusiasts, researchers, and data analysts in the field.

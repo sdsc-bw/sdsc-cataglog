@@ -1,0 +1,3 @@
+name: ar4
+dataset_id: 1061.0
+description: The dataset AR4 is a comprehensive dataset that includes information about regional temperature changes, sea-level rise, and other climate parameters. It was developed by the Intergovernmental Panel on Climate Change (IPCC) for their Fourth Assessment Report. The dataset contains data from various climate models and observational records, allowing for a wide range of analysis. It provides valuable insights into the impact of human activities on the climate system, helping to inform policy decisions and international efforts to mitigate climate change. AR4 is widely used by scientists, researchers, and policymakers to understand the current state of the climate and measure its projected changes.

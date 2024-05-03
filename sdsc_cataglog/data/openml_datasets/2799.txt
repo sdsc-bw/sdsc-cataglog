@@ -1,0 +1,3 @@
+name: digits_wrote
+dataset_id: 42334.0
+description: The dataset "digits_wrote" contains handwritten digits from multiple writers. Each digit image is represented by a 32x32 bitmap to capture fine-grained details. The dataset includes 10 classes, corresponding to the digits 0-9. It consists of 20,000 samples, with each class containing an equal number of samples. The dataset is commonly used for training and evaluating models in tasks such as digit recognition. Each sample also contains additional metadata, such as the writer's identity, allowing for writer-specific analysis. The dataset provides a valuable resource for researchers studying handwriting recognition and related fields.

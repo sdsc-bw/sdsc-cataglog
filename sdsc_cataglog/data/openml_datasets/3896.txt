@@ -1,0 +1,3 @@
+name: MiamiHousing2016
+dataset_id: 44022.0
+description: MiamiHousing2016 is a dataset that provides information about the housing market in Miami in the year 2016. It contains various attributes such as the price of the housing units, the area of the units, the number of bedrooms and bathrooms, the location of the units, and other related factors. The dataset also includes categorical variables such as the type of housing unit (e.g., house, apartment) and whether the unit is furnished or not. It is a comprehensive dataset that can be used for analyzing the Miami housing market trends and for making informed decisions in the real estate industry.

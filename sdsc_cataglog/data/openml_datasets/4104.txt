@@ -1,0 +1,3 @@
+name: Meta_Album_BCT_Mini
+dataset_id: 44281.0
+description: The dataset Meta_Album_BCT_Mini is a collection of information about albums from the Black Cat Tavern, a popular music venue. It includes details such as the album name, artist, release year, and genre. The dataset also contains additional information like the album's sales performance, the number of tracks, and the duration of each track. It is a smaller version of the original Meta_Album_BCT dataset and serves as a sample for analyzing trends and patterns in album data. This dataset is valuable for music industry professionals, researchers, and enthusiasts interested in understanding the album landscape of the Black Cat Tavern.

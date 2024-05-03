@@ -1,0 +1,3 @@
+name: wine
+dataset_id: 43980.0
+description: The wine dataset provides information about different types of wine and their characteristics. It includes various attributes such as alcohol content, acidity, residual sugar, and color intensity. The dataset is often used for classification tasks to predict the origin of the wine based on these attributes. It consists of 178 instances split into three classes representing different origins of the wines: 59 instances for class 1, 71 instances for class 2, and 48 instances for class 3. The dataset is informative for wine enthusiasts, researchers, and ML practitioners, as it helps in understanding the key factors influencing wine quality and origin prediction.

@@ -1,0 +1,3 @@
+name: pdgfr
+dataset_id: 409.0
+description: The dataset pdgfr consists of information about the genes and proteins involved in the Platelet-Derived Growth Factor Receptor (PDGFR) signaling pathway. It includes data on the expression levels, mutations, and interactions of these genes and proteins. The dataset also provides information on the functional roles of PDGFR in various biological processes and diseases. Researchers can use this dataset to study the molecular mechanisms and therapeutic targets associated with PDGFR signaling. It is a valuable resource for understanding the role of PDGFR in cellular processes and for developing strategies to intervene in PDGFR-related diseases.

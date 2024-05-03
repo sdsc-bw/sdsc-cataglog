@@ -1,0 +1,3 @@
+name: New-York-City-Bike-Share-Dataset
+dataset_id: 43526.0
+description: The New-York-City-Bike-Share-Dataset is a comprehensive collection of data related to the bike-sharing program in New York City. It contains information such as trip durations, start and end stations, bike IDs, user types, and more. The dataset includes data from 2013 to present and is maintained by the New York City Department of Transportation. The dataset is publicly available and has been utilized by researchers, analysts, and enthusiasts to study bike-sharing patterns, analyze user behavior, and evaluate the impact of bike-sharing on transportation. The dataset provides valuable insights into the dynamics of bike-sharing in one of the busiest cities in the world.

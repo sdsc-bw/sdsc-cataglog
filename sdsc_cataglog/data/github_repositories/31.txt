@@ -1,0 +1,3 @@
+repo_name: interpret
+link: https://github.com/interpretml/interpret
+description: InterpretML is an open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof. With this package, you can train interpretable glassbox models and explain blackbox systems. InterpretML helps you understand your model's global behavior, or understand the reasons behind individual predictions. Interpretability is essential for:

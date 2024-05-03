@@ -1,0 +1,3 @@
+name: arsenic-male-bladder
+dataset_id: 482.0
+description: The dataset "arsenic-male-bladder" contains information about male bladder cancer mortality rates and arsenic concentration in drinking water. It includes data from 952 counties in the United States over a span of nine years. The dataset has several variables, including bladder death rate, arsenic concentration, age-adjusted rate, average household income, and population. The purpose of this dataset is to explore the potential relationship between arsenic exposure and bladder cancer mortality rates in males. It can be used for various statistical analyses and to develop models that can predict the impact of arsenic levels on bladder cancer mortality rates.

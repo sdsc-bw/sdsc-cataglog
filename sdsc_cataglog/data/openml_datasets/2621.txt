@@ -1,0 +1,3 @@
+name: FOREX_eurnzd-hour-Close
+dataset_id: 41886.0
+description: FOREX_eurnzd-hour-Close is a dataset that contains hourly closing values of the exchange rate between the Euro (EUR) and the New Zealand Dollar (NZD) in the foreign exchange market. It is a time-series dataset with multiple recorded values per day. The dataset does not provide information about the opening, highest, or lowest values for each hour. The data covers a substantial period, possibly spanning several years, and is likely to be sufficient for conducting extensive analysis and modeling of the EUR-NZD exchange rate. However, further details such as the source of the data and any potential limitations are not provided in these sentences.

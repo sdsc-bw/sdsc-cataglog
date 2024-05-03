@@ -1,0 +1,3 @@
+name: OVA_Colon
+dataset_id: 1161.0
+description: The OVA_Colon dataset contains information about colon cancer patients. It includes clinical and demographic data, as well as genetic expression profiles. The dataset was collected from patients who underwent surgery for colon cancer and includes samples from both cancerous and healthy tissue. The genetic expression profiles provide information about the activity levels of different genes in the tissue samples. This dataset can be used for various analyses related to colon cancer, including identifying genetic markers, understanding disease progression, and exploring potential treatment options. It is a valuable resource for researchers and clinicians in the field of oncology.

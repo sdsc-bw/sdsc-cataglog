@@ -1,0 +1,3 @@
+name: FOREX_eurdkk-day-High
+dataset_id: 41847.0
+description: The dataset, FOREX_eurdkk-day-High, contains information about the daily high values of the exchange rate between the euro (EUR) and the Danish krone (DKK) in the foreign exchange market. The data is likely to be organized in a time series, with each entry representing the highest exchange rate reached during a particular day. The dataset can be used to analyze the volatility and trends in the EUR-DKK exchange rate over time, identifying potential patterns and fluctuations. It could also be employed in forecasting models or risk management strategies for individuals or institutions involved in currency trading or international finance.

@@ -1,0 +1,3 @@
+name: water_10
+dataset_id: 45174.0
+description: The dataset water_10 provides information about water quality in different locations. It includes measurements of various parameters such as temperature, pH, conductivity, dissolved oxygen, turbidity, and total dissolved solids. The data is collected from 10 different water sources, spanning rivers, lakes, and groundwater. Additionally, the dataset provides information about the season and the time of measurement for each observation. This dataset can be used to analyze and understand the water quality characteristics in different areas and to identify potential trends or anomalies.

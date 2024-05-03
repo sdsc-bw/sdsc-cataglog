@@ -1,0 +1,3 @@
+name: Rainfall-in-Kerala-1901-2017
+dataset_id: 43806.0
+description: The dataset Rainfall-in-Kerala-1901-2017 provides information on the rainfall patterns in the Indian state of Kerala from 1901 to 2017. The dataset consists of monthly rainfall data, including the total rainfall received each month as well as the average rainfall for the entire year. It also includes the number of rainy days in each month and the 95% confidence interval for the data. The dataset is valuable for studying long-term rainfall trends in Kerala and can be used for various research purposes, including climate change analysis and water resource management.

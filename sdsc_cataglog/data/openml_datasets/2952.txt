@@ -1,0 +1,3 @@
+name: dataset_31_credit-g
+dataset_id: 42633.0
+description: The dataset dataset_31_credit-g consists of 1,000 instances and 21 attributes. It focuses on credit-giving decisions for financial institutions. The dataset aims to identify customers who are creditworthy and those who might default on loans. The attributes include customer information such as age, income, employment, and marital status, as well as financial history details like loan purpose, credit amount, and duration. The dataset contains both categorical and numerical attributes. It can be used for classification tasks to build models that predict the creditworthiness of customers.

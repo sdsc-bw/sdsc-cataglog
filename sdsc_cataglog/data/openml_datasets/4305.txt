@@ -1,0 +1,3 @@
+name: Australian_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44483.0
+description: The dataset "Australian_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True" is expected to have 2000 rows and 100 columns, with 10 different classes or categories. The data is likely to be stratified, meaning that it is likely to be divided into subgroups according to certain characteristics to ensure a representative sample. The specific nature of the data is not mentioned, but it can be assumed that it is an Australian dataset, given the name. Overall, this dataset seems to be a relatively large dataset with multiple columns and classes, which may be useful for various analytical purposes.

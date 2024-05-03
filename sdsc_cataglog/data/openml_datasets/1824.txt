@@ -1,0 +1,3 @@
+name: QSAR-TID-101417
+dataset_id: 3808.0
+description: The dataset QSAR-TID-101417 is a collection of chemical compounds with known toxicological properties. It contains information on 4251 compounds, where each compound is represented by 686 molecular descriptors. The dataset also includes the toxicity values for each compound, which have been obtained from experimental assays. The goal of this dataset is to develop quantitative structure-activity relationship (QSAR) models to predict the toxicity of new compounds based on their molecular descriptors. The dataset is publicly available and can be utilized by researchers in the field of toxicology and drug discovery to enhance the prediction of compound toxicity.

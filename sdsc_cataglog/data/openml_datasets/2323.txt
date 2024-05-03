@@ -1,0 +1,3 @@
+name: APSFailure
+dataset_id: 41138.0
+description: The dataset APSFailure contains data collected from a dense sensor network deployed in a heavy industrial setting. The purpose of this dataset is to predict failures in the cooling process of a high energy consuming system. It comprises 60000 instances with 171 attributes, including process parameters and sensor measurements. Out of the total instances, 11246 are labeled as failures. The dataset is highly imbalanced, with only 18.7% of the instances corresponding to failures. The attributes are anonymized, and missing values are marked with the value 0. The dataset is suitable for developing machine learning models to detect failures in the cooling process.

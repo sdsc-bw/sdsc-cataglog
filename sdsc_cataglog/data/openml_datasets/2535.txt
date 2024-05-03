@@ -1,0 +1,3 @@
+name: FOREX_cadjpy-minute-Close
+dataset_id: 41800.0
+description: The FOREX_cadjpy-minute-Close dataset consists of minute-level data on the closing prices of the currency pair CAD/JPY in the foreign exchange market. The dataset captures information about the fluctuating values of the Canadian dollar (CAD) against the Japanese yen (JPY) over a specific time period. Each entry in the dataset represents the closing price at a particular minute, offering a detailed perspective on the currency pair's market performance. The dataset can be used for various analytical purposes, such as investigating trends, conducting technical analysis, and creating trading models that leverage minute-level data to make informed trading decisions.

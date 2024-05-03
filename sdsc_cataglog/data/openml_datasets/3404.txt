@@ -1,0 +1,3 @@
+name: Gold-Rate-History-in-TamilNadu-(2006-2020)
+dataset_id: 43478.0
+description: The Gold-Rate-History-in-TamilNadu dataset contains information about the gold rates in the state of Tamil Nadu, India, from 2006 to 2020. The dataset provides comprehensive details regarding the fluctuating gold rates, allowing users to analyze trends, patterns, and changes over the specified time period. It includes information on the date, price in Indian Rupees (INR) per gram, and the currency value at the time of calculation. This dataset is valuable for researchers, economists, and individuals interested in understanding gold price variations over a specific period in Tamil Nadu.

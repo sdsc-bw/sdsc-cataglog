@@ -1,0 +1,3 @@
+name: Calculate-Concrete-Strength
+dataset_id: 43448.0
+description: The dataset Calculate-Concrete-Strength includes data related to the compressive strength of concrete. It consists of nine input variables such as cement type, slag content, water content, and superplasticizer content, among others. The target variable is the concrete compressive strength in megapascals (MPa). The dataset contains 1,030 instances with no missing values. The minimum and maximum values for the target variable are 2.33 MPa and 82.60 MPa, respectively. This dataset can be used to analyze the relationship between concrete components and its strength and develop models to predict concrete strength based on the given input variables.

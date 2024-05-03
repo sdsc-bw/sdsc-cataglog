@@ -1,0 +1,3 @@
+name: AAPL_stock_price_2021_2022_2
+dataset_id: 43882.0
+description: The dataset AAPL_stock_price_2021_2022_2 pertains to the stock price of AAPL (Apple Inc.) for the period spanning 2021 and 2022. It contains information about the company's stock prices, likely representing the opening, closing, highest, and lowest prices for each trading day. The dataset also likely includes the stock's volume, representing the number of shares exchanged during the trading day. This dataset provides valuable insights into the fluctuation of AAPL's stock prices over the given time frame, allowing for analysis of trends, patterns, and potential correlations with other variables influencing the stock market.

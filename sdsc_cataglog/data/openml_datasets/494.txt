@@ -1,0 +1,3 @@
+name: servo
+dataset_id: 747.0
+description: The dataset servo contains data related to a servo motor, which is an information device used in control systems. The servo dataset includes four numerical attributes and one target attribute. The numerical variables are motor, screw, pgain, and vgain, representing different characteristics of the servo motor. The target variable is class, which denotes the class of the motor's position. The dataset has 167 instances and no missing values. The class distribution is relatively balanced, with three classes having a similar number of instances, and one class being slightly underrepresented. The servo dataset can be utilized for classification tasks and analysis of servo motor behavior.

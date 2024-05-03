@@ -1,0 +1,3 @@
+name: QSAR-TID-17061
+dataset_id: 3267.0
+description: The dataset QSAR-TID-17061 contains information about various properties and activities of chemicals. It consists of 7,055 instances, each represented by 1,171 different variables. The variables describe different molecular descriptors and their quantitative values. The dataset is primarily used for regression analysis and predicts the biological activity of chemicals. Additionally, it includes a binary classification task, which predicts whether the chemicals are active or inactive. QSAR-TID-17061 can be useful in the development of drugs and materials, as well as in evaluating their toxicity and potential for environmental impact.

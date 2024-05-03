@@ -1,0 +1,3 @@
+name: jungle_chess_2pcs_endgame_lion_lion
+dataset_id: 41007.0
+description: The dataset "jungle_chess_2pcs_endgame_lion_lion" is about the endgame positions in jungle chess with two pieces, specifically lions. It contains a total of 2808 instances, with each instance having 7 attributes describing the positions of the two lions and the outcome of the game (win, loss, or draw). The dataset has a balanced distribution of outcomes, with each class having approximately one-third of the instances. The attribute "delta_depth" represents the difference in the number of moves until the end of the game for the winning and losing positions. The dataset can be utilized for various analysis and machine learning purposes related to the lion-lion endgame positions in jungle chess.

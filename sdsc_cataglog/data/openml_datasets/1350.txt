@@ -1,0 +1,3 @@
+name: QSAR-TID-101021
+dataset_id: 3327.0
+description: The dataset QSAR-TID-101021 is a compilation of biological and chemical properties of molecules, along with their toxicity values. It consists of 5,346 molecules, represented by 1,162 descriptors. The descriptors include attributes like molecular weight, polarity, and electronic properties. The toxicity values were measured using a specific biological assay, and information on the assay and its conditions are also provided. The dataset aims to aid researchers in developing models to predict the toxicity of new molecules. It has been used in various studies to develop and validate QSAR models for toxicity prediction.

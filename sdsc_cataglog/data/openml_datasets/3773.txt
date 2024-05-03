@@ -1,0 +1,3 @@
+name: Nintendo3DS-Games
+dataset_id: 43853.0
+description: The Nintendo3DS-Games dataset contains information about various games released for the Nintendo 3DS gaming console. It includes details such as the title, publisher, genre, release date, rating, and the number of players supported. The dataset also provides information about the availability of downloadable content (DLC) and any additional features offered by the games. It covers a wide range of genres including action, adventure, puzzle, and RPG. The dataset is comprehensive, with a considerable number of entries, making it a valuable resource for gamers and developers interested in the Nintendo 3DS gaming platform.

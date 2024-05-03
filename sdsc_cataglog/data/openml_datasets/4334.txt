@@ -1,0 +1,3 @@
+name: APSFailure_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44512.0
+description: The dataset APSFailure_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True is described as having 2000 rows and 100 columns. It is stratified, meaning that the classes are proportionally distributed in the dataset. There are 10 classes in total. The dataset is generated with a specific seed value of 4. The details about the data within the dataset are not provided. The focus of the description is on the characteristics and structure of the dataset such as the number of rows, columns, classes, and the stratified nature of the data.

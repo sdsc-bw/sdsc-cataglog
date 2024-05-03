@@ -1,0 +1,3 @@
+name: English-Premier-League-Data-2009---2019
+dataset_id: 43817.0
+description: The dataset English-Premier-League-Data-2009---2019 contains information about the Premier League matches from 2009 to 2019. It includes details about each match, such as the date, teams, and final score. Additionally, it provides statistics about goals, shots on target, fouls, and other relevant data for both home and away teams. The dataset also incorporates information about the season, including the final league standings, points earned, and goals scored. This extensive dataset allows for comprehensive analysis of the performance of English Premier League teams over a period of ten years, aiding in various sports research and predictive modeling endeavors.

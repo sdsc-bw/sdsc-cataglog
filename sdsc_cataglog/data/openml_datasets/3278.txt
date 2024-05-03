@@ -1,0 +1,3 @@
+name: Edmunds-car-review
+dataset_id: 43348.0
+description: The dataset "Edmunds-car-review" contains reviews from the Edmunds car website. It includes information about various car models, makes, and their corresponding reviews. The dataset is comprehensive, covering a wide range of car reviews from different users. The dataset contains variables such as the car make, year, model, body style, price, mileage, review title, review text, overall rating, and other user-provided ratings. It includes a total of around 50,000 car reviews, making it a valuable resource for analyzing and understanding customer sentiments, preferences, and experiences related to cars.

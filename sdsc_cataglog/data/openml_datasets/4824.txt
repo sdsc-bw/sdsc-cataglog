@@ -1,0 +1,3 @@
+name: hailfinder_7
+dataset_id: 45182.0
+description: The dataset hailfinder_7 contains information about hailstorm events in different regions. It consists of seven variables, including the date and time of the event, the size of the hailstones, and the geographic coordinates of the location. The dataset provides valuable data for studying hailstorms and their patterns, as well as for developing predictive models to forecast future hailstorm events. It allows researchers to analyze the frequency, severity, and spatial distribution of hail events, helping to understand the factors that contribute to their occurrence. The dataset can be used for various applications, including insurance assessments, storm protection strategies, and climate change studies.

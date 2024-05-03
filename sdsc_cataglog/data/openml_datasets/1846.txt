@@ -1,0 +1,3 @@
+name: QSAR-TID-101048
+dataset_id: 3831.0
+description: The dataset QSAR-TID-101048 consists of 782 compounds with molecular descriptors related to potential skin sensitization. These descriptors include chemical structure information and numerical values describing various molecular properties. The dataset also includes information about the compounds' sensitization potential, indicated by binary labels. The data was collected for the purpose of developing models to predict the sensitization potential of new chemicals. The dataset is publicly available and has been used in previous studies to construct regression and classification models.

@@ -1,0 +1,3 @@
+name: breast
+dataset_id: 45632.0
+description: The breast dataset is a collection of medical data that contains information about breast cancer patients. It includes several attributes such as age, tumor size, lymph node status, hormone receptor status, and survival status. Each attribute provides crucial information for diagnosing and treating breast cancer effectively. This dataset is valuable for conducting research and developing predictive models to better understand the disease and its outcomes. By analyzing the breast dataset, experts can identify patterns, risk factors, and potential interventions that may contribute to improved diagnosis, treatment, and overall patient management.

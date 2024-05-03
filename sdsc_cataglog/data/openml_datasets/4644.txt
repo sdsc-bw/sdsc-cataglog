@@ -1,0 +1,3 @@
+name: cps88wages
+dataset_id: 44984.0
+description: The dataset cps88wages contains information about the wages of individuals in the United States in 1988. It includes variables such as education level, experience, gender, age, and occupation. The data was collected through the Current Population Survey (CPS) and provides a representative sample of the population. The dataset aims to analyze the relationship between these variables and wages, allowing researchers to study factors that influence earnings disparities. The dataset is widely used in labor economics research and has been utilized to explore various phenomena, such as gender wage gaps and the impact of education on wage differences.

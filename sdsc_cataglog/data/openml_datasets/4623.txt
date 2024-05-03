@@ -1,0 +1,3 @@
+name: forest_fires
+dataset_id: 44962.0
+description: The forest_fires dataset contains information regarding forest fires in the northeast region of Portugal from 2000 to 2003. It consists of 517 instances and 13 attributes, including geographical and meteorological variables. The target variable in this dataset is the burned area of the forest, in hectares. Other attributes include data related to month, day, temperature, humidity, wind, and rain. The dataset aims to analyze the factors that contribute to forest fires and their impact on the burned area. It provides valuable insights into the relationships between weather conditions and the extent of forest fires in the region.

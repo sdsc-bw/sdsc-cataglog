@@ -1,0 +1,3 @@
+name: FOREX_eurchf-day-High
+dataset_id: 41803.0
+description: The FOREX_eurchf-day-High dataset provides daily high trading prices for the EUR/CHF currency pair in the foreign exchange (FOREX) market. The dataset contains historical data, allowing users to analyze trends and patterns over time. It offers valuable insights into the volatility and fluctuations of the EUR/CHF exchange rate, which is relevant for financial institutions, investors, and traders. By examining this dataset, users can gain a better understanding of the currency pair's performance and make informed decisions in their trading strategies or risk management approaches.

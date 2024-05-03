@@ -1,0 +1,3 @@
+name: QSAR-TID-271
+dataset_id: 4126.0
+description: QSAR-TID-271 is a dataset that contains information regarding the toxicity of various chemical compounds. It consists of 4,687 instances with 1024 molecular descriptors, which were obtained using the Dragon software. The dataset's toxicity was evaluated using an experimental assay. Multiple classification models were constructed to predict the toxicity of the compounds, and their performance was assessed using metrics like accuracy, specificity, sensitivity, and area under the receiver operating characteristic curve. QSAR-TID-271 serves as a valuable resource for toxicological studies and developing predictive models for compound toxicity, aiding in the identification of potentially harmful chemicals.

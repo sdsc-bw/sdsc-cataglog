@@ -1,0 +1,3 @@
+name: SyskillWebert-BioMedical
+dataset_id: 374.0
+description: The dataset SyskillWebert-BioMedical is a collection of web pages related to the biomedical domain and is structured for developing a content-based recommender system. It includes various types of information such as abstracts, titles, authors, and publication dates. The dataset also contains relevance judgments indicating the usefulness of articles for different user profiles. It can be utilized for evaluating algorithms and techniques in information retrieval and recommendation systems. The dataset is considered a valuable resource for researchers working on personalized recommendation and information retrieval in the biomedical domain.

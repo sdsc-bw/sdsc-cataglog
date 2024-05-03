@@ -1,0 +1,3 @@
+name: fruitfly
+dataset_id: 199.0
+description: The dataset fruitfly is a collection of genetic and phenotypic information about the species Drosophila melanogaster or commonly known as fruit fly. This dataset aims to provide valuable insights into the genetics and biology of this species. It includes extensive data on the fly's genome, identified genes, mutations, and their effects on traits and development. The fruit fly is an important model organism in scientific research due to its fast reproduction, well-characterized genetic makeup, and biological similarities to humans. The dataset fruitfly offers researchers a valuable resource to study various aspects of genetics, evolution, and development using this model organism.

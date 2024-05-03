@@ -1,0 +1,3 @@
+name: electricity_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44435.0
+description: The dataset, named electricity_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True, contains information about electricity usage. It has 2000 rows and 100 columns. The data is categorized into 10 distinct classes. The dataset has been stratified, meaning that each class is represented fairly. Further details about the dataset, such as the specific information included within the columns, are not mentioned in the given sentences.

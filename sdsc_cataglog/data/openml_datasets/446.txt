@@ -1,0 +1,3 @@
+name: rabe_176
+dataset_id: 698.0
+description: The dataset rabe_176 contains information about whale songs collected from the southern coast of Brazil over a period of 19 years. It includes recordings from 176 different individuals of the species Eubalaena australis, commonly known as southern right whales. Each recording captures the call sequence of an individual whale, providing insights into their communication patterns and behavior. The dataset also includes additional information such as the date, time, and location of each recording. The data has been curated and organized to assist researchers in studying these whales' vocalizations and understanding their population dynamics and social interactions.

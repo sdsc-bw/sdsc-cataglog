@@ -1,0 +1,3 @@
+name: QSAR-TID-101465
+dataset_id: 3807.0
+description: The dataset QSAR-TID-101465 contains information about the quantitative structure-activity relationships (QSAR) of chemical compounds. It consists of 4113 instances with 1026 numerical attributes and a single binary class attribute. The data was originally derived from a diverse set of compounds and their biological activities. The objective is to develop a predictive model that can determine the biological activity of new compounds based on their structural features. Due to its extensive collection of attributes and instances, this dataset can be valuable for researchers and data scientists working on QSAR analysis and drug discovery.

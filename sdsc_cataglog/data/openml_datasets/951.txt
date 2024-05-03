@@ -1,0 +1,3 @@
+name: gas-drift
+dataset_id: 1476.0
+description: The gas-drift dataset consists of measurements collected during controlled experiments designed to study the behavior of gas plumes in various environmental conditions. The data includes measurements of concentration levels, wind speeds, and other relevant variables. The experiments were conducted in different locations, such as forests and open landscapes, to capture a diverse range of scenarios. The dataset aims to provide valuable insights into the dispersion and movement of gas plumes, aiding in the development of effective strategies for managing and mitigating risks associated with gas leaks or releases.

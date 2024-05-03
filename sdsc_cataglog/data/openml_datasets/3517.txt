@@ -1,0 +1,3 @@
+name: French-Motor-Claims-Datasets-freMTPL2freq
+dataset_id: 43593.0
+description: The French-Motor-Claims-Datasets-freMTPL2freq is a dataset that contains information about motor insurance claims in France. It consists of 678,013 records and 14 fields, including policy information, driver and car characteristics, weather conditions, and claim details. The dataset aims to provide insights for analyzing claim frequencies, as well as understanding the factors that contribute to motor insurance claims. The dataset is valuable for researchers and analysts working in the insurance industry or studying motor claims. It can be used for predictive modeling, risk assessment, and developing strategies to improve road safety and minimize claim frequencies.

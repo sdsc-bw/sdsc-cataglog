@@ -1,0 +1,3 @@
+name: anneal
+dataset_id: 44257.0
+description: The dataset "anneal" is used for classification purposes based on steel plate faults. It contains 39 attributes, including 6 numerical attributes and 33 nominal (categorical) attributes. The target class consists of 7 possible values, each representing a different type of fault. The dataset has a total of 898 instances, with missing values present. The class distribution is relatively imbalanced, with the majority of instances belonging to one class. The dataset anneal is commonly used in machine learning and data mining research to evaluate and develop classification algorithms for steel fault detection and diagnosis.

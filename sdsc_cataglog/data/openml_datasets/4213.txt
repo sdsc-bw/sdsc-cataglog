@@ -1,0 +1,3 @@
+name: kdd_ipums_la_97-small_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44394.0
+description: The dataset kdd_ipums_la_97-small_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True has 2000 rows and 100 columns. It is a stratified dataset with 10 classes. The dataset is derived from the KDD Cup '97 competition. It is a small-sized version of the original dataset, created using a seed value of 2. The dataset may have been sampled to ensure a representative distribution of data across different classes. It is likely used in machine learning or data analysis tasks, where the smaller size allows for quicker processing while maintaining the important characteristics of the original dataset.

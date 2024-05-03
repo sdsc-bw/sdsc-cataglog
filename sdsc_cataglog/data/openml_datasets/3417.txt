@@ -1,0 +1,3 @@
+name: Arcade-Game-Stats
+dataset_id: 43491.0
+description: The dataset "Arcade-Game-Stats" is a collection of statistical data related to arcade games. It contains information about various aspects of arcade games such as their popularity, revenue, duration, and difficulty level. The dataset also includes details about specific games, such as their genre and release date. The statistics are compiled from a diverse range of arcade game machines, providing a comprehensive overview of the arcade gaming industry. This dataset can be used for research and analysis purposes to gain insights into the trends and patterns of arcade game performance and help in making informed decisions within the industry.

@@ -1,0 +1,3 @@
+name: QSAR-TID-10685
+dataset_id: 3529.0
+description: The dataset QSAR-TID-10685 is a compilation of various chemical compounds, each represented by a set of descriptors. The descriptors include structural, electronic, and other physicochemical properties, as well as biological activities of the compounds against a specific target protein. The dataset provides information on the compounds' potential for interaction with the protein and their potential as drug candidates. It is a valuable resource for developing quantitative structure-activity relationship (QSAR) models to predict the effectiveness of new compounds against the target protein. The dataset is publicly available and widely used in chemoinformatics and drug discovery research.

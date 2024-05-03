@@ -1,0 +1,3 @@
+name: titanic
+dataset_id: 42638.0
+description: The dataset titanic provides information about the passengers of the RMS Titanic, including various characteristics and whether they survived or not. The data covers variables such as age, sex, class, fare, embarkation point, and family relationships. The dataset aims to explore the factors that influenced survival rates on the Titanic. It presents a total of 891 records, with some fields having missing values. The dataset is often used in machine learning and data analysis projects to develop predictive models or better understand the demographics and circumstances surrounding the tragic sinking of the Titanic in 1912.

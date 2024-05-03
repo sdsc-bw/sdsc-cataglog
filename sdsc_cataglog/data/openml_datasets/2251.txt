@@ -1,0 +1,3 @@
+name: solar-flare
+dataset_id: 40687.0
+description: The solar-flare dataset contains information about solar flares, which are sudden bursts of energy on the Sun's surface. It consists of 1,060 instances with 11 attributes including classes, which range from A to H indicating the flare's strength and size. Each instance is labeled with the flare's class and contains attributes such as the flare's duration, peak flux, and region. The dataset's purpose is to investigate the relationship between the flare's attributes and its class. It has been widely used in classification algorithms and data mining research to develop models for predicting the class of solar flares based on their attributes.

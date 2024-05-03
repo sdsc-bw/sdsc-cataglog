@@ -1,0 +1,3 @@
+name: jungle_chess_2pcs_raw_endgame_complete_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44719.0
+description: The dataset "jungle_chess_2pcs_raw_endgame_complete_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True" contains information about a chess game. It includes 2000 rows of data, divided into 10 different classes, with 100 columns. The dataset is stratified, meaning it is divided in a way that maintains the original distribution of classes. This dataset provides valuable information for analyzing chess strategies and game outcomes.

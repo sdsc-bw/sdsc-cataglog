@@ -1,0 +1,3 @@
+name: fri_c4_250_100
+dataset_id: 834.0
+description: The dataset fri_c4_250_100 is a collection of 250 documents split into 100 class labels. Each document represents news articles from various sources, including opinion pieces, essays, and reports. The topics covered in these documents range from politics, economics, and social issues to entertainment, sports, and technology. The dataset's purpose is to facilitate research in text classification and topic modeling tasks. It serves as a valuable resource for training and evaluating machine learning models to identify relevant topics or predict the class label of new unseen documents.

@@ -1,0 +1,3 @@
+name: dataset_time
+dataset_id: 42643.0
+description: The dataset "dataset_time" consists of time-based data collected from various sources. It includes information related to various aspects such as timestamp, date, and time. The data has been gathered over a specific period and provides details on events, occurrences, and activities that happened during that timeframe. This dataset is suitable for analyzing and understanding trends, patterns, and relationships over time. It can be used to identify temporal patterns, track changes, and assess the impact of time on different variables. The dataset_time is a valuable resource for researchers, analysts, and organizations seeking to gain insights into time-related phenomena.

@@ -1,0 +1,3 @@
+name: fri_c1_100_25
+dataset_id: 629.0
+description: The dataset fri_c1_100_25 contains information about a set of 100 items which are classified into 25 different categories. Each item in the dataset is associated with a unique identifier. The dataset includes attributes such as the name of the item, its description, price, and quantity available. It also provides additional information related to each item's category, such as the average price and quantity available for items in the same category. This dataset can be utilized for various analysis purposes, such as studying the distribution of items across categories or examining the relationship between price and quantity available within each category.

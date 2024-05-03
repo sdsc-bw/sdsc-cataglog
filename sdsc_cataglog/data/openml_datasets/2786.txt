@@ -1,0 +1,3 @@
+name: dataset-autoHorse_fixed
+dataset_id: 42224.0
+description: The dataset "dataset-autoHorse_fixed" contains information about various attributes of automobile cars. It provides details such as the make, model, year, price, body style, engine size, horsepower, number of cylinders, fuel efficiency, and other characteristics. The dataset has been fixed to correct any errors or inconsistencies in the original dataset. It is likely to be used for analysis or predictions related to car attributes, pricing, or performance. With a range of features, "dataset-autoHorse_fixed" offers valuable information for automotive research, industry analysis, or developing machine learning models in the automotive sector.

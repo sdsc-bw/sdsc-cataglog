@@ -1,0 +1,3 @@
+name: Reading_Hydro_upstream
+dataset_id: 44219.0
+description: The dataset "Reading_Hydro_upstream" contains information related to various aspects of a hydrological system. It includes data about the upstream conditions of a river or water body, such as water levels, flow rates, and temperature. The dataset also includes information on water quality parameters like pH levels and dissolved oxygen content. Additionally, it contains data on the weather conditions prevailing in the region, such as rainfall, humidity, and air temperature. This dataset can be used by researchers, hydrologists, and environmental scientists to study and analyze the impact of upstream conditions on the overall hydrological system, as well as the relationship between weather and water quality.

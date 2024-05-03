@@ -1,0 +1,3 @@
+name: pathfinder_7
+dataset_id: 45248.0
+description: The dataset pathfinder_7 is a collection of images used in the pathfinding task. It contains images taken from a robot's perspective, with each image having various obstacles and targets placed in it. The dataset consists of 7,800 images in total, with 6,800 images used for training and the remaining 1,000 images for testing. The images are captured in various environments and lighting conditions to provide a diverse range of scenarios. An annotation file is provided alongside the dataset, which contains information about the obstacles and targets present in each image. The dataset serves as a valuable resource for training pathfinding algorithms and evaluating their performance in complex environments.

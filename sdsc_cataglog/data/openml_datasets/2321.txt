@@ -1,0 +1,3 @@
+name: spellman_yeast
+dataset_id: 41091.0
+description: The dataset "spellman_yeast" is a comprehensive gene expression dataset for Saccharomyces cerevisiae (yeast) cells. It contains information about the expression levels of almost 6,000 genes at multiple time points during the cell cycle. The dataset includes both wild-type and mutant yeast strains, allowing comparisons between different genetic backgrounds. The data was obtained using DNA microarray technology, which allows simultaneous analysis of thousands of genes. This dataset is a valuable resource for studying the dynamics of gene expression during the cell cycle in yeast and for identifying genes that are important for cell cycle regulation.

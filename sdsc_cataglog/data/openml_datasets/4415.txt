@@ -1,0 +1,3 @@
+name: blood-transfusion-service-center_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44594.0
+description: The dataset blood-transfusion-service-center_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True contains data from a blood transfusion service center. With 2000 rows and 100 columns, it aims to predict the number of times each donor will offer blood based on various factors. The dataset includes 10 classes, representing different levels of willingness to donate. Stratification is applied during the creation of the dataset to ensure a proportional representation of each class. By analyzing this dataset, researchers can gain insights into donor behavior and develop strategies to effectively manage blood supply.

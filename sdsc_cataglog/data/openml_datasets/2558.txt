@@ -1,0 +1,3 @@
+name: FOREX_eurcad-minute-High
+dataset_id: 41823.0
+description: The dataset FOREX_eurcad-minute-High is focused on the high price values for the EUR/CAD currency pair at minute intervals. It contains detailed information regarding the highest price recorded in each minute over a certain time period. The data provides insights into the fluctuation and volatility in the exchange rate between the Euro and the Canadian Dollar. Analyzing this dataset can be valuable for currency traders, financial analysts, and researchers who aim to understand the short-term trends and patterns in this specific currency pair. The dataset allows for the identification of key highs and potential trading opportunities within the EUR/CAD market.

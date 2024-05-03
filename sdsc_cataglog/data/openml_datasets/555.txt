@@ -1,0 +1,3 @@
+name: rmftsa_ctoarrivals
+dataset_id: 811.0
+description: The dataset rmftsa_ctoarrivals contains information about call arrivals to a customer service center. It includes the timestamps when calls were received, the day of the week, and the hour of the day. The dataset covers a period of one year, providing a comprehensive view of call patterns. The information can be analyzed to identify trends, peak hours, and any seasonality in call arrivals. This dataset is useful for optimizing staffing levels, improving customer service, and planning for resource allocation. The data is organized in a structured format, making it easy to extract meaningful insights and perform time series analysis.

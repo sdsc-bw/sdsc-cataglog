@@ -1,0 +1,3 @@
+name: squash-unstored
+dataset_id: 985.0
+description: The dataset "squash-unstored" is relatively small, consisting of only 14 rows with 2 columns. It contains information about squash harvests from a specific farm, specifically the date of the harvest and the amount of squash harvested. The dataset is not stored in any specific format, hence the name "unstored." Each row represents a different harvest date, and the amount of squash harvested can vary from harvest to harvest. Overall, this dataset offers a brief and specific glimpse into the squash harvests of a single farm.

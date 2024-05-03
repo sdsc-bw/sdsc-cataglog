@@ -1,0 +1,3 @@
+name: internet-firewall
+dataset_id: 43039.0
+description: The internet-firewall dataset contains information about network traffic and firewall logs collected from an enterprise network. The dataset includes features such as source and destination IP addresses, port numbers, timestamps, and protocol types. It was created for the purpose of studying network security and analyzing network traffic patterns. The logs span over a period of time and cover various types of network activities, including web browsing, email communication, and file transfers. The dataset is beneficial for researchers and analysts who wish to develop algorithms or models to detect anomalies, identify potential threats, and enhance network security measures.

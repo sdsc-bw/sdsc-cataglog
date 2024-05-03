@@ -1,0 +1,3 @@
+name: QSAR-TID-101124
+dataset_id: 3087.0
+description: The dataset QSAR-TID-101124 comprises information about the biological activity of various molecules towards a specific target. It contains 41 compounds with known activity values ranging from 0 to 7.9, measured through experimental assays. The dataset also includes 135 molecular descriptors, which are numerical features calculated from the molecular structure. These descriptors cover a wide range of properties such as size, shape, electronic, steric, and hydrophobic factors. The objective of this dataset is to develop a model that can predict the biological activity of molecules based on their structural features, aiding in the discovery of new drugs or compounds with desired properties.

@@ -1,0 +1,3 @@
+name: kings_county
+dataset_id: 44989.0
+description: The dataset kings_county consists of a collection of data on real estate properties in Kings County, USA. It includes numerous features such as the price, location, number of bedrooms, bathrooms, and the overall condition of the properties. The dataset provides information on a wide range of houses, including single-family homes, townhouses, and condominiums. The dataset also contains additional details like the year of construction, square footage, and the presence of amenities such as parking spaces or waterfront views. It is a comprehensive dataset that can be used for analyzing trends, making predictions, and understanding the real estate market in Kings County.

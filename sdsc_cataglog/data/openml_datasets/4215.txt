@@ -1,0 +1,3 @@
+name: kdd_ipums_la_97-small_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44396.0
+description: The dataset kdd_ipums_la_97-small_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True is a small subsample of the original KDD IPUMS LA 97 dataset. It consists of 2000 rows and 100 columns, with a stratified sampling approach. The dataset contains 10 distinct classes. It was created using a random seed value of 4. However, further details about the specific variables or purpose of the dataset are not provided.

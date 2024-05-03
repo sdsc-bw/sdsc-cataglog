@@ -1,0 +1,3 @@
+name: cjs
+dataset_id: 473.0
+description: The dataset "cjs" provides information collected from the Canadian Job Survey (CJS). It contains several variables related to employment and job characteristics, such as occupation, industry, employment status, hourly wage, work hours, and geographic location. The dataset is a valuable resource for researchers and policymakers interested in understanding the dynamics of the Canadian labor market. The variables allow for conducting analyses on various topics, including wage inequality, employment trends, and regional disparities. The dataset encompasses a wide range of industries, occupations, and regions across Canada, making it a comprehensive and extensive dataset for labor market research.

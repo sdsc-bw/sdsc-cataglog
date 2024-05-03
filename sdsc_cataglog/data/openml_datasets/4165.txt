@@ -1,0 +1,3 @@
+name: credit
+dataset_id: 44346.0
+description: The dataset credit is a collection of credit-related information, including credit scores, payment history, and other financial data. It is typically used by financial institutions and lenders to assess an individual's creditworthiness and determine their eligibility for loans or credit. The dataset includes personal information, such as name, address, and Social Security number, as well as details on past and current credit accounts and transactions. The credit dataset is often updated in real-time, allowing lenders to make timely decisions based on the most recent credit information. It is governed by strict privacy and data protection regulations to ensure the security of individuals' personal and financial information.

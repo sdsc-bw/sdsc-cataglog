@@ -1,0 +1,3 @@
+repo_name: advertorch
+link: https://github.com/BorealisAI/advertorch
+description: AdverTorch is a Python toolbox for adversarial robustness research. The primary functionalities are implemented in PyTorch. Specifically, AdverTorch contains modules for generating adversarial perturbations and defending against adversarial examples, also scripts for adversarial training. To install AdverTorch, simply run `pip install advertorch` or clone the repo and run `python setup.py install`.

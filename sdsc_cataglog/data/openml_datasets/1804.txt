@@ -1,0 +1,3 @@
+name: QSAR-TID-11046
+dataset_id: 3787.0
+description: The dataset QSAR-TID-11046 contains information about a set of 6,897 drugs and their chemical properties. It includes 3,572 non-hazardous and 3,325 hazardous compounds. The compounds are described using 102 molecular descriptors, such as topological and electrochemical properties. The aim is to predict the toxicity of the compounds, with a focus on developmental toxicity prediction. The dataset is curated and provided by the Joint Research Centre (JRC) of the European Commission. It offers a valuable resource for developing predictive models and understanding the relationship between molecular properties and toxicity.

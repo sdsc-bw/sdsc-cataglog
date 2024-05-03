@@ -1,0 +1,3 @@
+name: fri_c0_500_5
+dataset_id: 649.0
+description: The dataset fri_c0_500_5 contains information about friendships among users in a specific network. It consists of 500 users and focuses on their interaction and connection patterns. The data includes five attributes: user ID, user age, gender, number of friends, and average friend age. Each user has a unique ID, and their age and gender details are provided. The dataset also contains the number of friends each user has and the average age of their friends. Overall, the dataset provides valuable insights into the social dynamics and demographics within this network.

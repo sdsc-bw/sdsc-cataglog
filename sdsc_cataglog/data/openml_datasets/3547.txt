@@ -1,0 +1,3 @@
+name: Boston-Weather-Data-Jan-2013---Apr-2018
+dataset_id: 43623.0
+description: The dataset "Boston-Weather-Data-Jan-2013---Apr-2018" contains information about weather conditions in Boston from January 2013 to April 2018. The dataset provides various parameters, including temperature, humidity, wind speed, precipitation, and atmospheric pressure. It is likely to be useful for conducting weather analysis, studying climate patterns, and predicting weather trends in Boston over the mentioned time period. The dataset may be beneficial for researchers, meteorologists, and anyone interested in understanding the weather patterns and changes in Boston during the specified time frame.

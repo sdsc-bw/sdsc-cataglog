@@ -1,0 +1,3 @@
+name: QSAR-TID-11430
+dataset_id: 3999.0
+description: The dataset QSAR-TID-11430 consists of chemical compounds and their corresponding mutagenicity values. It contains 7,790 instances, each having 141 attributes. The compounds are cyclic molecules containing nitrogen, sulfur, fluorine, chlorine, bromine, iodine, and carbon. The dataset was used to build a quantitative structure-activity relationship (QSAR) model to predict mutagenicity based on the chemical structure. The mutagenicity values were obtained through experimental testing. This dataset can be useful for researchers and practitioners working in the field of chemical and drug development to predict the mutagenicity of new compounds.

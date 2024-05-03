@@ -1,0 +1,3 @@
+name: digital-colposcopy-green
+dataset_id: 42990.0
+description: The dataset digital-colposcopy-green is a collection of images taken during a colposcopy examination using a digital camera. Colposcopy is a procedure to examine the cervix and detect abnormalities like cervical cancer. The images include various types of cervical tissue, including healthy, dysplastic, and carcinoma. The dataset aims to provide a comprehensive representation of different colposcopy findings, assisting in the development of automatic diagnosis systems. It contains a total of 105 images, with 35 images for each of the three tissue types mentioned earlier. The dataset can be valuable for research and development in the field of colposcopy and automated cervix abnormality detection.

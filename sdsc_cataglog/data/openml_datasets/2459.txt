@@ -1,0 +1,3 @@
+name: FOREX_chfjpy-day-Close
+dataset_id: 41724.0
+description: The dataset FOREX_chfjpy-day-Close contains daily closing prices for the foreign exchange rate between the Swiss franc (CHF) and the Japanese yen (JPY). It provides historical data that can be used to analyze and track the performance of this currency pair over time. The dataset includes information on the closing price of CHF/JPY for each day, allowing users to study patterns, trends, and fluctuations in this exchange rate. This data can be potentially useful for traders, investors, and researchers studying the CHF/JPY currency pair and its impact on the foreign exchange market.

@@ -1,0 +1,3 @@
+name: OVA_Uterus
+dataset_id: 1138.0
+description: The OVA_Uterus dataset is a collection of information related to the uterus. It includes variables such as age, parity, history of contraceptive use, and occurrence of diseases or abnormalities. The dataset contains observations from multiple individuals, providing a comprehensive view of the factors associated with uterine health. The data can be used for a variety of purposes, such as studying the impact of age or contraceptive methods on the uterus, identifying potential risk factors for diseases, or conducting population-based research. The dataset offers valuable insights into the complex nature of uterine health and can aid in the development of targeted interventions or treatments.

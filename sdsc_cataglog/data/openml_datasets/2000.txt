@@ -1,0 +1,3 @@
+name: QSAR-TID-101434
+dataset_id: 3986.0
+description: The dataset QSAR-TID-101434 consists of 1052 different chemical compounds, each described by various molecular descriptors (features) and linked to a target variable indicating the toxicity towards the Tetrahymena pyriformis organism. The target variable ranges from 0 (non-toxic) to 1 (toxic). The dataset also contains seven additional attributes, such as the explicit number of atoms or bonds present in each compound. The goal of this dataset is to develop predictive models to estimate the toxicity of a chemical compound based on its molecular descriptors. It is a valuable resource for researchers in the field of toxicology and drug discovery.

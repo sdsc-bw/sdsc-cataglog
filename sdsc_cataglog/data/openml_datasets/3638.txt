@@ -1,0 +1,3 @@
+name: 1000-Cameras-Dataset
+dataset_id: 43714.0
+description: The 1000-Cameras-Dataset is a collection of images captured by 1000 different surveillance cameras in various cities around the world. The dataset aims to provide a diverse and comprehensive collection of images to aid in research related to computer vision and machine learning. It includes images from a wide range of environments and scenarios, such as indoor and outdoor spaces, day and night scenes, and different weather conditions. The images are labeled with metadata, including camera ID, location, and timestamp. The dataset serves as a valuable resource for developing and evaluating algorithms for surveillance and monitoring applications.

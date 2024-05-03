@@ -1,0 +1,3 @@
+name: QSAR-TID-11863
+dataset_id: 3400.0
+description: The dataset QSAR-TID-11863 is related to the Quantitative Structure-Activity Relationship (QSAR) of 7,831 compounds. The compounds are categorized into 2 classes: active and inactive. The dataset contains a total of 8,122 instances with 529 attributes. Out of the 529 attributes, 513 are continuous and 16 are nominal. The dataset also includes missing values for some attributes. The goal of this dataset is to develop a predictive model to determine the activity of compounds based on their structural properties. The dataset is suitable for QSAR studies and machine learning algorithms' analysis.

@@ -1,0 +1,3 @@
+name: hepar2_4
+dataset_id: 45190.0
+description: The dataset hepar2_4 is mentioned in these sentences. It represents a collection of samples from an experiment on the hepatic metabolism in rats. The dataset consists of 544 variables, including the concentration of various metabolites, liver weight, age, and other parameters. The dataset is accessible for analysis and experimentation purposes. It allows scientists to explore the effects of different factors on hepatic metabolism, potentially contributing to advancements in understanding liver function and its impact on overall health.

@@ -1,0 +1,3 @@
+name: profb
+dataset_id: 470.0
+description: The profb dataset contains information collected from a survey of professional football (soccer) players. It includes details such as players' heights and weights, their preferred foot for kicking the ball, and their position on the field. The dataset also includes data on the players' market values, goals scored, and assists made. Additionally, information about the players' nationality and the league they play in is featured. The dataset contains over 18,000 player entries, making it a comprehensive resource for analyzing various aspects of professional football players' profiles and performance.

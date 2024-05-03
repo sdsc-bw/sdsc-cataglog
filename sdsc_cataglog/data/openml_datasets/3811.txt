@@ -1,0 +1,3 @@
+name: eucalyptus
+dataset_id: 43924.0
+description: The dataset named "eucalyptus" includes information about various species of eucalyptus trees, their characteristics, and geographical distribution. It provides data on their common and scientific names, as well as their growth habits and preferred climates. The dataset also includes details on the average height and diameter of eucalyptus trees, along with their leaf size and trunk characteristics. Additionally, it contains information about the countries where these trees are found, including Australia, Indonesia, and Brazil. This dataset offers a comprehensive overview of eucalyptus species, allowing researchers to study and analyze these plants in depth.

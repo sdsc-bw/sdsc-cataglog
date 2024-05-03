@@ -1,0 +1,3 @@
+name: bates_regr_20
+dataset_id: 45631.0
+description: The dataset bates_regr_20 contains data on 2000 families, each with information about the number of children, the average income, the mother's education level, and the father's education level. The dataset also includes information on the parents' occupations, the parents' ages, and whether the family is classified as urban or rural. This dataset is commonly used for regression analysis and can be used to explore the relationship between family characteristics and outcomes for children, such as their education level or income. The dataset provides a comprehensive set of variables to investigate the factors that influence family outcomes.

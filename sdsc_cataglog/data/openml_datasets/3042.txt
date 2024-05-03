@@ -1,0 +1,3 @@
+name: road-safety
+dataset_id: 42803.0
+description: The road-safety dataset contains detailed information about road accidents, fatalities, and injuries that occurred in the UK. It covers a wide range of variables including the location, time, and causes of accidents. The dataset is collected annually by the UK Department for Transport. It provides valuable insights into road safety trends and can be used for various purposes such as analyzing the effectiveness of road safety policies, identifying high-risk areas, and developing targeted interventions. The dataset is publicly available and widely used by researchers, policymakers, and safety organizations to improve road safety and reduce accidents on UK roads.

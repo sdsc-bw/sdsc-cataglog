@@ -1,0 +1,3 @@
+name: mc2
+dataset_id: 1054.0
+description: The dataset MC2 is a large-scale multimodal dataset designed to advance research in machine comprehension and computer vision tasks. It consists of 14,152 questions generated from 1,570 images and 122 video clips. The images cover various real-world scenarios, including indoor and outdoor scenes, while the videos involve complex human-object interactions. Each question is accompanied by corresponding textual descriptions, allowing for multimodal analysis. Additionally, the dataset contains annotations for correct answers, grounding rationales, and multiple-choice options. MC2 facilitates research in visual question answering and multimodal reasoning, enabling the development of robust and versatile AI models.

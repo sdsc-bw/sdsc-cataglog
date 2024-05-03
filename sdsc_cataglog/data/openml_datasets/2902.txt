@@ -1,0 +1,3 @@
+name: Test_vectors_1500_notrans_posneg
+dataset_id: 42549.0
+description: The dataset called Test_vectors_1500_notrans_posneg contains a collection of sentences. These sentences are classified into positive or negative sentiments based on their content. The dataset consists of 1,500 sentences in total. It is notable that the dataset does not include any translations. The aim of the dataset is to enable analysis of sentiment patterns and classification performance in the English language without the influence of translation errors. The dataset allows for testing and evaluation of sentiment analysis models on a varied set of English sentences, emphasizing their positive or negative nature.

@@ -1,0 +1,3 @@
+name: QSAR-TID-101186
+dataset_id: 3830.0
+description: The QSAR-TID-101186 dataset contains information about a set of chemical compounds and their biological activities. It includes details about the chemical structure, physicochemical properties, and the measured biological activities of these compounds. The dataset is used in the field of quantitative structure-activity relationship (QSAR) modeling, which aims to establish a correlation between the structure of a chemical compound and its biological activity. The QSAR-TID-101186 dataset is valuable for developing predictive models to assess the biological activities of new chemical compounds, allowing researchers to save time and resources in the drug discovery process.

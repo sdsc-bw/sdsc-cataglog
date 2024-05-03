@@ -1,0 +1,3 @@
+name: a9a
+dataset_id: 1430.0
+description: The a9a dataset contains information about individuals' attributes such as age, education, and marital status, along with their respective incomes (either above or below $50,000 per year). The dataset represents a binary classification problem, where the aim is to predict whether a person has an income above or below the given threshold based on their attributes. It consists of approximately 32,000 instances, with about 40% of them representing incomes above $50,000. The dataset is widely used for testing and benchmarking machine learning algorithms, particularly in the context of binary classification tasks.

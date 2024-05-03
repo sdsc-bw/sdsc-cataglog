@@ -1,0 +1,3 @@
+name: cpu_act
+dataset_id: 43981.0
+description: The dataset cpu_act contains information about various CPU activities. It includes 8192 instances and 24 attributes. The dataset was created by measuring the CPU usage of a system every 10 milliseconds. Each instance represents a measurement taken at a specific time. The dataset contains both numerical and nominal attributes, such as the CPU utilization and the mode of activity. The data was collected from a real system and covers a wide range of activities, including idle, system, user, nice, and interrupt. This dataset can be used for various machine learning tasks, such as activity recognition or system monitoring.

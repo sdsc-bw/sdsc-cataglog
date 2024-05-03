@@ -1,0 +1,3 @@
+name: World-Happiness-Ranking
+dataset_id: 43594.0
+description: The World-Happiness-Ranking dataset comprises information about the happiness levels of various countries. It includes variables such as the happiness score, GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption. The dataset covers a wide range of countries from 2015 to 2020. The goal of this dataset is to measure and understand the factors that contribute to the happiness and well-being of individuals worldwide. It serves as a valuable resource for researchers, policymakers, and organizations interested in studying happiness and its determinants.

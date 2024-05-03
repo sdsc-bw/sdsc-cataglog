@@ -1,0 +1,3 @@
+name: FOREX_eurhuf-day-Close
+dataset_id: 41750.0
+description: The dataset FOREX_eurhuf-day-Close contains information about the daily closing prices of the EUR/HUF currency pair in the foreign exchange market. The dataset likely includes a time series of closing prices, indicating how much Hungarian forints (HUF) are needed to purchase one euro (EUR) each day. This information is relevant for traders, analysts, and researchers interested in studying or making predictions about the exchange rate between these two currencies. The dataset may provide insights into the volatility, trends, and fluctuations within this currency pair, helping users make informed decisions in the forex market.

@@ -1,0 +1,3 @@
+name: kdd_el_nino-small
+dataset_id: 839.0
+description: The dataset "kdd_el_nino-small" contains information on various weather conditions related to the El Nino phenomenon, which refers to the irregular warming of the sea surface in the equatorial Pacific Ocean. It includes data from meteorological stations and buoys, covering a period of two years. The dataset provides measurements of sea surface temperature, atmospheric pressure, wind direction, wind speed, humidity, and precipitation. It is intended for analysis and prediction of El Nino events and their impact on weather patterns. The data can be utilized for research purposes, climate modeling, and developing forecasting models to better understand and manage this climatic phenomenon.

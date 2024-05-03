@@ -1,0 +1,3 @@
+name: UMIST_Faces_Cropped
+dataset_id: 41084.0
+description: The dataset UMIST_Faces_Cropped is a collection of 564 images of human faces. These images are captured under different lighting conditions and expressions, providing a diverse range of facial appearances. The dataset labels each image with the identity of the person depicted in the image. The images are in gray-scale and have a resolution of 112x92 pixels. The dataset is commonly used for face recognition and classification tasks in computer vision research. It offers a valuable resource for training and evaluating algorithms designed to identify and analyze faces in real-world scenarios.

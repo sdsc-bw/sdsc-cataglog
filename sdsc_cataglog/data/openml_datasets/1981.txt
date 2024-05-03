@@ -1,0 +1,3 @@
+name: QSAR-TID-114
+dataset_id: 3967.0
+description: The dataset QSAR-TID-114 contains information on a set of 114 diverse compounds, each having 41 molecular descriptors. These descriptors characterize the properties such as shape, size, polarizability, and charge distribution of the compounds. The molecular descriptors are used to predict the biological activity of the compounds against a specific protein target, making it an important dataset for quantitative structure-activity relationship (QSAR) studies. The dataset also includes the experimental activity values, expressed as concentration required to inhibit the enzyme by 50%. QSAR-TID-114 is publicly available and is commonly used in research related to drug discovery and development.

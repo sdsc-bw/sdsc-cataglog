@@ -1,0 +1,3 @@
+repo_name: ContrastiveExplanation
+link: https://github.com/MarcelRobeer/ContrastiveExplanation
+description: Contrastive Explanation (Foil Trees) provides an explanation for why an instance had the current outcome rather than a targeted outcome of interest. The idea of contrastive explanations is captured in this Python package `ContrastiveExplanation`. One scientific paper was published on Contrastive Explanation / Foil Trees. Several choices can be made to tailor the explanation to your type of explanation problem.

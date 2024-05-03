@@ -1,0 +1,3 @@
+name: riccardo_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44757.0
+description: The dataset "riccardo_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" has 2000 rows and 100 columns. It is divided into 10 different classes or categories. The data is stratified, meaning it is represented in a balanced manner across the classes. The dataset is named after a person called Riccardo and is associated with a seed value of 4. It is not mentioned what type of data the dataset contains or its purpose, but the information provided suggests that it is designed for classification tasks with 10 possible outcomes and 100 features.

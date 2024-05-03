@@ -1,0 +1,3 @@
+repo_name: gnes
+link: https://github.com/gnes-ai/gnes
+description: GNES is a cloud-native semantic search system based on deep neural network that enables large-scale index and semantic search for text-to-text, image-to-image, video-to-video and any-to-any content form. To know more about the key tenets of GNES, you can read their blog post. GNES Hub ships AI/ML models as Docker containers, which offers a clean and sustainable way to port external algorithms into the GNES framework. There are two ways to get GNES, either as a Docker image or as a PyPi package. GNES can be ran as a Docker container using "docker run gnes/gnes:latest-alpine" command, and it can also be installed via pip. The official documentation of GNES is hosted on doc.gnes.ai.

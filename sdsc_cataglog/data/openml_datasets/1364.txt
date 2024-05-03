@@ -1,0 +1,3 @@
+name: QSAR-TID-30048
+dataset_id: 3341.0
+description: The dataset QSAR-TID-30048 consists of 95 compounds and their corresponding quantitative structure-activity relationship (QSAR) data. It was curated for use in developing models to predict the inhibition activity of these compounds against thrombin inhibitors. The QSAR data includes various molecular descriptors, such as geometrical, topological, constitutional, and substructural descriptors. Additionally, the dataset contains the measured biological activity values for each compound. The objective of this dataset is to enable the development of accurate predictive models for thrombin inhibition, which can have potential implications in drug discovery and development.

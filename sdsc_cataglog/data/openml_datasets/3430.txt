@@ -1,0 +1,3 @@
+name: WHO-national-life-expectancy
+dataset_id: 43505.0
+description: The WHO-national-life-expectancy dataset provides information on the average life expectancy rates in different countries. It includes data on both males and females, as well as the overall life expectancy. The dataset covers a wide range of countries from around the world, allowing for comparisons and analysis on a global scale. The information in the dataset is derived from various sources, including national health agencies and statistical reports. The dataset's comprehensive nature makes it a valuable resource for studying and understanding the factors that influence life expectancy rates across different nations.

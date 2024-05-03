@@ -1,0 +1,3 @@
+name: QSAR-TID-12755
+dataset_id: 3331.0
+description: The dataset QSAR-TID-12755 comprises information on 6438 chemicals and their corresponding toxicity levels. Each chemical is described by 5273 molecular descriptors, including structural, electronic, and thermodynamic properties. The toxicity levels represent the logarithm of the concentration at which the chemical is lethal to 50% of a population (LC50 values), measured in mg/L. These values range from -3.525 to 2.89, with a mean of -0.638. The dataset was created to train and develop predictive models for toxicity classification. It can be used by researchers and machine learning practitioners to explore and analyze the relationship between molecular properties and toxicity levels.

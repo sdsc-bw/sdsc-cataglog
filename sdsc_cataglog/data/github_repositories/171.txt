@@ -1,0 +1,3 @@
+repo_name: PDPbox
+link: https://github.com/SauceCat/PDPbox
+description: PDPbox is a powerful Python toolbox to understand the impact of individual features towards model prediction for any supervised learning algorithm, inspired by ICEbox. When using black box machine learning algorithms like random forest and boosting, it is hard to understand the relations between predictors and model outcome. PDPbox offers various tools like PDP for a single feature, PDP for a multi-class, PDP Interact for two features with contour plot, PDP Interact for two features with grid plot, PDP Interact for multi-class, target plot for a single feature, target interact plot for two features, and actual prediction plot for a single feature.

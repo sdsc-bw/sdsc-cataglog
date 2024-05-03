@@ -1,0 +1,3 @@
+name: balloon
+dataset_id: 512.0
+description: The balloon dataset consists of data related to the position, size, and color of balloons. It contains information about the attributes of the balloons, such as their inflating medium (air or helium), their manufacturer, and whether they are floatable or not. The dataset also provides details on the shape of the balloons, whether they are filled or empty, and the act of blowing them up or not. Overall, the balloon dataset offers comprehensive information about various characteristics of balloons, facilitating analysis and exploration of different attributes within the dataset.

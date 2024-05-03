@@ -1,0 +1,3 @@
+name: churn_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44661.0
+description: The dataset "churn_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True" contains information about churn rates. It has a total of 2000 rows with 100 columns. The dataset is stratified, meaning it represents the target classes accurately. There are 10 classes in total, indicating different churn rates. The dataset is suitable for analyzing customer behavior and predicting churn. However, specific details about the dataset's attributes or features are not provided in the given sentences.

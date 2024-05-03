@@ -1,0 +1,3 @@
+name: kr-vs-k
+dataset_id: 1481.0
+description: The kr-vs-k dataset is related to the game of chess and consists of features such as the position of the king, position of the rook, position of the opposing king, etc. It contains 28056 instances and 37 attributes, including both categorical and numerical values. The goal is to predict the outcome of a king+rook versus king chess endgame. The dataset is well-balanced, with the classes (resulting in either win or loss) evenly distributed. The dataset serves as a benchmark for evaluating different machine learning algorithms and their performance in predicting the outcome of the chess endgame based on the given features.

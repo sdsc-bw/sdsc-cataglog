@@ -1,0 +1,3 @@
+repo_name: PixelAnnotationTool
+link: https://github.com/abreheret/PixelAnnotationTool
+description: PixelAnnotationTool is a tool that can assist in pixel annotation tasks. It comes with features such as automated workflows, hosting and managing packages, finding and fixing vulnerabilities, and instant dev environment setup. It also utilizes AI to help users write better code, and provides collaboration features to work outside of code. The tool is licensed under the GNU Lesser General Public License v3.0 and donations are accepted to help maintain and update the tool.

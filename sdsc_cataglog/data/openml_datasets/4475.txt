@@ -1,0 +1,3 @@
+name: Bioresponse_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44654.0
+description: The dataset Bioresponse_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True has 2000 rows and 100 columns. It consists of 10 different classes, making it a multi-class classification problem. The dataset is stratified, which suggests that the distribution of classes is balanced. The dataset could potentially be used for various bioresponse prediction tasks, where the goal is to predict the outcome of a biological response based on the given features. However, more details about the specific variables and their meaning are not provided in the given sentences.

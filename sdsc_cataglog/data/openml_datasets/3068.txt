@@ -1,0 +1,3 @@
+name: youtube-spam-psy
+dataset_id: 42904.0
+description: The dataset youtube-spam-psy contains comments from YouTube videos associated with the genre "Psy". It consists of 1,956 labeled samples divided into 2,931 instances of spam and 1,025 instances of non-spam comments. The labeled data is based on manually assigning spam or non-spam labels to each instance. The dataset also includes additional information such as the comment, its ID, author's channel ID, and publication time. This dataset can be helpful for research in spam detection or sentiment analysis on YouTube comments, specifically in the context of the "Psy" genre.

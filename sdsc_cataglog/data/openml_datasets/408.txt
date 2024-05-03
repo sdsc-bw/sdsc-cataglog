@@ -1,0 +1,3 @@
+name: fri_c2_250_10
+dataset_id: 657.0
+description: The dataset fri_c2_250_10 consists of 250 training samples and 10 testing samples. It is a subset of the larger FRI dataset. Each sample in the dataset contains information about linguistic features, such as part-of-speech tags and syntactic dependencies, as well as contextual information, such as the previous and next words in the sentence. The dataset aims to facilitate the study of natural language processing tasks, such as sentiment analysis or text classification. Researchers can use this dataset to develop and evaluate machine learning algorithms for various language-related tasks.

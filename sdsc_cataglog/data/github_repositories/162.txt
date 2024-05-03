@@ -1,0 +1,3 @@
+repo_name: yellowbrick
+link: https://github.com/DistrictDataLabs/yellowbrick
+description: Yellowbrick is a suite of visual diagnostic tools called "Visualizers" that extend the scikit-learn API to allow human steering of the model selection process. In a nutshell, Yellowbrick combines scikit-learn with matplotlib to produce visualizations for your machine learning workflow. **Visual analysis and diagnostic tools to facilitate machine learning model selection.**

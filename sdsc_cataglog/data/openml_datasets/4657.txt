@@ -1,0 +1,3 @@
+name: jannis
+dataset_id: 45013.0
+description: The dataset "jannis" is open and freely available for scientific research purposes. It consists of various JSON files containing data on users, tweets, and social network connections. The dataset includes information such as user IDs, usernames, tweet texts, creation timestamps, retweet and reply information, as well as social network connections between users. It provides researchers with a wealth of data to analyze user behavior, social network dynamics, and the spread of information on Twitter. The dataset is suitable for studies in fields like computer science, social sciences, and data analysis, allowing for a deeper understanding of online social media platforms like Twitter.

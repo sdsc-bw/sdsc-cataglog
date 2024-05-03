@@ -1,0 +1,3 @@
+name: credit_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44351.0
+description: The dataset credit_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True is a credit dataset with 2000 rows and 100 columns. It has 10 different classes or categories. The dataset has been stratified, meaning that the proportions of each class are maintained in the dataset, which helps to ensure a representative sample. The dataset contains information about credit-related factors, such as credit scores, income, and debt, among others. The dataset can be used for various machine learning tasks, such as classification or clustering, in order to gain insights or make predictions related to credit.

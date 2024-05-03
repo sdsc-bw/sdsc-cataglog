@@ -1,0 +1,3 @@
+name: KDDCup99
+dataset_id: 42746.0
+description: KDDCup99 is a dataset widely used in cybersecurity research and benchmarking. It was created to analyze network intrusion detection systems and has become a standard reference in the field. The dataset contains a large amount of network traffic data collected from a simulated environment, representing different attack scenarios. This diverse dataset includes various features such as protocol type, service type, source and destination IP addresses, and more. KDDCup99 has been extensively studied to develop effective intrusion detection models and evaluate their performance. Its availability has significantly contributed to the advancement of cybersecurity research and the development of robust security systems.

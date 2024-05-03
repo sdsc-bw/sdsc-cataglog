@@ -1,0 +1,3 @@
+name: phoneme
+dataset_id: 44127.0
+description: The dataset "phoneme" contains measurements of phoneme sounds in different speakers. It includes 5404 instances with 5 attributes each. The attributes consist of different features of the phonemes, such as frequency, duration, and intensity. The dataset also provides information about the speaker, gender, and label of each instance. The instances are evenly distributed among male and female speakers. The label represents the type of phoneme produced, with 30 distinct phoneme classes present in the dataset. Overall, the phoneme dataset provides a comprehensive collection of phoneme measurements for analysis and research purposes.

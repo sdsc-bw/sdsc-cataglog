@@ -1,0 +1,3 @@
+name: abalone
+dataset_id: 720.0
+description: The dataset "abalone" contains information about physical measurements of abalone shells. The dataset comprises 4177 observations with 8 attributes, including the target variable "Rings," representing the age of abalone in years. The remaining attributes describe the shell's dimensions, such as length, diameter, height, and weight of the abalone. There are also categorical attributes like sex and a continuous variable for the number of rings. The dataset aids in studying the relationship between the physical measurements and age of abalone, which can contribute to understanding the growth patterns and biology of abalone species.

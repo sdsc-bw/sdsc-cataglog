@@ -1,0 +1,3 @@
+name: Bitcoin-Stock-Data
+dataset_id: 43779.0
+description: The dataset Bitcoin-Stock-Data provides detailed information on the stock and trading activities of Bitcoin. It includes data on the opening and closing prices, daily highs and lows, as well as the trading volume of Bitcoin from various cryptocurrency exchanges. The dataset covers a substantial time period, starting from 13th August 2012 up until the present. The data is available in CSV format and is suitable for conducting research and analysis on Bitcoin's historical market performance. It offers valuable insights into the price fluctuations and trading patterns of Bitcoin, aiding in decision-making and forecasting.

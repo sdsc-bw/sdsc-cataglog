@@ -1,0 +1,3 @@
+name: debutanizer
+dataset_id: 23516.0
+description: The dataset debutanizer concerns the development of an optimization model for the operation of a debutanizer tower in a petrochemical plant. The debutanizer tower aims to separate butane from a mixture of hydrocarbon compounds. The dataset includes various process variables and operating conditions, such as pressure, temperature, and composition of both the feed and product streams. The goal of this dataset is to facilitate the development of models, algorithms, and control strategies for the operation of a debutanizer tower, leading to improved efficiency, safety, and economic performance of the petrochemical processes.

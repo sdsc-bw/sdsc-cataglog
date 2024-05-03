@@ -1,0 +1,3 @@
+name: artificial-characters
+dataset_id: 1459.0
+description: The artificial-characters dataset contains a collection of characters that have been artificially generated using machine learning techniques. The dataset is designed to be used for various purposes such as training and testing character recognition algorithms. Each character in the dataset is represented as an image with a corresponding label indicating the character class. The dataset includes characters from different languages and scripts, making it useful for multi-script character recognition tasks. The dataset is publicly available and has been widely used in the research community to develop and evaluate new character recognition algorithms and models.

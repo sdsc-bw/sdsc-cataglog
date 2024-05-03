@@ -1,0 +1,3 @@
+name: FOREX_eurchf-hour-High
+dataset_id: 41842.0
+description: The dataset, FOREX_eurchf-hour-High, contains information related to the hourly high values of the EUR/CHF (Euro/Swiss Franc) forex market. The dataset likely includes data points for various hours, showing the highest value reached during each hour. This information is crucial for analyzing the volatility and potential trading opportunities in the EUR/CHF forex market. Traders and analysts can use this dataset to study historical high values, identify trends or patterns, and make informed decisions while trading or developing trading strategies. Overall, the dataset provides valuable insights into the performance of the EUR/CHF forex market on an hourly basis.

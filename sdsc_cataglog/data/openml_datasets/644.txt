@@ -1,0 +1,3 @@
+name: fri_c2_1000_25
+dataset_id: 903.0
+description: The dataset fri_c2_1000_25 contains information about friendships and connections between 1000 people. It has 25 attributes, including age, gender, and occupation, as well as characteristics related to their friendships, such as the number of mutual friends and the strength of their connections. The dataset provides valuable insights into the social network and interactions among the individuals. It is likely to be useful for studying various topics, including social behavior, network analysis, and the impact of friendships on individual well-being. The dataset is publicly available and can be accessed for research purposes.

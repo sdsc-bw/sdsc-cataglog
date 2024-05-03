@@ -1,0 +1,3 @@
+name: kick
+dataset_id: 41162.0
+description: The dataset "kick" is described as having comprehensive information on Kickstarter projects. It includes the project name, category, main category, currency, deadline, goal, lauched date, pledged amount, and several other attributes. This dataset consists of around 378,000 projects, collected over a span of nine years, from 2009 to 2017. It provides a vast amount of data that can be explored and analyzed to gain insights into the success or failure of Kickstarter projects and understand their various characteristics. Overall, this dataset offers a valuable resource for researchers and analysts interested in studying crowdfunding campaigns and project outcomes.

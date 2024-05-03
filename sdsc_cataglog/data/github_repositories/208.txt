@@ -1,0 +1,3 @@
+repo_name: whylogs
+link: https://github.com/whylabs/whylogs
+description: Have you ever needed a simple and efficient logging tool to help you understand the distribution and patterns of your data without sacrificing performance? That's where whylogs comes in.

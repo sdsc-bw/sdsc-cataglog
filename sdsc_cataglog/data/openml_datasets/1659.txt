@@ -1,0 +1,3 @@
+name: QSAR-TID-10586
+dataset_id: 3642.0
+description: The QSAR-TID-10586 dataset contains information about chemical compounds and their potential toxicity. It consists of 10586 instances and 2025 attributes. Each instance represents a compound, and the attributes provide information about the compound's chemical properties. The dataset includes both numerical and categorical data. The goal of this dataset is to predict the toxicological effect of a compound based on its chemical features. It can be used for various research purposes, such as drug development or environmental risk assessment. The dataset is publicly available and can be accessed for further analysis or modeling.

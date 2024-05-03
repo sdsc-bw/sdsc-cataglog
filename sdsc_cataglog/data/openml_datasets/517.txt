@@ -1,0 +1,3 @@
+name: strikes
+dataset_id: 770.0
+description: The dataset discusses the occurrence of strikes in a particular area over a period of time. It includes information about the type of strike, the industry affected, the duration, and the number of workers involved. The dataset contains detailed records of various strikes, ranging from labor strikes to political protests. It provides insights into the frequency and impact of strikes, allowing analysis of patterns and trends. This dataset is valuable for understanding labor movements and their socio-economic implications. It enables researchers to explore the causes, consequences, and potential strategies for mitigating strikes.

@@ -1,0 +1,3 @@
+name: anneal
+dataset_id: 44264.0
+description: The dataset "anneal" consists of observations from an industrial process of making steel plates. It has 896 observations with 37 attributes, including both categorical and continuous variables. The dataset is meant for solving classification problems with binary target variables. The target variable "Thick" denotes whether the steel plates meet a specific thickness requirement or not. The dataset also includes attributes such as "Steel", "Carbon", and "Silicon" that provide information about the composition of steel plates. The aim of using this dataset is to predict the thickness of steel plates accurately, supporting decision-making processes in the steel manufacturing industry.

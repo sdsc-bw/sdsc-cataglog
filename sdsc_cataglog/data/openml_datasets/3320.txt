@@ -1,0 +1,3 @@
+name: Churn-for-Bank-Customers
+dataset_id: 43390.0
+description: The Churn-for-Bank-Customers dataset contains information on bank customers in France and their churn status. It includes 10,000 records with 14 columns, providing details about customer demographics, transaction history, and banking products. The dataset is primarily used to predict which customers are likely to churn based on various factors. Some of the features include customer age, salary, credit card usage, account balance, and whether they have a mortgage or a loan. This dataset is valuable for banks and businesses in understanding customer churn patterns and developing strategies to retain customers.

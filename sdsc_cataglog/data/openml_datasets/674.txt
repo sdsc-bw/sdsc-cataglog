@@ -1,0 +1,3 @@
+name: fri_c4_250_25
+dataset_id: 933.0
+description: The dataset fri_c4_250_25 contains a collection of Twitter posts. It consists of 250 million tweets, with each tweet having an average length of 25 words. The dataset provides a vast range of topics and opinions as it covers posts from various users. It is a valuable resource for researchers interested in studying social media trends, sentiment analysis, natural language processing, or any other field related to analyzing Twitter data. With its substantial size and diversity, the fri_c4_250_25 dataset allows for comprehensive and in-depth investigations into the dynamics of Twitter conversations and user behavior.

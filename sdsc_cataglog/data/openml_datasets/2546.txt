@@ -1,0 +1,3 @@
+name: FOREX_cadchf-day-Close
+dataset_id: 41811.0
+description: The dataset FOREX_cadchf-day-Close consists of daily closing prices for the CAD/CHF currency pair in the FOREX market. It contains information about the historical performance of this particular currency pair over time. The dataset likely includes data points such as the date, closing price, and possibly other relevant information for each day. This information can be used to analyze the trend and volatility of the CAD/CHF exchange rate, identify patterns or correlations, and make predictions or decisions regarding currency trading strategies involving these two currencies.

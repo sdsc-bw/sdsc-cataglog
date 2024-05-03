@@ -1,0 +1,3 @@
+name: OnlineNewsPopularity
+dataset_id: 44049.0
+description: The dataset called OnlineNewsPopularity contains information about articles published by Mashable, an online news website. It consists of 61 attributes such as the title, author, date, number of words, and social media metrics for each article. The dataset comprises 39,797 articles published between 2013 and 2015. Among the attributes, there are measures related to the article's content (text-based features) as well as shares, likes, and comments on social media platforms (non-text-based features). The dataset is often used to predict the popularity of news articles based on the various features provided.

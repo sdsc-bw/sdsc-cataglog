@@ -1,0 +1,3 @@
+name: QSAR-TID-101281
+dataset_id: 3630.0
+description: QSAR-TID-101281 is a dataset containing quantitative structure-activity relationship data for 7057 chemical compounds. It includes various descriptors such as molecular weight, polarizability, and hydrogen bond donor count, which are known to affect the bioactivity of these compounds. The dataset also includes information about the compounds' toxicity measured through the LD50 (lethal dose) value. This dataset was carefully prepared, with outliers and missing values properly addressed. It is suitable for building predictive models to determine the toxicity of chemical compounds based on their structural features, providing valuable insights for drug discovery and chemical synthesis.

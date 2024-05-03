@@ -1,0 +1,3 @@
+name: dbworld-subjects-stemmed
+dataset_id: 1563.0
+description: The dataset "dbworld-subjects-stemmed" is being referenced in the following set of sentences. It is a corpus of stemmed email subjects related to databases and information systems. The dataset contains around 2,373 instances collected from the dbworld mailing list, focusing on various topics such as data mining, query optimization, and database management systems. Each subject within the dataset has been preprocessed using stemming techniques to reduce words to their base form. The dataset is often used for text mining and natural language processing tasks, analyzing trends and patterns within the domain of databases and information systems research.

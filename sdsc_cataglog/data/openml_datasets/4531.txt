@@ -1,0 +1,3 @@
+name: Amazon_employee_access_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44710.0
+description: The dataset with the name "Amazon_employee_access_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True" has 2000 rows and 100 columns. It consists of 10 different classes and is stratified, meaning that each class is represented in a balanced manner. The dataset is likely related to employee access at Amazon, indicating that it may contain information on the access permissions granted to employees within the company. However, it doesn't provide further details about the specific data contained in the dataset.

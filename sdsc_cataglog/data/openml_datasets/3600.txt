@@ -1,0 +1,3 @@
+name: Indian-Liver-Patient-Records
+dataset_id: 43675.0
+description: The Indian-Liver-Patient-Records dataset contains information about liver patients in India. It includes various attributes such as age, gender, total bilirubin levels, direct bilirubin levels, alkaline phosphatase levels, alanine aminotransferase levels, aspartate aminotransferase levels, total proteins, albumin levels, globulin levels, albumin to globulin ratio, and liver disease outcome. The dataset provides valuable insights into the factors affecting liver disease in the Indian population. It can be used for analysis and prediction to aid in diagnosing liver diseases and developing effective treatments.

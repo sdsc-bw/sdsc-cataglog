@@ -1,0 +1,3 @@
+name: national-longitudinal-survey-binary
+dataset_id: 43892.0
+description: The dataset called national-longitudinal-survey-binary contains information from the National Longitudinal Survey of Youth conducted by the US Bureau of Labor Statistics. It includes data from a sample of individuals who were interviewed as youth in 1979 and subsequently followed up through adulthood. The dataset focuses on various aspects such as education, employment, earnings, marriage, and family formation. It offers a binary version of the dataset, where each variable is represented as a binary indicator of the presence or absence of a particular characteristic or event. This version is useful for certain analytical purposes and simplifies the data analysis process.

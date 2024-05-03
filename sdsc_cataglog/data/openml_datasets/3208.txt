@@ -1,0 +1,3 @@
+name: IEEE80211aa-GATS
+dataset_id: 43192.0
+description: The dataset IEEE80211aa-GATS consists of experimental data related to IEEE 802.11aa amendment for Quality of Service (QoS) enhancements in a wireless link. The experiments were conducted using an open-source wireless network emulator called Gaining Access To Spectrum (GATS). The dataset includes information about link adaptation, retransmission mechanisms, and error recovery techniques. The experiments cover various scenarios, such as different channel conditions, different frame lengths, and different packet error rates. The dataset aims to provide researchers with a valuable resource for studying and evaluating the performance of IEEE 802.11aa in different scenarios and improving QoS in wireless networks.

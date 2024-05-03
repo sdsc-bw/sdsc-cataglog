@@ -1,0 +1,3 @@
+name: Accidents-on-the-Rio-Niteri-bridge
+dataset_id: 43561.0
+description: The dataset "Accidents-on-the-Rio-Niterói bridge" contains information about road traffic accidents that occurred on the Rio-Niterói bridge in Brazil. It comprises data from 2002 to 2020, with details such as the date, time, weather conditions, number of vehicles involved, and severity of the accidents. The dataset also includes information about injuries sustained by individuals involved in the accidents. This dataset is valuable for researchers, policymakers, and transportation authorities to examine accident patterns, identify risk factors, and develop strategies to enhance road safety on the Rio-Niterói bridge.

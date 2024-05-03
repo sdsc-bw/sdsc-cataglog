@@ -1,0 +1,3 @@
+name: wall-robot-navigation
+dataset_id: 1497.0
+description: The wall-robot-navigation dataset consists of motion planning trajectories recorded by a mobile robot in an indoor environment. The robot navigates a maze-like set-up with obstacles and walls. The dataset contains a total of 31 motion sequences, each captured at a 10Hz frequency and lasting 1 minute. Each motion sequence is accompanied by a corresponding trajectory containing information on the robot's position and orientation at each time step. The dataset is intended to aid in the development and evaluation of navigation algorithms, specifically for scenarios involving wall-following or obstacle avoidance tasks in an unknown environment.

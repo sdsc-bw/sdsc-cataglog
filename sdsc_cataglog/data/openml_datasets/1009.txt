@@ -1,0 +1,3 @@
+name: volcanoes-c1
+dataset_id: 1537.0
+description: The dataset "volcanoes-c1" contains information about volcanoes worldwide. It consists of 956 records with 17 attributes, including the volcano name, location, elevation, type, and activity status. The data is gathered from various sources like the Smithsonian Institution, Global Volcanism Program, and the Volcano Bulletin. It provides details on the number of eruptions, the last-known eruption date, and associated hazards. The dataset also includes geographic coordinates, allowing for mapping and spatial analysis. The "volcanoes-c1" dataset offers valuable information for studying volcanic activity, assessing risks, and understanding the global distribution of volcanoes.

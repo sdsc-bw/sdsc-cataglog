@@ -1,0 +1,3 @@
+name: fri_c4_500_25
+dataset_id: 584.0
+description: The dataset fri_c4_500_25 consists of 500 users with 25 features. It was created to analyze online social networks and is based on the Foursquare social media platform. The dataset captures various attributes such as user profiles, social friendships, and check-ins. It includes details like user names, locations, and timestamps of check-ins, as well as semantic categories of places visited. The dataset is suitable for studying user behavior, social network analysis, and recommender system development. It provides valuable insights into the interactions and preferences of users within the Foursquare platform.

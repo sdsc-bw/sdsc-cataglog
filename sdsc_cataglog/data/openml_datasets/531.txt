@@ -1,0 +1,3 @@
+name: cleveland
+dataset_id: 786.0
+description: The dataset "cleveland" is related to heart disease diagnosis. It consists of 303 instances and 14 features including age, sex, cholesterol levels, blood pressure, presence of chest pain, and more. The target variable indicates the presence or absence of heart disease in patients. The dataset suffers from missing values, which have been filled with the median. Additionally, it contains some erroneous and inconsistent data that has been rectified. It is important to note that the dataset is not up to date, as it was collected in 1988. The cleveland dataset is often used for heart disease prediction and risk assessment tasks.

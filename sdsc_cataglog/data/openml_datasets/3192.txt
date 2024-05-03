@@ -1,0 +1,3 @@
+name: ACSIncome
+dataset_id: 43141.0
+description: The dataset ACSIncome is a comprehensive collection of information about the income levels of individuals and households in the United States. It contains data from the American Community Survey (ACS), which is conducted annually by the U.S. Census Bureau. The dataset includes variables such as total income, income sources, and income ranges. It covers a wide range of demographic characteristics, including age, race, education level, and geographic location. The ACSIncome dataset provides researchers and policymakers with valuable insights into the distribution of income in the U.S. population, helping inform discussions and decisions related to economic inequality and social welfare.

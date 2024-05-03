@@ -1,0 +1,3 @@
+name: MMA-Fight-Predictions-by-Professional-Fighters
+dataset_id: 43468.0
+description: The dataset named "MMA-Fight-Predictions-by-Professional-Fighters" is focused on predictions made by professional fighters in the sport of Mixed Martial Arts (MMA). The dataset contains information about the fighters' predictions for various fights, including details about the fighters themselves, their respective records, the event where the fight took place, and the result of the fight. It also provides information on how accurate the predictions made by the fighters were. The dataset aims to offer insights into the accuracy of predictions made by those with professional experience in the MMA industry and their ability to predict fight outcomes accurately.

@@ -1,0 +1,3 @@
+name: kdd_coil_6
+dataset_id: 577.0
+description: The dataset kdd_coil_6 is commonly used in machine learning and computer vision tasks. It is a collection of images representing different types of steel coils. The dataset contains a total of 1,890 images, divided into six classes. Each image is classified based on its surface appearance, such as clean, rolled-in scale, and scratches. This dataset aims to support the development and evaluation of algorithms for automatic defect detection and quality inspection of steel coils. It provides a valuable resource for training and testing models that can identify and classify steel coil surface defects accurately.

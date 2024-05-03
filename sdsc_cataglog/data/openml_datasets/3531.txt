@@ -1,0 +1,3 @@
+name: WMO-Hurricane-Survival-Dataset
+dataset_id: 43607.0
+description: The WMO-Hurricane-Survival-Dataset is a collection of data related to hurricane survival rates. It provides information on various factors that influence survival, such as age, gender, and wind speed. The dataset includes records from different hurricanes, offering a comprehensive view of survival trends. It also incorporates additional variables like storm category and distance from shore. The dataset is valuable for researchers and policymakers working on hurricane safety and preparedness. Analyzing this data can offer insights into the characteristics that contribute to better survival rates during hurricanes, aiding in the development of effective mitigation strategies.

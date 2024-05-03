@@ -1,0 +1,3 @@
+name: QSAR-TID-17049
+dataset_id: 3818.0
+description: The dataset QSAR-TID-17049 contains information on 3,149 chemical compounds and their biological activity. The compounds are labeled either as being active or inactive against a specific enzyme target. The dataset includes 102 molecular descriptors that were calculated for each compound, providing information on their physicochemical properties. The data aims to be used for classification tasks in the field of quantitative structure-activity relationship (QSAR) modeling. It is important to note that the dataset contains missing values for some descriptors, and some compounds have duplicate entries. The dataset aims to aid researchers in developing models to predict the activity of new compounds.

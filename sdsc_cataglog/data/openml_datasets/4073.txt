@@ -1,0 +1,3 @@
+name: Meta_Album_RESISC_Micro
+dataset_id: 44246.0
+description: The dataset Meta_Album_RESISC_Micro is a comprehensive collection of high-resolution satellite images, specifically focused on urban areas. It comprises 9,991 images from 40 different megacities across the globe. The dataset is organized into 60 subfolders representing the different city clusters and covers a wide range of scenes, such as residential, commercial, industrial, and recreational areas. It also includes various types of land-cover like buildings, roads, vegetation, and water bodies. The dataset aims to provide a diverse and geographically distributed set of urban imagery for research in machine learning, computer vision, and other related fields.

@@ -1,0 +1,3 @@
+repo_name: onepanel
+link: https://github.com/onepanelio/onepanel
+description: Onepanel is an end-to-end computer vision platform that allows users to label, build, train, tune, deploy and automate in a unified platform that runs on any cloud and on-premises. It seamlessly integrates several open source projects such as Argo, Couler, CVAT, JupyterLab, and NNI. Onepanel is licensed under Apache 2.0 and users are encouraged to contribute back to the communities that support its operation. See the quick start guide to get started, and to submit a feature request, bug report, or documentation issue, open a GitHub pull request or issue.

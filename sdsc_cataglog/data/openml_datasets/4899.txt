@@ -1,0 +1,3 @@
+name: pigs_5
+dataset_id: 45257.0
+description: The dataset pigs_5 contains information about different attributes related to domestic pigs. It comprises 5,000 observations and 8 variables. The variables include the age of the pigs in days, their weight, average daily gain, backfat thickness, loin eye area, feed conversion ratio, carcass weight, and lean meat percentage. This dataset aims to provide insights into the growth and characteristics of domestic pigs. It can be utilized for various purposes, such as studying the impact of different factors on pig growth, predicting the optimal weight for slaughter, or analyzing the relationship between backfat thickness and lean meat percentage.

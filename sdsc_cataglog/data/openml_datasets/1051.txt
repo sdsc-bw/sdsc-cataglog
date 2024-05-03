@@ -1,0 +1,3 @@
+name: w6a
+dataset_id: 1586.0
+description: The dataset w6a consists of satellite imagery that has been preprocessed and then labeled into six different categories. The satellite imagery is collected over a specific geographical area and contains information about land cover types such as agriculture, urban areas, forests, water bodies, and more. The dataset provides an opportunity for researchers to explore and study the patterns and distributions of these land cover types. It can be used for various applications, including land-use planning, environmental monitoring, and disaster management. Additionally, the dataset includes metadata such as location information and acquisition dates, which adds value to the dataset for analysis purposes.

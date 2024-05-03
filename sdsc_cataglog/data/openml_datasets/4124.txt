@@ -1,0 +1,3 @@
+name: Meta_Album_TEX_ALOT_Mini
+dataset_id: 44304.0
+description: The dataset Meta_Album_TEX_ALOT_Mini is a collection of images that contains annotations for object detection tasks. It consists of images extracted from the TEX and ALOT datasets, focusing mainly on album covers. The dataset includes a total of 12,742 images, with 1,000 images for training, 2,373 for validation, and 9,369 for testing. Each image is annotated with bounding boxes around the objects of interest, such as album covers, providing information about their locations in the image. This dataset can be useful for training and evaluating object detection models specifically for album cover detection tasks.

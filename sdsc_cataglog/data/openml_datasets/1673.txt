@@ -1,0 +1,3 @@
+name: QSAR-TID-99
+dataset_id: 3656.0
+description: The QSAR-TID-99 dataset contains information about chemical compounds and their toxicity levels. It consists of 1,186 instances and 16 variables, including molecular descriptors, such as atomic and topological properties. The dataset includes both numerical and categorical variables, with values ranging from 0.14 to 11.06. The target variable in this dataset is the toxicity level, which is classified into three categories: low, medium, and high. The dataset is provided in a CSV format and is suitable for various statistical analysis and machine learning tasks, particularly those related to toxicity prediction and quantitative structure-activity relationship (QSAR) studies.

@@ -1,0 +1,3 @@
+name: Indian-Liver-Patient-Patient-Records-KFolds-5folds
+dataset_id: 43403.0
+description: The dataset Indian-Liver-Patient-Patient-Records-KFolds-5folds is a collection of medical records for patients with liver diseases in India. It includes data on various attributes such as age, gender, total protein levels, albumin levels, bilirubin levels, and more. The dataset is organized in 5 folds, making it suitable for cross-validation experiments. The goal of the dataset is to analyze and predict liver disease in Indian patients based on these attributes. It can be used for machine learning and data mining tasks, allowing researchers to develop models and algorithms to better understand and diagnose liver diseases in the Indian population.

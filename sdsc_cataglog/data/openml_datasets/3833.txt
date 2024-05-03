@@ -1,0 +1,3 @@
+name: kdd_ipums_la_97-small
+dataset_id: 43958.0
+description: The dataset kdd_ipums_la_97-small comprises a subset of the larger IPUMS LA database that includes data from the 1997 US Census for Los Angeles County. It provides information on individuals and households, with variables covering demographic attributes, education, employment, income, and migration status. The dataset is tailored to facilitate analysis on a smaller scale, allowing researchers to explore patterns and trends specific to this geographical area. With over 50,000 records and numerous variables, the kdd_ipums_la_97-small dataset serves as a valuable resource for understanding the social and economic characteristics of the population in Los Angeles County during the late 1990s.

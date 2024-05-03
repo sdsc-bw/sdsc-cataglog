@@ -1,0 +1,3 @@
+name: QSAR-TID-10078
+dataset_id: 3743.0
+description: The dataset QSAR-TID-10078 contains information about various chemical compounds and their biological activity. It involves 1059 instances with 41 attributes, including molecular descriptors and chemical properties. The compounds were tested for their inhibitory activity against a specific protein target. The target activity is measured by an experimental binding affinity value. The dataset also includes categorical class labels indicating whether a compound is categorized as active or inactive. The objective is to develop a predictive model that can accurately classify compounds based on their inhibitory activity. This dataset can be used for machine learning and data analysis purposes in drug discovery research.

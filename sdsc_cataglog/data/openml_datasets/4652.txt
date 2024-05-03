@@ -1,0 +1,3 @@
+name: health_insurance
+dataset_id: 44993.0
+description: The dataset "health_insurance" contains information on various aspects of health insurance. It includes data on different insurance plans, coverage options, premiums, deductibles, and benefits. The dataset also provides information on the demographics of individuals covered by these plans, such as age, gender, location, and income level. Additionally, the dataset includes details on the healthcare providers and hospitals covered by the insurance plans. It further provides data on the claims made and the reimbursements received by individuals. The dataset is comprehensive and can be used for analyzing trends, comparing different insurance options, and studying the impact of health insurance on healthcare outcomes.

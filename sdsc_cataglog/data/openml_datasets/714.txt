@@ -1,0 +1,3 @@
+name: hayes-roth
+dataset_id: 974.0
+description: The dataset hayes-roth contains information about 160 individuals. Each individual belongs to one of three classes: neurotic, normal, or psychotic. The dataset has three features:  age (ranging from 16 to 84 years), spectre (representing spectral analysis values of the voice), and a category called "PGM" (which stands for personal grooming measure). The age feature is numerical, while spectre and PGM are categorical. The dataset was first presented in a study by Hayes-Roth et al. in 1977. It has been widely used for machine learning and classification tasks due to its small size and clear class separation.

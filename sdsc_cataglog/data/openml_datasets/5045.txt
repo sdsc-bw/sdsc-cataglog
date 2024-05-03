@@ -1,0 +1,3 @@
+name: Bank-Churn
+dataset_id: 45586.0
+description: The Bank-Churn dataset contains information about bank customers and whether they churned or not. It has 10,000 rows and 14 columns, which include details about customer attributes like age, gender, region, balance, and products owned. The dataset also provides insights about the customer's activity, such as the number of transactions, whether they have a credit card, and if they use online banking. The target variable is churn, indicating whether a customer left or stayed. The dataset aims to analyze patterns and variables that might influence customer churn, providing valuable insights for banks to improve customer retention strategies.

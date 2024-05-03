@@ -1,0 +1,3 @@
+name: QSAR-TID-11105
+dataset_id: 3393.0
+description: The dataset QSAR-TID-11105 is a collection of 11105 instances, each with 1024 molecular descriptors and a binary target variable. The target variable indicates the bioactivity of the molecule, where "1" represents active bioactivity and "0" represents inactive bioactivity. This dataset is specifically designed for drug discovery purposes and can be used to develop predictive models for identifying molecules with potential bioactivity. The molecular descriptors provide information about the chemical properties and structures of the molecules. The dataset can be utilized for various tasks, such as classification, regression, and feature selection in the field of drug discovery and chemoinformatics.

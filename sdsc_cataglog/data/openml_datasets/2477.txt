@@ -1,0 +1,3 @@
+name: FOREX_eurgbp-hour-High
+dataset_id: 41742.0
+description: The dataset FOREX_eurgbp-hour-High pertains to hourly high price data for the currency pair EUR/GBP in the foreign exchange market (FOREX). It likely contains information on the highest trading price reached within each specific hour over a certain time period. This dataset could be useful for analyzing the volatility and trends of EUR/GBP prices, as well as for developing trading strategies or forecasting models. However, without further information, such as the source or timeframe of the data, it is challenging to provide a comprehensive summary.

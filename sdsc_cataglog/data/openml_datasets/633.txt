@@ -1,0 +1,3 @@
+name: sleuth_case1201
+dataset_id: 892.0
+description: The dataset sleuth_case1201 contains information about a criminal case. It includes details about suspects, victims, witnesses, and evidence related to the crime. The dataset also provides information on the location and time of the incident. It includes textual data such as witness statements and police reports, as well as multimedia data such as photographs and videos. The dataset is extensive and well-organized, making it a valuable resource for analyzing and investigating the case. The information within sleuth_case1201 can be used to gain insights, identify patterns, and potentially solve the crime.

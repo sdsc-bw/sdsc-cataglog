@@ -1,0 +1,3 @@
+name: QSAR-TID-10579
+dataset_id: 3769.0
+description: The dataset QSAR-TID-10579 contains information about 10579 compounds and their measured toxicities. It includes several features like molecular descriptors, experimental data, and structural properties. The compounds were tested for their toxicity against a specific bacteria strain, and their activity values were recorded. The dataset also provides information about the logarithm of the activity values and the relationship between the descriptors and the toxicity. The purpose of this dataset is to enable the development of models or algorithms to predict the toxicity of compounds based on their molecular characteristics, aiding in the design of safer chemical compounds.

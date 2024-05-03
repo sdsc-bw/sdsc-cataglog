@@ -1,0 +1,3 @@
+name: Bike_Sharing_Demand
+dataset_id: 44048.0
+description: The dataset Bike_Sharing_Demand pertains to bike sharing programs, commonly found in major cities worldwide. It includes historical data of hourly and daily counts of bike rentals and weather information for a span of two years (2011-2012). The dataset accounts for various factors like the date, time, temperature, humidity, wind speed, and weather conditions that can impact bike rental demand. It can be helpful for analyzing bike usage patterns, forecasting future demand, and developing strategies to optimize bike sharing programs. The dataset consists of 17,379 instances and is available for exploration and analysis.

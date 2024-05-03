@@ -1,0 +1,3 @@
+name: analcatdata_boxing1
+dataset_id: 448.0
+description: The dataset analcatdata_boxing1 consists of seven variables and 399 observations. The variables in the dataset include the number of punches, the intensity level of punches, the target area of punches, the round number, the outcome, and the boxer's winning status. The outcome variable denotes whether the boxer won or lost the match, while the winning status indicates the boxer's overall history of victories and losses. The dataset is used for analyzing the boxing performance of different boxers, considering various factors like punch intensity and target area. It provides valuable insights into the sport, aiding researchers in understanding the factors that contribute to a boxer's success or failure.

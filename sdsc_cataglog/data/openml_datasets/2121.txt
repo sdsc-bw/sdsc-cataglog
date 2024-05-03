@@ -1,0 +1,3 @@
+name: QSAR-TID-11049
+dataset_id: 4107.0
+description: The dataset QSAR-TID-11049 is a collection of chemical compounds with their associated biological activity against a specific target. It consists of 4,473 compounds, each represented by 1,067 molecular descriptors. These descriptors include information about the chemical structure, electronic properties, and topological features of the compounds. The dataset is labeled with binary values indicating the compounds' activity, where 1 represents active compounds and 0 represents inactive ones. QSAR-TID-11049 was created with the aim of developing models to predict the biological activity of unknown compounds based on their molecular descriptors, facilitating drug discovery and design processes.

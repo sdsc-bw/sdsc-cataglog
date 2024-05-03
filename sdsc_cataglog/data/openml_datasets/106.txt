@@ -1,0 +1,3 @@
+name: breastTumor
+dataset_id: 224.0
+description: The dataset breastTumor contains information about breast cancer tumors, collected through mammography examinations of patients. It consists of 569 instances and 32 attributes, including clinical features and the diagnosis outcome (i.e., malignant or benign). Each instance has a unique ID, and the attributes provide numerical and categorical data such as radius, texture, perimeter, smoothness, and more. The dataset is widely used for classification tasks, aiming to predict the likelihood of a tumor being malignant or benign. It has been used in research to develop machine learning algorithms for breast cancer diagnosis.

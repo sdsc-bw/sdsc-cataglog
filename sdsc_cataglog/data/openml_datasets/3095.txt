@@ -1,0 +1,3 @@
+name: chronic-kidney-disease
+dataset_id: 42972.0
+description: The chronic-kidney-disease dataset contains information on various attributes related to patients suffering from chronic kidney disease. It consists of a total of 400 instances and 25 features, including age, blood pressure levels, serum creatinine levels, blood glucose levels, and red blood cell count. The dataset also includes a class column indicating whether a patient has chronic kidney disease or not. Missing values are denoted with a question mark. The dataset aims to provide a valuable resource for analyzing and predicting chronic kidney disease, aiding in the development of diagnostic tools and treatments for this condition.

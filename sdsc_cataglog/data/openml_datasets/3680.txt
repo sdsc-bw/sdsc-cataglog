@@ -1,0 +1,3 @@
+name: Breast-Cancer-Wisconsin-(Prognostic)-Data-Set
+dataset_id: 43757.0
+description: The Breast-Cancer-Wisconsin-(Prognostic)-Data-Set is a dataset that contains information related to breast cancer cases. It consists of a total of 699 instances with 9 attributes. The dataset was obtained from Dr. William H. Wolberg at the University of Wisconsin Hospital, and it was created to aid in cancer diagnosis and prognosis. The attributes include various measurements such as the size and shape of the tumor, as well as other clinical features. The dataset does not contain missing values, and it is commonly used for predictive modeling and classification tasks in the field of breast cancer research.

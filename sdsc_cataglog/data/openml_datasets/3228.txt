@@ -1,0 +1,3 @@
+name: Darshana
+dataset_id: 43262.0
+description: The dataset Darshana provides a wide range of information on the characteristics, behaviors, and demographics of a group of individuals. It includes data collected from various sources, such as surveys, interviews, and observations, to offer insights into their preferences, habits, and opinions. The dataset covers multiple aspects, including social, economic, and cultural factors, allowing researchers to analyze patterns, trends, and correlations. Darshana dataset is extensive and diverse, enabling comprehensive research in fields like sociology, psychology, marketing, and public policy. It provides a valuable resource for studying human behavior and decision-making processes in various settings and contexts.

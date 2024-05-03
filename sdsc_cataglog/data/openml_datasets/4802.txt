@@ -1,0 +1,3 @@
+name: mildew_7
+dataset_id: 45160.0
+description: The dataset mildew_7 contains information about the occurrence of mildew in seven different regions in a country, over a period of time. It includes data on the month, year, region, and number of mildew cases recorded. The dataset offers insights into the distribution and prevalence of mildew across different regions and can be used to analyze patterns and trends. Researchers can study the impact of specific factors such as weather conditions, agricultural practices, or geographical location on the occurrence of mildew. By analyzing this dataset, one can gain a better understanding of the factors influencing mildew outbreaks and develop strategies to prevent or manage them effectively.

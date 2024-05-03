@@ -1,0 +1,3 @@
+name: seismic-bumps
+dataset_id: 1500.0
+description: The dataset seismic-bumps contains information about seismic activity and the occurrence of bumps in a coal mine. It consists of 2584 instances with 19 attributes, including attributes related to the seismic activity, location, and time of occurrence. The dataset is imbalanced, as only 170 instances have a positive label for the presence of bumps. The majority of instances belong to the negative class, indicating no bumps. The dataset is useful for classification tasks, and various machine learning algorithms can be applied to predict the presence of bumps based on the available attributes, contributing to the safety of mining operations.

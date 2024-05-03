@@ -1,0 +1,3 @@
+name: WorkersCompensation
+dataset_id: 42876.0
+description: The WorkersCompensation dataset contains information about workers who have filed for or received compensation for work-related injuries or illnesses. It includes details such as the type of injury or illness, the body part affected, the industry in which the worker is employed, and the amount of compensation received. The dataset also provides information on the employer, the claim administrator, and the specific date of the claim. It covers a wide range of industries, including manufacturing, construction, healthcare, and transportation. The dataset is continually updated with new claims and serves as a valuable resource for analyzing trends in workplace injuries and compensation.

@@ -1,0 +1,3 @@
+name: hill-valley
+dataset_id: 1479.0
+description: The hill-valley dataset is a collection of data points representing two classes in a binary classification problem. It consists of 1212 instances with 100 attributes. Each attribute signifies a feature of the data point. The dataset was created to test algorithms for detecting and classifying patterns. It is non-linearly separable, meaning the classes cannot be perfectly distinguished using a straight line. The hill-valley dataset is commonly used for benchmarking machine learning algorithms and evaluating their performance in classification tasks. Overall, it provides a realistic and challenging environment to analyze and improve classification techniques.

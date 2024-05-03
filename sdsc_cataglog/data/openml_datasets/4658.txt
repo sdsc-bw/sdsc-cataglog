@@ -1,0 +1,3 @@
+name: jannis
+dataset_id: 45014.0
+description: The dataset "jannis" contains information about a person named Jannis. This dataset includes various details about Jannis, such as his age, gender, education level, occupation, and income. It also includes data about his family, such as the number of children he has and whether he is married. Additionally, the dataset provides information on Jannis' location, such as his current city and the country he resides in. There may be additional variables in the dataset that further describe Jannis' characteristics and circumstances. Overall, jannis dataset offers a comprehensive profile of Jannis and his life.

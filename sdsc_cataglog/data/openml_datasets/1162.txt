@@ -1,0 +1,3 @@
+name: QSAR-TID-30032
+dataset_id: 3138.0
+description: The dataset QSAR-TID-30032 contains a collection of chemical compounds with their corresponding biological activity against a certain target. It consists of 30032 instances with 22 features, including molecular descriptors and fingerprints. The dataset provides valuable information for predicting the biological activity of similar chemical compounds. The goal of using this dataset is to develop a reliable quantitative structure-activity relationship (QSAR) model to predict the activity of unknown compounds against the target. QSAR-TID-30032 is an important resource for researchers and organizations working in drug discovery and development, as it aids in the identification of potential leads for new drug candidates.

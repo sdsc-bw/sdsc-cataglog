@@ -1,0 +1,3 @@
+name: QSAR-TID-101078
+dataset_id: 3858.0
+description: The QSAR-TID-101078 dataset contains information about chemical compounds and their corresponding biological activities. It consists of 5247 chemical compounds with varying levels of potency against a specific protein target. The dataset includes 41 molecular descriptors that were calculated for each compound, providing insights into their structural and physicochemical properties. The biological activities of the compounds are represented as IC50 values, which indicate the concentration at which the compound inhibits the protein target by 50%. This dataset aims to enable the development of predictive models to identify potent compounds using machine learning algorithms.

@@ -1,0 +1,3 @@
+name: porto-seguro
+dataset_id: 42206.0
+description: The dataset porto-seguro is a collection of anonymized data from a Brazilian insurance company. It includes information about customer demographics, vehicle and insurance policies. The dataset contains a binary target variable that indicates whether a customer made an insurance claim or not. The main aim of the dataset is to predict the probability of a customer making a claim in the future. The data is highly imbalanced, with a majority of customers not making any claims. Various machine learning techniques and algorithms can be applied to this dataset to develop predictive models for insurance claim prediction.

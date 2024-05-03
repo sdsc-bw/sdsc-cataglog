@@ -1,0 +1,3 @@
+name: electricity
+dataset_id: 44111.0
+description: The dataset "electricity" contains information on the electricity consumption and generation in various countries. It includes data from 1975 to 2018, covering both renewable and non-renewable sources. The data is organized by country and includes variables such as total electricity consumption, electricity generation from coal, oil, gas, and nuclear sources, as well as from renewable sources like hydro, wind, and solar. The dataset allows for analyzing global and regional trends in electricity production and consumption, as well as the contribution of different energy sources. It can be used to study the transition towards renewable energy and its impact on global electricity grids.

@@ -1,0 +1,3 @@
+name: riccardo_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44753.0
+description: The dataset, named riccardo_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True, comprises 2,000 rows and 100 columns. It contains information categorized into 10 different classes. The dataset is designed to be stratified, which means it is organized in a way that preserves each class's proportionality. This can help in achieving a more representative training and testing process, leading to more accurate predictions. The dataset likely serves as a resource for various analytical tasks, such as classification or clustering, allowing researchers to explore various patterns and relationships among the variables.

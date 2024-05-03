@@ -1,0 +1,3 @@
+name: okcupid_stem
+dataset_id: 45067.0
+description: The dataset "okcupid_stem" contains a collection of about 60,000 unique OkCupid profiles, consisting of self-reported information such as user essays, questionnaires, and match percentages. The data is in CSV format and includes various attributes like age, gender, ethnicity, location, education, and lifestyle preferences. Each profile is associated with a unique username. The dataset has been processed using natural language processing techniques, where the essay text has been stemmed, converting words to their root form. This dataset can be useful for studying and analyzing user behavior, preferences, and linguistic patterns in the context of online dating.

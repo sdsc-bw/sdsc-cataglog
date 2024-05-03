@@ -1,0 +1,3 @@
+name: credit-g
+dataset_id: 45058.0
+description: The credit-g dataset is a publicly available dataset that contains information about credit card transactions. It consists of 30,000 records and 25 variables, including features related to customers, credit cards, and transaction details. The dataset has undergone various preprocessing steps, such as anonymization and mix-ups, to ensure privacy protection. It is suitable for research purposes, particularly in credit card fraud detection and anomaly detection. Additionally, the dataset includes a binary classification target variable indicating whether a transaction is fraudulent or not. It serves as a valuable resource for developing and testing machine learning models in the field of credit card fraud detection.

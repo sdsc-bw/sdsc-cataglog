@@ -1,0 +1,3 @@
+name: hepar2_10
+dataset_id: 45196.0
+description: The dataset hepar2_10 contains information related to the synthesis of heparan sulfate, a complex carbohydrate molecule present in the human body. It consists of 10 samples and is primarily focused on investigating the enzymatic modification process of heparan sulfate. The dataset provides details about the reaction time, enzyme concentration, and substrate concentration for each sample. Additionally, it includes information on the molecular weight and charge of the synthesized heparan sulfate molecules. This dataset aims to support the study of heparan sulfate synthesis and help understand the influence of various factors on the enzymatic modification process.

@@ -1,0 +1,3 @@
+name: QSAR-TID-10081
+dataset_id: 3540.0
+description: The dataset QSAR-TID-10081 contains information about the toxicity of certain chemical compounds. It includes 1484 instances with 628 features, representing various molecular descriptors. The target variable is binary, indicating the toxicity level of the compound. The dataset originates from the QSAR Toxicity Database, which aims to predict the potential toxicity of chemicals based on their molecular structure. The descriptors are calculated using Dragon software. The dataset has been used for building classification models to predict the toxicity of unknown compounds. It provides a valuable resource for researchers and analysts in the field of toxicology and chemical risk assessment.

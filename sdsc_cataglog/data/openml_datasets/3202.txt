@@ -1,0 +1,3 @@
+name: lizards_dataset
+dataset_id: 43162.0
+description: The lizards_dataset is a dataset that contains information about several species of lizards. It includes various attributes such as the length of their body and tail, the width of their head, and the weight of the lizard. The dataset also includes information about the sex of the lizard, its species, and the location where it was found. The data is collected from different regions and represents a diverse set of lizard species. This dataset can be used to analyze the physical characteristics and population distribution of lizards, as well as study the relationship between their characteristics and the environment they inhabit.

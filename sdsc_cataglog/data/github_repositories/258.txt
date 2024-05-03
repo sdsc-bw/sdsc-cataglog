@@ -1,0 +1,3 @@
+repo_name: aim
+link: https://github.com/aimhubio/aim
+description: Aim is an open-source, self-hosted AI Metadata tracking tool designed to handle 100,000s of tracked metadata sequences. Aim provides a performant and beautiful UI for exploring and comparing metadata such as training runs or agents executions. Additionally, its SDK enables programmatic access to tracked metadata — perfect for automations and Jupyter Notebook analysis. Aim's mission is to democratize AI dev tools 🎯 and the aim logs all your AI metadata, enables a UI to observe/compare them, and an SDK to query them programmatically.

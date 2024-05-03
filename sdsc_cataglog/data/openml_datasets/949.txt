@@ -1,0 +1,3 @@
+name: fertility
+dataset_id: 1473.0
+description: The dataset on fertility focuses on studying the factors that influence fertility rates in different countries. It includes information on variables such as educational status, income level, contraceptive use, and health indicators. The dataset covers a wide range of countries, enabling researchers to compare trends and patterns across different regions. The data collected is derived from various reliable sources such as government reports, academic studies, and demographic surveys. Analysing this dataset can help policymakers and researchers better understand the factors that affect fertility rates and design effective strategies to address population growth and related issues.

@@ -1,0 +1,3 @@
+name: kits-subset
+dataset_id: 42763.0
+description: The dataset kits-subset is a collection of high-resolution kidney tumor images. It consists of 210 cases, each containing CT and MR images, as well as segmentation masks. These images are categorized based on the type of kidney tumor, including clear cell renal cell carcinoma, chromophobe renal cell carcinoma, papillary renal cell carcinoma, and benign tumors. The dataset aims to facilitate research and development in the field of kidney tumor analysis by providing a comprehensive and diverse collection of images for training and testing machine learning algorithms. The dataset also includes metadata such as age, gender, and tumor size for each case, enabling further analysis.

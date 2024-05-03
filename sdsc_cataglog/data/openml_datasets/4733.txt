@@ -1,0 +1,3 @@
+name: GLI
+dataset_id: 45089.0
+description: The dataset GLI is a comprehensive database that combines global light emission data from various satellite sensors, providing information on artificial nighttime lights. It covers a wide range of years and can be used to study patterns and changes in light pollution globally. The data is available at different spatial resolutions, from country-level to detailed grids, allowing researchers to analyze different scales of light emission. GLI also provides calibrated radiance values, enabling comparisons across different locations and time periods. It is a valuable resource for understanding the impact of artificial light on the environment, health, and other aspects of society.

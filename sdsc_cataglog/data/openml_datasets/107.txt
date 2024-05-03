@@ -1,0 +1,3 @@
+name: puma8NH
+dataset_id: 225.0
+description: Puma8NH is a dataset used in machine learning research. It consists of 8 input variables and 3086 instances. The dataset aims to predict the continuous response variable, representing the performance of a network application. The input variables include various metrics such as CPU utilization, input/output data rates, and packet counts. The dataset was collected over a period of time, and each instance represents a unique observation. It serves as a testbed for evaluating and comparing different algorithms for network performance prediction. The dataset is publicly available and has been used in multiple studies to analyze network behavior and develop prediction models.

@@ -1,0 +1,3 @@
+name: QSAR-TID-12790
+dataset_id: 3639.0
+description: The dataset QSAR-TID-12790 contains information about 101 compounds and their corresponding IC50 values. It was used to train a model for predicting IC50 values of new compounds. The dataset includes features like molecular weight, logP, hydrogen bond donor count, and several others. The IC50 values represent the concentration of a compound needed to inhibit 50% of enzyme activity. The dataset is publicly available and can be used to evaluate different quantitative structure-activity relationship (QSAR) models for predicting IC50 values. Results obtained from this dataset can be used in drug discovery and design processes.

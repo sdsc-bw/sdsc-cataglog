@@ -1,0 +1,3 @@
+name: QSAR-TID-30025
+dataset_id: 3649.0
+description: The QSAR-TID-30025 dataset is a collection of chemical compounds with associated biological activity values. It contains information on 573 compounds, each represented by 26 molecular descriptors. The target variable is the biological activity value, representing the inhibition of the Escherichia coli (E. coli) bacteria growth. The dataset aims to support Quantitative Structure-Activity Relationship (QSAR) modeling and prediction tasks. It can be used to develop models that relate the chemical properties of compounds to their biological activity, helping researchers in drug discovery and toxicity analysis. The data is openly available and can be used for various scientific investigations.

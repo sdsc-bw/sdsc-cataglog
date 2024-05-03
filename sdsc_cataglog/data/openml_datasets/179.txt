@@ -1,0 +1,3 @@
+name: tsutumi
+dataset_id: 417.0
+description: The dataset "tsutumi" contains information about the Tsunami Data of Tsunami Run-ups by the National Geophysical Data Center (NGDC). It includes data from various tsunamis that occurred between 1600 and 2012. The dataset includes details such as the tsunami event ID, event name, the year it occurred, and the type of earthquake that triggered the tsunami. Additional information includes the maximum run-up height measured, the location coordinates, and the magnitude of the earthquake. The dataset allows researchers to analyze and study the characteristics of tsunamis over a wide range of years and geographical locations.

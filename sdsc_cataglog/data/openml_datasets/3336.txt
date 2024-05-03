@@ -1,0 +1,3 @@
+name: Red-Wine-data-set
+dataset_id: 43406.0
+description: The Red-Wine-data-set is a dataset containing various attributes related to red wine quality. It consists of 1599 instances and 11 attributes that describe the properties of the wines. The attributes include acidity levels, sugar content, pH, and alcohol percentage, among others. The dataset is widely used in machine learning and data analysis tasks to predict the quality of red wines based on these attributes. It is often used to train and test models to determine the relationship between these factors and the perceived quality of the wine.

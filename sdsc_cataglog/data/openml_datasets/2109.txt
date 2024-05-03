@@ -1,0 +1,3 @@
+name: QSAR-TID-10355
+dataset_id: 4095.0
+description: QSAR-TID-10355 is a dataset that contains information on the biological activity of chemical compounds. The dataset consists of 15,307 instances, each described by 214 molecular descriptors. The compounds belong to different classes based on their activity as inhibitors of cyclin-dependent kinase 2. The dataset was created to develop quantitative structure-activity relationship (QSAR) models to predict the biological activity of new compounds. The dataset features a balanced distribution of compounds across the activity classes, making it suitable for training and evaluating QSAR models. Overall, QSAR-TID-10355 serves as a valuable resource for researchers working in the field of drug discovery and molecular biology.

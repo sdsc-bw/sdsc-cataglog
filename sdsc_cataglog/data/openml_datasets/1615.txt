@@ -1,0 +1,3 @@
+name: QSAR-TID-10956
+dataset_id: 3600.0
+description: The dataset QSAR-TID-10956 is a collection of chemical compounds with corresponding quantitative structure-activity relationship (QSAR) data. It contains 10,956 instances with 1024 molecular descriptors and one binary outcome variable indicating the compounds' bioactivity. The dataset is derived from a study investigating the relationship between molecular structure and bioactivity for potential antitumor compounds. The descriptors include topological, constitutional, geometrical, electronic, and hydrophobic properties of the compounds. This dataset is publicly accessible and provides researchers an opportunity to explore and develop new QSAR models to predict bioactivity in drug discovery and other related fields.

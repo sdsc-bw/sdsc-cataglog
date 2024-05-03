@@ -1,0 +1,3 @@
+name: BOT-IoT
+dataset_id: 45279.0
+description: The dataset BOT-IoT contains network traffic patterns of different IoT devices, both normal and malicious. It was generated in a controlled environment with the purpose of studying the behavior of IoT devices under various attack scenarios. The dataset includes features related to network traffic, such as the source and destination IP addresses, the transport protocol used, and the size of packets. It also includes labels that classify the network traffic as benign or malicious. The dataset can be used for training and evaluating machine learning algorithms to detect and mitigate IoT-based cyber attacks, helping to improve the security of IoT systems.

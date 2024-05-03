@@ -1,0 +1,3 @@
+name: FOREX_euraud-hour-High
+dataset_id: 41835.0
+description: The dataset FOREX_euraud-hour-High contains information about high values of the EUR/AUD currency pair in the Forex market at hourly intervals. It consists of historical data that spans a significant period. This dataset is useful for analyzing trends, patterns, and volatility in the EUR/AUD exchange rate and can assist in making informed decisions regarding trading strategies. The high values recorded in this dataset can provide insights into market dynamics, such as resistance levels and potential breakouts. Researchers and traders can use this dataset to study the performance of the EUR/AUD pair and to develop forecasting models.

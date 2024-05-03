@@ -1,0 +1,3 @@
+name: sylva_prior
+dataset_id: 1040.0
+description: The dataset "sylva_prior" contains information about different tree species, specifically for trees in the prior stage of their growth. It includes data related to the species, location, and physical characteristics of the trees. The dataset also provides information about the associated species richness and abundance, indicating the biodiversity of the area. Additional attributes related to the vegetation and soil composition are incorporated, offering insights into the ecosystem. The dataset is valuable for ecological research and can be utilized to understand the dynamics of tree growth, species distribution, and the factors influencing biodiversity in forest environments.

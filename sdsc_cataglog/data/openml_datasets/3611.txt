@@ -1,0 +1,3 @@
+name: chronic-kidney-disease
+dataset_id: 43686.0
+description: The chronic-kidney-disease dataset consists of 400 instances. It includes both numerical and categorical attributes such as age, blood pressure, hemoglobin levels, albumin levels, and many others. The dataset contains missing values, which are denoted by question marks. The target variable is the classification of chronic kidney disease as either 'ckd' or 'notckd'. The majority of instances in the dataset belong to the 'ckd' class. The dataset has been used in various machine learning studies to develop models for accurate classification of chronic kidney disease. It serves as a valuable resource for research and analysis in the field of nephrology.

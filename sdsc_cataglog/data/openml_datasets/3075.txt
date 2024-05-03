@@ -1,0 +1,3 @@
+name: risk-factors-cervical
+dataset_id: 42911.0
+description: The dataset "risk-factors-cervical" includes demographic and behavioral risk factors related to cervical cancer. It comprises 31 attributes, including binary and continuous variables, such as age, number of sexual partners, smoking habits, and hormonal contraceptive usage. The dataset contains information from 858 patients, out of which 730 are classified as "Positive" for cervical cancer and 128 as "Negative." The aim of this dataset is to analyze the impact of these risk factors on the occurrence of cervical cancer, potentially leading to better prevention and early detection strategies.

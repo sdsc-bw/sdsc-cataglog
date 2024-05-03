@@ -1,0 +1,3 @@
+name: Click_prediction_small
+dataset_id: 1219.0
+description: The dataset Click_prediction_small contains data related to online advertisements and user clicks. It consists of over 1 million entries and contains information such as the ad feature vector, user demographic features, user ad click feedback, and the publisher website category. The dataset is primarily used for predicting whether a user will click on a particular ad. It provides an opportunity to explore and analyze user behavior and preferences in online advertising. The dataset is valuable for developing and evaluating machine learning models and algorithms in the fields of ad targeting, recommendation systems, and click-through rate prediction.

@@ -1,0 +1,3 @@
+name: Meta_Album_TEX_DTD_Extended
+dataset_id: 44328.0
+description: The dataset, Meta_Album_TEX_DTD_Extended, contains information about album covers in TEX format. It consists of 5,000 images of album covers categorized into 10 different genres. Each album cover is labeled with relevant metadata, such as artist name, album title, year of release, and genre. The dataset also includes additional extended metadata, like album tracklist, music genre tags, and an album summary. The purpose of this dataset is to facilitate research and development of algorithms related to album cover recognition and classification tasks. The dataset is freely available for academic use.

@@ -1,0 +1,3 @@
+name: QSAR-TID-260
+dataset_id: 3347.0
+description: The dataset QSAR-TID-260 comprises information on the biological activity of 260 molecules in relation to their potential use as antitumor agents. The dataset includes 2D and 3D descriptors, experimental and predicted IC50 values, and compound names. Each compound was classified into one of two classes, active or inactive, based on its IC50 value. The dataset provides valuable information for researchers studying the relationship between molecular structure and biological activity, specifically in the field of anticancer drug discovery.

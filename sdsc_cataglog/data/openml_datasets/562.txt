@@ -1,0 +1,3 @@
+name: diggle_table_a2
+dataset_id: 818.0
+description: The dataset diggle_table_a2 contains information about the survival times of 39 acute myelogenous leukemia patients. The data consists of three variables: time, status, and treatment. The time variable represents the survival time in weeks, the status variable indicates whether the patient was alive or dead at the end of the study, and the treatment variable denotes the type of treatment received by the patients. The dataset provides valuable information for studying the impact of different treatments on the survival rates of leukemia patients. The dataset is commonly used for statistical analysis and research in the medical field.

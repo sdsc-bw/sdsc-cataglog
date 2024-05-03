@@ -1,0 +1,3 @@
+name: QSAR-TID-11602
+dataset_id: 4060.0
+description: The dataset QSAR-TID-11602 is a collection of molecular descriptors and their corresponding target values for a set of chemical compounds. The molecular descriptors represent various characteristics of the compounds, such as shape, size, and connectivity. The target values provide information about the biological activity or toxicity of the compounds. The dataset aims to facilitate the development of quantitative structure-activity relationship (QSAR) models, which are used to predict the activity or toxicity of new compounds based on their molecular features. The availability of this dataset allows researchers to explore and develop new methods for predicting the bioactivity of chemical compounds.

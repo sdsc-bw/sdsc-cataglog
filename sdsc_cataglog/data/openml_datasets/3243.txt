@@ -1,0 +1,3 @@
+name: Used-Cars-Dataset
+dataset_id: 43306.0
+description: The Used-Cars-Dataset is a collection of data related to used cars, including various attributes such as brand, model, year, mileage, price, and location. The dataset contains information on over 370,000 used cars, making it a comprehensive resource for analyzing the used car market. With this dataset, researchers and analysts can explore trends, patterns, and relationships between different variables to gain insights into the used car industry. The dataset is valuable for machine learning tasks, predictive modeling, and decision-making processes related to the buying and selling of used cars.

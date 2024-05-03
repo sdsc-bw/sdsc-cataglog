@@ -1,0 +1,3 @@
+name: fri_c4_250_10
+dataset_id: 863.0
+description: The dataset fri_c4_250_10 is a collection of text documents that have been labeled with one of ten different topics. It consists of 250 samples for each topic, resulting in a total of 2500 samples. The topics covered in the dataset include business, entertainment, politics, sport, tech, and more. Each sample is represented by a document ID, a label indicating the topic, and the corresponding text document. The dataset is suitable for tasks such as text classification, topic modeling, and sentiment analysis, allowing researchers and practitioners to train and evaluate machine learning models on a diverse range of text data.

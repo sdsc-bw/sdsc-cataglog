@@ -1,0 +1,3 @@
+name: chscase_vine2
+dataset_id: 814.0
+description: The dataset chscase_vine2 contains information on a social media platform called VINE2. It includes data from over 340,000 VINE2 users and their activities on the platform. The dataset provides various attributes for each user, such as the number of followers, the number of likes given and received, and the number of comments made. It also includes information on the content types of posts made by users, such as photos, videos, and captions. This dataset can be useful for analyzing user engagement and behavior on the VINE2 platform and conducting research on social media usage and trends.

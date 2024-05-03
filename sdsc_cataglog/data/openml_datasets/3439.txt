@@ -1,0 +1,3 @@
+name: Egg-Producing-Chickens
+dataset_id: 43515.0
+description: Egg-Producing-Chickens is a dataset that consists of records related to the egg production of various chicken breeds. The dataset contains information such as the breed of the chicken, the number of hens, and the average number of eggs produced in a year. Each record represents a specific chicken breed and includes data from different locations and years. The dataset aims to provide insights into the egg production capabilities of different chicken breeds, helping researchers and farmers make informed decisions regarding breeding and farming practices. It allows for analyzing trends, identifying high-performing breeds, and optimizing egg production strategies.

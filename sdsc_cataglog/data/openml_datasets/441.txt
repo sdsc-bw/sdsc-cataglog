@@ -1,0 +1,3 @@
+name: diggle_table_a1
+dataset_id: 693.0
+description: The dataset diggle_table_a1 consists of data related to a study on the effectiveness of two different insecticides, A and B, for the control of pests. The study was conducted on multiple sites, each representing a different agricultural field. The data includes variables such as the number of pests, average temperature, rainfall, and humidity at each site. The objective of the study was to determine which insecticide was more successful in controlling the pests based on these variables. The dataset also contains information about the timing and frequency of insecticide applications, which will be taken into consideration during the analysis.

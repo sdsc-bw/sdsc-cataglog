@@ -1,0 +1,3 @@
+name: QSAR-TID-12959
+dataset_id: 3066.0
+description: QSAR-TID-12959 is a dataset consisting of 5,659 chemical compounds, each represented by 802 molecular descriptors. The dataset was created to assess various properties of the chemical compounds and their biological activities. The biological activities were measured through a mammalian toxicological endpoint, namely the toxic concentration effective for 50% of organisms (TC50). The dataset aims to predict the TC50 values based on the molecular descriptors, allowing for the identification of potential toxic compounds. QSAR-TID-12959 is a valuable resource for researchers interested in computational toxicology and chemical safety assessments.

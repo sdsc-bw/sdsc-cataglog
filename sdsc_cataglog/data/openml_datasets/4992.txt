@@ -1,0 +1,3 @@
+name: timing-attack-dataset-30-micro-seconds-delay-2022-09-14
+dataset_id: 45520.0
+description: The dataset named "timing-attack-dataset-30-micro-seconds-delay-2022-09-14" is created for the purpose of studying timing attacks. It consists of data recorded from a system with a 30 micro-seconds delay. The dataset seems to be time-bound and is expected to be available by September 14, 2022. The specifics of the data, such as the size and format, are not mentioned in the sentences. However, it can be inferred that the dataset will provide valuable information for analyzing and understanding timing attacks.

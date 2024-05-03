@@ -1,0 +1,3 @@
+name: Test_3vectors_num
+dataset_id: 42489.0
+description: The dataset Test_3vectors_num consists of numerical data stored in three separate vectors. The first vector represents the age of individuals, the second vector represents their income, and the third vector represents their education level. The dataset contains information about a diverse group of individuals and provides quantitative measures for age, income, and education. It is likely that this dataset can be used for various analytical purposes, such as studying the relationship between age, income, and education or making predictions based on these variables. The dataset Test_3vectors_num holds valuable information for statistical analysis and can be a useful resource for researchers and analysts.

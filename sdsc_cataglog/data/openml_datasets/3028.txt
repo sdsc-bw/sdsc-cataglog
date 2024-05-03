@@ -1,0 +1,3 @@
+name: kits-subset
+dataset_id: 42766.0
+description: The dataset kits-subset is a collection of images and annotations that aims to facilitate research and development of computer vision algorithms for object detection and recognition tasks. It consists of a diverse range of images captured from various scenes and viewpoints, containing multiple common objects such as cars, pedestrians, and bicycles. Each image in the dataset is annotated with bounding box annotations, providing information about the location and extent of objects in the image. The dataset is intended to serve as a benchmark for evaluating and comparing the performance of various object detection algorithms, aiding in the advancement of computer vision technology.

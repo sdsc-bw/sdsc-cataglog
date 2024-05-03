@@ -1,0 +1,3 @@
+name: pm10
+dataset_id: 750.0
+description: The dataset pm10 includes information related to the concentrations of particulate matter (PM10) in the atmosphere. It provides data on various locations and time periods, measuring the amount of PM10 particles present in the air. PM10 particles are less than or equal to 10 micrometers in size and can be harmful to human health when inhaled. The dataset allows for analysis of the levels of PM10 and their fluctuations, aiding in understanding air quality and potential health risks associated with particulate matter pollution. The data may be used for research, policy-making, and implementation of measures to mitigate PM10 pollution.

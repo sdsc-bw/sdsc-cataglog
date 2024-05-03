@@ -1,0 +1,3 @@
+name: QSAR-TID-11524
+dataset_id: 3294.0
+description: The dataset QSAR-TID-11524 comprises 41 molecular descriptors, including topological, geometrical, and constitutional descriptors of chemical compounds. It also contains the target variable, LogKOW, which represents the logarithm of the octanol-water partition coefficient, used to measure a compound's hydrophobicity. LogKOW is an essential property in pharmaceutical and environmental studies. The dataset was created to develop a quantitative structure-activity relationship (QSAR) model for predicting LogKOW values. It can prove useful in drug design, toxicity assessment, and environmental studies related to biodegradation, bioaccumulation, and ecological risk assessment of chemicals.

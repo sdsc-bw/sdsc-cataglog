@@ -1,0 +1,3 @@
+name: anneal
+dataset_id: 989.0
+description: The dataset "anneal" is used in the field of metallurgy to predict whether a metal would be a prime candidate for specific manufacturing processes. It consists of various attributes related to the chemical composition, physical properties, and manufacturing conditions of the metal. The dataset contains 38 columns, including 2 target variables for classification tasks. However, the dataset suffers from data sparsity, with many missing attribute values. It is known to have a relatively small sample size, consisting of only 898 instances. Despite these limitations, the anneal dataset continues to be used for research in the field of materials science and metallurgy.

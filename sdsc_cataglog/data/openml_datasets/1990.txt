@@ -1,0 +1,3 @@
+name: QSAR-TID-184
+dataset_id: 3976.0
+description: The dataset QSAR-TID-184 is a collection of chemical compounds that have been tested for their toxicity levels. It consists of 174 compounds, each represented by 10 molecular descriptors, which are numerical values used to quantify various chemical properties. The toxicity levels of these compounds have been measured on a scale of 0 to 3, with 0 representing non-toxic and 3 being highly toxic. The dataset aims to facilitate the development of models and algorithms to predict the toxicity levels of new compounds based on their molecular descriptors. It serves as a valuable resource for researchers in the field of toxicology and drug discovery.

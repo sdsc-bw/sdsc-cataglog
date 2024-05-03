@@ -1,0 +1,3 @@
+name: sgemm-gpu-kernel
+dataset_id: 42963.0
+description: The sgemm-gpu-kernel dataset contains performance measurements for a matrix-matrix multiplication kernel on a GPU. The dataset has 24 attributes that describe the characteristics of the kernel, including the sizes of the matrices, the thread block size, and the number of registers used. The dataset also includes four performance metrics: time taken for execution, achieved occupancy, half precision flop count, and single precision flop count. The purpose of the dataset is to analyze the relationship between the attributes and the performance metrics, and to develop prediction models for the execution time. The dataset can be useful for optimizing GPU performance in matrix operations.

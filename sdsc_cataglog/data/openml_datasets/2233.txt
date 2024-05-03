@@ -1,0 +1,3 @@
+name: analcatdata_fraud
+dataset_id: 40660.0
+description: The dataset analcatdata_fraud is a collection of data representing fraudulent credit card transactions. It contains 181 observations with 7 attributes, including the transaction date, transaction amount, and a variety of other features related to the transaction. The dataset aims to provide insight into the patterns and characteristics of fraudulent activities in credit card transactions. It is used for fraud detection and prevention purposes, enabling researchers and analysts to develop algorithms and models to identify and mitigate fraudulent transactions. The dataset is crucial in understanding the evolving nature of fraud in the financial sector and devising effective strategies to combat it.

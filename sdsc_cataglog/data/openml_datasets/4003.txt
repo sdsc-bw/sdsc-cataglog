@@ -1,0 +1,3 @@
+name: Brazilian_houses
+dataset_id: 44141.0
+description: The Brazilian_houses dataset consists of information about various houses in Brazil. The dataset provides details such as the number of rooms, parking spaces, bathrooms, and bedrooms, as well as information about the location, area, and type of property. The dataset also includes variables related to house prices, such as the price per square meter and the sale price. With over 21,000 records, the dataset offers a comprehensive view of the Brazilian housing market. This dataset can be used for various purposes, including analyzing trends, predicting house prices, and gaining insights into the real estate market in Brazil.

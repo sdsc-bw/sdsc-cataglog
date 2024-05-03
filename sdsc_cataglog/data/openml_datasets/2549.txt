@@ -1,0 +1,3 @@
+name: FOREX_euraud-minute-Close
+dataset_id: 41814.0
+description: The dataset FOREX_euraud-minute-Close contains minute-by-minute closing prices of the currency pair EUR/AUD in the foreign exchange market. The dataset provides information on the closing price of the currency pair for each minute over a given period. It is commonly used by traders and analysts to analyze price movements and patterns in the EUR/AUD exchange rate. The dataset is in a tabular format, with each row representing a specific minute and the corresponding closing price. It is a valuable resource for conducting statistical analysis, building predictive models, and making informed trading decisions in the forex market.

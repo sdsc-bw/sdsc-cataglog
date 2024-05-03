@@ -1,0 +1,3 @@
+name: Perth-House-Prices
+dataset_id: 43822.0
+description: Perth-House-Prices is a dataset that records the prices of houses in Perth, Australia. The dataset consists of various attributes including the price, location, number of bedrooms, bathrooms, and parking spaces, along with additional details like the property type, suburb, and the date the house was sold. The data covers a diverse range of house prices from different suburbs and property types. The dataset provides a comprehensive view of the housing market in Perth and can be used for various analyses and predictive modeling tasks related to real estate and economics.

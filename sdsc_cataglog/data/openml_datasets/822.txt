@@ -1,0 +1,3 @@
+name: Crash
+dataset_id: 1092.0
+description: The dataset Crash contains information about various traffic accidents in the United States. It includes details such as the date, time, location, and severity of the crashes. The dataset also provides information on the types of vehicles involved, contributing factors, and demographics of the individuals affected. Additionally, it records information related to injuries, fatalities, and property damage resulting from the accidents. This comprehensive dataset serves as a valuable resource for studying and analyzing traffic accidents to enhance road safety measures and develop strategies for preventing future incidents.

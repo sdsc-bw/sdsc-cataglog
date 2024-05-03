@@ -1,0 +1,3 @@
+name: QSAR-TID-101464
+dataset_id: 3213.0
+description: The dataset QSAR-TID-101464 contains information about the toxicity of various drugs. It consists of 1,017 instances with 41 attributes, including 40 molecular descriptors and one target variable representing the toxic activity. The data was collected using various computational chemistry algorithms and software tools. The goal is to develop a predictive model that can determine the toxic activity of new drugs based on their molecular properties. The dataset has been preprocessed, and missing values have been removed. It is freely available for research purposes and can be used to explore the relationship between molecular properties and drug toxicity.

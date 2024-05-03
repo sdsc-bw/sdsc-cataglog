@@ -1,0 +1,3 @@
+name: Code_Smells_Data_Class
+dataset_id: 43079.0
+description: The dataset Code_Smells_Data_Class is used to analyze code smells present in object-oriented programming languages. It consists of 33,093 instances, each representing a data class in different software systems. The dataset was collected by analyzing open-source projects written in Java, C++, and C#. It contains various features such as class name, number of methods, lines of code, number of fields, and number of comments. Four types of code smells are identified in the dataset: Blob, Data Class, Complex Class, and Spaghetti Code. The dataset aims to facilitate code smell research and provide a basis for developing automated code smell detection tools.

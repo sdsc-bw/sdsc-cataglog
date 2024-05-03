@@ -1,0 +1,3 @@
+name: fri_c0_1000_25
+dataset_id: 849.0
+description: The dataset fri_c0_1000_25 is 25-dimensional and consists of 1000 instances. The data is primarily focused on analyzing synthetic data related to patterns of relationships between variables. The dataset aims to explore the relationships between various features, such as area, circumference, and compactness. It contains information about a variety of shape measurements and is intended for use in machine learning and data analysis tasks. The data in fri_c0_1000_25 can be utilized to gain insights into pattern recognition, classification, and clustering algorithms, providing valuable benchmarking material for researchers and practitioners in the field.

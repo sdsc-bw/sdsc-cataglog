@@ -1,0 +1,3 @@
+name: ada_prior
+dataset_id: 1037.0
+description: The dataset ada_prior contains information on a student's prior academic performance in the Ada program. It includes fields such as student_id, date, and grade. The dataset consists of 1000 entries and does not contain any missing values. The date variable is in the format of year-month-day. Each student in the dataset has an associated student_id, and their prior academic performance is represented by their grade. The dataset ada_prior is a comprehensive record of each student's academic history in the Ada program, allowing for analysis and evaluation of their progress over time.

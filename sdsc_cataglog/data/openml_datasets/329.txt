@@ -1,0 +1,3 @@
+name: kdd_coil_7
+dataset_id: 578.0
+description: The KDD COIL-7 dataset is a widely-used benchmark dataset in machine learning research. It consists of 7 classes of handwritten digits, with around 7200 samples in total. The dataset is preprocessed into a 128-dimensional feature vector using the Gabor wavelet transformation. The features are extracted from the segmentation of digit images, resulting in a compact and informative representation. This dataset is commonly used for pattern recognition tasks, such as character recognition. It provides researchers with a well-documented and standardized dataset for evaluating and comparing different algorithms and techniques in the field of machine learning.

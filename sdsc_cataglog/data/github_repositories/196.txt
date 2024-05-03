@@ -1,0 +1,3 @@
+repo_name: textfool
+link: https://github.com/bogdan-kulynych/textfool
+description: This text is about textfool, a proof-of-concept project for producing "imperceptible" adversarial examples for text classifiers. It includes instructions for installing the necessary dependencies, running the training and crafting scripts, and provides examples of paraphrasing. It is important to note that this work is not published or peer-reviewed, and has no relationship to "Deep Text Classification Can be Fooled" by B. Liang, H. Li, M. Su, P. Bian, X. Li, and W. Shi.

@@ -1,0 +1,3 @@
+name: QSAR-TID-10273
+dataset_id: 3425.0
+description: The QSAR-TID-10273 dataset contains information regarding the biological activity of a set of compounds. It consists of 1055 instances, each representing a different molecule with various attributes such as molecular descriptors, chemical and physicochemical properties. The dataset focuses on predicting the toxicity of the compounds against a specific biological target. The objective is to develop a quantitative structure-activity relationship (QSAR) model that can estimate the toxicity of new compounds based on their structural features and properties. This dataset is valuable for the development of predictive models and drug design in the field of toxicology.

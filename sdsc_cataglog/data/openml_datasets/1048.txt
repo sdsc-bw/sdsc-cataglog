@@ -1,0 +1,3 @@
+name: w3a
+dataset_id: 1583.0
+description: The dataset w3a is a collection of web pages that were automatically crawled and extracted from the World Wide Web. It contains over 500,000 web pages from different domains, including news, government, and commercial websites. The dataset includes various attributes of each webpage, such as the URL, title, text content, and other metadata. It is suitable for research purposes, including web page classification, sentiment analysis, and content recommendation systems. Additionally, the dataset provides a valuable resource for studying web page structure, navigation, and user behavior on the web.

@@ -1,0 +1,3 @@
+name: Pantheon-Project-Historical-Popularity-Index
+dataset_id: 43703.0
+description: The Pantheon-Project-Historical-Popularity-Index dataset is a compilation of data concerning the popularity of historical figures. It includes various factors such as profession, gender, country of origin, and long-term historical impact. The dataset contains information on over 11,000 historical figures across different time periods, regions, and occupations. The dataset is intended to provide insights into the patterns of popularity and longevity of historical figures, allowing for the analysis of different factors contributing to their recognition and influence. It serves as a valuable resource for researchers studying the dynamics of fame and historical significance.

@@ -1,0 +1,3 @@
+name: weather_ankara
+dataset_id: 42368.0
+description: The weather_ankara dataset contains weather information about the city of Ankara. It includes data on various meteorological parameters such as temperature, humidity, wind speed, and precipitation. The dataset provides information for multiple years to analyze long-term weather patterns, and it is regularly updated to include the latest available data. The data can be used by researchers, climatologists, and weather enthusiasts to study climate trends, compare different seasons, and analyze the impact of weather conditions on the city. The dataset is valuable for forecasting, urban planning, and understanding the local climate of Ankara.

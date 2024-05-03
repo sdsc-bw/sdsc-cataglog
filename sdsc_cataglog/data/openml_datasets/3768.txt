@@ -1,0 +1,3 @@
+name: 400k-NYSE-random-investments--financial-ratios
+dataset_id: 43846.0
+description: The dataset 400k-NYSE-random-investments--financial-ratios contains financial ratios of random investments from the New York Stock Exchange (NYSE). It consists of approximately 400,000 records and was presumably collected for the purpose of analysis and research. The dataset focuses on providing insights into the financial performance of these investments, which could be beneficial for investors and analysts. Financial ratios are essential to evaluate business profitability, liquidity, and solvency. Therefore, this dataset could assist in assessing the financial health of NYSE investments and aid decision-making in various financial and investment-related domains.

@@ -1,0 +1,3 @@
+name: Bioresponse
+dataset_id: 45019.0
+description: The Bioresponse dataset is a collection of chemical compounds and their corresponding biological activities. It consists of 4,997 compounds, each described by 1776 binary molecular descriptors and labeled as either active or inactive. The dataset was created to support the development of predictive models for identifying compounds that might have a positive effect on biological processes, specifically those related to cancer research. It is derived from in vitro testing of compounds against a specific protein target. The dataset is widely used in machine learning and data mining research to explore various methods for bioactivity prediction and feature selection.

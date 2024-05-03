@@ -1,0 +1,3 @@
+name: QSAR-TID-11000
+dataset_id: 3625.0
+description: The dataset QSAR-TID-11000 contains information related to the quantitative structure-activity relationship (QSAR) of about 11,000 chemical compounds. It comprises 1024 molecular descriptors, which are numerical values representing different aspects of the compounds. The dataset includes the biological activity of each compound against specific targets, such as enzymes or receptors. It also provides information about the toxicological properties of the compounds. QSAR-TID-11000 is used to develop predictive models to evaluate the potential activity and toxicity of novel chemicals. The dataset has been made publicly available to facilitate further research in drug design, environmental chemistry, and related fields.

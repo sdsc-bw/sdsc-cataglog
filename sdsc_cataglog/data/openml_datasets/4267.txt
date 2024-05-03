@@ -1,0 +1,3 @@
+name: covertype_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44445.0
+description: The dataset covertype_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True contains information on cover types, with 2000 rows and 100 columns. The data is stratified into 10 classes. The dataset is likely to be representative as it uses stratification to ensure that each class is equally represented. The specific seed used to generate the dataset is seed_2, which implies that this dataset can be reproduced if the same random seed is used. Thus, this dataset provides a diverse and balanced representation of cover types for further analysis and modeling purposes.

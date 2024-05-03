@@ -1,0 +1,3 @@
+name: fri_c4_250_50
+dataset_id: 918.0
+description: The dataset fri_c4_250_50 is a corpus of sentence pairs collected from the news domain. It contains 250,000 sentence pairs in total, with each sentence pair consisting of a source sentence and its corresponding target sentence. The sentences are curated from different news articles and provide a wide range of topics and styles. The dataset is particularly useful for tasks such as natural language processing, machine translation, text generation, and sentence similarity. It is widely accessible for research purposes and can contribute to the development of various language models and algorithms.

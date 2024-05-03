@@ -1,0 +1,3 @@
+name: Minneapolis-Air-Quality-Survey
+dataset_id: 43747.0
+description: The Minneapolis-Air-Quality-Survey dataset focuses on monitoring and analyzing air quality in the city of Minneapolis, Minnesota. The dataset contains various attributes related to air quality, such as particulate matter (PM2.5) levels, temperature, humidity, and wind speed. The data was collected over a period of time, providing insights into the changes in air quality conditions. The dataset can be utilized to examine patterns, trends, and correlations between these air quality metrics. This dataset is valuable for researchers, policymakers, and environmentalists interested in understanding and improving air quality in Minneapolis.

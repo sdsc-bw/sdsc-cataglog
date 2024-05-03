@@ -1,0 +1,3 @@
+name: Pandas-QA-on-Stack-Overflow
+dataset_id: 43730.0
+description: The dataset "Pandas-QA-on-Stack-Overflow" comprises questions and answers related to the Python library "Pandas" posted on Stack Overflow. It contains information from May 1, 2008 to November 30, 2021. The dataset encompasses a wide range of topics, including data manipulation, analysis, and visualization using Pandas. It contains a total of 53 columns, providing valuable insights into the questions and answers' content, tags, user information, and post activity. This dataset is a valuable resource for analyzing trends, common issues, and solutions pertaining to Pandas on Stack Overflow over the past decade.

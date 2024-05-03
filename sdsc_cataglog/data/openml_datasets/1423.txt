@@ -1,0 +1,3 @@
+name: QSAR-TID-240
+dataset_id: 3403.0
+description: The dataset QSAR-TID-240 contains 240 chemical compounds that have been studied for their toxicology against Tetrahymena pyriformis, a type of single-celled organism. Each compound is described by 15 molecular descriptors, which are numerical values representing various physical and chemical properties. The toxicity of each compound is measured with a bioconcentration factor, which indicates how easily the compound accumulates in the organism's cells. The dataset aims to explore the relationship between the molecular descriptors and the toxicity of the compounds, providing valuable information for predicting the toxicological properties of new chemicals and aiding in the development of safer substances.

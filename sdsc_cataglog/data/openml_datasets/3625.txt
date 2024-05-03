@@ -1,0 +1,3 @@
+name: Contraceptive-Method-Choice
+dataset_id: 43701.0
+description: The dataset Contraceptive-Method-Choice consists of information about the contraceptive method used by women in Indonesia based on various socio-economic characteristics. It includes attributes such as age, education, religion, presence of children, household size, and wife's working status, among others. The dataset was collected through a survey where women were asked about their contraceptive method choice, and the data was then processed to ensure confidentiality. This dataset can be useful for analyzing factors that influence contraceptive method choice and for developing predictive models to understand and address family planning needs and educate women on various contraceptive options.

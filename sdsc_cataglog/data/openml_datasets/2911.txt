@@ -1,0 +1,3 @@
+name: demo_hate
+dataset_id: 42558.0
+description: The dataset 'demo_hate' is being used for monitoring hate speech and offensive content on the internet. It contains over 12,000 samples, primarily in the English language. The dataset is labeled, with each sample classified into one of the following categories: hate speech, offensive language, or neither. The sources of the data range from online social media platforms to news websites, providing a diverse range of content. It aims to assist in the development of machine learning models and algorithms to detect and combat hate speech, enabling the creation of safer online environments.

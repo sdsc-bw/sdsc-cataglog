@@ -1,0 +1,3 @@
+name: tecator
+dataset_id: 505.0
+description: Tecator is a dataset that contains information on the composition of different types of meat. It includes 215 samples with measurements of various attributes such as water content, protein content, and fat content. The dataset is commonly used to analyze and understand the quality of meat products. Each sample is labeled with the type of meat it represents, such as pork or beef. Researchers have used this dataset to develop models for predicting the composition of meat based on its attributes. The Tecator dataset has proven to be valuable in the field of food science and is frequently cited in related research studies.

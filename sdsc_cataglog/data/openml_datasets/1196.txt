@@ -1,0 +1,3 @@
+name: QSAR-TID-12950
+dataset_id: 3172.0
+description: The QSAR-TID-12950 dataset consists of 8,431 organic compounds, where each compound is represented by 208 molecular descriptors. This dataset aims to predict the acute aquatic toxicity of these compounds, which refers to their harmful effects on aquatic organisms. The toxicity is measured by the logarithm of the concentration (LC50) needed to cause the death of 50% of the exposed organisms within a specified time. The molecular descriptors in this dataset include information about the chemical structure and properties of the compounds. This dataset can be used for developing models and algorithms to accurately predict the toxic effects of organic compounds on aquatic organisms.

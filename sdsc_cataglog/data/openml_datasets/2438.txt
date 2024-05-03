@@ -1,0 +1,3 @@
+name: CPMP-2015-classification
+dataset_id: 41701.0
+description: The CPMP-2015-classification dataset consists of 904 minority class examples and 2,616 majority class instances in a binary classification problem. It encompasses various features that were preprocessed and recorded in a CSV file format. The dataset aims to aid in addressing imbalanced learning problems that commonly occur in the medical field. The relevance of this dataset lies in accurately classifying the minority class, as it represents a critical medical condition. To maintain simplicity, only basic preprocessing techniques were applied, with missing values eliminated. The dataset is publicly available and includes features such as age, gender, serum sodium, and creatinine levels, among others.

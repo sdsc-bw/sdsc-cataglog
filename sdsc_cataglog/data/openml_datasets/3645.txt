@@ -1,0 +1,3 @@
+name: Hotel-Reviews
+dataset_id: 43721.0
+description: The Hotel-Reviews dataset contains customer reviews from various hotels. It includes information about the reviewer, such as their nationality and age group, as well as details about the hotel, such as its location and category. The dataset also provides sentiment analysis, categorizing each review as positive, negative, or neutral. Additionally, it includes the overall score of the hotel and the average score given by reviewers. The dataset's purpose is to aid research in areas like opinion mining and sentiment analysis, allowing researchers to analyze customer feedback and evaluate hotel performance.

@@ -1,0 +1,3 @@
+name: arsenic-male-bladder
+dataset_id: 947.0
+description: The dataset named "arsenic-male-bladder" focuses on studying the impact of arsenic exposure on male bladder cancer risk. It contains detailed information about 98 patients diagnosed with bladder cancer, specifically their age, smoking status, arsenic level in water consumed, and the arsenic metabolite levels found in their urine samples. The dataset also classifies patients based on their tumor stage and grade. The purpose of the dataset is to explore the relationship between arsenic exposure and bladder cancer risk, as well as to identify any potential associations between arsenic metabolite levels and tumor characteristics.

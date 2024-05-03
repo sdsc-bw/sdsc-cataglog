@@ -1,0 +1,3 @@
+name: QSAR-TID-103800
+dataset_id: 3956.0
+description: The QSAR-TID-103800 dataset is a collection of chemical compounds with associated data on their ability to inhibit the Ebola virus. The dataset includes information on various physicochemical properties of the compounds, as well as their bioactivity against the Ebola virus. The compounds were experimentally tested for their ability to inhibit the virus, and the results are included in the dataset. This dataset is particularly useful for researchers in the field of drug discovery and development, as it provides valuable insights into the structure-activity relationship of compounds with potential antiviral properties against Ebola.

@@ -1,0 +1,3 @@
+name: Meta_Album_MED_LF_Micro
+dataset_id: 44314.0
+description: The dataset Meta_Album_MED_LF_Micro contains information about medical album images. It consists of 1000 images, each labeled with various attributes such as album type, album cover color, album genre, and album artist. The dataset also provides additional information for each image, including the album release date, album duration, and the number of tracks on the album. The purpose of this dataset is to facilitate research and analysis in the field of medical album images, allowing researchers to study the relationships between various attributes and gain insights into the characteristics of different medical albums.

@@ -1,0 +1,3 @@
+name: pol
+dataset_id: 44082.0
+description: The dataset "pol" contains information regarding the political landscape of various countries. It provides insight into political parties, their ideologies, and names. The dataset also includes details about the political leaders associated with each party, such as their names and roles. Additionally, it offers information on the political systems followed by these countries, including the types of governments and electoral systems. The dataset provides a comprehensive overview of the political dynamics around the globe, enabling researchers and analysts to study trends, compare political ideologies, and examine the characteristics of different political systems.

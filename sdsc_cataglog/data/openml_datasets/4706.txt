@@ -1,0 +1,3 @@
+name: shrutime
+dataset_id: 45062.0
+description: The dataset "shrutime" consists of information related to the runtime of various programs. It includes data on the execution time of different programs, the type of program, and the hardware specifications used for each run. The dataset also contains information about the number of commands executed, the memory utilized, and the number of threads used. Additionally, it includes metrics such as the user and system CPU time, as well as the elapsed real time. The dataset is designed to provide a comprehensive overview of the runtime behavior of programs and can be used for various analytical purposes.

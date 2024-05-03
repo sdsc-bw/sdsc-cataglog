@@ -1,0 +1,3 @@
+name: Weather-in-Szeged-2006-2016
+dataset_id: 43713.0
+description: The dataset "Weather-in-Szeged-2006-2016" contains weather observations from the city of Szeged in Hungary over the years 2006 to 2016. It includes details such as temperature, humidity, wind speed, precipitation, and summary of weather conditions for each day. The data can be used to analyze and understand the weather patterns in the region during the given timeframe. Various statistical and machine learning techniques can be employed on this dataset to uncover relationships, trends, and predictions related to the weather in Szeged. It provides a valuable resource for weather forecasting, climate studies, and related research.

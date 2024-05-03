@@ -1,0 +1,3 @@
+name: yeast
+dataset_id: 181.0
+description: The yeast dataset is a comprehensive collection of proteins found in the yeast Saccharomyces cerevisiae. It consists of information on 6,178 proteins and their features, obtained through experimental and computational methods. The dataset includes details such as the length, molecular weight, isoelectric point, and hydrophobicity of each protein. Additionally, it provides data on subcellular localization, functional classification, and annotated information for each protein. This dataset is an invaluable resource for studying the biology and functions of yeast proteins, aiding in research related to protein interactions, expression, and cellular processes in yeast.

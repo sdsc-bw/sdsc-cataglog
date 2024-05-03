@@ -1,0 +1,3 @@
+name: har
+dataset_id: 1478.0
+description: The dataset HAR stands for "Human Activity Recognition" dataset and contains information about different activities performed by individuals while wearing smartphones. It consists of sensor data collected from the accelerometer and gyroscope of smartphones during various activities such as walking, sitting, standing, etc. The dataset is labeled and has multiple features such as time and frequency domain variables. With a total of 10,299 instances, it provides a valuable resource for developing and testing activity recognition algorithms and models. The dataset is widely used in research related to human activity recognition, sensor data analysis, and machine learning applications.

@@ -1,0 +1,3 @@
+name: cm1_req
+dataset_id: 1055.0
+description: The dataset cm1_req contains information about software development projects which were executed in the NASA software engineering laboratory. The data includes various attributes such as the number of lines of code, comments, cyclomatic complexity, and the number of defects. The dataset aims to help researchers understand and analyze factors that may affect the quality and reliability of software systems. It can be used to evaluate the effectiveness of different software development techniques and tools in reducing defects and improving overall software quality. The cm1_req dataset is publicly available, allowing for further analysis and experimentation.

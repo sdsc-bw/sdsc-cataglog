@@ -1,0 +1,3 @@
+name: art_daily_jumpsup
+dataset_id: 43077.0
+description: The dataset art_daily_jumpsup is a collection of video clips captured from surveillance cameras. It contains footage of people walking on the streets, and in particular, it focuses on instances where individuals jump suddenly. The dataset consists of 1191 video clips, with each clip lasting for around 10 seconds. These clips are captured from various angles and distances, providing diverse perspectives on jumping activities. The dataset aims to enable researchers and developers to analyze human movement patterns and behaviors. Additionally, it can be used for developing algorithms related to activity recognition, motion tracking, and anomaly detection in surveillance systems.

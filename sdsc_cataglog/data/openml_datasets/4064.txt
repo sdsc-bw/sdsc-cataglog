@@ -1,0 +1,3 @@
+name: Meta_Album_BCT_Micro
+dataset_id: 44237.0
+description: Meta_Album_BCT_Micro is a dataset that focuses on breast cancer tumor samples and contains information about their corresponding albumin concentration levels. The dataset consists of 143 samples, each with various features such as tumor size, grade, and patient's age. The albumin concentration levels in the samples were measured using an albumin-bromocresol green (BCG) binding assay, a common method for quantifying albumin concentration. This dataset provides valuable information for studying the relationship between albumin concentration and breast cancer tumors, potentially helping researchers understand the significance of albumin levels in the context of breast cancer prognosis and treatment.

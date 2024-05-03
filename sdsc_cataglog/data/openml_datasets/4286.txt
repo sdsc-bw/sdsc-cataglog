@@ -1,0 +1,3 @@
+name: KDDCup09_upselling_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44464.0
+description: The dataset called KDDCup09_upselling_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True has 2000 rows and 100 columns. It is designed for a classification task with 10 possible classes. The dataset is stratified, meaning that the distribution of classes is maintained in the training and testing sets. It is likely a seed dataset for experiments or a subset of a larger dataset. Given the number of classes and features, it appears to be a moderately-sized dataset suitable for training and testing classification models.

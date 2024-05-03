@@ -1,0 +1,3 @@
+name: Insurance-Premium-Data
+dataset_id: 43463.0
+description: The Insurance-Premium-Data dataset provides a comprehensive collection of information regarding insurance premiums across different categories. It includes data about car, health, and property insurance premiums from various regions and providers. The dataset contains relevant attributes such as age, gender, smoking status, type of coverage, and the associated premiums. Additionally, it includes details about claims made by policyholders. This dataset can be utilized for analyzing insurance premium patterns, predicting future premiums based on customer attributes, identifying profitable customer segments, and evaluating the impact of different factors on premium rates.

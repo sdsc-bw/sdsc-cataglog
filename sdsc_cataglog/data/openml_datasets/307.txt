@@ -1,0 +1,3 @@
+name: analcatdata_apnea3
+dataset_id: 555.0
+description: The dataset analcatdata_apnea3 contains information about patients suffering from sleep apnea. It consists of 177 observations and 24 variables. The variables include demographic factors like age, sex, and race, as well as various physiological measurements such as BMI, neck circumference, and alcohol consumption. The dataset also provides information on the presence or absence of sleep apnea in each patient. The purpose of this dataset is to help researchers analyze and understand the relationship between these variables and the occurrence of sleep apnea. It can be used for statistical analysis, machine learning, and predictive modeling in the field of sleep medicine.

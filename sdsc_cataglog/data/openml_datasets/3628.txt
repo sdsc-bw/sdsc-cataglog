@@ -1,0 +1,3 @@
+name: Ubudehe-Livestock-1
+dataset_id: 43704.0
+description: Ubudehe-Livestock-1 is a dataset that contains information about livestock distribution in Rwanda. The dataset includes data on the number of cows, goats, sheep, pigs, and chickens owned by households across different administrative levels in Rwanda. It also provides details about livestock ownership, such as the number of female and male animals, as well as the animals' age. The dataset offers insights into the livestock sector's distribution, allowing for the analysis of livestock patterns and trends in Rwanda.

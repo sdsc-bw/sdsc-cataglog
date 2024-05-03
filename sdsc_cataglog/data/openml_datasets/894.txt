@@ -1,0 +1,3 @@
+name: electricity_prices_ICON
+dataset_id: 1168.0
+description: The dataset "electricity_prices_ICON" provides information on electricity prices in different countries. It includes data on the mean, minimum, and maximum electricity prices, as well as the standard deviation and the number of observations. The dataset covers a specific time period and is updated regularly. It contains data for multiple countries and can be used to analyze and compare electricity prices across nations. This dataset is valuable for researchers, policymakers, and energy market analysts who are interested in understanding pricing trends and patterns in the electricity sector.

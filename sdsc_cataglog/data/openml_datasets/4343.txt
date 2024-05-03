@@ -1,0 +1,3 @@
+name: fabert_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44521.0
+description: The dataset fabert_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset with 2000 rows, 10 classes, and 100 columns. It follows a stratified sampling approach to ensure an appropriate representation of each class. The dataset was generated using a seed number 3, which allows for reproducibility. It is a structured dataset, most likely used for classification tasks. With its balanced distribution of classes, this dataset could be useful for training and evaluating machine learning models, as it provides a diverse range of observations across multiple categories.

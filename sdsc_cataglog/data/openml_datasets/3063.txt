@@ -1,0 +1,3 @@
+name: bias-correction
+dataset_id: 42897.0
+description: Dataset bias-correction refers to the process of rectifying the potential biases present in datasets to ensure fair and accurate model predictions. Several techniques have been developed for this purpose, including data augmentation, re-weighting, and adversarial training. Data augmentation increases the diversity in a dataset by creating additional synthetic data points. Re-weighting adjusts the importance of different samples in the dataset to counter the bias. Adversarial training incorporates a separate network trained to identify and correct the bias in the main model's predictions. These techniques are crucial in addressing biases that can lead to discriminatory or unfair outcomes in machine learning models.

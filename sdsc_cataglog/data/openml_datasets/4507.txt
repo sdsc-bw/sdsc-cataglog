@@ -1,0 +1,3 @@
+name: christine_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44686.0
+description: The dataset named "christine_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows with 100 columns. It follows a stratified sampling technique. The dataset has 10 classes, indicating that it is suitable for classification tasks. The "stratify" parameter suggests that the dataset is divided into distinct groups, ensuring that each group is represented proportionally in the training and testing sets. This dataset can be used for various machine learning experiments and analyses, particularly focusing on classification algorithms.

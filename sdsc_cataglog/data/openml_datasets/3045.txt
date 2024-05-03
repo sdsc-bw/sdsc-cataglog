@@ -1,0 +1,3 @@
+name: nba-shot-logs
+dataset_id: 42806.0
+description: The NBA shot logs dataset provides detailed information about every shot attempted during NBA games, including the player, team, shot type, shot distance, shot result, time remaining on the shot clock, and much more. This dataset is highly valuable for analyzing player performance and game strategies. It contains data from multiple seasons, enabling researchers to track player progress over time. The dataset also includes additional information like game location, home and away teams, and detailed game statistics. Overall, the NBA shot logs dataset serves as a comprehensive resource for basketball analysts, coaches, and enthusiasts seeking in-depth insights into shooting patterns and player tendencies.

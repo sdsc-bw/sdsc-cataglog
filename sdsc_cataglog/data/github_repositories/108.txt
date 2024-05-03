@@ -1,0 +1,3 @@
+repo_name: metacat
+link: https://github.com/Netflix/metacat
+description: Metacat is a unified metadata exploration API service. You can explore Hive, RDS, Teradata, Redshift, S3 and Cassandra. Metacat provides you information about what data you have, where it resides and how to process it. Metadata in the end is really data about the data. So the primary purpose of Metacat is to give a place to describe the data so that we could do more useful things with it. Metacat focuses on solving these three problems.

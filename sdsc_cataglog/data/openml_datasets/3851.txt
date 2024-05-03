@@ -1,0 +1,3 @@
+name: eye_movements
+dataset_id: 43976.0
+description: The dataset eye_movements consists of eye movement data collected from 50 participants as they viewed a series of visual stimuli. The stimuli were displayed on a computer screen while participants' eye movements were recorded using eye-tracking technology. The dataset contains information about fixations, saccades, and other eye movement parameters such as duration and amplitude. It also includes metadata about the participants' demographics and individual characteristics. The dataset is organized into multiple files, each representing a different participant. Eye movement data can provide insights into visual attention, perception, and cognition, making this dataset useful for researchers studying these areas.

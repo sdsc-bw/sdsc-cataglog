@@ -1,0 +1,3 @@
+name: analcatdata_happiness
+dataset_id: 40709.0
+description: The dataset analcatdata_happiness consists of data related to people's subjective happiness levels. It includes 30 instances with 5 attributes, namely "income," "sex," "country," "marital status," and "happiness." The "income" attribute ranges from 1 to 10 and represents the individual's income level, where higher values indicate higher income. The "sex" attribute specifies the person's gender as male or female. The "country" attribute indicates the country of origin. The "marital status" attribute represents the person's marital status as either married or single. The "happiness" attribute ranges from 1 to 7 and indicates the individual's level of happiness with higher values indicating greater happiness.

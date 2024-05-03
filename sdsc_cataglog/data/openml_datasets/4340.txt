@@ -1,0 +1,3 @@
+name: fabert_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44518.0
+description: The dataset fabert_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True is a collection of data that consists of 2000 randomly generated rows. The dataset is divided into 10 different classes, with each class having 100 columns of information. The data is stratified, meaning that it is divided in a way that maintains the proportional representation of each class within the dataset. This dataset can be used for various purposes such as classification, analysis, or modeling. It provides a structured and diverse collection of information that can be valuable for data scientists and researchers working in different domains.

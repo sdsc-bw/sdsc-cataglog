@@ -1,0 +1,3 @@
+name: kin8nm
+dataset_id: 44980.0
+description: The dataset kin8nm consists of 8192 samples of 8-dimensional input data and corresponding scalar output. The input data includes molecule properties and their formation energies. The scalar output represents the parameters of the molecule like atomic distances, bond angles, and others. The data is divided into training and testing sets. The training set contains 6552 samples and the remaining 1640 samples are in the testing set. The dataset is widely used for regression tasks and algorithms such as support vector machines and neural networks. It serves as a benchmark for evaluating the performance of different regression models.

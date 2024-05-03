@@ -1,0 +1,3 @@
+name: visualizing_galaxy
+dataset_id: 925.0
+description: The dataset visualizing_galaxy contains information related to the galaxies present in a specific region of space. It includes data such as the name, redshift measurement, and celestial coordinates of each galaxy. The dataset also provides information about the photometric properties of the galaxies, such as their brightness in different spectral bands. It is a large dataset with thousands of entries, making it suitable for studying statistical properties and conducting analyses. The dataset has been collected and curated by astronomers and can be used for various purposes, such as understanding galaxy formation and evolution or studying the large-scale structure of the universe.

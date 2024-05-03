@@ -1,0 +1,3 @@
+name: wind
+dataset_id: 847.0
+description: The wind dataset contains information about the wind characteristics from different locations and time periods. It includes data such as wind speed, direction, and variability. The dataset is collected using various instruments like anemometers and wind vanes. The data is measured in different units, including meters per second, miles per hour, and knots. The dataset also provides information on the quality and uncertainty of the measurements. It is commonly used by researchers, meteorologists, and renewable energy companies to analyze wind patterns, assess wind energy potential, and make informed decisions regarding wind-related activities.

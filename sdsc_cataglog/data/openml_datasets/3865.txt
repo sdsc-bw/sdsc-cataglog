@@ -1,0 +1,3 @@
+name: cpu_act
+dataset_id: 43990.0
+description: The dataset cpu_act contains performance data of a computer CPU. It consists of 8192 instances and 7 attributes. The attributes include the CPU's vendor name, its model name, the family of the CPU, the frequency at which it runs, the number of cores it has, the amount of cache memory, and the maximum power it can consume. The dataset is derived from real multitasking computer workloads. It can be used for various purposes, such as analyzing the relationship between CPU attributes and its performance or predicting the performance of a CPU based on its attributes.

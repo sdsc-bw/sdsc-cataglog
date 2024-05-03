@@ -1,0 +1,3 @@
+name: fri_c1_500_25
+dataset_id: 779.0
+description: The dataset fri_c1_500_25 contains information about 500 users' friendships on a social network. Each user has 25 attributes associated with them, such as age, gender, and education level. The dataset includes information on the users' direct friendships, represented by a binary value indicating whether two users are friends or not. Additionally, the dataset provides information on the users' indirect friendships, which are derived from the transitive closure of the direct friendships. The dataset serves as a valuable resource for analyzing the dynamics and patterns of friendships within a social network, and can provide insights into various aspects of social behavior and relationship formation.

@@ -1,0 +1,3 @@
+name: chscase_census6
+dataset_id: 900.0
+description: The dataset chscase_census6 contains information related to the socio-economic status of individuals in a specific area. It includes variables such as income, education level, employment status, and household characteristics. The dataset covers a wide range of demographic groups, allowing for analysis and comparison of different population segments. It provides insights into the distribution and disparities in socio-economic factors within the area. Researchers can utilize this dataset to study various aspects of social inequality and inform policy decisions aimed at improving the well-being of the community.

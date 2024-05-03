@@ -1,0 +1,3 @@
+name: QSAR-TID-103433
+dataset_id: 3717.0
+description: The QSAR-TID-103433 dataset is a compilation of chemical compounds with known biological activity. It consists of 1213 instances and 1026 molecular descriptors. The dataset was processed for the development of quantitative structure-activity relationship (QSAR) models. The biological activity of the compounds is measured by the value of the pIC50, which represents the negative logarithm of the inhibitory concentration. The molecular descriptors include various physicochemical and geometric properties of the compounds. The dataset aims to facilitate the prediction of biological activity based on the chemical structure and properties of the compounds through machine learning techniques.

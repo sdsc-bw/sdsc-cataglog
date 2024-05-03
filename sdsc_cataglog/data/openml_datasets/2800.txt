@@ -1,0 +1,3 @@
+name: sbox_sar
+dataset_id: 42336.0
+description: The dataset sbox_sar is a collection of synthetic aperture radar (SAR) images captured by the Sentinel-1 satellite. It consists of 1,424 SAR images, each measuring 512x512 pixels and covering a wide range of geographical areas. These images were acquired from 2015 to 2018, providing a four-year temporal coverage. The dataset also includes additional information such as incidence angles and polarizations. It was created to support research and development in the field of SAR image analysis and classification. The sbox_sar dataset offers a valuable resource for researchers and developers working on SAR data processing and analysis.

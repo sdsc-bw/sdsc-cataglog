@@ -1,0 +1,3 @@
+name: MIC
+dataset_id: 45648.0
+description: The dataset MIC is a collection of human activity data recorded by smartwatches and smartphones. It includes data tracking various physical activities like walking, running, and cycling, as well as sedentary behavior and sleep patterns. The dataset consists of measurements such as physical activity intensity levels, heart rate, and sleep duration. MIC is obtained from 26 individuals wearing smartwatches continuously for several days, resulting in a large amount of multi-modal data. This dataset is valuable for researchers studying human activity patterns, health monitoring, and the development of activity recognition algorithms.

@@ -1,0 +1,3 @@
+name: munin_4
+dataset_id: 45267.0
+description: The dataset munin_4 contains information about the temperature, humidity, and light levels in a city during a specific time period. It includes data from multiple sensors placed around the city, collecting measurements at regular intervals. The dataset also contains information about the location of each sensor, allowing for analysis based on different areas within the city. Additionally, the dataset includes metadata that provides details about the sensors, such as their type and installation date. The munin_4 dataset is a valuable resource for studying and understanding the environmental conditions of the city and can be used by researchers and analysts for various purposes.

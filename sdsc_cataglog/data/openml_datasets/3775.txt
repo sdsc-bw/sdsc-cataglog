@@ -1,0 +1,3 @@
+name: iriiiiiis
+dataset_id: 43859.0
+description: The "iriiiiiis" dataset is commonly used for machine learning and data analysis tasks. It consists of measurements of various attributes of iris flowers, such as the length and width of their sepals and petals. The dataset comprises 150 instances, each representing a different iris flower. These instances are divided into three different classes, based on the species of the iris flower: setosa, versicolor, and virginica. The dataset is well-known for its simplicity and is often used as a beginner's dataset for learning classification algorithms. It serves as a benchmark for many machine learning experiments and provides a foundation for developing and evaluating classification models.

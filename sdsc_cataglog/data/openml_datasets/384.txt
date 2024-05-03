@@ -1,0 +1,3 @@
+name: fri_c0_500_25
+dataset_id: 633.0
+description: The dataset fri_c0_500_25 is a collection of 500 social networks with 25 nodes each. The networks follow a Frierson model, which simulates real-world social networks. Each node in the network represents an individual, and the connections between nodes indicate the existence of social ties. The dataset provides detailed information about the characteristics of these networks, such as the average degree, clustering coefficient, and degree distribution. It also considers attributes like gender, age, and location for a better understanding of the network's dynamics. The dataset aims to provide researchers with a platform to study and analyze social networks in various contexts.

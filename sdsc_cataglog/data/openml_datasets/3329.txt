@@ -1,0 +1,3 @@
+name: Viewing-Solar-Flares
+dataset_id: 43399.0
+description: The dataset "Viewing-Solar-Flares" is about solar flares observed by telescopes. It provides information on several attributes related to these flares, such as their peak brightness, duration, and location on the Sun's surface. The dataset includes data on 1,000 solar flares, making it a valuable resource for studying and analyzing these phenomena. Additionally, the dataset contains other details like the instrument used, the observation time, and the classification of each flare. This comprehensive dataset allows researchers to investigate various aspects of solar flares and their impact on space weather.

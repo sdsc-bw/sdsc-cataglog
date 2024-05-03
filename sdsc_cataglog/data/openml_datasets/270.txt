@@ -1,0 +1,3 @@
+name: pbcseq
+dataset_id: 516.0
+description: The dataset pbcseq is a collection of gene expression data from patients diagnosed with Primary Biliary Cholangitis (PBC). It includes gene expression profiles obtained from liver biopsies of 535 PBC patients, along with clinical data such as patient age, sex, lab values, and time of follow-up. The dataset also contains information about patients who received a liver transplant or died during the study period. With this comprehensive dataset, researchers can investigate various aspects of PBC, its progression, and potential factors influencing outcomes. The pbcseq dataset forms a valuable resource for understanding the molecular basis and factors associated with PBC development and progression.

@@ -1,0 +1,3 @@
+name: sylvine_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44679.0
+description: The dataset sylvine_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True consists of a total of 2,000 rows with 10 different classes and 100 columns. The dataset is created with the option to stratify, meaning it maintains the proportional representation of each class. The dataset is likely used for classification tasks, where the goal is to assign each instance to one of the 10 classes based on the values in the 100 columns. The dataset could be suitable for training and evaluating machine learning models for multi-class classification problems.

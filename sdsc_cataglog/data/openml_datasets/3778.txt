@@ -1,0 +1,3 @@
+name: Diabetes-130-Hospitals_(Fairlearn)
+dataset_id: 43874.0
+description: The Diabetes-130-Hospitals dataset is part of Fairlearn, an open-source Python library. It contains data from 130 hospitals and is used for analyzing and understanding bias and fairness in algorithmic decision-making. The dataset includes various features such as patient demographics, medical conditions, and medications, along with the outcome of the hospital stay. It is a valuable resource for developing and testing fairness-aware machine learning models, evaluating fairness metrics, and exploring bias mitigation techniques. Fairlearn allows users to access and manipulate this dataset for a better understanding of fairness issues within healthcare systems and algorithmic decision-making.

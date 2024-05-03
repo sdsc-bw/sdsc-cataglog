@@ -1,0 +1,3 @@
+name: guillermo_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44751.0
+description: The dataset guillermo_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True has 2000 rows and 100 columns. It has been stratified based on the classes, ensuring equal representation. The dataset consists of 10 classes, indicating distinct categories. The stratification process may help in maintaining balanced class distribution for training and testing purposes. Such a dataset can be useful for various machine learning tasks, such as classification, where having a diverse representation of classes plays a crucial role in obtaining accurate results.

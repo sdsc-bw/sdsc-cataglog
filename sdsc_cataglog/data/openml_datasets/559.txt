@@ -1,0 +1,3 @@
+name: chscase_vine1
+dataset_id: 815.0
+description: The dataset chscase_vine1 contains data related to the growth and yield of grapevines under different treatments and conditions. It includes information about various viticulture practices, such as pruning, training, fertilization, and irrigation. The dataset consists of six variables, including treatment, wire number, shoot number, cluster number, cluster weight, and yield. The data was collected over a period of several seasons and includes both numeric and categorical variables. This dataset is valuable for analyzing and predicting grapevine growth patterns and understanding the impact of different viticulture practices on vineyard performance and grape yield.

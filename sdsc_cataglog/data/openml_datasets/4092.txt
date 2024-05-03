@@ -1,0 +1,3 @@
+name: turing_binary
+dataset_id: 44269.0
+description: The dataset turing_binary contains binary-encoded representations of numbers ranging from 0 to 9. Each number has a corresponding binary representation. The dataset is structured with two columns: "binary" and "number". The "binary" column contains the binary representation of the numbers, while the "number" column contains the actual numbers ranging from 0 to 9. The dataset can be used for various purposes, such as binary to decimal conversion, machine learning algorithms training, or exploring number representations. It provides a comprehensive collection of binary-encoded numbers and their corresponding decimal values.

@@ -1,0 +1,3 @@
+name: lungcancer_shedden
+dataset_id: 1245.0
+description: The lungcancer_shedden dataset contains gene expression data for patients with lung cancer. It consists of 442 samples from patients with non-small cell lung cancer (NSCLC) and 18 samples from normal lung tissue. The dataset provides information on 12,600 genes for each sample. The gene expression data has been normalized and transformed using log ratios. The dataset aims to explore the differences between cancerous and normal lung tissue and identify potential biomarkers for lung cancer. It can be used for various analyses and machine learning applications in cancer research and personalized medicine.

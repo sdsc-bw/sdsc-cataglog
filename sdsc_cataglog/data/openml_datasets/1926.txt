@@ -1,0 +1,3 @@
+name: QSAR-TID-11047
+dataset_id: 3911.0
+description: The dataset QSAR-TID-11047 contains information regarding the inhibition of the human immunodeficiency virus Type-1 (HIV-1) integrase enzyme. It consists of 41 molecular descriptors and the measured activity (IC50) of 1508 chemical compounds. The descriptors represent various qualities and properties of the compounds such as atomic and molecular features, geometrical and topological information, electronic effects, and hydrophobicity. The IC50 values range from 0.006 to 500, with a median value of 80.04. The dataset is useful for predicting the inhibitory activity of integrase inhibitors and exploring the relationship between the molecular structure and inhibitory potency.

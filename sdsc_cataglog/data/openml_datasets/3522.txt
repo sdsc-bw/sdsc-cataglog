@@ -1,0 +1,3 @@
+name: Global-Cause-of-the-Deaths-other-than-diseases
+dataset_id: 43598.0
+description: The Global Cause of the Deaths other than Diseases dataset provides information on mortality rates due to causes other than diseases in different countries and regions. The data includes deaths caused by accidents, injuries, violence, and external factors, such as natural disasters. The dataset covers a wide range of causes and provides detailed information on mortality rates, age groups affected, and years recorded. This dataset is valuable for researchers, policymakers, and organizations involved in public health and safety efforts, as it enables them to analyze and understand the non-disease-related causes of death globally, therefore guiding strategies to prevent such fatalities.

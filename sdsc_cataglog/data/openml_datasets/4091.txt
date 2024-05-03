@@ -1,0 +1,3 @@
+name: anneal
+dataset_id: 44268.0
+description: The "anneal" dataset includes information about 898 samples of steel plates, focusing on the process of annealing in a hot furnace and its impact on the mechanical properties of the steel. The dataset consists of 38 attributes, including surface quality measurements, geometric parameters, and steel chemical composition. The goal is to predict the so-called hardening coefficient, which measures the ability of steel to harden during the process. The dataset also comes with missing values and inconsistent attribute types. By analyzing this dataset, researchers aim to understand the relationship between the steel plate attributes and the hardening coefficient, potentially leading to improvements in the annealing process.

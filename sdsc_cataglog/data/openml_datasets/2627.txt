@@ -1,0 +1,3 @@
+name: FOREX_usdchf-minute-High
+dataset_id: 41892.0
+description: The dataset FOREX_usdchf-minute-High contains minute-to-minute data on the high prices of the USD/CHF currency pair in the foreign exchange market. It offers insights into the fluctuating values of the USD against the Swiss Franc over a period of time. The dataset likely includes information about the highest price reached within each minute, allowing for the analysis of trends, volatility, and potential trading strategies. It could be valuable for forex traders, economists, and researchers studying the USD/CHF exchange rate. Further exploration of the dataset might reveal patterns, correlations, or market reactions influencing these high prices.

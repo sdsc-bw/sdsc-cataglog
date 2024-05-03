@@ -1,0 +1,3 @@
+name: QSAR-TID-12938
+dataset_id: 3528.0
+description: The dataset QSAR-TID-12938 contains information about the biological activity of a set of compounds. It consists of 4,486 different compounds, each described by 11 molecular descriptors. The target variable represents a binding affinity measurement, which indicates the strength of interaction between the compound and a biological target. The dataset also includes additional information such as the compound's molecular weight and its solubility. This collection of data can be used for the development of quantitative structure-activity relationship (QSAR) models, which aim to predict the biological activity of compounds based on their molecular characteristics.

@@ -1,0 +1,3 @@
+name: mobile_churn
+dataset_id: 44231.0
+description: The dataset mobile_churn contains information related to customer churn in the mobile industry. It includes 5,000 records, each representing a customer. The dataset consists of 20 columns, providing details such as customer ID, age, gender, education, and income level. Other columns offer information about the customer's usage patterns, such as average monthly usage, total data usage, and call duration. Additionally, the dataset includes columns related to customer satisfaction and complaints, as well as the churn status of each customer. Mobile_churn is a valuable resource for analyzing and predicting customer churn in the mobile industry.

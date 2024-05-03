@@ -1,0 +1,3 @@
+name: branin
+dataset_id: 41907.0
+description: The dataset "branin" consists of input values and corresponding output values. The input values are two continuous variables, x1 and x2, which represent certain parameters. The output values, y, represent a function of the input parameters. The dataset is commonly used for regression analysis and optimization problems. It is based on the Branin-Hoo function, which is a well-known test function in optimization and computational mathematics. The goal of analyzing this dataset is to understand the relationship between the input parameters and the resulting output values in order to optimize the function and find the global minimum.

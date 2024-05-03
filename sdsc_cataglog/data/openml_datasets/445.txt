@@ -1,0 +1,3 @@
+name: rabe_97
+dataset_id: 697.0
+description: The dataset rabe_97 is a collection of data containing information related to the analysis of radio waves in the Earth's atmosphere. It includes measurements of atmospheric parameters like temperature, pressure, humidity, and wind speed. The dataset also incorporates observations from radiosondes, sondes, and other instruments used to study the Earth's atmosphere. The rabe_97 dataset is essential for studying various atmospheric phenomena and their effects on radio wave propagation. It provides researchers with valuable insights into the behavior of radio waves in different atmospheric conditions, aiding the development of communication systems and weather prediction models.

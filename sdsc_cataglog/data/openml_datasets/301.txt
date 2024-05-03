@@ -1,0 +1,3 @@
+name: strikes
+dataset_id: 549.0
+description: The dataset on strikes provides information on labor strikes that occurred in a particular region. It includes data such as the date, location, industry, and reasons for the strikes. The dataset aims to provide insights into patterns and trends related to labor strikes, potentially helping policymakers and researchers understand the factors that contribute to strike activity. By analyzing the dataset, it is possible to identify common industries or regions prone to strikes and the prevalent issues driving such actions. This comprehensive dataset can contribute to informed decision-making and help implement measures to address labor conflicts effectively.

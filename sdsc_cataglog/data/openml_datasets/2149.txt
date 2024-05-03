@@ -1,0 +1,3 @@
+name: Dexter
+dataset_id: 4136.0
+description: Dexter is a large-scale dataset containing multimodal signals from a human-robot interaction study. It captures various data modalities such as audio, video, and robot task logs. The dataset was collected using three robot platforms (two humanoids and one non-anthropomorphic robot) in different settings. The study aimed to understand the dynamics of human-robot interactions and investigate the impact of robot behaviors on user experiences. The collected data includes transcripts of the interactions, user ratings of the robots' performance, and annotations for specific events. Dexter serves as a valuable resource for researchers in the field of human-robot interaction to analyze and develop novel approaches.

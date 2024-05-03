@@ -1,0 +1,3 @@
+name: chscase_vine2
+dataset_id: 689.0
+description: The dataset "chscase_vine2" contains information about the characteristics of wine. It includes 129 wines from the "Côtes du Rhône" region in France. The dataset consists of 12 attributes which provide details about the wine, such as alcohol content, acidity level, residual sugar, and pH level. Some of the attributes are measured in units of milligrams per liter, while others are expressed as percentages. The dataset has been used for regression analysis and prediction of wine quality. Overall, "chscase_vine2" is a comprehensive dataset that can be utilized for studying and analyzing the characteristics of wines from the "Côtes du Rhône" region.

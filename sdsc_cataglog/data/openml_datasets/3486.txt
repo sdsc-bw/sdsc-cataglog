@@ -1,0 +1,3 @@
+name: Heart-Disease-patients
+dataset_id: 43562.0
+description: The Heart-Disease-patients dataset contains information about patients diagnosed with heart disease. It includes 14 columns that provide details about various factors such as age, sex, chest pain type, resting blood pressure, serum cholesterol levels, fasting blood sugar, electrocardiographic results, maximum heart rate achieved, exercise-induced angina, old peak, number of major vessels colored by fluoroscopy, thallium stress test result, and the presence of heart disease. The dataset aims to enable researchers or analysts to explore the relationship between these factors and heart disease to develop effective predictive models or gain insights into risk factors and potential interventions.

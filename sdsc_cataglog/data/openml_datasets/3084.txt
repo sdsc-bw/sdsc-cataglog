@@ -1,0 +1,3 @@
+name: parking-birmingham
+dataset_id: 42961.0
+description: The "parking-birmingham" dataset provides information about parking bays in Birmingham, UK, including their location, type, operational status, and parking restrictions. The dataset contains over 40,000 records and covers various types of parking zones across the city. It also includes details about parking zones such as pay and display, resident permit, and disabled parking areas. The dataset is constantly updated, ensuring accurate and up-to-date information for users. It serves as a valuable resource for individuals and businesses looking to understand parking availability and restrictions in Birmingham.

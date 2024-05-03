@@ -1,0 +1,3 @@
+name: Census-Income
+dataset_id: 4535.0
+description: The Census-Income dataset is a widely used dataset in machine learning and data analysis. It is derived from the 1994 US Census data and contains information on income and various demographic attributes of individuals. The dataset consists of 48,842 instances and 14 attributes, including age, education, occupation, marital status, and more. The target variable in this dataset is income, which can be classified into two categories: above or below $50,000 annually. The dataset is often used for classification tasks and has been widely used to develop and evaluate machine learning models for predicting income levels based on demographic features.

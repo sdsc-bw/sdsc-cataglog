@@ -1,0 +1,3 @@
+name: test001
+dataset_id: 42233.0
+description: The dataset test001 is a collection of data that contains various information. It consists of records with multiple attributes, such as name, age, gender, and occupation. The dataset is extensive, containing a large number of entries, covering different individuals. It provides a comprehensive range of data points for analysis and examination. The dataset also includes numeric values, such as numerical ratings or measurements. It is structured and organized in a manner that enables easy access and retrieval of information. Overall, test001 is a diverse and rich dataset that can be used for various purposes, such as research, analysis, or modeling.

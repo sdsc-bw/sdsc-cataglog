@@ -1,0 +1,3 @@
+name: churn
+dataset_id: 40701.0
+description: The dataset "churn" focuses on understanding customer behavior and predicting customer churn in a telecommunications company. It contains various features such as customer demographics, services availed, and usage patterns. The goal is to analyze these attributes to determine the likelihood of a customer leaving the company. The dataset includes both customers who have churned and those who have stayed. With this dataset, one can explore the factors that contribute to customer churn and develop predictive models to anticipate future churn. It provides valuable insights to improve customer retention strategies for the telecommunications company.

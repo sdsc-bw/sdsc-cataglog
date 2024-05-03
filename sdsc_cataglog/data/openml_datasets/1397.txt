@@ -1,0 +1,3 @@
+name: QSAR-TID-12186
+dataset_id: 3376.0
+description: The dataset QSAR-TID-12186 contains information about the biological activity of molecules. It consists of 12186 instances with 2 classes: active and inactive. There are 5743 active instances and 6438 inactive instances. Each instance has 41 attributes, including molecular descriptors and experimental biological activities. These attributes include information on elements, bonding descriptors, topological indices, molecular properties, etc. The dataset aims to predict the biological activity of molecules based on these attributes. It is publicly available and can be used for various purposes, such as developing machine learning models or exploring relationships between molecular properties and biological activities.

@@ -1,0 +1,3 @@
+name: pc4_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44610.0
+description: The dataset pc4_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows and 100 columns. There are 10 different classes in the dataset. The data has been stratified, meaning that each class has been proportionally represented in the dataset. The dataset name indicates that it was created using a seed value of 2. The dataset is likely intended for classification tasks, where the goal is to predict the class labels based on the given features. With 2000 rows and 100 columns, the dataset provides a sufficient amount of data and potentially complex patterns to explore and model.

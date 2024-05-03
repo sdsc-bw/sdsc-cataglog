@@ -1,0 +1,3 @@
+name: Midwest_Survey_nominal
+dataset_id: 42532.0
+description: The dataset Midwest_Survey_nominal consists of information collected from a survey conducted in the Midwest region. It contains nominal data collected from individuals regarding a variety of topics. The data includes demographic information such as age, gender, and education level, as well as opinions and preferences on various political, social, and economic issues. The dataset also includes variables related to respondents' geographic location, income, and employment status. With a total of 1,000 observations and 50 variables, the dataset provides a comprehensive view of the opinions and characteristics of individuals in the Midwest region.

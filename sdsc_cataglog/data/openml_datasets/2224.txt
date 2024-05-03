@@ -1,0 +1,3 @@
+name: yeast
+dataset_id: 40597.0
+description: The yeast dataset is a collection of genetic and molecular attributes of yeast cells. It consists of 1484 samples with 8 attributes, including the classes of each sample. The attributes represent various aspects such as technical biases, physical characteristics, and biological properties of the cells. The dataset is widely used in machine learning and bioinformatics research. Its size and diversity make it suitable for classification, clustering, and other data analysis tasks. The yeast dataset provides valuable insights into understanding the molecular mechanisms of yeast and can aid in the development of computational models for predicting their behavior.

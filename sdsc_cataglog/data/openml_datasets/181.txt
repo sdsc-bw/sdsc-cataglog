@@ -1,0 +1,3 @@
+name: PHENETYL1
+dataset_id: 419.0
+description: The PHENETYL1 dataset is a publicly available dataset that contains a comprehensive collection of genetic variations in the human genome. It includes data from the 1000 Genomes Project and other sources, providing information on single nucleotide polymorphisms (SNPs), insertions, deletions, and structural variations. This dataset also includes data on gene expression and functional annotations, offering insights into the potential impacts of these genetic variations on gene function and disease associations. It serves as a valuable resource for researchers studying the genetic basis of human phenotypes and diseases, facilitating the discovery of potential biomarkers and therapeutic targets.

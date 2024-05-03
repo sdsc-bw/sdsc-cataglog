@@ -1,0 +1,3 @@
+name: colleges_aaup
+dataset_id: 488.0
+description: The dataset "colleges_aaup" contains information about the American Association of University Professors (AAUP) salary data for faculty members in different colleges. It includes variables such as average salary, average professor salary, average associate professor salary, average assistant professor salary, and number of faculty members. The dataset includes data from 2011 to 2019 and covers a wide range of colleges across the United States. This dataset can be used to analyze trends in faculty salaries over time and compare salaries across different types of colleges and universities.

@@ -1,0 +1,3 @@
+name: US-Breweries
+dataset_id: 43313.0
+description: The US-Breweries dataset provides information about breweries in the United States. It contains details about various attributes of breweries such as their name, type, address, phone number, website, state, and country. The dataset includes a total of 2,783 breweries across the US. It also provides information about breweries' latitude and longitude coordinates, allowing for location-based analyses. The dataset is useful for individuals or businesses interested in exploring the brewery industry in the US, conducting market research, or developing applications related to breweries and beer consumption.

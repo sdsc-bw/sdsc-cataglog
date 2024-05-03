@@ -1,0 +1,3 @@
+name: QSAR-TID-10140
+dataset_id: 3850.0
+description: The dataset QSAR-TID-10140 contains information on the bioconcentration factors (BCFs) of a set of 1,014 organic compounds. The BCF measures the extent to which a chemical substance can accumulate in an organism compared to its concentration in the surrounding environment. The dataset includes 203 molecular descriptors for each compound, which are numerical values representing various chemical properties of the molecules. The data is derived from computational models and experimental measurements. It is primarily used for developing predictive models to estimate the BCF of new compounds, aiding in the assessment of their environmental impact and potential bioaccumulation.

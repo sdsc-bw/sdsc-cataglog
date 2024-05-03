@@ -1,0 +1,3 @@
+name: AfriSenti
+dataset_id: 45282.0
+description: AfriSenti is a dataset that focuses on analyzing sentiments in African languages. It contains over 12,000 labeled sentences sourced from social media platforms, online news articles, and blogs. The dataset covers five major African languages: Swahili, Amharic, Zulu, Igbo, and Yoruba. It includes a wide range of topics such as politics, entertainment, sports, and social issues. AfriSenti is valuable for sentiment analysis research, natural language processing tasks, and training machine learning models. This dataset fills the gap in sentiment analysis resources specifically designed for African languages, providing researchers with an important resource to study and understand public opinions in these regions.

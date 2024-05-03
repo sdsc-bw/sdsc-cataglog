@@ -1,0 +1,3 @@
+name: BitCoin-Dataset
+dataset_id: 43434.0
+description: The BitCoin-Dataset is a comprehensive dataset that contains information about the transactions performed in the Bitcoin cryptocurrency. It provides a wide range of data, including transaction time, transaction ID, input and output addresses, and transaction value. The dataset is highly detailed, with information at the individual transaction level. It also includes data about the Bitcoin network, such as the size of the blockchain, the number of nodes, and the number of transactions per day. This dataset is useful for researchers and analysts who want to understand and analyze the Bitcoin network and its transactions.

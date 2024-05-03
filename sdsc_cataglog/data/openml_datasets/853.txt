@@ -1,0 +1,3 @@
+name: AP_Breast_Omentum
+dataset_id: 1127.0
+description: The dataset AP_Breast_Omentum contains information about breast cancer patients and their omentum, a fold of peritoneum in the abdominal cavity. The data includes various characteristics of the omentum, such as size, appearance, and mobility. It also provides details about the patients' age, gender, tumor size, and lymph nodes involvement. The dataset aims to explore the relationship between omental characteristics and breast cancer progression. It can be used to analyze the impact of omental factors on patient outcomes and potentially identify factors that can help predict disease progression or guide treatment decisions.

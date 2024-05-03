@@ -1,0 +1,3 @@
+name: QSAR-TID-10548
+dataset_id: 4114.0
+description: The dataset QSAR-TID-10548 is related to the prediction of toxicity for a set of compounds. It comprises 10548 instances and 703 attributes, including molecular descriptors and quantum-chemical properties. The target variable represents the toxicity level, with values ranging from -1 to 1. The dataset has been preprocessed by removing instances with missing values and normalizing the attributes. The data is provided in a .csv file format. The dataset can be used for developing machine learning models to predict toxicity, which can have applications in drug discovery and toxicology research.

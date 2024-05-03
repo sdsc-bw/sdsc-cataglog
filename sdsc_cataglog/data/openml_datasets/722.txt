@@ -1,0 +1,3 @@
+name: heart-c
+dataset_id: 982.0
+description: The dataset "heart-c" contains 303 instances with 76 attributes (14 of which are nominal). The data records have been collected from patients with heart disease, where the target class denotes whether a patient has heart disease or not. The dataset includes various features such as age, sex, chest pain type, blood pressure, cholesterol levels, fasting blood sugar level, resting electrocardiographic results, maximum heart rate achieved, exercise-induced angina, and more. Missing attribute values are denoted as '?'. The data has been used for classification tasks to predict the presence or absence of heart disease based on the given features.

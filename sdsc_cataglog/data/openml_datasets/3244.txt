@@ -1,0 +1,3 @@
+name: Campus-Recruitment
+dataset_id: 43307.0
+description: The Campus-Recruitment dataset consists of information about placement activities at a particular campus. It includes various attributes such as gender, board percentage, specialization, work experience, and salary. The dataset contains a total of 215 rows and 15 columns. The target variable in the dataset is the placement status of students, which indicates whether they were placed or not. The dataset aims to analyze factors affecting the placement of students and build a predictive model to determine the likelihood of their placement based on the given attributes.

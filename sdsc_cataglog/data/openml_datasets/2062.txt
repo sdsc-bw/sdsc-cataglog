@@ -1,0 +1,3 @@
+name: QSAR-TID-11727
+dataset_id: 4048.0
+description: The dataset QSAR-TID-11727 is a curated collection of chemical compounds with their associated biological activities. It contains detailed information about the structures of the compounds and their activities against a specific protein target. The dataset was created with the aim of developing quantitative structure-activity relationship (QSAR) models, which can predict the biological activity of new chemical compounds based on their structural characteristics. The dataset is publicly available and has been extensively studied in the field of drug discovery. It serves as a valuable resource for researchers working on developing drugs and understanding their interactions with protein targets.

@@ -1,0 +1,3 @@
+name: helena_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44729.0
+description: The dataset helena_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True has a total of 2000 rows with 10 unique classes and 100 columns. It is stratified, which means that the class distribution is preserved in the dataset. However, additional details about the column contents, the nature of classes, or any specific purpose of the dataset are not mentioned. The name suggests that it is associated with a project or experiment conducted by someone named Helena, where the dataset has been specifically created with certain specifications and characteristics.

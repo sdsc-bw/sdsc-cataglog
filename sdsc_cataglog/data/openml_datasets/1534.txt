@@ -1,0 +1,3 @@
+name: QSAR-TID-140
+dataset_id: 3518.0
+description: The dataset QSAR-TID-140 consists of 140 molecular compounds and their corresponding quantitative structure-activity relationship (QSAR) data. The compounds belong to the class of triazole derivatives, which have potential biological activities. The QSAR data involves 6 descriptors, including hydrophobic, electronic, and spatial properties of the molecules. The aim of the dataset is to predict the compounds' inhibitory activity against the fungal strain Candida albicans, which causes oral and genital infections. The dataset can be used for the development of computational models for drug discovery, specifically targeting the fungal strain and potentially aiding in the development of antifungal drugs.

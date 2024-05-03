@@ -1,0 +1,3 @@
+name: Meta_Album_FNG_Micro
+dataset_id: 44272.0
+description: The dataset Meta_Album_FNG_Micro is being used for research purposes in the field of album popularity prediction. It contains various attributes related to albums, such as release date, genre, track duration, artist information, and user listening behavior. The dataset covers a wide range of music genres and includes both popular and less-known albums. It is collected from multiple sources, including online music platforms and user-contributed data. The dataset is widely used in studies focusing on album popularity prediction algorithms and machine learning approaches. It offers valuable insights into album characteristics and helps develop models for predicting the success of future albums.

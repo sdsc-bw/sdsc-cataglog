@@ -1,0 +1,3 @@
+name: FOREX_usdjpy-day-Close
+dataset_id: 41722.0
+description: The dataset "FOREX_usdjpy-day-Close" contains information about the closing prices of the USD/JPY currency pair in the foreign exchange (FOREX) market. It includes data on daily closing prices over a period of time. The dataset is likely a time series dataset, indicating the closing prices for each day or a specific frequency. It can be used for various analysis and forecasting purposes, such as predicting future price movements, evaluating trends, or building trading strategies. The dataset's content and structure may further provide insights into the relationship between the USD and JPY currencies and facilitate quantitative analysis in the financial and currency markets.

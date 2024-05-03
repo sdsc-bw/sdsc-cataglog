@@ -1,0 +1,3 @@
+name: fri_c3_1000_5
+dataset_id: 628.0
+description: The dataset fri_c3_1000_5 is a collection of 1000 instances with 5 attributes. It is categorized into three classes (A, B, and C) and is used for classification tasks. Each instance consists of numerical attribute values ranging from -10 to 10. The dataset has a balanced class distribution with approximately 333 instances per class. This dataset is commonly used for evaluating machine learning algorithms and can be utilized to train models for different classification tasks. It provides a reasonable range of attribute values and class distributions, making it suitable for various experiments and analyses.

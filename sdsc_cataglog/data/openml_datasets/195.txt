@@ -1,0 +1,3 @@
+name: qsartox
+dataset_id: 433.0
+description: The qsartox dataset contains information about the toxicity levels of various chemical compounds. It includes a diverse range of toxic compounds along with their corresponding toxicity scores. The dataset also provides additional features such as molecular weight, the number of atoms, and the logP value. The data is collected from multiple sources and has been curated to ensure accuracy and reliability. The qsartox dataset serves as a valuable resource for researchers and scientists studying toxicology and chemical safety, enabling them to analyze and explore the relationships between different chemical properties and toxicity levels.

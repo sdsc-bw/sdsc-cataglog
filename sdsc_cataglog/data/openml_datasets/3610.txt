@@ -1,0 +1,3 @@
+name: Dogecoin--historical-data-(jan2018---feb2021)
+dataset_id: 43685.0
+description: The dataset "Dogecoin--historical-data- (jan2018---feb2021)" is a collection of data regarding the cryptocurrency Dogecoin. It covers the period from January 2018 to February 2021. The dataset likely includes information such as historical price data, trading volumes, and market capitalization of Dogecoin over this time frame. This dataset can be utilized for various analysis and research purposes, including understanding the price trends, volatility, and market dynamics of Dogecoin. Researchers and analysts may find this dataset useful for examining the performance and historical behavior of Dogecoin in the cryptocurrency market.

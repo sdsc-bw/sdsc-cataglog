@@ -1,0 +1,3 @@
+name: PizzaCutter3
+dataset_id: 1444.0
+description: PizzaCutter3 is a dataset used for image recognition, specifically for cutting pizzas into slices. The dataset contains a total of 10,000 images of pizzas and their corresponding slice annotations. Each image is labeled with the number of slices, the type of pizza, and the toppings. The dataset is highly diverse, covering a wide range of pizza types, sizes, and toppings. It also includes various lighting conditions and background settings to ensure robustness in image recognition algorithms. PizzaCutter3 aims to enable advancements in automated pizza slicing technology and assist in developing accurate and efficient image recognition models for pizza segmentation.

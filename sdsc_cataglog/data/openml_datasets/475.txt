@@ -1,0 +1,3 @@
+name: analcatdata_supreme
+dataset_id: 728.0
+description: The dataset "analcatdata_supreme" contains information related to several legal cases in the Supreme Court of the United States. It includes details such as the year of the case, the issue being addressed, and the parties involved. In addition, it contains quantitative attributes like the number of votes for a specific legal provision and the importance assigned to the case. The dataset is useful for analyzing and understanding the patterns and dynamics of Supreme Court cases. It can also be utilized for exploring relationships between different variables and refining legal strategies for future cases.

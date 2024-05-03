@@ -1,0 +1,3 @@
+name: FOREX_eursgd-day-High
+dataset_id: 41801.0
+description: The dataset "FOREX_eursgd-day-High" contains historical data on the daily high prices of the EUR/SGD currency pair. The data is likely collected from the foreign exchange market, specifically focusing on the Euro (EUR) and Singapore Dollar (SGD) exchange rates. The dataset provides information on the highest price reached by the EUR/SGD pair during each day, enabling analysis of price trends and volatility. It is a valuable resource for traders, economists, and researchers interested in studying the EUR/SGD exchange rate and making informed decisions in the forex market.

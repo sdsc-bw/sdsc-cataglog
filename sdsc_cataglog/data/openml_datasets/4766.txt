@@ -1,0 +1,3 @@
+name: barley_4
+dataset_id: 45124.0
+description: The dataset "barley_4" is introduced, which consists of data from an experiment conducted to investigate the effects of two different varieties of barley, "Manchuria" and "No. 462," under four different treatment conditions. The data consists of yield measurements taken from four blocks, each containing six sub-plots. Observations were made on the yield per acre for each combination of variety and treatment condition. The dataset also includes additional information such as the block number, sub-plot number, variety, and treatment condition. The focus of this dataset is to assess the effect of variety and treatment on barley yield.

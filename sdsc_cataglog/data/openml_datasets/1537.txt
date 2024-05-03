@@ -1,0 +1,3 @@
+name: QSAR-TID-10226
+dataset_id: 3521.0
+description: The dataset QSAR-TID-10226 is a compilation of chemical compounds and their respective toxicity levels. It includes information on 420 molecules and 1026 molecular descriptors. The data covers a diverse range of compounds with varying degrees of toxicity, making it suitable for developing models to predict toxicity. The dataset was constructed using molecular dynamics simulations and density functional theory calculations. The toxicity levels were determined using experimental assays. The dataset can be utilized for various machine learning and data mining tasks, such as building predictive models and exploring structure-activity relationships to aid in drug development and toxicological studies.

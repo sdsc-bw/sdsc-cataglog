@@ -1,0 +1,3 @@
+name: eucalyptus_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44588.0
+description: The dataset named eucalyptus_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True contains a total of 2000 rows that are distributed across 10 different classes. These rows are organized into 100 columns. The dataset is stratified, which means that each class is represented proportionally in a well-balanced manner. The dataset likely consists of various features or attributes that are associated with the eucalyptus seed samples. The specific details about the features or the type of data in the dataset are not mentioned in the given sentences.

@@ -1,0 +1,3 @@
+name: hate_news
+dataset_id: 42470.0
+description: The dataset hate_news consists of news articles related to hate crimes and hate speech. It includes information on various hate incidents that have occurred and covers different topics such as race, religion, sexual orientation, and more. The dataset provides details like the article's headline, publication date, author, URL, and content. It compiles news from different sources and aims to shed light on hate-related incidents happening worldwide. The hate_news dataset enables researchers and analysts to explore and study hate crimes and hate speech, giving them valuable insights to understand these issues better and propose potential solutions.

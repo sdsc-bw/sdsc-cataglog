@@ -1,0 +1,3 @@
+name: pigs_2
+dataset_id: 45254.0
+description: The dataset pigs_2 consists of information about pigs raised in a farming operation. It includes variables such as weight, feed consumption, and genetics, among others. The data was collected over a period of time and aims to study the growth and development of pigs. The dataset is structured and has no missing values. It also contains information about the treatment given to the pigs, such as the type of feed used and any medication administered. The dataset has a wide range of descriptive statistics available, allowing for in-depth analysis and insights into pig farming practices.

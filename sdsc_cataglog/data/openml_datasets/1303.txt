@@ -1,0 +1,3 @@
+name: QSAR-TID-100044
+dataset_id: 3279.0
+description: The QSAR-TID-100044 dataset contains information on the molecular structure and activity of various compounds. It includes 437 compounds, with each compound characterized by 1093 molecular descriptors and a binary activity value indicating its effectiveness. The dataset aims to predict the activity of compounds based on their structure using quantitative structure-activity relationship (QSAR) models. The dataset has been preprocessed, with missing values imputed and standardization performed on the descriptors. It is useful for developing and evaluating QSAR models for drug design and discovery, as well as for exploring patterns and relationships between molecular structure and activity.

@@ -1,0 +1,3 @@
+name: ACSPublicCoverage
+dataset_id: 43140.0
+description: Dataset ACSPublicCoverage is a collection of information related to public health insurance coverage in the United States under the Affordable Care Act. The dataset consists of various attributes such as state, county, federal marketplace identification, and public coverage category. It contains information about the number of individuals enrolled in various public health insurance programs like Medicaid, Children's Health Insurance Program (CHIP), and Medicare. The dataset provides insights into the public health coverage landscape across different states and counties and can be useful for analyzing trends, evaluating the effectiveness of public health insurance programs, and making informed policy decisions.

@@ -1,0 +1,3 @@
+name: Traffic-counting-using-cameras
+dataset_id: 43774.0
+description: The Traffic-counting-using-cameras dataset contains information collected from various cameras installed in different locations. The dataset includes images and associated data, such as vehicle count, vehicle type, and timestamp. The dataset provides a valuable resource for studying traffic patterns and can be used for developing machine learning and computer vision models. It allows researchers to analyze the impact of various factors on traffic volume and assists in making informed decisions regarding transportation management and infrastructure planning. The availability of this dataset enables the development of innovative solutions for traffic control and optimization.

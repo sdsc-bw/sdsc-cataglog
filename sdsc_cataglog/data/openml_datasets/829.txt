@@ -1,0 +1,3 @@
+name: PopularKids
+dataset_id: 1100.0
+description: The dataset PopularKids contains information about the social status of students in a middle school. It consists of 300 records, each representing a student. The dataset includes 20 attributes that describe various aspects of the students' popularity, such as their gender, race, age, height, weight, and other personal characteristics. The popularity scores of the students were determined using a survey conducted among their peers, with higher scores indicating higher popularity. The dataset aims to provide insights into the factors that contribute to students' popularity and inform research on social dynamics in middle school environments.

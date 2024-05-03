@@ -1,0 +1,3 @@
+name: Flora
+dataset_id: 42706.0
+description: The dataset Flora provides comprehensive information about the different species of plants found in various regions. It includes details such as botanical names, common names, descriptions, and distributions of each plant species. The dataset covers a wide range of plants including flowering plants, trees, shrubs, and ferns. It also contains information about their habitats, ecological preferences, and conservation status. Additionally, the dataset includes images of the plants, allowing users to visually identify and compare them. Flora serves as a valuable resource for researchers, botanists, educators, and nature enthusiasts interested in studying and understanding the diverse plant species around the world.

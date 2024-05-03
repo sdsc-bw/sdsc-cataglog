@@ -1,0 +1,3 @@
+name: analcatdata_halloffame
+dataset_id: 454.0
+description: The dataset analcatdata_halloffame contains information about a hypothetical Hall of Fame. It consists of 18 instances and 7 features. The features include attributes like "Lifetime", "Places", "Plays", and "Status". "Lifetime" represents the number of years the person has lived so far. "Places" specifies the number of different places the person has lived in. "Plays" denotes the number of different plays the person has acted in. Lastly, "Status" indicates whether the person is alive or dead. The dataset provides a hypothetical scenario for analyzing and making predictions based on these attributes.

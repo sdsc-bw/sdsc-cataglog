@@ -1,0 +1,3 @@
+name: StocksData
+dataset_id: 43591.0
+description: StocksData is a dataset that contains detailed information about various stocks including their tickers, company names, sectors, industries, and market capitalization. The dataset also includes historical data such as opening, closing, highest, and lowest stock prices, as well as the volume of stocks traded for each day. It provides a comprehensive view of the stock market, allowing users to analyze and track the performance of different stocks over a given period. With this dataset, one can easily identify trends, patterns, and correlations in the stock market, enabling informed investment decisions.

@@ -1,0 +1,3 @@
+name: ailerons
+dataset_id: 734.0
+description: The ailerons dataset is used to predict the efficiency of control surface deflections on an aircraft. It consists of 1201 instances with six input variables and one output variable. The input variables include the roll rate and acceleration at different time steps, as well as the actual and desired control surface deflection angles. The output variable represents the aerodynamic efficiency. The dataset is commonly utilized to train and evaluate algorithms for predicting the aileron effectiveness. It is available on the UCI Machine Learning Repository and has been used in various studies for aircraft control analysis. The data is valuable for researchers and developers in the field of aeronautics.

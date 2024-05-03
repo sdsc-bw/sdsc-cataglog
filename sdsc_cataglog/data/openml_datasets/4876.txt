@@ -1,0 +1,3 @@
+name: link_4
+dataset_id: 45234.0
+description: The dataset link_4 is a collection of data that contains information about 1,000 individuals. It includes various attributes for each individual, such as age, gender, occupation, education level, and income. The dataset also includes information on each individual's location, including city and state. Additionally, it provides details on their marital status and the number of children they have. The dataset link_4 aims to provide a comprehensive overview of a diverse group of individuals, allowing for analysis and insights into various sociodemographic factors.

@@ -1,0 +1,3 @@
+name: QSAR-TID-130
+dataset_id: 3972.0
+description: The dataset QSAR-TID-130 consists of 130 compounds with their corresponding physicochemical properties. This dataset is focused on toxicity prediction, specifically on the toxicity of a certain compound towards Tetrahymena pyriformis. The chemical structures of these compounds were analyzed and their properties were measured. The dataset includes various features such as molecular weight, hydrophobicity, and electronic properties. Several models have been built using this dataset to predict the toxicity of unknown compounds towards Tetrahymena pyriformis. The dataset serves as a valuable resource for researchers in the field of toxicity prediction and can aid in the development of safer and more effective chemicals.

@@ -1,0 +1,3 @@
+name: Weather-11.10
+dataset_id: 43100.0
+description: The dataset Weather-11.10 contains historical weather data collected from various stations across the United States. It includes information about temperature, precipitation, wind speed, humidity, and other weather-related variables. The data spans over a period of several years, allowing for extensive analysis and visualization. The dataset is well-structured, with each variable in separate columns and timestamps for easy time series analysis. It is frequently updated and maintained, ensuring the accuracy and reliability of the data. This dataset is highly valuable for researchers, climatologists, and anyone interested in analyzing weather patterns and trends in the US.

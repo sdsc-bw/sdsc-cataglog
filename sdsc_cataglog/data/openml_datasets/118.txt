@@ -1,0 +1,3 @@
+name: covertype
+dataset_id: 293.0
+description: The dataset covertype contains information about 581,012 forest cover regions in Colorado, USA. It includes 54 attributes, including elevation, slope, and soil type, that describe each region. The dataset aims to predict the forest cover type, which can be one of seven classes, based on these attributes. It is a widely used dataset in the field of machine learning and has been studied extensively. The dataset is often used for classification tasks, such as predicting tree species based on environmental variables. Overall, the covertype dataset provides valuable information for understanding forest cover patterns and making predictions related to forest management.

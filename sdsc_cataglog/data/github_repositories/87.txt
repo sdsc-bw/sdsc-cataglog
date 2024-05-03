@@ -1,0 +1,3 @@
+repo_name: deap
+link: https://github.com/DEAP/deap
+description: DEAP is a novel evolutionary computation framework for rapid prototyping and testing of ideas. It seeks to make algorithms explicit and data structures transparent. It works in perfect harmony with parallelisation mechanisms such as multiprocessing and SCOOP. DEAP includes the following features: Automate any workflow, Host and manage packages, Find and fix vulnerabilities, Instant dev environments, Write better code with AI, Collaborate outside of code, Fund open source developers, and GitHub community articles.

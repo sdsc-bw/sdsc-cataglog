@@ -1,0 +1,3 @@
+name: volkert
+dataset_id: 41166.0
+description: The dataset volkert is a collection of information related to the individual Volkert van der Graaf, who was responsible for the murder of Dutch politician Pim Fortuyn in 2002. It contains various types of data, such as court records, interviews, psychological evaluations, and media coverage. The dataset aims to provide a comprehensive understanding of the motivations, actions, and consequences of Volkert's crime. The information contained in the dataset can be utilized for research, analysis, and academic purposes, shedding light on the complexities of this infamous criminal case and its impact on Dutch politics and society.

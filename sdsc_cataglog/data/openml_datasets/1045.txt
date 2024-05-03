@@ -1,0 +1,3 @@
+name: splice
+dataset_id: 1579.0
+description: The Splice dataset contains a collection of DNA sequences with the objective of predicting whether a particular segment is a DNA splice site or not. It consists of three types of sequences: DNA sequences, mRNA sequences, and protein sequences. It includes almost 3,000 examples where each example contains a sequence and the associated class label. The dataset is useful for tasks related to bioinformatics and machine learning, as it provides an opportunity to evaluate algorithms in predicting splice sites accurately. It serves as a valuable resource to develop and improve algorithms for gene detection and prediction models in genomics research.

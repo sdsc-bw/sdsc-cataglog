@@ -1,0 +1,3 @@
+name: QSAR-TID-30006
+dataset_id: 3680.0
+description: The dataset QSAR-TID-30006 is a compilation of chemical compounds with anti-HIV activity. It includes 30006 samples, each described by a set of physicochemical descriptors. The compounds were tested against the HIV-1 virus, and their inhibitory concentration (IC50) was measured. The dataset also provides additional information about the chemical structures and properties of the compounds. It aims to explore the relationship between the structural features of molecules and their therapeutic effects. The dataset is widely used for developing quantitative structure-activity relationship (QSAR) models and predicting the anti-HIV activity of new compounds.

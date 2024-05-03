@@ -1,0 +1,3 @@
+name: rl_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44450.0
+description: The specified dataset, rl_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True, contains 2,000 rows and 100 columns. It consists of 10 classes and has been stratified to ensure balanced representation of each class. The dataset likely holds categorical or labeled data, with each row corresponding to a specific observation and each column representing a different feature or variable. The stratification process suggests that the dataset may have been prepared for classification or machine learning tasks, where the goal is to accurately categorize new data based on patterns learned from this dataset.

@@ -1,0 +1,3 @@
+name: KDDCup09-Upselling
+dataset_id: 42759.0
+description: The dataset, KDDCup09-Upselling, is a collection of records pertaining to an upselling campaign in a telecommunications company. It consists of various features such as customer demographics, product usage patterns, and marketing interactions. The goal of this dataset is to predict customers who are likely to respond positively to the upselling campaign. It includes information about customer contracts, billing, payment history, product preferences, and customer activity logs. This dataset aims to help researchers and data scientists explore and develop models to improve upselling strategies by identifying potential target customers using machine learning algorithms.

@@ -1,0 +1,3 @@
+name: Breast-cancer-prediction
+dataset_id: 43687.0
+description: The dataset "Breast-cancer-prediction" contains information about the diagnosis of breast cancer in patients. It includes samples from individuals with both malignant (cancerous) and benign (non-cancerous) tumors. The dataset consists of 569 instances, with 30 attributes representing various features of the tumors, including texture, radius, and perimeter. The target variable classifies these instances as either benign or malignant. The dataset aims to assist in the prediction and analysis of breast cancer, thereby contributing to early detection and effective treatment. Machine learning algorithms can be applied to this dataset to develop predictive models for breast cancer diagnosis.

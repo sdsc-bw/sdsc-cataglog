@@ -1,0 +1,3 @@
+name: QSAR-TID-100992
+dataset_id: 3391.0
+description: The QSAR-TID-100992 dataset contains information on the inhibitory activity of 100992 different chemical compounds against the cyclin-dependent kinase 5 protein. Each compound is described by 4D molecular descriptors, which include shape, charge, and other properties. The dataset consists of 3751 instances, with each instance having 1024 features. It is a classification problem, with the compounds being classified into two classes based on their activity. The dataset can be utilized to develop predictive models that determine the inhibitory activity of new compounds against cyclin-dependent kinase 5, potentially aiding in the discovery of new drugs or treatments for diseases influenced by this protein.

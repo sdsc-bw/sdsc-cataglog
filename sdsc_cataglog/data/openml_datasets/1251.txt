@@ -1,0 +1,3 @@
+name: QSAR-TID-100867
+dataset_id: 3227.0
+description: The dataset QSAR-TID-100867 pertains to a study on identifying compounds that exhibit potential as HIV-1 protease inhibitors. The dataset consists of 394 rows and 4 columns. Each row represents a unique molecule with features related to its structure and biological activity. The columns include the compounds' names, the molecule's descriptors, experimental data, and the pIC50 value indicating the inhibitory potency against HIV-1 protease. The dataset aims to assist in predicting the inhibitory activity of new compounds and discovering potential drug candidates. The data can be utilized for computational modeling and machine learning algorithms to aid in drug discovery efforts for HIV-1 treatment.

@@ -1,0 +1,3 @@
+name: mux6
+dataset_id: 40681.0
+description: The dataset Mux6 is a collection of samples that are used to solve a nonlinear classification problem. It consists of 12 input variables and 1 output variable. The input variables are binary, representing the status of different switches. The output variable has two possible values, representing two different classes that the samples can belong to. The dataset contains 2,048 samples, with each sample having a unique combination of input variables. The goal of using this dataset is to develop a classification model that can accurately predict the class of a sample based on its input variables.

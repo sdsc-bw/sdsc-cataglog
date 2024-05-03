@@ -1,0 +1,3 @@
+name: wine_quality
+dataset_id: 44011.0
+description: The wine_quality dataset contains various attributes and quality ratings of white and red wine samples. It consists of 13 input variables including fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol content, quality rating, and color. The quality rating is the target variable with values ranging from 1 to 10, indicating the wine's quality. The dataset is balanced, with 4898 instances of white wine and 1599 instances of red wine. It can be used for analysis, modeling, and prediction tasks related to wine quality.

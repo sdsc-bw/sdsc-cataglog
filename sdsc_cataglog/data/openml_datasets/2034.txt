@@ -1,0 +1,3 @@
+name: QSAR-TID-11225
+dataset_id: 4020.0
+description: QSAR-TID-11225 is a dataset containing bonding energies of a set of organic molecules. It consists of 224 observations and 22 molecular descriptors, including electronic, topological, and quantum-chemical properties. The dataset aims to predict the bonding energy of these molecules based on their descriptors. The molecules in the dataset are classified into two groups: lower and higher bonding energies. The dataset was created through a combination of empirical calculations and experimental measurements. It is useful for building quantitative structure-activity relationship (QSAR) models and for studying the impact of different molecular properties on bonding energy.

@@ -1,0 +1,3 @@
+name: titanic
+dataset_id: 42437.0
+description: The dataset "titanic" provides information about the passengers on the Titanic ship during its tragic voyage. It consists of various features such as passenger class, age, sex, and survival status. The dataset includes 891 instances, with missing data for some variables. The columns hold useful information, like whether a passenger survived or not, their age, and the fare they paid. It is often used in machine learning as a beginner's dataset for predicting survival outcomes. The dataset can be accessed and analyzed for understanding the demographics and survival rates of different groups of passengers on the ill-fated Titanic.

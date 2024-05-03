@@ -1,0 +1,3 @@
+name: enb
+dataset_id: 41478.0
+description: The dataset enb contains the energy performance of buildings, specifically two buildings with different settings. The aim is to predict the heating load and cooling load of the buildings based on features such as the building's surface area, wall area, roof area, overall height, glazing area, glazing area distribution, and orientation. The dataset consists of 768 instances and has eight input features and two output features. The features are numeric and scaled, with no missing values. The dataset was created for regression and could be used for analyzing the energy efficiency of buildings and predicting their heating and cooling requirements.

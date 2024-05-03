@@ -1,0 +1,3 @@
+name: QSAR-TID-104261
+dataset_id: 3800.0
+description: QSAR-TID-104261 is a dataset consisting of 1338 chemical compounds with their associated biological activity. The compounds were tested against HIV-1 virus protease. Each compound is represented by a set of 17 molecular descriptors including constitutional, topological, electrostatic, and quantum-chemical characteristics. The dataset also provides the experimentally measured inhibitory concentration towards the HIV-1 virus protease, which is used as the target variable for modeling. The dataset aims to facilitate the development of quantitative structure-activity relationship (QSAR) models to predict the biological activity of compounds against HIV-1 protease, helping in the design of potential inhibitors.

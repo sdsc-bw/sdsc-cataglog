@@ -1,0 +1,3 @@
+name: QSAR-TID-101521
+dataset_id: 3549.0
+description: The dataset QSAR-TID-101521 is a collection of chemical compounds and their properties. The dataset contains information on the molecular structure of the compounds and their potential toxicity against a specific target. It includes various descriptors such as molecular weights, atomic charges, and solubility parameters. The dataset also provides the toxicity data for each compound, measured as lethal concentration in half of the test organisms (LC50). The dataset aims to aid in the development of quantitative structure-activity relationship (QSAR) models for predicting the toxicity of chemical compounds and identifying potential toxicological hazards.

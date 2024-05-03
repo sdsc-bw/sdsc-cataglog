@@ -1,0 +1,3 @@
+repo_name: DEEPSEC
+link: https://github.com/ryderling/DEEPSEC
+description: DEEPSEC is a uniform platform for security analysis of deep learning models, which comprehensively and systematically integrates the state-of-the-art adversarial attacks, defenses, and relative utility metrics of them. Developed by Xiang Ling, Shouling Ji, Jiaxu Zou, Jiannan Wang, Chunming Wu, Bo Li and Ting Wang, DEEPSEC provides a standardized environment for analyzing and securing deep learning models. The repository includes descriptions, requirements, datasets, and instructions for usage and experiments. It also provides evaluations and codes for contributions, and has been reconstructed for better readability and adaptability.

@@ -1,0 +1,3 @@
+name: child_3
+dataset_id: 45134.0
+description: Child_3 dataset is a collection of data that contains information about children. It includes variables such as age, gender, weight, height, and various health-related indicators. The dataset aims to provide insights into the physical development and well-being of children. It is likely to be useful for studying growth patterns, identifying potential health issues, and conducting research related to child development. The dataset appears to be comprehensive, covering a wide range of relevant factors. Analyzing this dataset may enable researchers and healthcare professionals to draw meaningful conclusions and make informed decisions regarding childcare and child health.

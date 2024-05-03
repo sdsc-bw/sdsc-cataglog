@@ -1,0 +1,3 @@
+name: Diabetes130US
+dataset_id: 45069.0
+description: The dataset Diabetes130US contains 130 observations and 3 attributes related to diabetes management. The attributes include demographic information (age), clinical diagnosis data (gender), and medical findings (admission type and number of lab tests). The dataset aims to explore the relationship between these attributes and the binary variable of diabetes readmission within 30 days. The dataset includes a mix of both categorical and numerical variables, with missing values present. The study focuses on predicting the likelihood of a patient being readmitted for diabetes treatment within 30 days, enabling better healthcare management and patient care planning.

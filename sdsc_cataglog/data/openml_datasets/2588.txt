@@ -1,0 +1,3 @@
+name: FOREX_eurnzd-minute-Close
+dataset_id: 41853.0
+description: The dataset named FOREX_eurnzd-minute-Close consists of minute-wise closing prices of the EUR/NZD currency pair in the foreign exchange (forex) market. The dataset likely contains information on the exchange rates between the Euro and the New Zealand dollar, recorded at regular one-minute intervals. The closing prices reflect the value of the currency pair at the end of each minute. The dataset provides a detailed and granular view of the fluctuations and trends in the EUR/NZD exchange rate over time, allowing users to analyze and model the currency pair's behavior at a minute-level resolution.

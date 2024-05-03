@@ -1,0 +1,3 @@
+name: Math-Students
+dataset_id: 43719.0
+description: The dataset Math-Students comprises data from students taking a mathematics course at a specific school. The dataset contains 1,000 records and 10 attributes, including gender, age, education level, with the majority of students being female. The average age of the students is 16.7 years old, with a minimum age of 15 and a maximum age of 22. The dataset also includes information about family support, free/reduced lunch, and their overall math score, ranging from 0 to 100. Additionally, data on the students' reading and writing scores are included, with similar ranges. The dataset provides valuable insights into the performance of math students at this particular school.

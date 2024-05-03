@@ -1,0 +1,3 @@
+name: medical_charges
+dataset_id: 45048.0
+description: The dataset called medical_charges is related to medical charges and includes various variables such as age, sex, BMI, number of children, smoker status, region, and charges. The age variable refers to the age of the individual, while the sex variable represents the person's gender. The BMI variable indicates the body mass index value, and the number of children variable shows the count of children a person has. The smoker status variable indicates whether the person is a smoker or not. The region variable represents the geographical region where the person resides. Lastly, the charges variable represents the medical charges incurred by individuals.

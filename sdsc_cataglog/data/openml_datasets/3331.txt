@@ -1,0 +1,3 @@
+name: Football-striker-performance
+dataset_id: 43401.0
+description: The Football-striker-performance dataset contains information about the performance of football strikers. It includes various attributes such as goals scored, number of shots taken, assists given, yellow and red cards received, and total minutes played. The dataset also provides additional information about the strikers, such as their age, nationality, and the clubs they play for. This dataset can be used to analyze striker performance, compare different players, and identify key factors that contribute to a striker's success. The dataset is comprehensive and can potentially be utilized by football clubs, coaches, and analysts to make data-driven decisions and improve team performance.

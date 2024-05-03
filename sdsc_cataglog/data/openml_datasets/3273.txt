@@ -1,0 +1,3 @@
+name: Mammographic-Mass-Data-Set
+dataset_id: 43343.0
+description: The Mammographic-Mass-Data-Set is a collection of mammogram images with associated features, designed to aid in the diagnosis of breast cancer. The dataset contains 961 instances, with each instance consisting of 5 attributes and a class label. The attributes include the patient's age, shape, margin, density, and severity of the mass. The class label indicates whether the mass is benign or malignant. The dataset is imbalanced, with a majority of instances being benign. It is useful for training machine learning models and conducting research in the field of breast cancer detection and diagnosis.

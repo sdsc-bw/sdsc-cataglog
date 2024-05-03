@@ -1,0 +1,3 @@
+name: Ceres-discovery-data
+dataset_id: 40728.0
+description: The dataset Ceres-discovery-data contains information about the discovery of the dwarf planet Ceres. It includes measurements and observations made by various space missions such as the Dawn spacecraft. The dataset provides data on Ceres' physical characteristics, composition, and geological features, including its surface morphology and spectral properties. The spacecraft's instruments, including gamma ray and neutron detectors, have helped scientists analyze Ceres' interior structure and presence of ice. This dataset has been valuable in expanding our knowledge of Ceres and its significance in understanding the early solar system and potential for harboring microbial life.

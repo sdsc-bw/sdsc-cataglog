@@ -1,0 +1,3 @@
+name: socmob
+dataset_id: 541.0
+description: The dataset socmob is a comprehensive source of information on social mobility, encompassing data from 30 countries. It provides valuable insights into the factors influencing individual mobility, such as education and occupation. The dataset includes variables like parental background, income, and educational attainment, allowing researchers to investigate intergenerational mobility. It covers a wide range of cohorts, enabling the analysis of trends over time. Socmob also incorporates data on social policies and institutions that may affect mobility outcomes. The dataset is valuable for studying the prevalence and nature of social mobility across various contexts and understanding the mechanisms that drive it.

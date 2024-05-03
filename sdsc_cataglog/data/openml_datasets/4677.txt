@@ -1,0 +1,3 @@
+name: abalone
+dataset_id: 45033.0
+description: The abalone dataset contains measurements of physical attributes of abalone shells, along with their respective age. It consists of 4177 instances or samples, each having eight attributes. The attributes include sex, length, diameter, height, whole weight, shucked weight, viscera weight, and shell weight. Age is a continuous variable, ranging from 1 to 29 years. The dataset aims to predict the age of abalone based on their physical characteristics. The dataset also comes with an additional 20 instances, excluding the age attribute, for testing purposes. The dataset has been widely used for regression analysis and machine learning tasks.

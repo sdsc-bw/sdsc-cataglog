@@ -1,0 +1,3 @@
+name: QSAR-TID-102678
+dataset_id: 3610.0
+description: The dataset QSAR-TID-102678 contains information about the biological activity of compounds towards inhibiting Thymidine Kinase 1 (TK1). It consists of 1316 instances with 56 attributes, including molecular descriptors, topology indices, and 2D and 3D autocorrelations. The dataset also provides the values of the target variable, IC50, which represents the concentration required for 50% inhibition of TK1. The dataset was utilized to build and evaluate quantitative structure-activity relationship (QSAR) models to predict TK1 inhibition activity. It aims to aid in the development of new potential TK1 inhibitors for therapeutic purposes.

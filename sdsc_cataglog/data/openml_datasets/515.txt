@@ -1,0 +1,3 @@
+name: fri_c3_100_25
+dataset_id: 768.0
+description: The dataset fri_c3_100_25 consists of 100 items which are categorized into 25 distinct classes. It is part of the FRI (Flow Record Intrusion) dataset and is commonly used for intrusion detection research. Each item in the dataset represents a network flow, and various features such as source and destination IP addresses, source and destination ports, protocol, and packet count are included. The dataset provides a comprehensive representation of network traffic behavior and is highly valuable for developing and evaluating intrusion detection systems. Researchers can utilize this dataset to analyze network traffic patterns and experiment with intrusion detection algorithms.

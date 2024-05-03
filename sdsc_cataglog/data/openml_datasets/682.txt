@@ -1,0 +1,3 @@
+name: lowbwt
+dataset_id: 941.0
+description: The dataset "lowbwt" contains information on various attributes of pregnant women and their newborn babies. It consists of 189 records with 9 variables, including the weight and age of the mother, the number of previous pregnancies, and the presence of hypertension or uterine irritability. The dataset also includes the weight of the baby at birth, gestational age, and whether the baby had a low birth weight (less than 2.5kg) or not. This dataset is commonly used in statistical analysis and research related to predicting and understanding factors associated with low birth weight in infants.

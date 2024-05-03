@@ -1,0 +1,3 @@
+name: FOREX_audnzd-hour-Close
+dataset_id: 41898.0
+description: The dataset "FOREX_audnzd-hour-Close" contains information about the AUD/NZD currency pair. It includes hourly closing prices for this pair in the foreign exchange (FOREX) market. The dataset likely covers a certain period of time, indicating the relationship between the Australian Dollar (AUD) and the New Zealand Dollar (NZD) through their exchange rate. The hourly closing prices can be useful for analyzing trends, patterns, and fluctuations in the AUD/NZD pair over time. This dataset could be valuable for traders, analysts, and researchers keen on studying the dynamics of this currency pair in the FOREX market.

@@ -1,0 +1,3 @@
+name: QSAR-TID-102465
+dataset_id: 3120.0
+description: The dataset QSAR-TID-102465 consists of 1309 compounds with 1024 molecular descriptors. The compounds are categorized into three classes: 357 active, 503 inactive, and 449 inconclusive. These compounds have been screened for their ability to inhibit the RBL-2H3 cell line, which is associated with allergies. The compounds were tested at a concentration of 10uM, and the activity was measured using a fluorescent dye. The dataset includes descriptors that represent structural and physicochemical properties of the compounds, such as molecular weight, solubility, and hydrogen bonding. The dataset aims to aid in the discovery of new molecules with potential anti-allergic properties.

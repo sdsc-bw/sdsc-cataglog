@@ -1,0 +1,3 @@
+name: iris
+dataset_id: 42097.0
+description: The iris dataset is a classic and well-known dataset in the field of machine learning. It contains measurements of different attributes of iris flowers belonging to three different species. The dataset consists of 150 observations, with each observation having four features: sepal length, sepal width, petal length, and petal width. It is a balanced dataset, meaning it has an equal number of samples for each class. The dataset has been extensively used for various tasks, including classification, clustering, and visualization. Due to its simplicity and versatility, the iris dataset serves as a useful benchmark for testing and evaluating machine learning algorithms.

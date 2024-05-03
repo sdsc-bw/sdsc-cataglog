@@ -1,0 +1,3 @@
+name: QSAR-TID-11168
+dataset_id: 4054.0
+description: The dataset QSAR-TID-11168 is a collection of data related to the quantitative structure-activity relationship (QSAR) of chemical compounds. It contains information about 11168 different compounds and their associated activities. The dataset includes features such as the chemical structure of the compounds, molecular descriptors, and biological activity measurements. It is useful for understanding the relationship between the structure of chemical compounds and their activity, which can have implications in various fields including drug discovery and toxicity prediction. The QSAR-TID-11168 dataset provides valuable insights into the properties of different chemicals and their potential effects.

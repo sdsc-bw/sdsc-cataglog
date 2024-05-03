@@ -1,0 +1,3 @@
+name: US-Breweries
+dataset_id: 43350.0
+description: The US-Breweries dataset comprises information about breweries and beers in the United States. It contains details like the brewery name, type, address, city, state, postal code, phone number, website, longitude, latitude, and more. The dataset also includes information about the beers produced by each brewery, such as the beer name, style, ABV (alcohol by volume), and IBU (international bitterness units). It contains records of over 5,500 breweries and almost 25,000 beers, making it a comprehensive resource for exploring the brewery landscape in the US. The dataset is frequently updated, ensuring its accuracy and relevance.

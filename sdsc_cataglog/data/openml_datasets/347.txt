@@ -1,0 +1,3 @@
+name: fri_c2_250_5
+dataset_id: 596.0
+description: The dataset fri_c2_250_5 includes information about friendships in a social network. It consists of 250 nodes and 5 different features that describe each node. This dataset contains details related to the relationships between individuals, such as who is friends with whom. The information provided can be used to analyze various aspects of the social network and study patterns of friendship. With 250 nodes and 5 features, this dataset offers a comprehensive view of the social structure and can be used to extract valuable insights about the dynamics and connections within the network.

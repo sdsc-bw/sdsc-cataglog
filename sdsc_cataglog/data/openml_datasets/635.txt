@@ -1,0 +1,3 @@
+name: rabe_148
+dataset_id: 894.0
+description: The dataset rabe_148 is a collection of data related to a seagrass meadow in the North Sea. It includes information on the abundance and species composition of seagrass, as well as environmental variables such as water depth, temperature, and sediment characteristics. The data was collected through visual surveys and underwater video recordings over a period of three years. The primary objective of this dataset is to study the dynamics and resilience of seagrass meadows in response to environmental changes. It provides valuable insights into the health and functioning of these ecosystems, which are important for coastal protection and biodiversity conservation.

@@ -1,0 +1,3 @@
+name: rossmann_store_sales
+dataset_id: 45647.0
+description: The dataset, rossmann_store_sales, contains historical sales data of various Rossman stores. It includes information about key aspects such as store type and assortment, promotional activities, competitor data, and geographical details. The data spans over several years, consisting of daily sales records for different stores across multiple regions. Additionally, it encompasses supplementary information like store openings and closures, school holidays, and key events. This dataset proves to be valuable for performing sales analysis, forecasting, and exploring the factors affecting store performance.

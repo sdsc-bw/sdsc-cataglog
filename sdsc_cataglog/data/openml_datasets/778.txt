@@ -1,0 +1,3 @@
+name: eye_movements
+dataset_id: 1044.0
+description: The dataset "eye_movements" contains information related to eye movements of individuals during their interaction with a visual stimuli. The dataset consists of various attributes such as participant ID, trial number, fixation duration, saccade amplitude, and target type. The data was collected using eye-tracking devices and includes information from multiple participants across multiple trials. The dataset's purpose is to enable researchers to analyze and identify patterns and characteristics of eye movements in different contexts. It is a valuable resource for exploring human visual perception and cognitive processes related to eye movements.

@@ -1,0 +1,3 @@
+name: fri_c3_500_50
+dataset_id: 645.0
+description: The dataset fri_c3_500_50 contains information about friendships between 500 individuals within a social network. It includes 50 different kinds of features related to these friendships. The dataset provides insights into the dynamics of social connections and friendships within a community. It can be analyzed to gain understanding about various aspects of social network behavior and the factors influencing friendships. With its comprehensive and diverse set of features, the fri_c3_500_50 dataset can serve as a valuable resource for studying social networks, exploring patterns of interaction, and investigating factors that contribute to the formation and maintenance of friendships.

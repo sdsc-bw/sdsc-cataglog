@@ -1,0 +1,3 @@
+name: QSAR-TID-11947
+dataset_id: 3774.0
+description: The dataset QSAR-TID-11947 consists of five molecular descriptors (chemical properties) and a target variable. These descriptors are Octanol-Water Partition Coefficient (logP), Molecular Weight (MW), Saturated Carbon Number (SCN), Saturated Oxygen Number (SON), and Saturated Nitrogen Number (SNN). The target variable represents the acute aquatic toxicity, specifically, the LC50 value, which is the concentration at which 50% of the tested organisms die. The dataset contains 1,194 instances, each corresponding to a chemical compound, with none of them being duplicate or missing. It aims to predict the toxicity level of compounds based on their molecular descriptors.

@@ -1,0 +1,3 @@
+name: QSAR-TID-10368
+dataset_id: 3419.0
+description: The dataset QSAR-TID-10368 contains information about the bioactivity of compounds that inhibit the enzyme aromatase. It consists of 7,216 compounds with 252 attributes, including molecular properties, topological indices, and 2D and 3D descriptors. The dataset was originally obtained from the Tox21 challenge and is now a part of the QSAR Toolbox. The goal is to develop a quantitative structure-activity relationship (QSAR) model to predict the bioactivity of new compounds against aromatase. The dataset has been preprocessed with various techniques, including removing duplicates and filtering for compounds with known structures.

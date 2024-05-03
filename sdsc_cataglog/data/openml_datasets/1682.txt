@@ -1,0 +1,3 @@
+name: QSAR-TID-19607
+dataset_id: 3665.0
+description: The dataset QSAR-TID-19607 consists of 81 compounds used to predict toxicity against Tetrahymena pyriformis, a ciliated protozoan species. The dataset contains various molecular descriptors and the corresponding experimental toxicities. It is a balanced dataset with half of the compounds considered toxic and the other half non-toxic. The compounds were selected from a larger pool using a clustering algorithm to maintain diversity. Several machine learning algorithms were utilized to create predictive models. The dataset aims to provide useful insights into the relationship between the molecular properties of compounds and their toxicity, aiding in the development of new, safe chemical compounds and drugs.

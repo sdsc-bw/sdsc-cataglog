@@ -1,0 +1,3 @@
+name: USA-Housing-Listings
+dataset_id: 43393.0
+description: The dataset "USA-Housing-Listings" provides information on various housing listings in the United States. It contains relevant details such as the location, price, number of bedrooms and bathrooms, area, and address of each property. Additionally, the dataset includes features like the average income in the area, average house age, and proximity to parks, highways, and shopping centers. The dataset aims to contribute to research and analysis in the real estate market, property valuation, and housing trends. It offers potential insights into the relationship between these features and housing prices, enabling further investigation and development of predictive models.

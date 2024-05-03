@@ -1,0 +1,3 @@
+name: covertype
+dataset_id: 43954.0
+description: The "covertype" dataset contains information about forest cover types in the Roosevelt National Forest in Colorado. It includes data on seven different cover types, such as spruce-fir, lodgepole pine, and cottonwood-willow. The dataset consists of 581,012 observations and 54 variables, including both categorial and continuous features. It provides information about the elevation, aspect, slope, and other geographical characteristics of each observation. The dataset is commonly used for studying land cover classification, as well as developing predictive models for forest inventory surveys. It is widely used in the field of machine learning for classification and pattern recognition tasks.

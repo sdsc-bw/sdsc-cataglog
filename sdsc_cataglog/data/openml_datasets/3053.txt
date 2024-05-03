@@ -1,0 +1,3 @@
+name: CMC_Data
+dataset_id: 42881.0
+description: The CMC_Data dataset contains information about the contraceptive method choice among women in Bangladesh. It consists of 1,473 records with nine variables, including the wife's age, education level, religion, number of children, and contraceptive use. The dataset aims to understand the factors influencing the choice of contraceptive methods and how they relate to the socio-economic background of women. The data is gathered through a survey conducted in rural areas of Bangladesh. This dataset provides a crucial resource for researchers interested in studying the patterns and determinants of contraceptive use and making informed decisions regarding family planning programs and policies.

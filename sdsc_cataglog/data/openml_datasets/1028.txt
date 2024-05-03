@@ -1,0 +1,3 @@
+name: abalone
+dataset_id: 1557.0
+description: The Abalone dataset contains 4177 observations and 9 variables. It was created with the aim of predicting the age of abalone using physical measurements. The variables include age, sex, length, diameter, height, weight, meat weight, gut weight, and shell weight. The dataset provides valuable information on the physical characteristics of abalone to determine their age, as counting the rings on the shell is time-consuming. Age prediction can be useful in conservation and management of abalone populations. The dataset serves as a resource for researchers and practitioners in marine biology and ecology.

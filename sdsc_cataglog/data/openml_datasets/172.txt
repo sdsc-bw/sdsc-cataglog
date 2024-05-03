@@ -1,0 +1,5 @@
+name: carbolenes
+dataset_id: 410.0
+description: Carbolenes, a dataset containing information about various chemical compounds, is summarized in the following sentences:
+
+Carbolenes is a collection of chemical compounds that are structurally related to benzene but contain carbon atoms in triple bond arrangements. The dataset includes details such as the names, formulas, molecular weights, and synthesis methods of these compounds. It also provides information about their physicochemical properties, such as melting point, boiling point, density, and solubility. Carbolenes are of interest due to their potential applications in various fields including organic synthesis, pharmaceuticals, and material science. The dataset provides a comprehensive resource for researchers and chemists studying or working with carbolenes, allowing for better understanding and utilization of these compounds.

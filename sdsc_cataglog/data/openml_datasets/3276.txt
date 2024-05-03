@@ -1,0 +1,3 @@
+name: User-OTT-Consumption-Profile---2019
+dataset_id: 43346.0
+description: The dataset "User-OTT-Consumption-Profile---2019" provides insights into the consumption profile of OTT (Over-the-Top) users in the year 2019. It includes data related to user behavior, preferences, and consumption patterns on various OTT platforms. The dataset offers information about the duration of content consumed, genres preferred, most viewed programs, languages, and usage trends. Additionally, it provides details about user demographics such as age, gender, and location. This dataset is valuable for analysts and researchers studying OTT platforms, as it gives a comprehensive overview of user preferences and consumption habits in 2019.

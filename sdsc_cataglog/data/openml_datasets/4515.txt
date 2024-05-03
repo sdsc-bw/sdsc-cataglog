@@ -1,0 +1,3 @@
+name: Satellite_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44694.0
+description: The dataset "Satellite_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True" consists of 2000 rows and 100 columns. The dataset is stratified, meaning that it is divided into groups based on certain characteristics. It contains information related to satellite imagery and is categorized into 10 different classes. The dataset is likely used for classification tasks, where the goal is to classify or label data based on certain features. However, further details about the specific contents or variables within the dataset are not provided.

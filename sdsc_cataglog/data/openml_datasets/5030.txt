@@ -1,0 +1,3 @@
+name: hcdr_main
+dataset_id: 45567.0
+description: The dataset hcdr_main contains information related to credit default risk. It consists of around 300,000 rows and 122 columns. It includes details about loan applicants, such as their gender, age, marital status, and education level. It also encompasses information regarding their payment history, the amount they have borrowed, and the type of loan they have taken. Additionally, the dataset contains variables indicating whether the applicant owns real estate, a car, or has any children. It provides insight into the applicant's financial stability and risks associated with their loan repayment.

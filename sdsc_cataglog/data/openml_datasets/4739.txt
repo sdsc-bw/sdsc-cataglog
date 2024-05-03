@@ -1,0 +1,3 @@
+name: Lymphoma-9
+dataset_id: 45095.0
+description: The Lymphoma-9 dataset comprises gene expression data from nine types of lymphoma, a type of cancer affecting the lymphatic system. The dataset includes 62 samples, with each sample having gene expression measurements for 4026 genes. The objective of this dataset is to classify the samples into their respective lymphoma type based on their gene expression patterns. The dataset contains both training and testing sets, with training sets consisting of 42 samples and testing sets containing 20 samples. It serves as a valuable resource for researching and developing machine learning algorithms for lymphoma classification.

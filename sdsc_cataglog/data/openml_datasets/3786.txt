@@ -1,0 +1,3 @@
+name: mini_insect_1
+dataset_id: 43885.0
+description: The dataset mini_insect_1 is about insects and their characteristics. It consists of entomological data collected from various locations and time periods. The dataset provides information on the species, population size, and behavior of insects. It also includes data about the environmental conditions in which the insects were observed. The dataset contains records of different insect species, their abundance, and presence in different habitats. It aims to explore the relationship between insect populations and environmental factors. The dataset is valuable for studying insect biodiversity and understanding the ecological dynamics of insect populations.

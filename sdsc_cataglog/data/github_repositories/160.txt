@@ -1,0 +1,3 @@
+repo_name: ctrl
+link: https://github.com/salesforce/ctrl
+description: CTRL - A Conditional Transformer Language Model for Controllable Generation.Updates Introduction Table of Contents Citation License Questions for.Deliberation Usage Generations Source Attributions FAQs Get Involved.

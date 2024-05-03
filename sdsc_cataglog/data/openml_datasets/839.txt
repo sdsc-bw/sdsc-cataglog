@@ -1,0 +1,3 @@
+name: KDDCup09_churn
+dataset_id: 1112.0
+description: The dataset KDDCup09_churn contains customer data from a telecommunication company. It includes information about customer demographics, call details, network usage, and service plan information. The dataset also includes a churn label, indicating whether a customer has churned or not. The dataset consists of approximately 50,000 rows and 230 variables. It has been anonymized and transformed for privacy reasons. The dataset aims to help in predicting customer churn and is commonly used for machine learning and data analytics projects. It provides a valuable resource for understanding customer behavior and designing retention strategies.

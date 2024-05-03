@@ -1,0 +1,3 @@
+name: madelon
+dataset_id: 1485.0
+description: The dataset "madelon" is a synthetic dataset designed to test the performance of machine learning algorithms. It consists of 440 anonymous features and two classes (-1 and +1). Each feature is independent and identically distributed following a Gaussian distribution. The dataset has a balanced target variable with equal numbers of instances for each class. Madelon is often used for feature selection and classification tasks, particularly in benchmarking and evaluating machine learning models. It challenges algorithms to identify relevant features and achieve high accuracy in predicting class labels. Overall, madelon serves as a valuable resource for testing and improving machine learning algorithms.

@@ -1,0 +1,3 @@
+name: hepar2_2
+dataset_id: 45188.0
+description: The dataset hepar2_2 is related to a project studying the effects of an experimental drug on liver disease in rats. The experiment involved administering different doses of the drug to different groups of rats, and then measuring various markers of liver health. The dataset contains information about 138 rats and includes variables such as the dose of the drug, the weight of the rats, and measurements of liver enzymes and markers of inflammation. The dataset is expected to provide valuable insights into the effectiveness and safety of the experimental drug in treating liver disease.

@@ -1,0 +1,3 @@
+name: MIP-2016-regression
+dataset_id: 43071.0
+description: The MIP-2016-regression dataset captures information from multiple industries to predict the success of manufacturing companies. It consists of 14 attributes, including financial ratios, corporate governance indicators, and industry benchmark valuation measures. The dataset contains 459 observations, each representing a different company. The target variable is the operating income of the company, which serves as an indicator of its overall performance. The dataset is useful for regression analysis and can be utilized to build predictive models to evaluate manufacturing company profitability based on various factors.

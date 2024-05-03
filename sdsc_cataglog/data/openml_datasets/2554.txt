@@ -1,0 +1,3 @@
+name: FOREX_eurrub-minute-High
+dataset_id: 41819.0
+description: FOREX_eurrub-minute-High is a dataset containing minute-by-minute information about the highest exchange rate between the Euro and Russian Ruble. The dataset is related to foreign exchange rates and focuses specifically on the EUR/RUB currency pair. It includes data on the highest exchange rate recorded for each minute, providing valuable insights into the volatility and fluctuations in this particular currency pair. The dataset is likely to be useful for financial analysts, traders, or anyone interested in studying the movement of the Euro against the Russian Ruble in the foreign exchange market.

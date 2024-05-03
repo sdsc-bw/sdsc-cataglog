@@ -1,0 +1,3 @@
+name: particulate-matter-ukair-2017
+dataset_id: 44068.0
+description: The dataset named particulate-matter-ukair-2017 contains information about the levels of particulate matter in the air across various locations in the United Kingdom. It includes data for the year 2017 and provides hourly readings for different pollutants, such as PM2.5 and PM10. The dataset also includes additional information such as the date, time, location coordinates, and meteorological data. It covers a wide range of locations across the UK, making it a comprehensive dataset for studying and analyzing air quality and its impact on public health and the environment.

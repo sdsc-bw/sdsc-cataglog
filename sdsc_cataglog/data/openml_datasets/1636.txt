@@ -1,0 +1,3 @@
+name: QSAR-TID-30016
+dataset_id: 3621.0
+description: The QSAR-TID-30016 dataset contains information about the chemical compounds and their corresponding toxicity levels. This dataset consists of 483 compounds, with 14 molecular descriptors determined for each compound. The toxicity levels are measured using the LD50 endpoint, which represents the lethal dose required to kill half of the tested organisms. The dataset also includes binary classification labels to indicate whether a compound is toxic or non-toxic. It is commonly used for research in the field of quantitative structure-activity relationship (QSAR) modeling to predict the toxicities of chemical compounds based on their molecular structure.

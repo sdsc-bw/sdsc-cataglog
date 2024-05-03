@@ -1,0 +1,3 @@
+name: QSAR-TID-103900
+dataset_id: 3175.0
+description: The QSAR-TID-103900 dataset contains molecular descriptors and the corresponding experimental binding affinity values for the interaction between small molecules and the target protein. It consists of 1039 compounds with 152 molecular descriptors, including physicochemical properties, constitutional descriptors, and topological indices. The dataset aims to aid in developing quantitative structure-activity relationship (QSAR) models to predict the binding affinity of unknown compounds. The dataset can be valuable for researchers in drug discovery, as it enables the exploration of structure-activity relationships and the identification of potentially active compounds for further study.

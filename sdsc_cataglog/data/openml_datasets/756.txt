@@ -1,0 +1,3 @@
+name: vowel
+dataset_id: 1016.0
+description: The dataset named "vowel" contains acoustic measurements of different speakers pronouncing different English vowels. The dataset consists of 11 variables, including vowel category (label), speaker identification (speaker), recording session (session), and speaker's sex (sex). The acoustic measurements include formants (frequency bands) F1-F5, duration-related variables, and others. The measurements were obtained from sustained vowel phonations, recorded digitally, and processed for analysis. The dataset is commonly used for studying vowel acoustics and speech perception, providing valuable insights into the characteristics and variations of English vowels based on speaker, sex, and other factors.

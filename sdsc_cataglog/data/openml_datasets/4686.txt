@@ -1,0 +1,3 @@
+name: abalone
+dataset_id: 45042.0
+description: The Abalone dataset is a well-known dataset used for classification tasks. It contains various physical measurements of abalone samples, such as their length, diameter, height, and weight. Additionally, it includes information about their age, sex, and the number of rings on their shell. The goal of analyzing this dataset is to predict the age of the abalone based on these attributes. The dataset consists of 4177 instances, and it is often used in machine learning and data science research to practice classification algorithms and evaluate their performance. The dataset is publicly available and commonly used as a benchmark in classification tasks.

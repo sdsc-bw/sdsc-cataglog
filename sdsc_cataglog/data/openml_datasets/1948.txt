@@ -1,0 +1,3 @@
+name: QSAR-TID-9
+dataset_id: 3933.0
+description: The QSAR-TID-9 dataset comprises information on the toxicity of various chemicals towards Tetrahymena pyriformis, a type of microscopic organism commonly used in toxicity testing. It is sourced from the Toxicity Information Database (TID) which is a part of the U.S. Environmental Protection Agency (EPA) CompTox Chemistry Dashboard. The dataset consists of 7,524 chemical compounds with known toxicological properties, represented by 880 molecular descriptors. The purpose of this dataset is to aid in developing quantitative structure-activity relationship (QSAR) models for predicting the toxicity of chemicals, particularly towards Tetrahymena pyriformis.

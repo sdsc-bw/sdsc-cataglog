@@ -1,0 +1,3 @@
+name: Weather-Test
+dataset_id: 45610.0
+description: The Weather-Test dataset is a collection of weather information collected over a period of time. It includes data on temperature, wind speed, humidity, and precipitation. The data was collected from various locations and is representative of different weather conditions. The dataset is used for testing weather prediction models and algorithms. It is a valuable resource for researchers and scientists working in the field of meteorology. The dataset allows them to analyze and validate the accuracy of their models, as well as improve the prediction capabilities for weather forecasting.

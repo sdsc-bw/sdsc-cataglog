@@ -1,0 +1,3 @@
+name: FOREX_eurnok-minute-Close
+dataset_id: 41751.0
+description: The dataset FOREX_eurnok-minute-Close contains information on the closing prices for the currency pair Euro (EUR) to Norwegian Krone (NOK) on a minute-by-minute basis. The dataset provides a detailed record of the exchange rates for this currency pair over a specific period of time. The closing prices are an important indicator of the overall performance and fluctuations in the EUR-NOK exchange rate. The dataset includes a wide range of minute-level observations, allowing for in-depth analysis and identification of various patterns, trends, and changes in this particular currency pair.

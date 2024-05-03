@@ -1,0 +1,3 @@
+name: TaskCreationTestDataset
+dataset_id: 41961.0
+description: The dataset, TaskCreationTestDataset, is composed of crowdsourced task instructions and corresponding answers. It aims to assess the effectiveness of natural language instructions in generating intended behaviors from crowdsourcing workers. The dataset includes a variety of tasks such as image generation and text transformation, spanning multiple domains and complexities. It contains a total of 3,000 tasks, randomly sampled from a pool of crowdsourced workers, and each task consists of a textual instruction and a corresponding answer. The dataset is intended to facilitate research on human-AI collaboration and can be used for developing and evaluating models that generate effective instructions.

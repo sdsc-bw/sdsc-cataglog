@@ -1,0 +1,3 @@
+name: QSAR-TID-12512
+dataset_id: 3618.0
+description: The dataset QSAR-TID-12512 consists of 1113 molecules, each represented by 828 features. These features are a combination of structural, topological, thermodynamic, and quantum-chemical descriptors. The molecules are classified into two classes, active and inactive, based on their biological activity towards a specific target. The dataset is used for developing quantitative structure-activity relationship (QSAR) models to predict the activity of new molecules. The goal is to identify molecules that are potentially active for future drug discovery. The dataset is publicly available and has been used in several research studies to investigate and develop new computational approaches for QSAR modeling.

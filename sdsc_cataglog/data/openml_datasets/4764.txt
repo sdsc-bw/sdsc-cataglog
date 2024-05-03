@@ -1,0 +1,3 @@
+name: barley_2
+dataset_id: 45122.0
+description: The dataset barley_2 contains information about the growth of barley plants under different conditions. It includes measurements of the crop's yield, nitrogen content, and variety under four different treatments: control, fertilizer A, fertilizer B, and fertilizer C. The data was collected from a controlled experiment with randomized blocks and replicated across several years. The dataset consists of 120 observations with six variables. It provides researchers with valuable insights into the effects of fertilizers and other factors on barley crop performance, helping inform agricultural practices and improve yield and sustainability in barley production.

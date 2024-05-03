@@ -1,0 +1,3 @@
+name: baskball
+dataset_id: 731.0
+description: The dataset "basketball" contains information about basketball players, teams, and games. This dataset comprises various attributes including player names, ages, heights, weights, positions, teams they belong to, game scores, and dates. It also includes statistics such as points, rebounds, assists, steals, and blocks achieved by each player in different games. The dataset helps analyze player performance, team dynamics, and game outcomes. It can be used for various purposes including predicting player performance, team strategies, and future game scores. The basketball dataset provides valuable insights into the NBA and aids in decision-making for teams, coaches, and fans alike.

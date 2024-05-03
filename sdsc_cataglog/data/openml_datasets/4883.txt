@@ -1,0 +1,3 @@
+name: pathfinder_0
+dataset_id: 45241.0
+description: The dataset pathfinder_0 contains information related to a pathfinding problem. It consists of a grid where each cell represents a space that can be traversed or blocked. The dataset includes the start and goal positions for each problem instance, as well as the optimal path to be found. Additionally, it provides information about the dimensions of the grid and the number of blocked cells. The dataset aims to serve as a benchmark for evaluating different pathfinding algorithms. It is expected to be useful in studying the efficiency and performance of various approaches to solving pathfinding problems in different environments.

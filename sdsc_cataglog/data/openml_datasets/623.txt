@@ -1,0 +1,3 @@
+name: mv
+dataset_id: 881.0
+description: The dataset "mv" includes information on the gross revenue, budget, and other variables of movies released between 1986 and 2016. It contains data on over 6,800 films, encompassing various genres and production locations. The dataset also includes information on the language, rating, and runtime of each movie. Moreover, it provides details on the cast and crew, including actors, directors, and writers involved in the production. The dataset serves as a comprehensive source for analyzing the financial and qualitative aspects of movies, aiding in research related to the film industry, economics, and cultural studies.

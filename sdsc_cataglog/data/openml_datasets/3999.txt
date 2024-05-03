@@ -1,0 +1,3 @@
+name: Ailerons
+dataset_id: 44137.0
+description: The dataset Ailerons is available for research purposes and consists of measurements of the roll control system of an aircraft. It contains over 12,000 instances with 40 attributes. The data was collected from a simulated airplane model and includes both the input and output measurements. The dataset was created to aid in studying the control of an aircraft during sharp maneuvers. It can be used to analyze and develop control algorithms, as well as explore various aspects of the aircraft's dynamics. Overall, the Ailerons dataset provides a valuable resource for researchers interested in aircraft control systems.

@@ -1,0 +1,3 @@
+name: pollen
+dataset_id: 529.0
+description: The dataset "pollen" contains information about different types of pollen in the air. It includes the concentration levels of various pollen types collected from different locations. The dataset provides data on pollen counts and their variations over time, allowing researchers and scientists to study and analyze the prevalence and impact of different pollen types in different regions. It offers insights into the seasonal patterns of pollen distribution and helps in understanding the triggers for allergies and respiratory diseases. The dataset can be utilized to effectively monitor and manage allergy symptoms and educate the public about pollen-related health risks.

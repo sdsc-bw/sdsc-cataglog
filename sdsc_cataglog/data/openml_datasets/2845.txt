@@ -1,0 +1,3 @@
+name: hate_det11
+dataset_id: 42424.0
+description: The dataset "hate_det11" consists of hate speech data collected from Twitter. It contains around 1.7 million tweets categorized into three classes: hate speech, offensive speech, and neither. The hate speech class refers to tweets containing discriminatory or prejudiced language targeting individuals or groups based on attributes such as race, religion, or gender. Offensive speech refers to tweets that are disrespectful or rude but may not directly target a specific group. The "neither" class includes tweets that do not fall into either of the previous categories. The dataset aims to aid research on hate speech detection and provide insights into online hate speech dynamics.

@@ -1,0 +1,3 @@
+name: FOREX_eurrub-hour-Close
+dataset_id: 41862.0
+description: The dataset "FOREX_eurrub-hour-Close" contains information about the hourly closing prices of the EUR/RUB currency pair in the foreign exchange (FOREX) market. It consists of multiple data points representing the closing price of EUR/RUB at different hours. The dataset is likely used for studying and analyzing the historical performance of the EUR/RUB exchange rate. It can be used to identify trends, patterns, or correlations in the currency pair's price movement over time. The dataset may be relevant for traders, analysts, or researchers interested in studying the dynamics of the EUR/RUB exchange rate on an hourly basis.

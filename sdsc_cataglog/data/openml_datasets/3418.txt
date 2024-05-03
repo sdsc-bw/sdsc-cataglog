@@ -1,0 +1,3 @@
+name: Kaggle-Survey-2017-2020-Merged-Data
+dataset_id: 43492.0
+description: The dataset Kaggle-Survey-2017-2020-Merged-Data is a merged compilation of four years (2017-2020) of Kaggle's Machine Learning and Data Science surveys. It contains valuable insights from more than 30,000 survey respondents, covering various aspects of the industry such as demographics, education, job roles, tools, and technologies used. The data offers a comprehensive snapshot of the trends and changes in the field over the years, allowing for analysis of factors like salary, experience, and job satisfaction. This dataset is a valuable resource for researchers, analysts, and enthusiasts interested in studying the evolving landscape of the data science community.

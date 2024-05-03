@@ -1,0 +1,3 @@
+name: ipums_la_99-small
+dataset_id: 378.0
+description: The dataset ipums_la_99-small consists of a smaller subset of the original ipums_la_99 dataset. It contains information from the 1999 wave of the Integrated Public Use Microdata Series (IPUMS) for Laos. The variables in this subset include demographic information such as age, sex, marital status, and education level. Additionally, it includes economic indicators like employment status, occupation, and earnings. The dataset is representative of the population of Laos and can be used for various research purposes, such as analyzing trends in educational attainment, income distribution, and labor market dynamics during this time period.

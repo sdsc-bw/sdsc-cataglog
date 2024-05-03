@@ -1,0 +1,3 @@
+name: kdd_coil_1
+dataset_id: 567.0
+description: The kdd_coil_1 dataset provides information on the manufacturing process of stainless steel coils. It contains 5,722 instances and 85 attributes, capturing various factors that affect the quality of the coils. The dataset includes both numerical and categorical attributes, representing features like raw materials, process conditions, and finished coil properties. The target variable is the quality categorization of the coils. The dataset is designed for classification tasks, aiming to predict the coil quality based on the given attributes. It is commonly used for research purposes in the field of data mining and machine learning.

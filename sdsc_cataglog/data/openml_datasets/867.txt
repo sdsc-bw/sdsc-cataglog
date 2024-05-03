@@ -1,0 +1,3 @@
+name: AP_Endometrium_Prostate
+dataset_id: 1141.0
+description: The dataset AP_Endometrium_Prostate contains tissue samples from endometrium and prostate. These samples were collected from patients and analyzed using an automated microscope called the AP system. The dataset includes information about patient age, sex, and clinical diagnosis. It also provides data on various histopathological features like cell type, tissue organization, and stromal components. The dataset aims to facilitate research on understanding the differences and similarities between endometrial and prostate tissues, which can help in improving the diagnosis and treatment of diseases affecting these organs.

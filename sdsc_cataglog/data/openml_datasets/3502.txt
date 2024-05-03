@@ -1,0 +1,3 @@
+name: HSI-Futures
+dataset_id: 43578.0
+description: The HSI-Futures dataset consists of daily trading data for the Hang Seng Index (HSI) Futures, which is a stock market index derivative. The dataset covers a period of several years and includes information such as the opening and closing prices, high and low prices, trading volume, and changes in the index value. The data is collected on a daily basis and is commonly used by traders and researchers to analyze market trends, historical performance, and to develop trading strategies. The dataset provides valuable insights into the behavior and movement of the HSI Futures market.

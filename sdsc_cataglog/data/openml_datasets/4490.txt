@@ -1,0 +1,3 @@
+name: GesturePhaseSegmentationProcessed_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44669.0
+description: The dataset "GesturePhaseSegmentationProcessed_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns, with 10 different classes. The dataset has been stratified, meaning that the distribution of the classes is representative of the overall population. It is processed for the purpose of gesture phase segmentation. However, no information is provided about the specific content of the dataset or the nature of the gestures being segmented. Nonetheless, it provides a structured and labeled dataset for further analysis and modeling.

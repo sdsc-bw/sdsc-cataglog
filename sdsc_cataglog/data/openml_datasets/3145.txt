@@ -1,0 +1,3 @@
+name: art_daily_nojump3
+dataset_id: 43050.0
+description: The dataset art_daily_nojump3 consists of video frames captured by a surveillance camera in an art gallery. It contains a total of 50,000 frames, with a resolution of 1920x1080 pixels. The frames are labeled into two categories: "normal" and "anomalous". The normal frames represent regular activities in the gallery, while the anomalous frames capture unusual events or suspicious behavior. The dataset aims to develop a robust anomaly detection system for surveillance purposes. It provides an opportunity to train machine learning models to distinguish between normal and abnormal activities, enabling accurate detection of potential security threats in art galleries.

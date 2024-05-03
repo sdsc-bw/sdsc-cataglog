@@ -1,0 +1,3 @@
+name: porto-seguro
+dataset_id: 42742.0
+description: The dataset porto-seguro consists of a large number of anonymized features related to various aspects of car insurance policies in Brazil. It includes both numerical and categorical variables, providing information such as vehicle details, policy history, driver characteristics, and claim records. The dataset is particularly challenging, with missing values and imbalanced classes, making it suitable for developing robust models. The goal is to predict if a customer will file a claim for insurance based on the given features. The dataset offers opportunities for data exploration, feature engineering, and model building to improve the accuracy of predicting insurance claims.

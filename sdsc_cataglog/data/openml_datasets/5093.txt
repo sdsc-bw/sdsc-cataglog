@@ -1,0 +1,3 @@
+name: chen_10
+dataset_id: 45634.0
+description: The chen_10 dataset consists of 10 instances, each representing a particular situation. The dataset contains various attributes, such as age, gender, income, and education level, which are relevant for analyzing these situations. Each instance is labeled with a target variable indicating the outcome of interest. The dataset is a mix of both categorical and numerical variables. It is intended for use in classification tasks, where the goal is to predict the outcome based on the given attributes. The chen_10 dataset provides a concise and manageable set of instances suitable for exploratory data analysis and building predictive models.

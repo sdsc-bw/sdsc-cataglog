@@ -1,0 +1,3 @@
+name: tumors_C
+dataset_id: 1107.0
+description: The dataset tumors_C comprises data related to breast cancer tumors. It consists of 569 instances and 32 attributes, where the first attribute represents patient ID, while the last represents the class label. There are two class labels in the dataset, "Malignant" and "Benign," indicating the nature of the tumor. The remaining 30 numerical attributes denote various features, such as radius, texture, area, smoothness, and more, which are characteristic of each tumor. The dataset aims to facilitate the analysis and prediction of breast cancer based on its features, aiding in diagnosis and treatment decision-making.

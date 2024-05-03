@@ -1,0 +1,3 @@
+name: Cryptocurrencies
+dataset_id: 43678.0
+description: The dataset "Cryptocurrencies" provides information on over 2,000 different cryptocurrencies. It includes various attributes such as name, symbol, market cap, volume, and price of each cryptocurrency. The dataset also covers additional details like maximum supply, circulating supply, total supply, and the percentage change in price over different time periods. Moreover, it provides a brief description of each cryptocurrency, along with its sector and industry classification. This dataset is regularly updated and serves as a comprehensive source for researchers, analysts, and enthusiasts interested in studying the cryptocurrency market and its various components.

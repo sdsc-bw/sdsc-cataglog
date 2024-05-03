@@ -1,0 +1,3 @@
+name: AP_Endometrium_Ovary
+dataset_id: 1159.0
+description: The dataset AP_Endometrium_Ovary contains gene expression data of endometrium and ovary tissues. It aims to investigate the molecular differences between these two reproductive organs. The dataset provides information on gene expression levels of several samples from both tissues. The study focuses on identifying genes that are differentially expressed between endometrium and ovary, which may contribute to their unique functions and characteristics. The dataset could be used to gain insights into reproductive biology, understand the molecular mechanisms behind reproductive disorders, and potentially target specific genes for therapeutic interventions.

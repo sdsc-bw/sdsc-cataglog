@@ -1,0 +1,3 @@
+name: StackOverflow-polarity
+dataset_id: 43160.0
+description: The StackOverflow-polarity dataset is a collection of user comments from the popular programming community website, Stack Overflow. The dataset includes around 60,000 comments, each labeled with its sentiment polarity - positive or negative. The comments cover various programming topics, ranging from specific coding problems to general discussions. The dataset aims to assist in sentiment analysis tasks, helping researchers and developers understand the sentiment expressed in programming-related discussions. It provides valuable insights into the emotions and opinions expressed in the Stack Overflow community, which can be utilized in natural language processing and sentiment analysis applications.

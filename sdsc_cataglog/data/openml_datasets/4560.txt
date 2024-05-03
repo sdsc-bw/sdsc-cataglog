@@ -1,0 +1,3 @@
+name: robert_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44739.0
+description: The dataset named "robert_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns with 10 different classes. The dataset has been created using a specific seed value. The "stratify" parameter has been set to true, indicating that the dataset has been split in a way that maintains the proportion of classes in the dataset. This dataset is ideal for classification tasks as it provides a sufficient number of samples and features with a range of classes.

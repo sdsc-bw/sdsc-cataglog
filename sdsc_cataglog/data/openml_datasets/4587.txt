@@ -1,0 +1,3 @@
+name: Click_prediction_small_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44766.0
+description: The dataset "Click_prediction_small_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True" has 2000 rows and 100 columns. It contains 10 classes and has been stratified. It is a small dataset specifically designed for click prediction, which refers to predicting whether a user will click on an advertisement or not. The dataset's seed value is 3, which means it is reproducible. The dataset is suitable for machine learning tasks related to click prediction and can be used to train models and develop algorithms to improve advertising strategies and optimize click-through rates.

@@ -1,0 +1,3 @@
+name: sf-police-incidents_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44777.0
+description: The dataset "sf-police-incidents_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" includes information about police incidents in San Francisco. It consists of 2000 rows and 100 columns, with 10 classes. The dataset has been stratified, meaning it is representative of different proportions of the population. The dataset provides a comprehensive record of various types of incidents occurring in the city, helping to analyze crime patterns and trends. Its detailed structure and significant number of rows provide a valuable resource for research and studies related to law enforcement and public safety in San Francisco.

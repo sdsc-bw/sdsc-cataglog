@@ -1,0 +1,3 @@
+name: mlr_rpart_rng
+dataset_id: 42457.0
+description: The dataset mlr_rpart_rng is a randomly generated dataset used in machine learning research. It contains 300 observations with 6 features and 1 target variable. The target variable is a continuous numeric variable, while the features are a combination of continuous and categorical variables. The dataset is specifically designed to test decision tree algorithms. It has a random noise added to the target variable, making it challenging to accurately predict. The purpose of this dataset is to evaluate the performance and robustness of decision tree models in dealing with complex and noisy data.

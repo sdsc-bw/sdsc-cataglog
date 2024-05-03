@@ -1,0 +1,3 @@
+name: realAdExchange4
+dataset_id: 43064.0
+description: The dataset realAdExchange4 is a comprehensive collection of data related to the online advertising domain. It contains information about impressions, bids, conversions, and other relevant metrics from a real-time bidding system. The dataset includes data from multiple advertisers and publishers, providing a diverse range of advertising scenarios. It also includes features like timestamps, user-related information, and contextual information such as the website and position of the ad. The dataset is useful for conducting research and analysis related to online advertising, including developing algorithms and models to improve bidding strategies, performance optimization, and understanding user behavior.

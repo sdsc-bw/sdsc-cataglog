@@ -1,0 +1,3 @@
+name: analcatdata_dmft
+dataset_id: 1014.0
+description: The dataset analcatdata_dmft contains information related to dental caries in children from different cultural backgrounds. It consists of 25 observations and 3 variables. The variables include the dmft index, which represents the number of teeth affected by dental caries (decayed, missing, or filled), and two categorical variables representing the age group and the cultural background of the children. The dataset aims to analyze and compare the prevalence of dental caries in different age groups and cultural backgrounds. It provides valuable insights for studying oral health disparities and planning preventive measures for dental caries in children across various cultures.

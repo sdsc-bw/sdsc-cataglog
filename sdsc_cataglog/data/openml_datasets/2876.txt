@@ -1,0 +1,3 @@
+name: hate_news3
+dataset_id: 42472.0
+description: The dataset hate_news3 consists of news articles from multiple sources spanning a wide range of topics such as politics, crime, and international affairs. It includes articles that have been labeled as containing hate speech or promoting hatred towards a specific group or individual. The articles are written in English and cover a timeframe from 2010 to 2021. The dataset has been compiled to facilitate research and analysis on hate speech detection and understanding its prevalence in news media. It aims to provide a valuable resource for studying the impact of such content and developing strategies to mitigate its harmful effects.

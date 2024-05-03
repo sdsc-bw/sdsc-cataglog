@@ -1,0 +1,3 @@
+name: Used-Cars-In-Saudi-Arabia
+dataset_id: 43474.0
+description: The dataset "Used-Cars-In-Saudi-Arabia" consists of information on used cars available for sale in Saudi Arabia. It includes details such as the car's brand, model, year, mileage, color, and price. The dataset contains over 50,000 records and is regularly updated. It is collected from various sources and provided in a CSV format. The dataset enables researchers, car buyers, and sellers to analyze trends in the Saudi Arabian used car market and make informed decisions. The availability of this dataset facilitates market research, price comparisons, and evaluation of popular car brands and models in Saudi Arabia.

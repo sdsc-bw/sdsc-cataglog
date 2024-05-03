@@ -1,0 +1,3 @@
+name: Credit-Card-Dataset-for-Clustering
+dataset_id: 43618.0
+description: The Credit-Card-Dataset-for-Clustering is a dataset that consists of information about credit card users. It includes data about the customer's credit limit, gender, education, marital status, age, and payment history. The dataset also includes attributes related to the customers' repayment behavior such as the amount of bill statement, amount of previous payment, and the default payment status. The purpose of the dataset is to use it for clustering analysis, wherein credit card users can be divided into groups based on their characteristics and payment behavior. The dataset contains a total of 30,000 instances and 23 attributes.

@@ -1,0 +1,3 @@
+name: cmc
+dataset_id: 45054.0
+description: The dataset "cmc" is related to contraception method choice among married women in rural areas of Tanzania. It contains information on 1,474 married women who were surveyed in 1988. The dataset includes 9 variables, such as the woman's age, education level, husband's education level, number of children ever born, religion, and desire for more children. The outcome variable is the use of contraception methods, categorized into three options: no-use, long-term methods, and short-term methods. This dataset is useful for studying factors influencing contraception choices and understanding the impact of education, religion, and family planning desires on contraceptive use in rural Tanzania.

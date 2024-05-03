@@ -1,0 +1,3 @@
+name: Coronavirus-News-(COVID-19)
+dataset_id: 43634.0
+description: The Coronavirus-News- (COVID-19) dataset collects and organizes news articles and publications related to the COVID-19 pandemic. It includes a broad range of sources, such as regional/national news outlets, scientific journals, and government publications. The dataset provides detailed information about each article, including the title, source, publication date, and content. It also includes metadata like the author, URL, and language. The dataset aims to offer researchers and analysts a comprehensive and diverse collection of COVID-19 news, allowing for in-depth analysis and insights into the discourse and evolution of the pandemic.

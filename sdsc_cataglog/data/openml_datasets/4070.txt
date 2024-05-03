@@ -1,0 +1,3 @@
+name: Meta_Album_MD_MIX_Micro
+dataset_id: 44243.0
+description: The dataset Meta_Album_MD_MIX_Micro is being used for analyzing the album metadata and microdata for mix compositions. It contains information about various albums and their associated attributes such as release year, genre, duration, and the number of tracks. The dataset aims to provide insights into the structure and characteristics of mix compositions, facilitating further research in music metadata analysis. It is expected to be valuable for studying music recommendations, audio signal processing, and genre classification. The dataset is comprehensive, rich in metadata, and offers ample opportunities for exploring the diverse aspects of mix compositions.

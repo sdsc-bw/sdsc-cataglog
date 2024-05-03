@@ -1,0 +1,3 @@
+name: FICO-HELOC-cleaned
+dataset_id: 45553.0
+description: The FICO-HELOC-cleaned dataset contains information about Home Equity Line of Credit (HELOC) borrowers. It includes demographics, credit history, debt details, and the binary target variable indicating whether the borrowers experienced default on their loans. The dataset consists of 10459 rows and 23 columns, with missing values filled. The target variable shows that 19.77% of borrowers have defaulted. The dataset also contains features such as current balance, credit limit, recent credit inquiries, and delinquency history, which can be used to build predictive models for identifying borrowers at risk of default.

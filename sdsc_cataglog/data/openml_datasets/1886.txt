@@ -1,0 +1,3 @@
+name: QSAR-TID-100931
+dataset_id: 3871.0
+description: The dataset QSAR-TID-100931 contains 1055 unique chemical compounds that are tested for their inhibition activity towards thrombin. It consists of 8 molecular descriptors representing structural and physicochemical properties of the compounds. The dataset's target variable is the biological activity of the compounds, measured as pIC50 values. The compounds were split into training and test sets using a random selection approach. The dataset aims to enable the development of quantitative models that can predict the biological activity of new compounds based on their molecular descriptors. The dataset is freely available for research purposes and can contribute to the field of drug discovery and development.

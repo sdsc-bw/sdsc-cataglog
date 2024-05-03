@@ -1,0 +1,3 @@
+name: SyskillWebert-Goats
+dataset_id: 379.0
+description: The dataset SyskillWebert-Goats is a complex and comprehensive dataset that includes various types of data, such as textual data, images, and numeric data. It was created for the purpose of developing intelligent systems for web search and information retrieval tasks. The dataset provides information on a wide range of topics and covers multiple domains, including agriculture, finance, and health. It has been meticulously annotated with highly detailed and accurate labels to facilitate machine learning and data mining research. The SyskillWebert-Goats dataset is widely used in the field of artificial intelligence and has proven to be a valuable resource for training and benchmarking various algorithms and models.

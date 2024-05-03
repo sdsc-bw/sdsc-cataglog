@@ -1,0 +1,3 @@
+name: QSAR-TID-127
+dataset_id: 3334.0
+description: The dataset QSAR-TID-127 contains information regarding the biological activity of chemical compounds. It consists of 1,083 chemical compounds and 3,944 different molecular descriptors, which are numerical values that represent various properties of these compounds. The compounds were tested against a specific target protein, and their activity level was measured using a biological assay. The dataset aims to predict the activity of new compounds based on their molecular descriptors, allowing researchers to prioritize and select potential candidates for further testing and development. QSAR-TID-127 provides valuable data for drug design and discovery in the field of pharmaceutical research.

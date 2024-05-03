@@ -1,0 +1,3 @@
+name: Adult-Census-Income
+dataset_id: 45565.0
+description: The Adult-Census-Income dataset comprises of over 32,000 instances with 14 attributes. It includes demographic information like age, education, occupation, and marital status, among others. The dataset aims to predict whether an individual's income is below or above 50K per year. It has missing values represented by a "?". The dataset is widely used for classification tasks and is particularly valuable in the field of machine learning to explore the relationship between socio-economic factors and income levels.

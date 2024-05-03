@@ -1,0 +1,3 @@
+name: Test_5vectors_num
+dataset_id: 42492.0
+description: The dataset Test_5vectors_num consists of five-dimensional vectors and is used for testing purposes. It is likely a numerical dataset containing numerical values. The specifics about the data, such as the range or type of values, are not mentioned. However, the dataset's name suggests that it contains five vectors represented by numbers. The purpose of using this dataset is to evaluate or assess certain algorithms or models. Additional information about the dataset, such as the size or source, is not provided in the given sentences.

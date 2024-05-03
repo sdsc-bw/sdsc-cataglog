@@ -1,0 +1,3 @@
+name: hepar2_5
+dataset_id: 45191.0
+description: The dataset hepar2_5 comes from a study conducted on patients with liver disease. It consists of various measurements and attributes of the liver such as weight, cholesterol level, glucose level, and liver enzyme activity. The dataset includes 500 instances and 5 attributes. The target variable is the disease severity, categorized into four classes: no fibrosis, mild fibrosis, moderate fibrosis, and severe fibrosis. The dataset aims to explore the relationship between these attributes and disease severity in order to better understand and diagnose liver diseases.

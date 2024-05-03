@@ -1,0 +1,3 @@
+name: chscase_foot
+dataset_id: 703.0
+description: The dataset chscase_foot contains information about foot and ankle measurements of 20 subjects. The data includes measurements such as foot length, ankle width, and arch height, collected from both left and right feet of each subject. The dataset provides details on factors such as age, weight, and gender of the subjects. Additionally, it includes information on the type of shoes worn by the subjects during data collection, whether it was with or without socks. The dataset aims to contribute to research on anthropometric measurements of the lower extremities and their implications for footwear design and fit.

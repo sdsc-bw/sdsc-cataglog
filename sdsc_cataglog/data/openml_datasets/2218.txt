@@ -1,0 +1,3 @@
+name: genbase
+dataset_id: 40591.0
+description: The dataset genbase contains information about gene expression found in a variety of organisms. It consists of two main parts: the training set and the test set. The training set contains 662 expression vectors, each representing the expression of a gene under various conditions. These vectors are labeled with one of 60 classes, corresponding to different tissue types. The test set contains 100 expression vectors with no labels. The dataset is often used for developing machine learning algorithms to predict the class labels of the test set vectors based on the patterns observed in the training set vectors.

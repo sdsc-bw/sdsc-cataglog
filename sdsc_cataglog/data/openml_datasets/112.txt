@@ -1,0 +1,3 @@
+name: machine_cpu
+dataset_id: 230.0
+description: The dataset machine_cpu contains information about the CPU utilization of multiple machines. It includes data collected over a period of time and provides details such as the timestamp, machine ID, CPU utilization percentage, and the number of tasks running on the machine at that time. The dataset is comprehensive, capturing the CPU utilization of various machines at different points in time. This dataset is valuable for analyzing the performance and efficiency of machines, identifying trends and patterns in CPU utilization, and making informed decisions to optimize CPU usage and resource allocation in a computing environment.

@@ -1,0 +1,3 @@
+name: eye_movements
+dataset_id: 44157.0
+description: The dataset "eye_movements" contains information about eye movements recorded during a visual perception task. It includes data about fixations, saccades, and other parameters related to eye movements. The dataset consists of multiple trials, with each trial representing a different task. Each trial contains information about the participant, the task conditions, the stimuli used, and the recorded eye movements. The dataset also includes information about the time duration of each trial and the accuracy of the participants' responses. Overall, this dataset provides valuable information for studying visual perception and eye movement patterns in various tasks.

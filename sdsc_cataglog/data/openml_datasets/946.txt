@@ -1,0 +1,3 @@
+name: cnae-9
+dataset_id: 1468.0
+description: The CNAE-9 dataset is a collection of data that provides information on economic activities in Brazil. It contains details about various industries and their corresponding codes. The dataset consists of 2 columns, including the code and the name of the economic activity. The codes follow a hierarchical structure that allows for classification of industries at different levels. The dataset is widely used for economic analysis, market research, and business planning purposes. It provides valuable insights into the Brazilian economy and is a valuable resource for those studying or working in the country's economic sector.

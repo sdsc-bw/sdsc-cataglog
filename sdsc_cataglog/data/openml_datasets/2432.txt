@@ -1,0 +1,3 @@
+name: Weather
+dataset_id: 41679.0
+description: The dataset Weather contains daily temperature and weather conditions for multiple locations. The data includes the maximum and minimum temperature, humidity, wind speed, and atmospheric pressure recorded each day. The dataset covers a wide range of dates, allowing for analysis of seasonal patterns and long-term trends. It also provides information about weather conditions such as rain, snow, fog, and sunny days. Precipitation data is available in terms of rainfall and snowfall amounts. The dataset is valuable for weather forecasting, climate studies, and analyzing the impact of weather on various activities and industries.

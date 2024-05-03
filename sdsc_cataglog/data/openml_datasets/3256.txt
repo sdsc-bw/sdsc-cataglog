@@ -1,0 +1,3 @@
+name: GermanHousePrices
+dataset_id: 43322.0
+description: The dataset GermanHousePrices provides information on residential properties in Germany, including various features such as house size, number of rooms, location, and sale price. The dataset contains 35,000 observations and 17 variables, encompassing both categorical and numerical data. It aims to capture the factors influencing house prices in Germany, facilitating analysis and prediction in the real estate market. The variables cover aspects like property type, condition, and amenities available, along with the year the property was built. The dataset offers valuable insights into the German housing market, enabling researchers and analysts to explore correlations and trends in the industry.

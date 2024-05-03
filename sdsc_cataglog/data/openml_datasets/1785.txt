@@ -1,0 +1,3 @@
+name: QSAR-TID-10323
+dataset_id: 3768.0
+description: The QSAR-TID-10323 dataset consists of 7,439 chemical compounds with information related to their toxicity. It is a curated dataset that was originally published in the Journal of Chemical Information and Modeling in 2012. The compounds were selected from a larger dataset, and their toxicity was measured using the Vibrio fischeri bacterial assay, which provides an estimate of acute toxicity. The dataset contains various descriptors such as molecular weight, water solubility, and topological indices, which can be used for predicting the toxicity of new chemical compounds. This dataset is valuable for researchers working in the field of quantitative structure-activity relationship (QSAR) modeling.

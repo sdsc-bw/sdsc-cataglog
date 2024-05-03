@@ -1,0 +1,3 @@
+name: chscase_census5
+dataset_id: 670.0
+description: The dataset "chscase_census5" is a collection of information about households in a specific area. It includes data on various characteristics such as the number of people in each household, their age distribution, employment status, and educational attainment. This dataset provides insights into the demographic composition of the area and can be used to analyze patterns and trends. It is a valuable resource for researchers, policymakers, and organizations interested in understanding the socioeconomic background of the population and making informed decisions based on the data.

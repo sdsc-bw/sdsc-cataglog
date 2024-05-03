@@ -1,0 +1,3 @@
+name: cars
+dataset_id: 455.0
+description: The dataset "cars" contains information about various cars including their make, model, year of manufacturing, price, mileage, horsepower, and other attributes. It consists of a collection of records where each record represents a specific car. The dataset provides reliable information that can be used for analysis and comparison purposes. It can be utilized for various applications such as predicting car prices, studying the relationship between mileage and horsepower, and identifying trends in the automotive industry. This dataset is valuable for researchers, car enthusiasts, and businesses in the automotive sector looking to gain insights and make informed decisions based on the collected data.

@@ -1,0 +1,3 @@
+name: QSAR-TID-100244
+dataset_id: 3451.0
+description: The dataset QSAR-TID-100244 consists of 1,244 molecular structures with diverse chemical properties. It was created to predict the toxic effects of various compounds. The chemical structure of each compound is represented by 214 molecular descriptors. The dataset also includes experimental bioactivity data, such as toxicological labels and a response variable indicating the compound's activity. QSAR-TID-100244 has been extensively used for developing machine learning models to predict toxicity. The dataset can be used for various applications in drug development and chemical safety assessment. It offers valuable insights into the relationship between molecular properties and toxic effects.

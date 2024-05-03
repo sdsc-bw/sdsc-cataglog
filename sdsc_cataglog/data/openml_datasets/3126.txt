@@ -1,0 +1,3 @@
+name: heart-failure
+dataset_id: 43008.0
+description: The "heart-failure" dataset consists of medical records of patients with heart failure. It includes 13 features related to patients' age, sex, medical history, examination results, and lifestyle choices. The dataset aims to predict mortality caused by heart failure. The dataset consists of 299 instances, with 203 patients classified as deceased. The data has been collected from medical archives, cardiology departments, and electronic health records systems. It offers an opportunity for researchers and medical professionals to analyze the relationship between various factors and heart failure mortality, potentially leading to better understanding, prevention, and treatment of this condition.

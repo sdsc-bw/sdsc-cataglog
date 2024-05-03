@@ -1,0 +1,3 @@
+name: child_2
+dataset_id: 45133.0
+description: The dataset child_2 focuses on various attributes of children, including their age, gender, weight, and height. It consists of 100 observations collected from a diverse population. The age of the children ranges from 1 to 10 years, with an average of 5 years. The gender distribution is almost equal, with 51% boys and 49% girls. The dataset also includes measurements of weight and height for each child, allowing for further analysis. Overall, child_2 provides a comprehensive overview of children's characteristics and can be used to study various factors related to child development.

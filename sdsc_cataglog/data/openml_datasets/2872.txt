@@ -1,0 +1,3 @@
+name: Waterstress
+dataset_id: 42464.0
+description: The Waterstress dataset provides comprehensive information about water stress levels worldwide. Covering various countries, it analyzes and quantifies water scarcity and compares it to available water resources. The dataset presents data on water withdrawal, supply, and usage patterns, classified into four levels of water stress severity. It also includes information on renewable water resources, precipitation, and population, allowing for a better understanding of the water stress situation in specific locations or regions. This dataset assists researchers, policymakers, and organizations in identifying areas vulnerable to water stress and developing strategies to promote sustainable water management globally.

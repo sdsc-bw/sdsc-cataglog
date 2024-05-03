@@ -1,0 +1,3 @@
+name: QSAR-TID-10574
+dataset_id: 3052.0
+description: The dataset QSAR-TID-10574 is related to the prediction of aquatic toxicity towards the fish species Pimephales promelas (fathead minnow). It consists of 209 molecular descriptors that describe the structural and chemical properties of 10574 compounds. The dataset also includes their corresponding experimental toxicity values, ranging from highly toxic to non-toxic. The goal of this dataset is to develop a model that can accurately predict the toxicity level of compounds towards fathead minnows based on their molecular descriptors. The dataset is publicly available and can be used for various toxicology studies and computational modeling approaches.

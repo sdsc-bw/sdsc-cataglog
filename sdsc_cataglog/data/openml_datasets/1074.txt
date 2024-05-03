@@ -1,0 +1,3 @@
+name: QSAR-TID-11
+dataset_id: 3050.0
+description: QSAR-TID-11 is a dataset composed of different small molecules and their corresponding inhibitory activities. The dataset consists of 2,137 compounds and each compound is represented by 10 molecular descriptors. These descriptors include information about the molecular structure, chemical properties, and electronic properties. The inhibitory activities of the compounds are measured using a bioassay technique, and the resulting values range from 0.015 to 11.537. This dataset is useful for developing quantitative structure-activity relationship (QSAR) models and exploring the relationship between molecular features and inhibitory activity.

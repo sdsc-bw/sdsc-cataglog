@@ -1,0 +1,3 @@
+name: QSAR-TID-11929
+dataset_id: 3848.0
+description: QSAR-TID-11929 is a dataset consisting of 1301 molecular structures, each labeled with one out of four bioactivity classes: active, inactive, inconclusive, or unspecified. The dataset is provided as a part of the Quantitative Structure-Activity Relationship (QSAR) project and aims to aid in drug discovery research. The molecular structures are represented using 2D molecular descriptors, which encode important features of the compounds such as their size, shape, and chemical properties. The dataset is useful for developing predictive models that can classify new compounds based on their bioactivity, potentially saving time and resources in the drug development process.

@@ -1,0 +1,3 @@
+name: sulfur
+dataset_id: 23515.0
+description: The given sentences are about a dataset on sulfur. Sulfur is an important element in various chemical processes and environmental studies. The dataset in question contains information about sulfur levels in different locations, such as rivers, lakes, and atmospheric conditions. It provides measurements of sulfur concentrations, as well as other relevant data such as pH levels, temperature, and geographical coordinates. This dataset is helpful in understanding the impact of sulfur on ecosystems and identifying potential pollution sources. It can be used for research purposes to study sulfur's role in acid rain formation, atmospheric pollution, and its effects on aquatic life.

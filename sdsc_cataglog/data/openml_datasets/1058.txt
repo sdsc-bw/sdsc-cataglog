@@ -1,0 +1,3 @@
+name: SensIT-Vehicle-Combined
+dataset_id: 1593.0
+description: The dataset SensIT-Vehicle-Combined is a comprehensive dataset that combines various types of vehicle data collected by the SensIT platform. It includes data related to vehicle speed, acceleration, fuel consumption, engine RPM, and tire pressure. The dataset was collected from multiple vehicles over a period of time. It consists of both numerical and categorical variables, providing a detailed insight into the vehicles' performance and behavior. The dataset is useful for researchers and developers working on vehicle-related applications, as it provides a rich source of information for analysis and modeling.

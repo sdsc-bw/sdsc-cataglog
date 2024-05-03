@@ -1,0 +1,3 @@
+name: AP_Omentum_Kidney
+dataset_id: 1147.0
+description: The dataset AP_Omentum_Kidney consists of clinical data from patients with advanced-stage ovarian cancer who have undergone cytoreductive surgery. The dataset includes information on patient demographics, surgical characteristics, tumor characteristics, and survival outcomes. The purpose of the dataset is to investigate the association between omental invasion and kidney involvement. The study aims to determine if kidney involvement affects survival outcomes in patients with ovarian cancer. The dataset contains detailed information on patient characteristics and will be analyzed using statistical methods to draw conclusions about the impact of kidney involvement on ovarian cancer prognosis.

@@ -1,0 +1,3 @@
+name: AP_Breast_Kidney
+dataset_id: 1158.0
+description: The dataset AP_Breast_Kidney contains information on two types of cancer: breast cancer and kidney cancer. It includes data from the Affymetrix GeneChip platform and consists of 78 samples in total. The dataset contains gene expression data as well as clinical information about each patient, such as age, gender, tumor stage, and histological type. The aim of the dataset is to explore the gene expression patterns associated with these two types of cancer and uncover potential biomarkers or genes that may be related to disease progression or treatment response.

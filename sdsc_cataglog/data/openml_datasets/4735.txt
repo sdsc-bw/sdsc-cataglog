@@ -1,0 +1,3 @@
+name: Leukemia-3
+dataset_id: 45091.0
+description: The Leukemia-3 dataset is a collection of gene expression data from patients with different subtypes of acute lymphoblastic leukemia (ALL). It contains information on the expression levels of thousands of genes in the leukemia cells. The dataset is divided into three classes based on the subtype of ALL: T-ALL, M-ALL, and B-ALL. Each class has a certain number of samples with their corresponding gene expression values. The Leukemia-3 dataset is often used in machine learning and bioinformatics research to develop classification models and explore gene expression patterns associated with different leukemia subtypes.

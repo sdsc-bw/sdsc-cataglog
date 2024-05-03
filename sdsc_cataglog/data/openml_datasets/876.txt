@@ -1,0 +1,3 @@
+name: AP_Breast_Lung
+dataset_id: 1150.0
+description: The dataset AP_Breast_Lung contains information about breast and lung cancer patients. It consists of 699 instances and 10 attributes, including the class attribute indicating the presence or absence of cancer. The dataset has missing attribute values, marked by "?". The attribute "Age" represents patient's age, while "Menopause" indicates whether the patient has experienced menopause or not. The "Tumor_Size" attribute represents the size of the tumor in millimeters, and "Inv_Nodes" represents the number of invaded lymph nodes. The dataset also includes attributes related to hormone receptor status, patient's histology, and the presence of mitoses. This dataset provides valuable insights for cancer research.

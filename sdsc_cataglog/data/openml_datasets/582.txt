@@ -1,0 +1,3 @@
+name: fri_c4_500_25
+dataset_id: 838.0
+description: The dataset fri_c4_500_25 is related to document classification. It contains 500 classes of documents with each class having 25 documents. The documents cover various topics such as sports, technology, politics, etc. The dataset is formatted in a JSON lines format, with each line representing a document's metadata including its URL, title, body, and label. The dataset is intended for use in machine learning tasks like text classification, topic modeling, and document clustering. It provides a diverse range of documents for training and evaluation purposes in natural language processing and information retrieval research.

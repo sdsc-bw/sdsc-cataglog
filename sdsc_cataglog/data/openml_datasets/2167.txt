@@ -1,0 +1,3 @@
+name: Diabetes130US
+dataset_id: 4541.0
+description: The dataset Diabetes130US contains 130 observations related to blood glucose levels, body mass index (BMI), insulin levels, and whether a patient has diabetes or not. The dataset includes both diabetic and non-diabetic patients, with measurements taken over a three-month period. It does not contain missing values or outliers. The data is evenly distributed between diabetic and non-diabetic patients. The primary goal of the dataset is to predict whether a patient has diabetes or not based on the given features.

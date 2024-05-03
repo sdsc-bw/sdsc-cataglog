@@ -1,0 +1,3 @@
+name: covertype
+dataset_id: 43967.0
+description: The covertype dataset contains information about the forest cover type in the Roosevelt National Forest. It has 54 variables, including the cover type, which is the forest cover type classification. There are seven cover types present in the dataset, namely Spruce/Fir, Lodgepole Pine, Ponderosa Pine, Cottonwood/Willow, Aspen, Douglas Fir, and Krummholz. The dataset also includes various measurements such as elevation, slope, aspect, wilderness area, soil type, and other geographic parameters. It is often used for classification tasks and studying the relationships between different forest cover types and their environmental attributes.

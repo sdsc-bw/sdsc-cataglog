@@ -1,0 +1,3 @@
+name: volcanoes-a3
+dataset_id: 1529.0
+description: The dataset volcanoes-a3 contains information about the active volcanoes around the world. It includes data on the name, type, location, elevation, country, and volcano status. The dataset consists of 1665 rows and 13 columns. It provides valuable information for researchers and geologists studying volcanoes and their characteristics. The dataset covers volcanoes across different continents and countries, showcasing the global distribution of these geological formations. It serves as a reliable resource for understanding volcanic activity and mapping out areas prone to volcanic eruptions. The dataset offers a comprehensive and detailed overview of active volcanoes worldwide.

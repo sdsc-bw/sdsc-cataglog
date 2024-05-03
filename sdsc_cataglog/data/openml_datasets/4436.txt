@@ -1,0 +1,3 @@
+name: cmc_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44615.0
+description: The dataset cmc_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows and 100 columns. It features 10 different classes and is stratified, meaning the distribution of classes is maintained in the dataset. The dataset is designed to understand the relationship between various features and classes, making it suitable for classification tasks. It is likely that the dataset includes information related to social, economic, or demographic variables. The large number of rows and columns indicates that the dataset is relatively comprehensive and may provide ample data for analysis and modeling purposes.

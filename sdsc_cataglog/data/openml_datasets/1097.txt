@@ -1,0 +1,3 @@
+name: QSAR-TID-191
+dataset_id: 3073.0
+description: The QSAR-TID-191 dataset is a collection of chemical compounds with associated biological activities. It consists of 1,107 compounds with binary classification labels, indicating either "active" or "inactive" based on their biological properties. The dataset includes 5,994 molecular descriptors, representing various features of these compounds. These descriptors encompass both 2D and 3D attributes such as molecular shape, size, electronegativity, and hydrophobicity. The compounds in the dataset have diverse structures, ranging from small organic molecules to complex ones. QSAR-TID-191 could be valuable for research in quantitative structure-activity relationship (QSAR) modelling and drug discovery.

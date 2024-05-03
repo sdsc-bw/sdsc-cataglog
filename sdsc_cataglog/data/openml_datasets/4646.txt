@@ -1,0 +1,3 @@
+name: nyc_taxi_green
+dataset_id: 44986.0
+description: The dataset "nyc_taxi_green" refers to a collection of data related to green taxis in New York City. It contains information about the date and time of trips, pick-up and drop-off locations, trip duration, passenger count, and various fare details. The dataset includes records from 2009 to the present and is updated on a regular basis. It can be utilized for various data analysis tasks, such as studying taxi usage patterns, estimating demand in different areas, and identifying peak times for taxi services. The dataset also provides valuable insights for improving transportation systems, optimizing routes, and understanding the city's mobility trends.

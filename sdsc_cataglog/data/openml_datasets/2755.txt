@@ -1,0 +1,3 @@
+name: stress
+dataset_id: 42167.0
+description: The dataset stress consists of various measurements and observations related to stress levels in individuals. It includes data collected from surveys, physiological measurements, and self-reported assessments. The dataset aims to analyze and understand stress patterns, factors influencing stress levels, and potential correlations between stress and other variables, such as age, gender, and lifestyle. The dataset is extensive, covering a wide range of demographic groups and geographical locations. Researchers can utilize this dataset to gain insights into stress management strategies, develop interventions, and enhance well-being in individuals affected by stress.

@@ -1,0 +1,3 @@
+name: COMET_MC_SAMPLE
+dataset_id: 23394.0
+description: The COMET_MC_SAMPLE dataset is a collection of multi-turn dialogues that serves as a benchmark for conversations between a user and an assistant. The dataset contains over 230,000 dialogues, covering various topics such as fashion, politics, and sports. Each dialogue consists of multiple turns, with the user providing information or asking questions, and the assistant responding accordingly. Additional features of the dataset include user profiles, which provide background information about the users, and system responses, which can include suggestions or recommendations. The dataset aims to support research in dialog systems, language understanding, and user simulation.

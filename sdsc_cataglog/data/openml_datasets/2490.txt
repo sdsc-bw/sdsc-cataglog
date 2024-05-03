@@ -1,0 +1,3 @@
+name: FOREX_cadchf-minute-Close
+dataset_id: 41755.0
+description: The FOREX_cadchf-minute-Close dataset contains information about the closing prices of the CAD/CHF currency pair at minute intervals. The dataset consists of numerous entries with each entry providing the closing price at a specific minute. The data is collected for the purpose of analyzing the fluctuations in the CAD/CHF exchange rate over a period of time. This dataset is relevant for traders and analysts who focus on the CAD/CHF currency pair and wish to study its minute-by-minute price movements. It offers a valuable resource for conducting statistical analysis, creating trading strategies, and making informed decisions in the forex market.

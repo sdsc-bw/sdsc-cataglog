@@ -1,0 +1,3 @@
+name: thyroid-ann
+dataset_id: 40497.0
+description: The thyroid-ann dataset consists of thyroid patient records and it aims to assess the performance of artificial neural network (ANN) models in the diagnosis of thyroid diseases. It includes various attributes such as patient age, gender, tumor size, thyroid surgery information, and laboratory test results. The dataset was collected from patients with suspected thyroid diseases and classified into different classes based on the diagnosis. It provides a comprehensive overview of the patient characteristics and medical factors associated with thyroid conditions, which can be used for developing and evaluating ANN models for accurate thyroid disease diagnosis.

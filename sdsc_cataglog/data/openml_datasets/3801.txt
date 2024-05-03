@@ -1,0 +1,3 @@
+name: click_prediction_small
+dataset_id: 43901.0
+description: The dataset click_prediction_small contains information about user interactions with online ads. It includes features such as ad identifier, campaign identifier, advertiser identifier, website identifier, user identifier, and the position and format of the ad. The dataset also provides information about the user's activity, such as the number of times the ad was displayed and clicked. Additionally, it contains timestamps indicating when the ad was displayed and when the user clicked on it. The goal of this dataset is to predict whether a user will click on a particular ad.

@@ -1,0 +1,3 @@
+name: The-Price-and-Sales-of-Avocado
+dataset_id: 43659.0
+description: The dataset "The-Price-and-Sales-of-Avocado" consists of information related to avocado prices and sales from various US regions. It comprises data from the years 2015 to 2018, including price, volume, and revenue details. The dataset explores the average price across different avocado types, geographical regions, and years, representing changes in pricing trends. The data is segmented into conventional and organic avocados and provides insights into price fluctuations influenced by factors such as supply, demand, and seasonality. It also offers a glimpse into the relationship between avocado sales and price, helping to understand market dynamics.

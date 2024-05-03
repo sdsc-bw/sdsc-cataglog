@@ -1,0 +1,3 @@
+name: QSAR-TID-10075
+dataset_id: 3104.0
+description: The dataset QSAR-TID-10075 consists of 80 compounds which were tested against the M. tuberculosis bacterium. The aim was to evaluate the biological activity of these compounds and determine their potential for anti-tuberculosis drug development. The dataset includes various molecular descriptors, such as LogP, Polarity, and Molecular Weight, which can be used to predict the biological activity of these compounds. The compounds were also classified into two classes: Active and Inactive, based on their observed biological activity. This dataset provides an opportunity for researchers to develop predictive models and identify compounds with potential anti-tuberculosis activity.

@@ -1,0 +1,3 @@
+name: post-operative
+dataset_id: 43040.0
+description: The post-operative dataset contains records of patients classified into three classes: "IAPS" (stable condition), "IRPS" (recovery-promoting condition), and "death". The attributes of each patient include their age, blood pressure, heart rate, respiration rate, and body temperature. Other features capture the presence of fluid, the type of anesthesia used, and various aspects related to the lungs, liver, and kidney conditions. The dataset aims to assist in predicting the patient's classification after surgery based on these attributes. It may be useful for medical professionals and researchers in post-operative care and treatment planning.

@@ -1,0 +1,3 @@
+name: breastTumor
+dataset_id: 844.0
+description: The dataset breastTumor is used to classify breast tumors as benign or malignant. It contains 9 attributes including patient ID, age, tumor size, tumor shape, tumor margin, tumor density, severity of symptoms, pathology, and recommended treatment. The dataset consists of 286 observations, with 151 benign and 135 malignant cases. It is heavily skewed towards benign cases. The attributes are represented using integer values ranging from 1 to 10, where higher values generally indicate more severe conditions. This dataset is commonly used for classification tasks to evaluate the performance of machine learning algorithms in distinguishing between benign and malignant breast tumors.

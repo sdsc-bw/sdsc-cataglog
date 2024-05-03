@@ -1,0 +1,3 @@
+name: fri_c3_100_5
+dataset_id: 916.0
+description: The dataset fri_c3_100_5 is investigated in this study. It contains information on 100 subjects and includes 5 variables. The purpose of this dataset is to analyze the relationships between the variables and their influence on certain outcomes. The study aims to explore the patterns and associations within this dataset and draw meaningful conclusions from the data. The dataset is likely to provide valuable insights, contributing to a deeper understanding of the factors influencing the outcomes under investigation. Overall, the dataset fri_c3_100_5 is of great importance for the research at hand and holds significant potential for further analysis.

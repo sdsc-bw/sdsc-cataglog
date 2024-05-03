@@ -1,0 +1,3 @@
+name: Water-Capture-by-Method
+dataset_id: 43583.0
+description: The dataset called Water-Capture-by-Method provides information on the amount of water captured by different methods. It includes data for various methods such as rainwater harvesting, desalination, and groundwater extraction, among others. The dataset contains information about the volume of water captured by each method in different locations. The data also includes the year in which the water capturing took place. The dataset is comprehensive and covers a wide range of capturing methods, making it a valuable resource for studying water capture techniques and their efficiency in different locations and time periods.

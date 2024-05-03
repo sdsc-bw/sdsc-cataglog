@@ -1,0 +1,3 @@
+name: QSAR-TID-11260
+dataset_id: 3640.0
+description: The QSAR-TID-11260 dataset contains information about the toxicity of 202 compounds. The data includes various molecular descriptors such as constitutional, topological, electrostatic, and quantum chemical descriptors. The toxicity values of the compounds were measured using a Zebrafish larvae assay, which assessed their effect on the survival rate. The dataset also provides information about the compounds' chemical structures, which were derived from the Simplified Molecular Input Line Entry System (SMILES). This dataset can be used for developing quantitative structure-activity relationship (QSAR) models to predict the toxicity of new compounds based on their molecular features.

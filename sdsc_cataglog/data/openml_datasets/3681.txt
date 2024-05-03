@@ -1,0 +1,3 @@
+name: Worldwide-Meat-Consumption
+dataset_id: 43758.0
+description: The dataset Worldwide-Meat-Consumption contains information on the consumption of meat across various countries. It includes data on the total meat consumption, broken down by different types of meat such as beef, pork, and poultry. The dataset also provides historical data, allowing the analysis of consumption trends over time. Additionally, it covers a wide range of countries from different regions of the world, enabling comparisons of meat consumption patterns across different cultures and economies. This dataset can be used to study the global meat consumption patterns, identify factors influencing consumption trends, and inform policies related to meat production and consumption.

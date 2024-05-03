@@ -1,0 +1,3 @@
+name: nomao
+dataset_id: 1486.0
+description: The dataset "Nomao" is a collection of various types of data, including text, images, and user-generated content. It contains information related to local businesses, such as restaurants, hotels, and shops. The dataset covers multiple locations worldwide and includes details like business names, addresses, phone numbers, and categorizations. It also includes user reviews, ratings, and photographs related to these businesses. Overall, the Nomao dataset is a comprehensive and multi-modal resource that can be utilized for various applications, such as location-based services, business recommendations, and research in the field of natural language processing, computer vision, and data mining.

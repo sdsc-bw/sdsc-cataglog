@@ -1,0 +1,3 @@
+name: covertype
+dataset_id: 44081.0
+description: The dataset covertype contains information about forest cover types based on geographical data in the Colorado Roosevelt National Forest. It includes 54 attributes such as elevation, slope, and soil type. The dataset has 581,012 instances and 7 classes that represent different forest cover types. These types include spruce/fir, lodgepole pine, ponderosa pine, cottonwood/willow, aspen, Douglas-fir, and Krummholz. The dataset aims to help understand the forest ecosystem and to predict the forest cover type based on the attributes. The information provided can be used for various tasks such as classification, regression, and visualization to study forest cover patterns.

@@ -1,0 +1,3 @@
+name: yacht_hydrodynamics
+dataset_id: 42370.0
+description: The dataset yacht_hydrodynamics contains information on the hydrodynamics performance of sailing yachts. It consists of six attributes: Longitudinal position, Prismatic coefficient, Length-displacement ratio, Beam-draught ratio, Length-beam ratio, and Froude number. The dataset also includes the yachts' residuary resistance per unit weight of displacement, which is the target variable. The data was collected from prototype tank tests, where different designs and settings were observed. The dataset aims to provide insights into the relationship between the yacht's characteristics and its hydrodynamic performance, assisting in the development of efficient yacht designs.

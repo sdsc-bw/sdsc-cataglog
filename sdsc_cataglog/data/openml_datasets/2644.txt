@@ -1,0 +1,3 @@
+name: ilpd-numeric
+dataset_id: 41943.0
+description: The dataset ilpd-numeric is a collection of attributes and target variables that aim to predict the presence or absence of liver disease. It consists of a total of 386 instances, with 10 attributes. These attributes include features such as age, gender, total bilirubin, direct bilirubin, alkaline phosphatase, alamine aminotransferase, aspartate aminotransferase, total proteins, albumin, and albumin/globulin ratio. The target variable is binary, representing the presence (1) or absence (2) of liver disease. The dataset is numerical, with no missing values, and is commonly used for classification and regression tasks related to liver disease prediction.

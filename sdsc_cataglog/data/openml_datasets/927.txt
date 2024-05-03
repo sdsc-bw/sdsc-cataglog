@@ -1,0 +1,3 @@
+name: KnuggetChase3
+dataset_id: 1448.0
+description: The dataset KnuggetChase3 is used for machine learning tasks and contains information on credit card transactions. It has 16 input attributes and one output attribute. The dataset was created to simulate real-world situations and has around 100,000 records. The input attributes include details like the transaction amount, cardholder's location, merchant's category code, and more. The output attribute indicates whether the transaction is fraudulent or not. The dataset is often used by researchers to develop and evaluate fraud detection algorithms. The KnuggetChase3 dataset provides a valuable resource for studying credit card fraud detection methods in the field of machine learning.

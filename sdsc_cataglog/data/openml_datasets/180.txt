@@ -1,0 +1,3 @@
+name: strupcz
+dataset_id: 418.0
+description: The dataset "strupcz" is a collection of records containing information on gene expression in yeast. It consists of samples derived from various conditions, such as growth phase, temperature, and stress treatment. The dataset includes measurements of gene expression levels for a large number of genes across these conditions. It also provides information on the experimental design, such as control groups and replicates. The strupcz dataset has been widely utilized in research to study the effects of different conditions on gene expression and to identify potential regulatory mechanisms in yeast.

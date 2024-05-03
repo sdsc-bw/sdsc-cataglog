@@ -1,0 +1,3 @@
+name: AI-Simulated-Games-of-Machi-Koro
+dataset_id: 43590.0
+description: The AI-Simulated-Games-of-Machi-Koro dataset contains information about simulated games of the board game Machi Koro played by an AI agent. The dataset includes details such as the initial game state, the actions taken by the AI agent, the resulting game state after each action, and the final outcome of the game. The games were simulated in order to further analyze and understand the strategies and decision-making processes employed by the AI agent. The dataset provides valuable insights into the gameplay dynamics and performance of the AI agent, ultimately contributing to the improvement and development of AI systems in the domain of board games.

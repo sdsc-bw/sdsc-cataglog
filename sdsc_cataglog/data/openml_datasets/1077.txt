@@ -1,0 +1,3 @@
+name: QSAR-TID-18044
+dataset_id: 3053.0
+description: The dataset QSAR-TID-18044 contains information on the biological activities of chemical compounds. It consists of 6305 instances and 46 attributes, including 41 molecular descriptors and 5 molecular properties. The goal is to predict the IC50 value, which indicates the potency of a compound in inhibiting the growth of cancer cells. The dataset is available in both CSV and ARFF formats. It is highly imbalanced, with a majority of instances belonging to the inactive class. Therefore, the dataset requires careful preprocessing and balancing techniques to ensure accurate model training and evaluation.

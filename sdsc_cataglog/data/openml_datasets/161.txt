@@ -1,0 +1,3 @@
+name: ipums_la_98-small
+dataset_id: 381.0
+description: The dataset ipums_la_98-small contains information from the 1998 Los Angeles County Household Survey, and it consists of a sample of 1% of households in the county. The data includes variables related to household characteristics, such as household size, income, and education level. It also contains information about individuals within the households, such as age, gender, race, and employment status. Additionally, the dataset provides geographic information, including the census tract and ZIP code of each household. The data is useful for studying social and economic patterns in Los Angeles County and can be accessed for research purposes.

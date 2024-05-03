@@ -1,0 +1,3 @@
+name: dataset_31_credit-g
+dataset_id: 42632.0
+description: The dataset 'dataset_31_credit-g' contains information about credit card applicants. It includes attributes like age, sex, education level, marital status, and financial information such as income, credit history, and employment details. The dataset has a binary classification task where the goal is to predict whether an applicant is at low or high risk of defaulting on their credit card payments. It has 1000 instances with 21 attributes, including 260 instances with high-risk applicants. The dataset's target variable is 'credit risk', and it is labeled as either 'high' or 'low'.

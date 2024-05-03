@@ -1,0 +1,3 @@
+name: baseball
+dataset_id: 185.0
+description: The baseball dataset contains comprehensive information about various aspects of baseball including players, teams, and games. It provides detailed statistics, such as batting averages, earned run averages, and fielding percentages, for players and teams across multiple seasons. The dataset covers a wide range of variables, including player demographics, performance metrics, game outcomes, and team standings. It also includes historical data, enabling researchers to analyze trends and patterns over time. With its extensive coverage and rich array of statistics, the baseball dataset serves as a valuable resource for studying the sport and its players, as well as for conducting statistical analysis and modeling.

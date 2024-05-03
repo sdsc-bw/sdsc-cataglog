@@ -1,0 +1,3 @@
+name: QSAR-TID-18046
+dataset_id: 4090.0
+description: The QSAR-TID-18046 dataset is a chemical dataset consisting of 8 physicochemical properties of organic compounds studied for their inhibitory activity against HIV-1 virus. The dataset contains 1,804 instances, with each instance having 41 descriptors. The dataset is known for its highly imbalanced class distribution, as only 5.1% of the compounds are active against the virus. The target variable represents the biological activity of compounds, with values ranging from inactive to highly active. This dataset is widely used in the field of chemoinformatics to develop models for predicting the inhibitory activity of new compounds against HIV-1 virus.

@@ -1,0 +1,3 @@
+name: Indian-Liver-Patient-Records
+dataset_id: 43665.0
+description: The dataset "Indian-Liver-Patient-Records" contains records of patients with liver disease. It includes 583 instances with 10 attributes, such as age, gender, total bilirubin levels, and direct bilirubin levels. The data was gathered from various hospitals in India and consists of both liver patient and non-liver patient records. The main purpose of this dataset is to predict liver disease based on the given attributes. It is an essential resource for researchers and data analysts working in the field of liver diseases and can be used to develop diagnostic models and gain insights into the factors influencing liver health.

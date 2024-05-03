@@ -1,0 +1,3 @@
+name: scm1d
+dataset_id: 41485.0
+description: The dataset scm1d is a one-dimensional dataset that consists of synthetic data points generated for the purpose of examining clustering algorithms. The data points are arranged in a single continuous line and are grouped into four distinct clusters. Each cluster is characterized by different statistical properties, such as mean, variance, and density. The dataset is primarily used to evaluate the performance of clustering algorithms in differentiating and identifying these clusters accurately. The scm1d dataset provides an ideal test case for evaluating the efficacy and robustness of various clustering techniques on one-dimensional data.

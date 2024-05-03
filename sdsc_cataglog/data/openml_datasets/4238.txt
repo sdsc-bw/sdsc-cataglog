@@ -1,0 +1,3 @@
+name: MiniBooNE_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44416.0
+description: The dataset "MiniBooNE_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" consists of 2000 rows and 100 columns. It has been stratified into 10 different classes. The dataset contains various types of data, and each row represents a different sample. The purpose of stratifying the dataset is to ensure that each class is well-represented and balanced. This dataset can be used for various analyses and machine learning tasks, taking advantage of its diverse features and stratification to improve model performance and accuracy.

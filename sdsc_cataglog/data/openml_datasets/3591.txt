@@ -1,0 +1,3 @@
+name: NSE-Stocks-Data
+dataset_id: 43666.0
+description: The NSE-Stocks-Data dataset contains information about various stocks traded on the National Stock Exchange (NSE) in India. It includes data about stock symbols, delivery percentage, turnover, high and low prices, open and close values, and traded quantities. The dataset also provides information from different sectors such as banking, finance, technology, and more. This dataset can be utilized to analyze stock market trends, study the performance of different sectors, create predictive models, and develop trading strategies. The dataset is extensive and reliable, making it a valuable resource for researchers, investors, and traders in the Indian stock market.

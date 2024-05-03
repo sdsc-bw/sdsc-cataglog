@@ -1,0 +1,3 @@
+name: Football---Russian-First-League-Football-EXTENDED
+dataset_id: 43761.0
+description: The dataset Football---Russian-First-League-Football-EXTENDED focuses on the Russian First League football matches. It contains detailed information about various aspects of the matches, including team statistics, player performance, and match outcomes. The dataset covers multiple seasons of the league, allowing for comprehensive analysis and comparison. It also includes additional data such as the location of the matches, weather conditions, and the referees involved. This dataset provides a valuable resource for researchers, analysts, and enthusiasts interested in studying and predicting outcomes in the Russian First League football matches.

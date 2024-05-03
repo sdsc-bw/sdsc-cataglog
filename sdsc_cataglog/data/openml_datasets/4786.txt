@@ -1,0 +1,3 @@
+name: insurance_2
+dataset_id: 45144.0
+description: The dataset insurance_2 contains information on health insurance reimbursement claims. It includes details of patients such as age, gender, body mass index (BMI), number of children, smoking habits, region, and insurance charges. The dataset also comprises information about the insurance claims, including the claim amount, medical expenses, and whether or not the claim was approved. It can be utilized to explore the factors influencing insurance charges and the likelihood of claim approval. Furthermore, it provides an opportunity to analyze the relationship between variables such as age, BMI, smoking habits, and insurance claims.

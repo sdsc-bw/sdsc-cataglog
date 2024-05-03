@@ -1,0 +1,3 @@
+name: freMTPL2freq
+dataset_id: 41214.0
+description: The dataset freMTPL2freq contains information about the frequency of car accidents for an insurance company. It consists of around 48,000 records and has a size of 16MB. Each record includes several attributes such as the policy holder's sex, age, district, and vehicle power. The dataset also includes the target variable, which indicates the number of claims made by the policy holder in a certain period. The data is intended for research purposes, such as exploring the relationship between various factors and accident frequency.

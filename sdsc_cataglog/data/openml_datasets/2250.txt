@@ -1,0 +1,3 @@
+name: solar-flare
+dataset_id: 40686.0
+description: The solar-flare dataset contains information about solar flares, which are brief eruptions of intense high-energy radiation emitted from the Sun's surface. The data includes various attributes such as the flare's classification, region, activity level, and location. The dataset consists of 1,389 instances, with each instance containing 11 features. The classification variable is divided into three classes: low, moderate, and high. The dataset is commonly used for prediction and classification tasks, specifically in the field of space weather forecasting, to analyze and understand solar flare patterns and their potential impact on Earth.

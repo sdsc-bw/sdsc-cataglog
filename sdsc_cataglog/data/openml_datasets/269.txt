@@ -1,0 +1,3 @@
+name: baseball-team
+dataset_id: 515.0
+description: The dataset baseball-team provides information about the performance of different baseball teams over several years. It includes variables such as the team's name, the number of wins and losses they achieved, the percentage of games they won, and the number of runs scored and allowed. The dataset also contains additional details like the number of home runs hit by players, the number of stolen bases, and the average number of innings pitched by the team's pitchers. This dataset can be valuable for analyzing the performance trends of different baseball teams, identifying successful strategies, and observing correlations between variables.

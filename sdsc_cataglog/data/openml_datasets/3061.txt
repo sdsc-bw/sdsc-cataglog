@@ -1,0 +1,3 @@
+name: acp-breast-cancer
+dataset_id: 42895.0
+description: The acp-breast-cancer dataset contains information regarding breast cancer patients including their age, menopause status, tumor size, lymph node status, hormone receptor status, and survival status. The dataset consists of 286 observations and 10 variables. Additionally, it has been used to study the relationship between various factors and breast cancer survival, allowing researchers to gain insights into the prognosis and treatment outcomes of patients. This dataset serves as a valuable resource for analyzing breast cancer patterns, identifying risk factors, and developing effective strategies to manage and combat this disease.

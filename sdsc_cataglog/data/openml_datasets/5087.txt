@@ -1,0 +1,3 @@
+name: bates_classif_100
+dataset_id: 45628.0
+description: The dataset bates_classif_100 contains information on 100 individuals from Bates College. It includes various attributes like height, weight, age, and gender. The dataset aims to promote learning and analysis in the field of classification modeling. The individuals in the dataset are labeled as either 'healthy' or 'unhealthy' based on their medical conditions. The dataset provides an opportunity to explore the relationship between these attributes and the classification of individuals as healthy or unhealthy. It can also be used as a training set for developing classification models and evaluating their accuracy and performance.

@@ -1,0 +1,3 @@
+repo_name: AdversarialDNN-Playground
+link: https://github.com/QData/AdversarialDNN-Playground
+description: The AdversarialDNN-Playground is a web service that allows users to visualize the creation of adversarial samples to neural networks. It is similar to Google's TensorFlow Playground, but focuses on evasion attacks in adversarial machine learning. Information on its installation can be found in the repository, along with screenshots and demo information. To modify seed images, users can edit the `images_to_generate.csv` file and run the `json_gen.py` script. The webserver can be deployed using the `run.py` script, and the required Python packages can be installed using the `requirements.txt` file with the command `pip3 install -r requirements.txt`.

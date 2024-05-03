@@ -1,0 +1,3 @@
+name: QSAR-TID-11636
+dataset_id: 4080.0
+description: QSAR-TID-11636 is a dataset that contains information on chemical compounds and their biological activity. It consists of 3,025 compounds, each represented by 828 molecular descriptors. The dataset focuses on predicting the acute oral mammalian toxicity of these compounds. The compounds' biological activity is measured using the LD50 value, which represents the dose required to cause lethality in 50% of a test animal group. The dataset also includes information on the compounds' SMILES codes, molecular weight, and other descriptors related to their chemical structure. QSAR-TID-11636 provides a valuable resource for developing computational models to predict the toxicity of chemical compounds.

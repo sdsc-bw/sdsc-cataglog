@@ -1,0 +1,3 @@
+name: QSAR-TID-11061
+dataset_id: 3721.0
+description: QSAR-TID-11061 is a dataset consisting of chemical compounds and their corresponding bioactivity values against the human Cyclooxygenase-2 (COX-2) enzyme, which is related to inflammation. The dataset contains 2D molecular descriptors, such as bond and atom counts, as well as several physicochemical properties of the compounds. The bioactivity values are represented as pIC50, which is a measure of the compound's inhibitory potency against COX-2. The goal of this dataset is to develop quantitative structure-activity relationship (QSAR) models to predict the bioactivity of novel compounds against COX-2, which can aid in the discovery of new anti-inflammatory drugs.

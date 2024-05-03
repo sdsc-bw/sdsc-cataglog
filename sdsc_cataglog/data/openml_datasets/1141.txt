@@ -1,0 +1,3 @@
+name: QSAR-TID-11017
+dataset_id: 3117.0
+description: The dataset QSAR-TID-11017 contains information about the biological activity (DT50) of 37 different compounds. Each compound's DT50 was measured under distinct conditions, including pH, temperature, and presence of light. Additionally, the dataset includes various molecular descriptors for each compound, such as molecular weight, molar refractivity, and topological surface area. The goal of this dataset is to predict the DT50 value of unknown compounds based on their molecular descriptors, using machine learning models. The dataset is relevant for researchers in the field of environmental chemistry and toxicology interested in developing predictive models for the degradation of organic compounds.

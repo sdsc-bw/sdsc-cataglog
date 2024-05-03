@@ -1,0 +1,3 @@
+name: volcanoes-d2
+dataset_id: 1539.0
+description: The dataset "volcanoes-d2" consists of information about volcanoes, their locations, and various attributes. It contains data on 1,540 volcanoes globally, with details such as their names, types, status, elevation, and country. The dataset includes information on both active and potentially active volcanoes, with 982 volcanoes categorized as active. It also provides data on the date of the most recent eruption for each volcano, allowing for analysis of eruption patterns. This dataset provides a comprehensive overview of volcanoes worldwide and enables researchers to explore various aspects of these geological formations.

@@ -1,0 +1,3 @@
+name: QSAR-TID-11337
+dataset_id: 3728.0
+description: The dataset QSAR-TID-11337 consists of 4,543 compounds with different features related to their toxicity levels. The target variable is the Log LD50, a measure of the lethal dose on 50% of a population. The input variables include molecular descriptors that are numerical representations of chemical compounds. These descriptors include topological, geometric, and electronic properties. The dataset also contains information about common substructures found in the compounds. However, it does not specify the source or origin of the compounds. Overall, this dataset provides valuable information for analyzing the relationship between chemical features and toxicity levels.

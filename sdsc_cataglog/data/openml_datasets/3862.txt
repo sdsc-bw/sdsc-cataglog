@@ -1,0 +1,3 @@
+name: Ailerons
+dataset_id: 43987.0
+description: The Ailerons dataset is used for predicting aircraft control responses based on inputs from different sensors. It contains 6 columns and 165,000 rows of data. The target variable in this dataset is a measure of the differential pressure across the aileron, which indicates the effectiveness of the control surface. The dataset also includes inputs like the aircraft state, inputs from the elevators and rudder, and some noise features. The data is organized in blocks, where each block has a specific set of inputs and targets. Overall, the dataset aims to aid in the development of models and algorithms for predicting and controlling aircraft responses.

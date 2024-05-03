@@ -1,0 +1,3 @@
+name: Eighty-years-of-Canadian-climate-data
+dataset_id: 43811.0
+description: The dataset "Eighty-years-of-Canadian-climate-data" provides comprehensive information on various climate parameters in Canada collected over a span of 80 years. It contains data related to temperature, precipitation, wind speed, humidity, and other relevant factors. The dataset offers a reliable and extensive analysis of the long-term climate trends in the country, allowing researchers and scientists to study and understand the changing climate patterns over time. This dataset is valuable for climate change research, weather forecasting, and environmental planning, as it provides historical context and insight into Canada's weather patterns and climatic fluctuations.

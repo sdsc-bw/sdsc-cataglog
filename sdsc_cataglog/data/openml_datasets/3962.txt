@@ -1,0 +1,3 @@
+name: MiniBooNE
+dataset_id: 44088.0
+description: The dataset MiniBooNE is a collection of data recorded by the MiniBooNE experiment at the Fermi National Accelerator Laboratory. This experiment was designed to investigate neutrino oscillations, a phenomenon where neutrinos change from one type to another during their flight. The dataset includes information about the neutrino interactions and their energies, as well as various background events. It provides valuable insights into the behavior and properties of neutrinos, and has been extensively studied by scientists to better understand the fundamental nature of these particles. The MiniBooNE dataset is publicly available, enabling researchers worldwide to analyze and contribute to this field of research.

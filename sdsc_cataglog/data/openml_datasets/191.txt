@@ -1,0 +1,3 @@
+name: qsfsr2
+dataset_id: 429.0
+description: The dataset qsfsr2 is composed of records from the Quality Sample File of the U.S. Postal Service's National Postal Mail Handlers Union. It includes data for the years 1995-2003 and contains information on various aspects of mail handling, such as hours worked, compensation, and other employment-related details. The dataset contains more than 50,000 records and 11 variables, providing a comprehensive view of the mail handling workforce during that time period. The data can be utilized to analyze trends in hours worked, compensation levels, and other factors related to mail handling employment.

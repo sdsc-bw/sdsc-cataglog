@@ -1,0 +1,3 @@
+name: Disney-Plus-Movies-and-TV-Shows
+dataset_id: 43392.0
+description: The dataset Disney-Plus-Movies-and-TV-Shows is a comprehensive collection of Disney movies and TV shows available on the Disney+ streaming platform. It consists of over 6,000 entries, including both titles from the Disney archives and original content created for the platform. The dataset provides information such as titles, genres, release years, duration, ratings, and descriptions of each movie or TV show. Users can explore and analyze the dataset to gain insights into the vast library of Disney content available on Disney+ and understand trends in Disney's programming choices over the years.

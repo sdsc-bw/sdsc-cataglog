@@ -1,0 +1,3 @@
+name: kr-vs-kp_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44646.0
+description: The dataset kr-vs-kp_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows and 100 columns. It has 10 different classes for classification. The data is stratified, meaning it is representative of the population being studied. The dataset is likely used for analyzing patterns and making predictions based on these patterns. The seed value used is 3, which may indicate a specific randomization process used to generate the data. Overall, this dataset provides a diverse and well-structured sample for machine learning and data analysis purposes.

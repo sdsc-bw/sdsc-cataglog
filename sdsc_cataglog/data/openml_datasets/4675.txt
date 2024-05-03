@@ -1,0 +1,3 @@
+name: elevators
+dataset_id: 45031.0
+description: The dataset "elevators" contains information about elevator usage in a building. It includes data related to the number of trips made by elevators within a certain time period, as well as the occupancy and energy consumption during those trips. The dataset aims to provide insights into elevator performance and usage patterns, allowing for analysis and optimization of elevator systems. With the data, it is possible to identify peak usage hours, estimate energy efficiency, and optimize maintenance schedules. The elevators dataset serves as a valuable resource for understanding elevator operations and improving their efficiency and performance in buildings.

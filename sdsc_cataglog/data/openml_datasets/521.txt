@@ -1,0 +1,3 @@
+name: disclosure_x_bias
+dataset_id: 774.0
+description: The dataset "disclosure_x_bias" consists of information related to bias in various disclosure scenarios. The data covers different aspects of bias such as gender, race, age, and political affiliation. It includes both the disclosed information and the corresponding biased response. The dataset is divided into multiple tables, each focusing on a different bias scenario. Each table contains various attributes and associated values. The dataset aims to facilitate the analysis and understanding of bias in disclosure scenarios, potentially helping researchers and developers build fairer and more unbiased systems.

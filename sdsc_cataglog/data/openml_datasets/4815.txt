@@ -1,0 +1,3 @@
+name: water_9
+dataset_id: 45173.0
+description: The dataset water_9 contains information related to water quality parameters in a specific location. It includes data on various parameters such as temperature, pH level, turbidity, dissolved oxygen, and conductivity. The dataset consists of measurements taken at different time intervals, allowing for the observation of trends and fluctuations in water quality over time. It also includes information on the geographical coordinates of the sampling location, which helps in spatial analysis. The dataset aims to provide researchers and policymakers with valuable insights into the water quality in that particular area, aiding in better decision-making and management of water resources.

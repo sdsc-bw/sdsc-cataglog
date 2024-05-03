@@ -1,0 +1,3 @@
+name: League-of-Legend-High-Elo-Team-Comp--Game-Length
+dataset_id: 43842.0
+description: The dataset is called "League-of-Legend-High-Elo-Team-Comp--Game-Length" and consists of records related to high-ranked League of Legends matches. The data includes information on team compositions, such as champion picks and bans, as well as the duration of the games. The dataset is collected from the solo queue ranked games of high-elo players on the North American server, focusing on games played between 2016 and 2018. The purpose of the dataset is likely to analyze the impact of team compositions and game length on the outcome of high-level matches, providing insights for strategic decision-making in the game.

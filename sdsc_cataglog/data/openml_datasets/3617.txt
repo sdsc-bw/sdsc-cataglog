@@ -1,0 +1,3 @@
+name: Pokemon-with-stats-Generation-8
+dataset_id: 43692.0
+description: The dataset "Pokemon-with-stats-Generation-8" contains information about the latest generation (Generation 8) of Pokemon from the popular franchise. It's a comprehensive dataset that includes detailed statistics of each Pokemon, such as their abilities, types, base stats, and moves. The dataset provides information on the Pokemon's name, Pokedex number, and evolution details as well. Additionally, it includes data on the Pokemon's height, weight, gender ratio, and capture rate. The dataset offers a valuable resource for analyzing and studying the characteristics and attributes of Generation 8 Pokemon, aiding enthusiasts, researchers, and developers in various data-driven projects.

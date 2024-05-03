@@ -1,0 +1,3 @@
+name: Higgs
+dataset_id: 44077.0
+description: The Higgs dataset consists of measurements taken from particle collisions at CERN's Large Hadron Collider. These collisions involve the interaction of particles, resulting in different measurements, including energy, momenta, and angles. The dataset contains a total of 28 features, which include derived features and low-level features. The data has been preprocessed, normalized, and transformed, with missing values being replaced. The target variable in this dataset is a binary classification of whether a signal event is detected or not. The dataset is frequently used in machine learning tasks to explore various algorithms and learn about particle physics.

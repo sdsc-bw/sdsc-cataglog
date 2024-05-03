@@ -1,0 +1,3 @@
+name: delta_elevators
+dataset_id: 819.0
+description: The dataset delta_elevators is a collection of data related to elevator performances in a specific building. It contains information such as the date and time of elevator usage, the floor number for origin and destination, and the duration of the elevator ride. The dataset aims to analyze elevator behavior, identify patterns, and optimize elevator systems in the building. It provides insights into elevator usage trends, such as peak hours and commonly traveled floors. The data has been collected over a period of time, allowing for a comprehensive analysis of the elevator system's efficiency and effectiveness, ultimately supporting improvements and enhancements.

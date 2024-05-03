@@ -1,0 +1,3 @@
+name: QSAR-TID-61
+dataset_id: 3278.0
+description: The dataset QSAR-TID-61 contains information about the toxicity of chemicals. It includes data on 546 chemicals, each characterized by 11 molecular descriptors and a binary toxicity value. The molecular descriptors provide information about the chemical's structure, shape, and electronic properties. The dataset is used for developing models to predict the toxicity of new chemicals based on their molecular characteristics. The toxicity value indicates whether the chemical is toxic or non-toxic. This dataset is commonly used in the field of quantitative structure-activity relationship (QSAR) studies to evaluate the toxicological properties of chemicals.

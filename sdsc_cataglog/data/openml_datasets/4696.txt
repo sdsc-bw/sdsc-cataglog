@@ -1,0 +1,3 @@
+name: cmc
+dataset_id: 45052.0
+description: The cmc dataset contains information on contraceptive use among married or in-union women in Bangladesh. It includes data on the woman's age, education, religion, number of children, contraceptive method used, and other factors related to her reproductive health. The dataset is representative of rural and urban areas of Bangladesh and was collected through a survey. The purpose of the dataset is to analyze the factors influencing contraceptive use and to understand the current status and trends in family planning practices in Bangladesh. This dataset is widely utilized for research and policy-making in the field of reproductive health and population studies.

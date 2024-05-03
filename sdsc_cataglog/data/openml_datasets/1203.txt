@@ -1,0 +1,3 @@
+name: QSAR-TID-100430
+dataset_id: 3179.0
+description: The dataset QSAR-TID-100430 is comprised of 1,043 instances with 6 numeric attributes and a binary target variable. It was created for the purpose of drug activity prediction based on molecular descriptors. The target variable identifies whether a compound is active or inactive. Each instance consists of the values for the descriptors and the corresponding target variable. The dataset aims to enable the development of quantitative structure-activity relationship (QSAR) models to predict the biological activity of molecules. The dataset is freely available and can be utilized for research in the field of computational chemistry and drug discovery.

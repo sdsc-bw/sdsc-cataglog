@@ -1,0 +1,3 @@
+name: QSAR-TID-101239
+dataset_id: 3194.0
+description: The dataset QSAR-TID-101239 contains information on the biological activity of various chemical compounds. It consists of 1055 compounds and 419 variables. The compounds have been tested for their ability to inhibit the enzyme dihydrofolate reductase, which is important in metabolism and cell division. The variables include molecular descriptors like hydrophobicity, electronic properties, and steric factors. The goal of the dataset is to predict the biological activity of compounds based on their molecular characteristics. QSAR-TID-101239 is suitable for machine learning and data analysis tasks in the field of drug discovery and chemical biology.

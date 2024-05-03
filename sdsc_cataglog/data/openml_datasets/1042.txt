@@ -1,0 +1,3 @@
+name: heart
+dataset_id: 1574.0
+description: The "heart" dataset contains information about patients with heart disease. The dataset includes 303 rows and 14 columns. The columns provide various attributes such as age, sex, chest pain type, blood pressure, cholesterol levels, fasting blood sugar, electrocardiographic results, heart rate, exercise-induced angina, ST depression induced by exercise, slope of the peak exercise ST segment, number of major vessels colored by fluoroscopy, thallium test results, and the target variable indicating the presence or absence of heart disease. This dataset is often used for predicting heart disease and conducting research in the field of cardiovascular health.

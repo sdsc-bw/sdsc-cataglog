@@ -1,0 +1,3 @@
+name: credit
+dataset_id: 45024.0
+description: The dataset credit contains information about credit defaulters and non-defaulters. It consists of data related to various attributes such as age, education, marital status, and payment history. The dataset has a total of 30,000 records, with approximately 22,000 non-defaulters and 8,000 defaulters. Each record includes 23 features, including the amount of credit, repayment status, and the number of times payments were delayed. The dataset is widely used for research in credit risk analysis and prediction. This dataset provides valuable insights into factors that contribute to credit default, helping develop models to identify potential defaulters and mitigate risk.

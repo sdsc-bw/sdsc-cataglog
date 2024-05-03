@@ -1,0 +1,3 @@
+name: madeline_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44560.0
+description: The dataset madeline_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset with 2000 rows and 100 columns. It is stratified with 10 classes. It seems to be derived from a larger original dataset called madeline. The dataset might have been randomly selected, using a seed of 2, from the original dataset. Stratification is a technique used to ensure that each class is proportionally represented in the dataset. The specific goal or use case of this dataset is not mentioned in the given information.

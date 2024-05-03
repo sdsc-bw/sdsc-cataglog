@@ -1,0 +1,3 @@
+name: QSAR-TID-12327
+dataset_id: 4129.0
+description: The dataset QSAR-TID-12327 is used for quantitative structure-activity relationship (QSAR) analysis, which aims to predict the biological activity of chemical compounds based on their structure. It consists of 4,342 instances, each characterized by 1024 molecular descriptors and a binary activity class. The dataset represents a diverse set of compounds with a wide range of biological activities. There are approximately equal number of active and inactive compounds. It is publicly available and has been used in various studies to develop predictive models for chemical activity. The dataset provides valuable insights into the relationship between chemical structures and their activity.

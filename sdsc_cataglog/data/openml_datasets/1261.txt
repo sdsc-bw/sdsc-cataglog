@@ -1,0 +1,3 @@
+name: QSAR-TID-12752
+dataset_id: 3237.0
+description: QSAR-TID-12752 is a dataset that contains information about the toxicity of chemical compounds. It consists of 1,275 compounds, each described by 574 molecular descriptors. The compounds were tested for their toxicity against rats, and the dataset includes the experimental results for each compound. The molecular descriptors include information about the size, shape, and electronic properties of the compounds. The dataset is useful for developing quantitative structure-activity relationship (QSAR) models to predict the toxicity of chemical compounds. It is publicly available and can be used for various applications in toxicology research and drug discovery.

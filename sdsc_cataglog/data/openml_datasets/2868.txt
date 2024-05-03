@@ -1,0 +1,3 @@
+name: mlr_xgboost_rng
+dataset_id: 42459.0
+description: The dataset mlr_xgboost_rng is a popular dataset used in machine learning and data analysis tasks. It contains a diverse range of numerical and categorical variables, making it ideal for evaluating and testing different algorithms. The dataset consists of three main components: input features, output variables, and optional weighting information. It is often used to train and test XGBoost models, a powerful gradient boosting algorithm known for its accuracy and efficiency. The mlr_xgboost_rng dataset provides researchers and practitioners with a valuable resource for benchmarking and developing predictive models in various domains, including finance, healthcare, and marketing.

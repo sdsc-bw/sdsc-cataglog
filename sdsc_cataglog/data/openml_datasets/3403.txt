@@ -1,0 +1,3 @@
+name: Swiss-banknote-conterfeit-detection
+dataset_id: 43477.0
+description: The Swiss-banknote-counterfeit-detection dataset contains 1,372 observations of genuine Swiss banknotes and forged counterfeit banknotes. Each observation consists of 6 features: variance of image wavelet transformed, skewness of image wavelet transformed, curtosis of image wavelet transformed, entropy of image, class (genuine or counterfeit), and image path. The dataset is used for binary classification tasks to detect whether a banknote is genuine or counterfeit based on the provided features. This dataset is commonly used for machine learning training and evaluation purposes, especially for algorithms related to fraud detection and counterfeit banknote identification.

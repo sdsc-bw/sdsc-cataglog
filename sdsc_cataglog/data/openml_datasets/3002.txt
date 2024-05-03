@@ -1,0 +1,3 @@
+name: Click_prediction_small
+dataset_id: 42717.0
+description: The dataset Click_prediction_small is used for predicting the likelihood of a user clicking on an advertisement. It contains detailed information about the ad, user, and context features. The dataset consists of approximately 60,000 instances and includes attributes such as timestamp, ad, publisher, user, and website. Features like the ad's category, the user's interests, and the website's domain are provided to help build a predictive model. The dataset also provides information on whether the user eventually clicks on the ad or not. The goal of this dataset is to develop a model that accurately predicts ad clicks based on the given features.

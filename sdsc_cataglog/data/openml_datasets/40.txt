@@ -1,0 +1,3 @@
+name: tae
+dataset_id: 48.0
+description: The "tae" dataset is a collection of student evaluations of teaching effectiveness at a large university. It includes information from 151 courses with ratings given by 2,319 students. The dataset consists of 28 variables, including demographic information of students and instructors, evaluation scores, class size, and subject area. The dataset was collected with the aim of investigating the relationship between evaluation scores and various factors such as class size, instructor age, and subject area. It is widely used in research studies on teaching evaluations and provides valuable insights into the factors that influence student perceptions of teaching effectiveness.

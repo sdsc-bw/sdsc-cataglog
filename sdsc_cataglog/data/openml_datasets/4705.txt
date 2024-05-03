@@ -1,0 +1,3 @@
+name: dresses-sales
+dataset_id: 45061.0
+description: The dataset dresses-sales contains information about the sales and characteristics of different dresses. It consists of 5,246 records of dresses from an online retailer. The dataset includes features such as dress ID, style, price, size, color, season, neck line, sleeve length, material, and customer rating. The dresses are divided into various categories based on their features. The dataset provides insights into dress sales patterns, customer preferences, and popular styles. It can be used for analysis and prediction of dress sales, recommendation systems, and understanding fashion trends.

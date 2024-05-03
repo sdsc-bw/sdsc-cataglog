@@ -1,0 +1,3 @@
+name: QSAR-TID-101333
+dataset_id: 3900.0
+description: The dataset QSAR-TID-101333 contains information on 1055 molecules and their activities against the target protein. The dataset includes 41 molecular descriptors such as molecular weight, polarizability, and number of rotatable bonds. The target variable represents the activity of each molecule, with values ranging from 0.0 to 10.0. The dataset has been extensively used in quantitate structure-activity relationship (QSAR) research to develop predictive models for the target protein. It offers an opportunity to explore the relationship between the molecular properties and the activity of molecules, aiding in drug discovery and design.

@@ -1,0 +1,3 @@
+name: QSAR-TID-100969
+dataset_id: 3324.0
+description: The dataset QSAR-TID-100969 contains information on the chemical compounds and their biological activity against the target enzyme. It consists of 935 chemical compounds with their label values indicating the activity level. The compounds were described by 1D molecular descriptors and 2D fragments. The dataset does not contain any missing values. The compounds have been derived from the PubChem database and tested against Nitrate reductase enzyme. The dataset is useful in predicting the activity level of similar compounds against the enzyme, which can be helpful in drug discovery and design.

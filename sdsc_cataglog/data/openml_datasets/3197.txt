@@ -1,0 +1,3 @@
+name: StackOverflow-polarity
+dataset_id: 43149.0
+description: The dataset StackOverflow-polarity is a collection of questions and answers from the Stack Overflow programmer community. It includes a polarity label correspondingly indicating if the sentiment of the question asked is positive or negative. The dataset contains approximately 2,000 examples with a balanced distribution of positive and negative examples. The questions cover a wide range of topics in the field of programming, addressing issues, doubts, and recommendations. The dataset aims to facilitate sentiment analysis and provide insights into the sentiment trends within the Stack Overflow community. It is suitable for training sentiment classification models and conducting research in sentiment analysis.

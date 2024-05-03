@@ -1,0 +1,3 @@
+name: QSAR-TID-227
+dataset_id: 3119.0
+description: QSAR-TID-227 is a dataset containing information on the toxicological properties of various compounds. The dataset consists of 227 chemicals and their corresponding descriptors, such as molecular weight, connectivity indices, and electrostatic properties. The compounds are classified into two classes: mutagenic and non-mutagenic. The dataset is useful for developing quantitative structure-activity relationship (QSAR) models, which can predict the mutagenic properties of new compounds based on their descriptors. The dataset has been widely used in research and can help in the development of safer chemicals by identifying potential mutagens.

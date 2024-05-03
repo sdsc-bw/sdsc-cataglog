@@ -1,0 +1,3 @@
+name: QSAR-TID-20151
+dataset_id: 3220.0
+description: The dataset QSAR-TID-20151 includes information on the biological activity of compounds in relation to their chemical structure. It consists of 2,015 instances with nine attributes, including eight molecular descriptors and one target value representing the toxic potency. The aim of the dataset is to develop a model that can predict the toxic potency of new compounds based on their molecular descriptors. The dataset has been made publicly available to facilitate research and development of new methodologies for quantitative structure-activity relationship (QSAR) models. It serves as a valuable resource for chemoinformatics and computational chemistry studies.

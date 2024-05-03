@@ -1,0 +1,3 @@
+name: rmftsa_sleepdata
+dataset_id: 741.0
+description: The dataset rmftsa_sleepdata consists of 24-hour sleep recordings from 18 subjects. It includes measurements of eye movement and brain activity during sleep stages such as rapid eye movement (REM) and non-rapid eye movement (NREM) sleep. The dataset also contains information about the subjects' age, sex, and sleep disorders. Each recording is divided into 30-second epochs, and for each epoch, variables such as the number of REM and NREM sleep stages, total sleep time, and sleep efficiency are recorded. The dataset is useful for studying sleep patterns and understanding sleep disorders.

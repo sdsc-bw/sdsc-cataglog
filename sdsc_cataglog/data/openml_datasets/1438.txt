@@ -1,0 +1,3 @@
+name: QSAR-TID-11249
+dataset_id: 3418.0
+description: The dataset QSAR-TID-11249 consists of 125,164 compounds and 938 molecular descriptors. It was created to predict the binding affinity of compounds to the target ADP-ribosyl cyclase. The dataset is publicly available and can be used for various predictive modeling tasks. It is derived from the ChEMBL database and curated for improved data quality. The compounds in the dataset have been represented using multiple molecular descriptors, including topological, electrotopological, and thermodynamic properties. This dataset can help in the development and evaluation of QSAR models for ADP-ribosyl cyclase binding affinity prediction.

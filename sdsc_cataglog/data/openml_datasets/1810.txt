@@ -1,0 +1,3 @@
+name: QSAR-TID-12
+dataset_id: 3793.0
+description: The dataset QSAR-TID-12 is a collection of chemical compounds with corresponding toxicity values. It consists of 1211 instances, each described by 128 attributes. The compounds are divided into two classes: toxic and non-toxic. The dataset is balanced in terms of instances per class. The goal of this dataset is to develop predictive models to classify the compounds based on their toxicity values. Some of the attributes describe atomic and molecular properties, while others provide information on topological indices. The QSAR-TID-12 dataset offers valuable insights for studying chemical toxicity and developing predictive models in this field.

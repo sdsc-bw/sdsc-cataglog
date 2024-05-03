@@ -1,0 +1,3 @@
+repo_name: sf-gad
+link: https://github.com/teco-kit/sf-gad
+description: SFGAD is a tool for detecting anomalies in **graph** and **graph streams** with python. The framework defines a modular interface that allows full customization of the analysis process, making it possible to automate any workflow, run and manage packages, find and fix vulnerabilities, create instant dev environments, write better code with AI, and collaborate outside of code. SFGAD is available for installation at the Python package index and its source code is currently available on GitHub. The project is partially funded by the German Federal Ministry of Education and Research (BMBF).

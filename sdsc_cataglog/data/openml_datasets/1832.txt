@@ -1,0 +1,3 @@
+name: QSAR-TID-116
+dataset_id: 3817.0
+description: The dataset QSAR-TID-116 is a collection of 116 chemical compounds where each compound is represented by 519 molecular descriptors. These descriptors are derived from the 3D structure of the compounds and include information about atomic properties, connectivity, and electronic properties. The dataset also includes the binary classification of each compound based on its toxicity towards bacteria. The compounds are divided into training and test sets, with 89 compounds in the training set and 27 compounds in the test set. The goal of this dataset is to develop a predictive model for bacterial toxicity based on molecular descriptors.

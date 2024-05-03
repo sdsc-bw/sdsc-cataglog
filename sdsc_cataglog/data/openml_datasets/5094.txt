@@ -1,0 +1,3 @@
+name: colon
+dataset_id: 45635.0
+description: The dataset "colon" consists of gene expression values from colon biopsies of patients with and without colon cancer. It is used for cancer classification and biomarker discovery. It contains 62 samples, divided into 40 tumor and 22 healthy samples. The gene expression values are measured using microarray technology with 2000 features. The dataset has been pre-processed to remove missing values and normalize the expression values. It is commonly used in machine learning and bioinformatics research to develop algorithms for accurate cancer diagnosis and prognosis.

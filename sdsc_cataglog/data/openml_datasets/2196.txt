@@ -1,0 +1,3 @@
+name: numerai28.6
+dataset_id: 23517.0
+description: Numerai28.6 is a dataset provided by Numerai, a crowdsourced hedge fund. The dataset consists of historical financial market data and is updated every week. This dataset contains various features, including asset price, volume, and technical indicators for several cryptocurrencies. It also includes anonymized predictions from thousands of data scientists who participate in the Numerai tournament. The dataset is designed to facilitate machine learning research and model building in the field of quantitative finance. Data scientists can use this dataset to develop innovative strategies and algorithms to predict future market movements and test their predictive accuracy against the tournament leaderboard.

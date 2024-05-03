@@ -1,0 +1,3 @@
+name: Dollar-Stock-Prices-and-infos
+dataset_id: 43485.0
+description: The dataset "Dollar-Stock-Prices-and-infos" provides information about stock prices and related details of various companies. It contains data related to stock prices, trading dates, opening and closing prices, highest and lowest prices, trading volume, and dividend payments. The dataset includes information about multiple companies and their corresponding stock data, enabling analysis and comparison of the performance and trends of different stocks. This dataset serves as a valuable resource for financial analysts, investors, and researchers who are interested in studying and analyzing the stock market.

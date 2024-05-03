@@ -1,0 +1,3 @@
+name: Multipurpose-World-News-Dataset
+dataset_id: 43522.0
+description: The Multipurpose-World-News-Dataset is a collection of news articles from various sources around the world. It covers a wide range of topics, including politics, technology, business, and entertainment. The dataset contains millions of news articles that are categorized and organized based on their content. It includes information such as the article title, author, publication date, and a brief summary of the article. The dataset can be used for research purposes to analyze trends, sentiments, and patterns in global news coverage. It offers a comprehensive and diverse collection of news articles for analysis and exploration.

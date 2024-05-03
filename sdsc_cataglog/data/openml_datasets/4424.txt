@@ -1,0 +1,3 @@
+name: cnae-9_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44603.0
+description: The dataset cnae-9_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset that contains 2,000 rows and 100 columns. It has been generated with a seed value of 0 and consists of 10 different classes. The dataset has been stratified, meaning that the distribution of classes is evenly balanced. This dataset is likely meant for classification tasks, where the goal is to assign each data point to one of the 10 classes. The specific nature of the dataset and its features are not provided in the given information.

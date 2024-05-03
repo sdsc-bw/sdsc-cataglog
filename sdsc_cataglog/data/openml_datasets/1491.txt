@@ -1,0 +1,3 @@
+name: QSAR-TID-10450
+dataset_id: 3474.0
+description: The QSAR-TID-10450 dataset consists of 10,450 chemical compounds, each described by 4,297 numerical descriptors. The goal is to predict the acute toxicity of these compounds based on their descriptors. Acute toxicity is measured by the median lethal dose (LD50), which is the dose required to cause the death of half the test animals. The dataset includes chemicals with various structures and toxicity levels, making it suitable for developing models to predict toxicity. This dataset can be valuable for researchers working in drug discovery, toxicology, and environmental risk assessment, as it provides a resource to explore the relationship between chemical descriptors and acute toxicity.

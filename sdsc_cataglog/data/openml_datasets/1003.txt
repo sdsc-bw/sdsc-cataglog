@@ -1,0 +1,3 @@
+name: volcanoes-b1
+dataset_id: 1531.0
+description: The dataset "volcanoes-b1" provides information about volcanoes worldwide. It includes data on the types of volcanoes, their locations, and various attributes such as height, volume, and eruption dates. The dataset covers volcanoes from different periods, ranging from historical to prehistoric times. It also includes information on volcanic hazards, such as the potential for ash fall, pyroclastic flows, and lava flows. The dataset is extensive, with over 2,000 records, making it a valuable resource for studying volcanoes and their impact on Earth's geology and ecosystems.

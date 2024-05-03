@@ -1,0 +1,3 @@
+name: QSAR-TID-100861
+dataset_id: 3822.0
+description: QSAR-TID-100861 is a dataset containing information about various compounds and their biological activity. The dataset includes 100,861 instances and 900 variables. It consists of chemicals that were tested for their potential use as drugs and provides details on their structural properties and biological activities. The dataset is divided into two sets, a training set with 43,271 instances and a test set with 57,590 instances. The goal of using this dataset is to develop a quantitative structure-activity relationship (QSAR) model that can predict the biological activity of new compounds based on their structural features, allowing for efficient drug discovery and development.

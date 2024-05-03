@@ -1,0 +1,3 @@
+name: QSAR-TID-10811
+dataset_id: 3843.0
+description: The dataset QSAR-TID-10811 is a compilation of biological activity scores for various molecules. This dataset is composed of 41078 instances, with each instance representing a molecule. The molecules have been classified into four different classes based on their biological activity. The dataset contains 9190 instances that belong to Class 1, 2872 instances in Class 2, 9927 instances in Class 3, and 19289 instances in Class 4. The dataset also includes 1024 molecular descriptors, which provide information about the structural and chemical properties of the molecules. The dataset is intended to be used for the development and evaluation of QSAR models for predicting the biological activity of molecules.

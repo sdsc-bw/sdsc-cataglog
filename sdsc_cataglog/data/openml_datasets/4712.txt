@@ -1,0 +1,3 @@
+name: adult
+dataset_id: 45068.0
+description: The adult dataset is a widely used database for solving classification problems. It contains information about individuals such as age, education, occupation, and marital status, among others. The dataset aims to predict whether an individual's income exceeds $50,000 per year. With over 48,000 rows and 14 attributes, it provides a comprehensive overview of various factors that can impact income levels. The dataset is commonly utilized for testing machine learning algorithms, evaluating feature selection methods, and comparing classification models. It offers insights into socio-economic factors and serves as a valuable resource for predictive analysis and exploration of income disparities.

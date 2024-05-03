@@ -1,0 +1,3 @@
+name: FICO-HELOC-cleaned
+dataset_id: 45554.0
+description: The dataset FICO-HELOC-cleaned is a collection of data regarding various attributes of people who have taken out Home Equity Lines of Credit (HELOCs). The dataset consists of 5,075 records with 19 columns. The columns include information such as the person's age, credit score, debt-to-income ratio, loan-to-value ratio, and loan status. The dataset went through a cleaning process to remove any missing values, resulting in a clean and complete dataset. This dataset can be useful for analyzing the factors that influence HELOC borrowers' credit scores or predicting loan default rates based on various attributes.

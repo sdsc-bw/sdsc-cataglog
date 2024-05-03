@@ -1,0 +1,3 @@
+repo_name: nltk
+link: https://github.com/nltk/nltk
+description: The Natural Language Toolkit (NLTK) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. NLTK requires Python version 3.7, 3.8, 3.9, 3.10 or 3.11. For documentation, please visit nltk.org. If you want to contribute to NLTK development, please read CONTRIBUTING.md for more details. AUTHORS.md contains a list of everyone who has contributed to NLTK. If you have found the toolkit helpful, please support NLTK development by donating to the project via PayPal, using the link on the NLTK homepage. If you publish work that uses NLTK, please cite the NLTK book. For license information, see LICENSE.txt.

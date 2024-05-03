@@ -1,0 +1,3 @@
+name: FOREX_audnzd-day-High
+dataset_id: 41788.0
+description: The dataset FOREX_audnzd-day-High focuses on the daily high values of the currency pair AUD/NZD in the foreign exchange (FOREX) market. It contains information about the price level at which this currency pair reached its highest point during each trading day. The dataset likely includes a time series of observations with corresponding dates and high values recorded. By analyzing this data, one can gain insights into the volatility and trends in the AUD/NZD currency pair, which can be useful for traders and analysts in making informed decisions regarding investments, risk management, and forecasting future price movements.

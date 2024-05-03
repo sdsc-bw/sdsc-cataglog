@@ -1,0 +1,3 @@
+name: credit_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44354.0
+description: The dataset credit_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns. It has been stratified into 10 classes. Each row represents a credit entry for an individual. The dataset contains various features related to credit, such as credit score, income, age, and employment status. The goal is to predict the class label for each entry, which represents the creditworthiness of the individual. The dataset includes a mix of numerical and categorical variables. The stratification ensures that there is proportional representation of each class in the dataset, making it suitable for classification tasks and analysis.

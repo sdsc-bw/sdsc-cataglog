@@ -1,0 +1,3 @@
+name: sarcos
+dataset_id: 44976.0
+description: The dataset, sarcos, is a widely used benchmark in the field of robotics. It consists of kinematic and dynamic data of a robot arm performing different tasks, such as lifting and placing objects. The dataset contains 44,484 instances, with each instance having 21 features. The goal of using this dataset is to predict the torque needed for each task based on the given features. It is often used for regression tasks and has been utilized for evaluating various machine learning algorithms. The sarcos dataset provides a valuable resource for researchers and practitioners to improve robotic control and manipulation techniques.

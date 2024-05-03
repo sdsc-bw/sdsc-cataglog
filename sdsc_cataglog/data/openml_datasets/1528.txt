@@ -1,0 +1,3 @@
+name: QSAR-TID-11726
+dataset_id: 3512.0
+description: The dataset QSAR-TID-11726 contains information about 1298 chemical compounds and their corresponding toxicity levels. The compounds were studied to determine their ability to inhibit the growth of a certain type of bacteria. The dataset includes 4213 descriptors, which are numerical values that describe various properties of the compounds. The toxicity levels of the compounds were measured on a scale ranging from 0 to 2, with 0 indicating no toxicity and 2 indicating high toxicity. The dataset is commonly used in the field of Quantitative Structure-Activity Relationship (QSAR) modeling to predict the toxicity of similar compounds based on their descriptors.

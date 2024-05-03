@@ -1,0 +1,3 @@
+name: QSAR-TID-10230
+dataset_id: 3998.0
+description: QSAR-TID-10230 is a dataset that contains molecular descriptors and their corresponding toxicity values for a set of chemicals. The dataset includes a total of 1300 chemicals, with each chemical having 468 descriptors. The toxicity values are given on a scale from 0 to 3, where 0 represents non-toxic and 3 represents highly toxic. The purpose of this dataset is to facilitate the development and evaluation of quantitative structure-activity relationship (QSAR) models that can predict the toxicity of chemicals based on their molecular properties. This dataset can be used by researchers to explore the relationship between molecular descriptors and toxicity and to develop predictive models for chemical toxicity.

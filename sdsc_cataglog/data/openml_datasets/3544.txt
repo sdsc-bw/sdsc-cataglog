@@ -1,0 +1,3 @@
+name: Red--White-wine-Dataset
+dataset_id: 43620.0
+description: The Red--White-wine-Dataset is a dataset that consists of sensory information about red and white Portuguese wines. This dataset contains 6497 instances and includes various attributes such as pH level, alcohol content, residual sugar, and acidity. Each instance is labeled with a quality score, indicating the quality of the wine on a scale from 0 to 10. The dataset can be used for various analyses, such as studying the relationship between wine attributes and quality, predicting the quality of a wine based on its attributes, or exploring patterns and trends in wine production.

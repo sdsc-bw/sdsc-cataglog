@@ -1,0 +1,3 @@
+name: CostaMadre1
+dataset_id: 1446.0
+description: The dataset CostaMadre1 consists of information about fish communities in the coastal waters of the Gulf of California. It includes data on species abundance, biomass, and size, as well as environmental variables such as temperature and salinity. The dataset covers a period of six years, from 2007 to 2013, with samples taken quarterly. It was collected using a trawling method, targeting both demersal and pelagic fish. The purpose of the dataset is to understand the dynamics and changes in fish communities and their relationship with environmental factors in the Gulf of California, providing valuable insights for conservation and fisheries management.

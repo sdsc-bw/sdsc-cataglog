@@ -1,0 +1,3 @@
+name: pol
+dataset_id: 43991.0
+description: The "pol" dataset consists of information about political parties from various countries. It includes data on the ideological positioning of these parties based on their left-right orientation. The dataset also contains information on the type of party system in each country, such as single-party dominant systems versus multi-party systems. Additionally, it provides data on the electoral volatility and the number of legislative parties in each country. This dataset serves as a valuable resource for researchers interested in studying political party dynamics, electoral systems, and ideological trends across different countries.

@@ -1,0 +1,3 @@
+repo_name: explorer
+link: https://github.com/teco-kit/explorer
+description: Explorer is a React based tool for collaborative, browser-based time series data annotation that supports managing and interacting with datasets, videos, labels, users and has 2FA to improve compliance. Clone with `--recurse-submodules`-flag to automatically initialize and update each submodule.

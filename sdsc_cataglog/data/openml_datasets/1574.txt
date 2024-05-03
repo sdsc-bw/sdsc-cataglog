@@ -1,0 +1,3 @@
+name: QSAR-TID-10489
+dataset_id: 3559.0
+description: The QSAR-TID-10489 dataset is a collection of chemical compounds and their corresponding biological activities. It contains information on 1055 compounds, each represented by 10 molecular descriptors that help recognize their properties. The objective is to predict the compounds' effectiveness as inhibitors against the enzyme dihydrofolate reductase (DHFR). The dataset has been thoroughly validated and encompasses a diverse range of compounds with varying biological activities, making it suitable for training and evaluating computational models to predict DHFR inhibition. It provides a valuable resource for researchers working in drug discovery and molecular modeling.

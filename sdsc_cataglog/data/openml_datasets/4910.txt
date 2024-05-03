@@ -1,0 +1,3 @@
+name: munin_5
+dataset_id: 45268.0
+description: The dataset munin_5 contains information about various aspects of a municipal government. It includes data on the population of the municipality, the number of registered voters, and the number of employees working for the government. Additionally, it provides details on the total revenue received and the expenditure incurred by the municipality. The dataset also includes information on the different sources of revenue such as taxes and grants. Furthermore, it highlights the distribution of expenditure across various sectors like education, health, and public works. Overall, the dataset munin_5 offers a comprehensive overview of the financial and operational aspects of the municipal government.

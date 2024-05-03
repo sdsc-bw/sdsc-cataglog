@@ -1,0 +1,3 @@
+name: duke-breast-cancer
+dataset_id: 1434.0
+description: The "duke-breast-cancer" dataset is a compilation of clinical and pathological data collected from 286 patients who underwent surgery for breast cancer at Duke University Medical Centre between 1955 and 1985. It contains information such as the patients' age, menopausal status, tumor size, lymph node involvement, tumor grade, and molecular subtype. The dataset aims to facilitate the study of breast cancer prognosis and response to treatment. It has been widely used in research to explore various factors associated with breast cancer, including tumor characteristics, survival rates, and predictive models for disease outcomes.

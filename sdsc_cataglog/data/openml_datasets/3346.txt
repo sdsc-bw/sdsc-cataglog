@@ -1,0 +1,3 @@
+name: Ottawa-Real-Estate-Data
+dataset_id: 43417.0
+description: The dataset Ottawa-Real-Estate-Data provides comprehensive information on real estate properties in Ottawa, Canada. It contains detailed attributes such as the property type, location, price, number of bedrooms and bathrooms, square footage, and more. It covers a wide range of property types including residential, commercial, and land. The dataset is regularly updated and includes data from various sources to ensure accuracy and reliability. With this dataset, real estate professionals, analysts, and researchers can gain valuable insights into the Ottawa real estate market, track trends, and make informed decisions based on the current market conditions.

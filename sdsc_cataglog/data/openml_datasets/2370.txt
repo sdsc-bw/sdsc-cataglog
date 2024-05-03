@@ -1,0 +1,3 @@
+name: atp1d
+dataset_id: 41475.0
+description: The dataset atp1d contains information related to the ATP 1d receptor, which is crucial for nerve signaling in the brain. It includes data about gene expression, protein levels, and signaling pathways associated with the receptor. The dataset was obtained through an extensive study involving various animal models and specific brain regions. The information collected sheds light on the role of the ATP 1d receptor in important brain functions such as memory and learning. This dataset offers valuable insights for researchers studying neurological disorders and seeking to develop targeted therapeutic interventions.

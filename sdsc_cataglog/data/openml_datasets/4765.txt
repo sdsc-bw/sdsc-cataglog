@@ -1,0 +1,3 @@
+name: barley_3
+dataset_id: 45123.0
+description: The dataset barley_3 is based on an experiment conducted using 10 different varieties of barley. The experiment involved growing the barley in four different Minnesota field sites over two years. The data collected includes the yield of barley, measured in bushels per acre, which was recorded for each variety at each site and year. Additional information such as the variety, site, and year of the observation is also provided. This dataset aims to provide valuable insights into the performance and resilience of different barley varieties across different environments, aiding researchers and farmers in making informed decisions.

@@ -1,0 +1,3 @@
+name: barley_5
+dataset_id: 45125.0
+description: The barley_5 dataset contains information about the yield of barley crops from six different varieties across six different sites. It includes measurements of yield, nitrogen content, and the variety and site where each measurement was taken. The dataset has 120 observations with 6 variables. The yield variable represents the yield per plot in grams, while the variety variable indicates the barley variety used. The dataset also includes the site variable, representing the location where the measurements were taken. The nitrogen content variable measures the nitrogen content in parts per thousand. This dataset provides valuable information for studying the yield and characteristics of different barley varieties.

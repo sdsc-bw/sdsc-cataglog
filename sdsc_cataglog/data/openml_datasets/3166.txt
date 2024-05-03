@@ -1,0 +1,3 @@
+name: 30mlday
+dataset_id: 43090.0
+description: The dataset 30mlday provides information about large-scale distributed denial of service (DDoS) attacks that generated over 30 million packets per day. The dataset contains network traffic data captured from different attack scenarios, including different types of DDoS attacks, such as UDP flood, SYN flood, and HTTP flood. It includes details about the source and destination IP addresses, source and destination ports, packet length, and time of capture. The dataset aims to aid researchers and network security practitioners in analyzing and developing effective defense mechanisms against DDoS attacks by providing valuable insights into attack characteristics, patterns, and trends.

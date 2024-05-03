@@ -1,0 +1,3 @@
+name: chscase_adopt
+dataset_id: 905.0
+description: The dataset chscase_adopt focuses on adoption cases handled by the Children's Services Division (CSD). It contains information about the adoptees, their adoptive families, and the adoption process. The dataset includes details such as the adoptee's age, gender, and race, as well as characteristics of the adoptive families, such as their age, marital status, income, and education. It also provides information about the adoption process, such as the type of adoption, the duration of the case, and the reasons for adoption. The dataset aims to facilitate the analysis of adoption trends and outcomes within the CSD.

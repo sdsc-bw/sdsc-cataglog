@@ -1,0 +1,3 @@
+name: Lending-Club-Loan-Data
+dataset_id: 43729.0
+description: The dataset, Lending-Club-Loan-Data, contains information about loans granted by Lending Club, a peer-to-peer lending platform. It consists of 2,260,701 rows and 145 columns, providing details about loan terms, borrower characteristics, loan performance, and employment information. The dataset covers loans given from 2007 to 2015, with loan amounts ranging from $500 to $35,000. The aim of this dataset is to analyze loan default rates, identify patterns in loan repayment behavior, and build models for predicting loan default. It is a valuable resource for researchers and data scientists interested in the dynamics of peer-to-peer lending and loan default modeling.

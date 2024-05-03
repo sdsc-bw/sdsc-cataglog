@@ -1,0 +1,3 @@
+repo_name: pyod
+link: https://github.com/yzhao062/pyod
+description: 

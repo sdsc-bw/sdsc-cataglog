@@ -1,0 +1,3 @@
+name: insurance_0
+dataset_id: 45142.0
+description: The dataset insurance_0 consists of information related to insurance policy holders and their claims. The dataset contains 10 variables that include details about the age, sex, and BMI of the individuals. It also includes information about the number of children they have, their smoking habits, and the region they reside in. Additionally, the dataset provides details about the charges incurred by policy holders. There are 1,338 data points in this dataset, with no missing values. The dataset appears to provide valuable information for analyzing insurance trends and exploring relationships between variables such as age, BMI, and charges.

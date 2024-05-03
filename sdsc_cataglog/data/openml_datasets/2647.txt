@@ -1,0 +1,3 @@
+name: Sick_numeric
+dataset_id: 41946.0
+description: The Sick_numeric dataset contains information about sick patients presented to the emergency department. It consists of 10299 instances, each having 31 attributes. These attributes include demographic information such as age and gender, symptom and blood test results, as well as the final diagnosis. The dataset is primarily numeric, with some missing values identified with -999. It was collected over a period of several years and includes patients from different locations and conditions. The dataset provides an opportunity for analysis and prediction of patient conditions based on the provided attributes, aiming to improve emergency care and decision-making processes.

@@ -1,0 +1,3 @@
+name: FOREX_eurpln-minute-Close
+dataset_id: 41743.0
+description: The dataset FOREX_eurpln-minute-Close represents the euro to Polish zloty currency exchange rates taken at minute intervals. This dataset contains information on the closing rates of the euro in relation to the Polish zloty over a given period. The data is collected at minute intervals, allowing for detailed analysis of short-term fluctuations in the exchange rate. Users of this dataset can utilize it for various purposes, such as studying the volatility of the exchange rate or developing trading strategies. The dataset provides a comprehensive and accurate representation of the euro to Polish zloty exchange rates at minute intervals, enabling detailed analysis of currency market trends.

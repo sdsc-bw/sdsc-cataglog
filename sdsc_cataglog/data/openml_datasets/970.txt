@@ -1,0 +1,3 @@
+name: qualitative-bankruptcy
+dataset_id: 1495.0
+description: The qualitative-bankruptcy dataset contains information about various financial and non-financial attributes of bankrupt and non-bankrupt companies. The dataset consists of 250 observations and 6 attributes, including net profit to total assets, retained earnings to total assets, equity to total assets, constant capital to total assets, and net profit to sales ratio. The aim of the dataset is to classify companies into bankrupt or non-bankrupt classes based on these attributes. The dataset provides valuable information for researchers and analysts seeking to understand the factors that contribute to bankruptcy and develop models for predicting bankruptcy based on financial indicators.

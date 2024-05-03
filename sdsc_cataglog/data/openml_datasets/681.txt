@@ -1,0 +1,3 @@
+name: water-treatment
+dataset_id: 940.0
+description: The water-treatment dataset is a collection of data related to various water treatment plants. It consists of 527 observations and 38 variables, encompassing information such as pH levels, turbidity, conductivity, and organic carbon content. The dataset contains both numerical and categorical variables, making it suitable for a wide range of analysis and modeling applications. The target variable in this dataset is the class of the water treatment plant, which can be either normal or anomalous. With its comprehensive information and adequate size, the water-treatment dataset serves as a valuable resource for researching and developing effective water treatment technologies.

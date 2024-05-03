@@ -1,0 +1,3 @@
+name: flags
+dataset_id: 1012.0
+description: The dataset flags provide information about various attributes of a dataset, such as the data type, presence of missing values, and data quality. Each flag represents a specific condition or characteristic of the dataset, helping users to understand and interpret the data accurately. These flags can indicate the presence of errors or outliers in the dataset, allowing users to clean or preprocess the data accordingly. Additionally, the flags can be used to filter or exclude certain data points based on specific criteria. Overall, the dataset flags serve as valuable indicators for assessing the reliability and usability of the dataset.

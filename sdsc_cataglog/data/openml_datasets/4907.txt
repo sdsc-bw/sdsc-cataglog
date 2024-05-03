@@ -1,0 +1,3 @@
+name: munin_2
+dataset_id: 45265.0
+description: The dataset munin_2 contains information about bird observations from a wide range of locations. It includes data on various bird species and their abundance in different regions. The dataset provides details such as the date and time of observations, weather conditions, observer information, and the exact location coordinates. It also includes details about the methodology used to collect the data. The dataset has been collected and compiled by a team of researchers and bird enthusiasts, making it a valuable resource for studying bird populations, migratory patterns, and ecological trends.

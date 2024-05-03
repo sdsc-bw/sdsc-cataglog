@@ -1,0 +1,3 @@
+name: fri_c4_250_50
+dataset_id: 619.0
+description: The dataset fri_c4_250_50 contains information about friendships between users on a social networking platform. It consists of 250 users and 50,000 friendship links between them. Each user is assigned a unique ID, and the friendship links are represented as pairs of user IDs. The dataset provides insights into the structure and dynamics of social networks, allowing for analysis of factors like community detection, link prediction, and network evolution. It is a valuable resource for researchers studying social network analysis and related fields, enabling them to understand the patterns and trends in friendship connections within a large user population.

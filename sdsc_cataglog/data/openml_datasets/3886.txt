@@ -1,0 +1,3 @@
+name: Ailerons
+dataset_id: 44012.0
+description: The dataset Ailerons contains data related to the aileron system of an aircraft used for roll control. It consists of 40,000 samples and 40 attributes, with each attribute representing a recorded measurement. The dataset aims to predict the roll angle of the aircraft's wingtips based on these attributes. The attributes include various parameters such as angular velocities, accelerations, roll rates, and control inputs. The data was collected during a flight simulation test, ensuring a realistic representation of the aircraft's behavior. This dataset serves as a valuable resource for studying and developing algorithms for aircraft control systems and flight simulations.

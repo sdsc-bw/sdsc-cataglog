@@ -1,0 +1,3 @@
+name: colleges_usnews
+dataset_id: 930.0
+description: The dataset colleges_usnews contains information on colleges in the United States provided by US News & World Report. It includes variables such as college name, ranking, tuition fees, acceptance rate, SAT scores, financial aid availability, and location. The dataset consists of 777 observations and 27 variables. It contains both public and private colleges from various states. The ranking variable allows for comparison among colleges based on their overall performance. The dataset is an extensive and reliable resource for research and analysis on higher education institutions in the United States, providing valuable insights into various aspects of these colleges.

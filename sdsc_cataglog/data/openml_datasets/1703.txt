@@ -1,0 +1,3 @@
+name: QSAR-TID-10014
+dataset_id: 3686.0
+description: The dataset QSAR-TID-10014 contains information about various chemical compounds and their biological activities. It includes 783 observations and 335 variables. The objective of the dataset is to predict the aquatic toxicity (LC50) of these compounds. The compounds were divided into training and test sets, with the former containing 667 instances and the latter with 116 instances. The dataset is provided in a .csv format and can be used to develop predictive models for aquatic toxicity. The variables in the dataset represent various molecular descriptors that may affect the toxicity of the compounds.

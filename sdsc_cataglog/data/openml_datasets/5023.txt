@@ -1,0 +1,3 @@
+name: Pulsar-Dataset-HTRU2
+dataset_id: 45558.0
+description: The Pulsar-Dataset-HTRU2 is a dataset that contains information about pulsar candidates detected by the High Time Resolution Universe survey. It consists of 16,259 instances with eight attributes, including statistical features extracted from pulsar candidates. The dataset aims to facilitate the task of identifying pulsars by providing labeled data for classification and data mining purposes. It is commonly used in machine learning research and has been analyzed extensively. The dataset is freely available for download and usage, offering valuable insights into the study of pulsars and the development of new classification techniques in astronomy.

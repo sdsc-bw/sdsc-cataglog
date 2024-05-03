@@ -1,0 +1,3 @@
+name: Meta_Album_PLT_VIL_Micro
+dataset_id: 44242.0
+description: The dataset Meta_Album_PLT_VIL_Micro contains information on various aspects of albums, such as genres, sales, and ratings. It includes data from different platforms, including physical, digital, and streaming. The dataset is useful for analyzing album trends, understanding consumer preferences, and evaluating the success of different albums. It also includes information on individual tracks within each album, such as track lengths and popularity. The dataset provides a comprehensive overview of album performance and can be utilized by researchers, music industry professionals, and enthusiasts to gain insights into the dynamics of the album market.

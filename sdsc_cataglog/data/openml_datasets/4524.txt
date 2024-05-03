@@ -1,0 +1,3 @@
+name: connect-4_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44703.0
+description: The dataset "connect-4_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns, with 10 classes in total. It is stratified, meaning the class distribution is preserved. This dataset is related to the game Connect-4, where players place discs on a grid with the goal of connecting four of their own colored discs in a row. The dataset likely contains information about the placement of discs, their colors, and the outcome of the game. It can be used for various data analysis, machine learning, and predictive modeling tasks related to the Connect-4 game.

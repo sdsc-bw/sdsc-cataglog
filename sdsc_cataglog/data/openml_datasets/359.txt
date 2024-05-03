@@ -1,0 +1,3 @@
+name: fri_c3_1000_10
+dataset_id: 608.0
+description: The dataset "fri_c3_1000_10" contains information about 1000 samples with 10 features. These features represent various characteristics relevant to the dataset's domain. The dataset was generated for classification purposes, making it suitable for training and evaluating classification algorithms. Each sample is assigned a binary class label, indicating its category. The dataset represents a moderate challenge for classification tasks, as it contains both simple and complex patterns. It can be used in research settings to investigate classification algorithms' performance or for educational purposes to understand different classification techniques and their limitations.

@@ -1,0 +1,3 @@
+repo_name: auto-sklearn
+link: https://github.com/automl/auto-sklearn
+description: **auto-sklearn** is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator. Find the documentation **here**. Quick links: ## auto-sklearn in one image, ## auto-sklearn in four lines of code, ## Relevant publications. If you use auto-sklearn in scientific publications, we would appreciate citations.

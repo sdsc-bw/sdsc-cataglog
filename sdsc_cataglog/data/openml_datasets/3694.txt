@@ -1,0 +1,3 @@
+name: International-football-results
+dataset_id: 43771.0
+description: The International-football-results dataset consists of records of international football matches played since 1872. It contains information on the teams that participated, the scores, and details like the tournament name, city, and country where the match was held. The dataset also includes the referee's name and the status of the match, such as friendly or competitive. The records cover matches from around the world, representing different countries and teams. This dataset provides valuable historical data for analyzing international football matches, team performances, and trends in the sport over a long period of time.

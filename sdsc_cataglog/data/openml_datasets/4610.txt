@@ -1,0 +1,3 @@
+name: KDDCup09-Upselling_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44788.0
+description: The dataset KDDCup09-Upselling_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset for a machine learning competition. It contains 2000 rows of data and 100 columns. The data is divided into 10 different classes, and the dataset is stratified, meaning the distribution of classes is balanced. The dataset is likely used for the task of upselling, which involves persuading customers to purchase higher-end or additional products. The dataset is intended to be used as a training set for machine learning algorithms to develop models that can predict which customers are more likely to respond to upselling strategies.

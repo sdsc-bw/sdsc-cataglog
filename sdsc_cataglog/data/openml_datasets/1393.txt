@@ -1,0 +1,3 @@
+name: QSAR-TID-10502
+dataset_id: 3372.0
+description: The dataset QSAR-TID-10502 consists of 340 compounds, each described by 10 molecular descriptors. The compounds belong to two classes: active and inactive, with 147 and 193 compounds respectively. The goal is to develop a model to predict the activity of a compound based on its molecular descriptors. The dataset was obtained from the public repository "The Cancer Imaging Archive" and is useful for evaluating prediction models. It is important to note that the dataset contains missing values, which need to be handled appropriately during analysis. Due to the imbalance in the number of compounds between the active and inactive classes, appropriate sampling techniques may be required.

@@ -1,0 +1,3 @@
+name: QSAR-TID-12114
+dataset_id: 3880.0
+description: The dataset QSAR-TID-12114 contains information regarding the toxicity of molecules on rats. It consists of 7,120 molecules and a total of 372 molecular descriptors. These descriptors provide information about the chemical and structural characteristics of the molecules. The toxicity values of the molecules are classified into three categories: highly toxic, moderately toxic, and non-toxic. The dataset aims to enable the development of predictive models that can determine the toxicity of unknown molecules. This dataset is useful in the field of drug discovery, as it aids in identifying potentially toxic compounds early in the development process.

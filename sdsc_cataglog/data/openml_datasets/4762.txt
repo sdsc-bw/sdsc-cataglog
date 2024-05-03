@@ -1,0 +1,3 @@
+name: barley_0
+dataset_id: 45120.0
+description: The dataset barley_0 contains information about the yield of barley across different types of soil and treatments. It consists of 120 observations and 6 variables, including yield, variety, site, year, and soil type. Each observation corresponds to an individual plot of barley, which was subjected to various treatments. The dataset also includes details about the spatial arrangement of the plots within the field. This dataset can be used to analyze the yield patterns of barley under different conditions and to study the effects of different treatments on crop productivity.

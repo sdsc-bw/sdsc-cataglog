@@ -1,0 +1,3 @@
+name: Texas-Winter-Storm-2021-Tweets
+dataset_id: 43680.0
+description: The Texas-Winter-Storm-2021-Tweets dataset contains Twitter data related to the winter storm that hit Texas in 2021. The dataset consists of tweets collected during the storm and covers a wide geographical area. It includes both original tweets and retweets, providing a comprehensive view of public sentiment and discussions during the crisis. The dataset contains a significant number of tweets, facilitating in-depth analysis of the impact of the storm at a social media level. It can be utilized to understand the public's response, identify key themes, and gather insights about the event and its consequences.

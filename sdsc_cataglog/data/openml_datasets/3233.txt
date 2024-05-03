@@ -1,0 +1,3 @@
+name: Graph_Inference_Dataset
+dataset_id: 43294.0
+description: The dataset Graph_Inference_Dataset is focused on graph inference tasks. It includes a collection of directed acyclic graphs, along with associated labels indicating whether a given graph follows a specific pattern or property. The graphs contain nodes and edges, where nodes represent entities and edges represent relationships between entities. The labels in the dataset are binary, indicating the presence or absence of a particular property in a graph. This dataset can be used for developing and evaluating machine learning models that aim to infer properties or patterns in directed acyclic graphs.

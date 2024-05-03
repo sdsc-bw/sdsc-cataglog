@@ -1,0 +1,3 @@
+name: Moneyball
+dataset_id: 41021.0
+description: Moneyball is a dataset that was used by the Oakland Athletics baseball team to revolutionize the player selection and team-building strategies. Focusing on undervalued players based on statistical analysis rather than traditional scouting, the Athletics were able to compete with larger budget teams. The dataset consisted of player statistics and performance indicators over many seasons, enabling the team to identify undervalued players who were likely to outperform expectations. This approach challenged conventional wisdom and attracted attention from other teams and industries. Moneyball's success showcased the power of data-driven decision-making in sports and inspired a new era of analytics in various fields.

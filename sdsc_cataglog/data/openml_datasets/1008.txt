@@ -1,0 +1,3 @@
+name: volcanoes-b6
+dataset_id: 1536.0
+description: The dataset volcanoes-b6 contains information about volcanic eruptions that have occurred from various volcanoes around the world. It includes details such as the year of eruption, the name of the volcano, latitude and longitude coordinates of the volcano, elevation, and eruption type. The dataset also provides information on the volcano's current status and the last known activity. Additionally, it includes details on the volcanic hazards posed by each volcano and the potential impact zones. The dataset aims to provide comprehensive information about volcanoes to aid in research, risk assessment, and emergency preparedness.

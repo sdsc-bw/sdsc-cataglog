@@ -1,0 +1,3 @@
+name: fri_c2_500_50
+dataset_id: 920.0
+description: The dataset fri_c2_500_50 contains information about a simulation of a social network. The network consists of 500 actors who interact with each other based on a set of predefined rules. Each actor has a unique identifier, and connections are formed between actors based on their preferences. The dataset contains 50 attributes for each actor, including their age, gender, and interests. The dataset also includes information on the connections between actors, such as the strength of the connection and the number of interactions. Researchers can use this dataset to study social network dynamics, behavior patterns, and the impact of different factors on social interactions.

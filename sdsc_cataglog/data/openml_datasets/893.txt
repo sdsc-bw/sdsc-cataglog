@@ -1,0 +1,3 @@
+name: pc1_req
+dataset_id: 1167.0
+description: The pc1_req dataset contains information related to the activities of the PC1 protein. It consists of 100 rows and 10 columns. Each row represents a specific activity, while the columns provide details such as the time of the activity, the location, and the duration. The dataset also includes additional information like the type of experiment conducted and the concentration of certain compounds. The dataset's purpose is to explore the relationship between different variables and identify any patterns or trends in PC1 protein activity.

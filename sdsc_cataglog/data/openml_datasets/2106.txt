@@ -1,0 +1,3 @@
+name: QSAR-TID-100914
+dataset_id: 4092.0
+description: The dataset QSAR-TID-100914 consists of 410 instances with 102 features, including molecular descriptors and experimental activities against a specific inhibitory activity. The dataset contains various types of molecules, including organic and inorganic compounds. The target inhibitory activity is measured using TID (Tetrahymena Pyriformis Cellular Growth Inhibition). The activity values range from 0.0 to 5.0, with a majority of values falling within 1.0 to 3.0. The dataset aims to predict the inhibitory activity of different molecules based on their molecular descriptors. It can be used for QSAR modeling and machine learning algorithms development for predicting the inhibitory activity of new compounds.

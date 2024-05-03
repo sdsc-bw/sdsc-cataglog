@@ -1,0 +1,3 @@
+name: hepar2_6
+dataset_id: 45192.0
+description: The dataset hepar2_6 contains information about the structure of a carbohydrate (heparan sulfate) obtained from the liver. It has 6 instances, representing six different observables of the carbohydrate. The dataset includes properties such as the number of sulfate groups, N-acetyl groups, and the molecular weight of each instance. These observables are important in understanding the structure-function relationship of heparan sulfate. The dataset is likely to be used in analyzing and predicting the properties of other heparin-like compounds. A more detailed analysis of the dataset can provide insights into the characteristics and variations of heparan sulfate.

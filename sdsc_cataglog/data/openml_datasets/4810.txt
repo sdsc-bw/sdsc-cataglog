@@ -1,0 +1,3 @@
+name: water_4
+dataset_id: 45168.0
+description: The dataset water_4 provides information on water usage and quality in various regions. It includes data on water sources, such as rivers and lakes, and their characteristics, such as flow rate and temperature. The dataset also covers water quality indicators, such as levels of dissolved oxygen, pH, and turbidity. Additionally, it includes data on the presence of contaminants, such as heavy metals and bacteria. The dataset spans multiple years and regions, allowing for analysis of trends and comparisons between areas. Overall, water_4 provides a comprehensive overview of water resources and quality, making it valuable for research and decision-making in water management.

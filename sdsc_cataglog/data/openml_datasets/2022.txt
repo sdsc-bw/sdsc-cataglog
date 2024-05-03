@@ -1,0 +1,3 @@
+name: QSAR-TID-101058
+dataset_id: 4008.0
+description: The QSAR-TID-101058 dataset consists of molecular descriptors and biological activities of 399 chemicals, where the activities represent their inhibitory effects on a target protein. The dataset provides information about 912 molecular descriptors, including constitutional, topological, and geometric descriptors. Each chemical compound is labeled with its corresponding inhibitory activity value, ranging from 0.66 to 8.86. The dataset is publicly available and has been used for the development and evaluation of quantitative structure-activity relationship (QSAR) models. It serves as a valuable resource for studying the relationship between the chemical structure and the biological activity of compounds.

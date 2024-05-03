@@ -1,0 +1,3 @@
+name: COMET_MC
+dataset_id: 5587.0
+description: The dataset COMET_MC is a large-scale biomedical text corpus containing over 267,000 abstracts from PubMed. It covers a wide range of biomedical topics, including genetics, molecular biology, biochemistry, and more. The dataset was created by collecting abstracts from the PubMed database using a comprehensive set of search terms. It provides valuable information for researchers and practitioners working in the field of biomedicine, aiding in tasks such as information retrieval, knowledge extraction, and text mining. The dataset is publicly available and can be accessed for free, allowing for further analysis and exploration in the biomedical domain.

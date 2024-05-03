@@ -1,0 +1,3 @@
+name: Ovarian
+dataset_id: 45098.0
+description: The Ovarian dataset is a comprehensive data collection of gene expression profiles from human ovarian cancer patients. It consists of 253 samples, including both tumor tissue and normal tissue samples. The dataset provides information on the expression levels of over 15,000 genes in each sample. Additionally, clinical data such as patient age, tumor stage, and survival status are available. The dataset has been widely used in various studies related to ovarian cancer, including biomarker discovery, disease prognosis, and therapeutic target identification. It serves as a valuable resource for researchers aiming to gain further insights into the molecular mechanisms underlying ovarian cancer.

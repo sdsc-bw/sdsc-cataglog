@@ -1,0 +1,3 @@
+name: Chess-Position--Chess-Moves
+dataset_id: 43432.0
+description: The dataset "Chess-Position--Chess-Moves" consists of a collection of chess positions and their respective moves. It contains a total of 20,000 samples, each representing a unique position on a chessboard. The positions are accompanied by the corresponding move made in that specific scenario. The dataset serves as a valuable resource for training and testing chess-related machine learning algorithms, as well as analyzing different move patterns and strategies. With 12 possible piece types and 64 squares on the board, the dataset captures the diverse combinations and outcomes encountered in chess games, allowing for comprehensive analysis and development of intelligent chess-playing systems.

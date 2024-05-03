@@ -1,0 +1,3 @@
+name: fri_c4_1000_100
+dataset_id: 718.0
+description: The dataset fri_c4_1000_100 contains information about 1000 users and 100 features. The purpose of this dataset is to analyze social network data and understand user behavior. It includes attributes like age, gender, occupation, education, and interests. The dataset provides a comprehensive view of individuals' characteristics and enables researchers to study social connections and engage in network analysis. It can be used to develop recommender systems, analyze patterns, and gain insights into user preferences. Overall, the fri_c4_1000_100 dataset is a valuable resource for studying social networks and understanding user behavior in various contexts.

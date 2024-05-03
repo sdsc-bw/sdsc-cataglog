@@ -1,0 +1,3 @@
+name: TuningSVMs
+dataset_id: 41976.0
+description: The dataset TuningSVMs contains a range of SVM (Support Vector Machine) models with different hyperparameters that have been trained on the Asteroid dataset. The aim is to determine the best combination of hyperparameters for SVM model performance. The dataset provides information on the hyperparameters used, such as the type of SVM kernel, cost value, and gamma value. It also includes various performance metrics, such as accuracy, F1 score, and confusion matrix, to evaluate the effectiveness of each model. TuningSVMs can be utilized to analyze the impact of hyperparameters on SVM model performance and guide the selection of optimal hyperparameter settings.

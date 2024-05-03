@@ -1,0 +1,3 @@
+name: fri_c4_500_10
+dataset_id: 604.0
+description: The dataset fri_c4_500_10 consists of 500 binary classification tasks, each containing 10 features. It is part of the FriC4 benchmark, which is designed to evaluate the performance of machine learning algorithms on cascading binary classification tasks. The dataset is structured in a way that tasks are connected in a hierarchical manner, forming a cascade. Each task contains 2 classes that are binary labeled. The dataset is useful for studying the impact of concept drift, as the distributions of features and classes change over time. It serves as a benchmark for developing and evaluating concept drift detection and adaptation algorithms.

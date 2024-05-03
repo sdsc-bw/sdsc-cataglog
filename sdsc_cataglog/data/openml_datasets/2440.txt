@@ -1,0 +1,3 @@
+name: MIP-2016-classification
+dataset_id: 41703.0
+description: The dataset MIP-2016-classification consists of cell images taken from the Medical Image Perception Society (MIPS) 2016 challenge. It aims to classify these cell images into six different categories: calcifications, cancers, cysts, distortions, normal, and other findings. The dataset consists of 1310 images, with each image having a corresponding annotation file that provides the ground truth label. The dataset was created to assist in the development and evaluation of computer-aided detection (CAD) algorithms for breast cancer detection. It is freely available for research purposes and can help in advancing the field of medical image analysis and classification.

@@ -1,0 +1,3 @@
+name: Myanmar-Air-Quality(2019-to-2020-Oct)
+dataset_id: 43748.0
+description: The dataset "Myanmar-Air-Quality (2019-to-2020-Oct)" provides information on air quality in Myanmar from 2019 to October 2020. It includes various parameters such as PM2.5, PM10, CO, SO2, NO2, and O3. The data is collected from multiple monitoring stations across different cities in Myanmar. The dataset allows the exploration of patterns, trends, and changes in air quality over time. It can be beneficial for researchers, policymakers, and environmentalists to analyze the state of air pollution in Myanmar and develop strategies for better air quality management and public health improvement.

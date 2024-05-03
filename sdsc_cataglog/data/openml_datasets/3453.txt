@@ -1,0 +1,3 @@
+name: Chess-Games-of-Woman-Grandmasters-(2009---2021)
+dataset_id: 43529.0
+description: The dataset "Chess-Games-of-Woman-Grandmasters- (2009---2021)" contains information on chess games played by woman grandmasters from 2009 to 2021. It includes various attributes such as the player's name, their rating, the date and location of the game, the opponent's name and rating, the outcome of the game, and the moves played. The dataset aims to provide a comprehensive record of games played by top female chess players over several years, which can be used for analysis, research, and studying the strategies and trends in women's chess.

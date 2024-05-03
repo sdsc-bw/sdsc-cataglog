@@ -1,0 +1,3 @@
+name: QSAR-TID-10209
+dataset_id: 3414.0
+description: The dataset QSAR-TID-10209 contains 1055 compounds with molecular structures and their corresponding experimental activities. It was generated for the purpose of developing models to predict the biological activities of new drug-like compounds. The dataset includes features like molecular descriptors and biophysical properties, which have been normalized and encoded. The activities are represented by the IC50 values, which measure the concentration required to inhibit 50% of the targeted protein. Overall, the dataset provides a valuable resource for researchers in drug discovery and computational chemistry to develop accurate predictive models for bioactivity screening.

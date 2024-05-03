@@ -1,0 +1,3 @@
+name: QSAR-TID-100836
+dataset_id: 3144.0
+description: The dataset QSAR-TID-100836 contains information about the toxic effects of various compounds on a rat's liver. It includes 100 samples with 7 input variables and one output variable. The input variables represent molecular descriptors like logP, TPSA, and MR. The output variable represents the liver-toxicity activity. The dataset is used for the purpose of developing predictive models to determine the toxicity of a compound based on its molecular properties. The data can be employed in machine learning algorithms to analyze and predict potential toxic impacts of new chemical compounds, aiding in the identification and development of safer substances.

@@ -1,0 +1,3 @@
+name: qsabr2
+dataset_id: 440.0
+description: The dataset qsabr2 contains information related to the physical, climatic, and human characteristics of selected countries. It includes data on population, GDP, agricultural production, and energy consumption, among others. The dataset covers several years from 1961 to 2019 and provides quantitative measurements for each variable. This dataset is useful for conducting research, analyzing patterns, and studying trends in different countries over time. It allows users to gain insights into the socio-economic development and environmental attributes of various regions.

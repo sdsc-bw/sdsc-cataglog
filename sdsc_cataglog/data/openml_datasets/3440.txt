@@ -1,0 +1,3 @@
+name: Amazon-Stock-Price-1997-to-2020
+dataset_id: 43516.0
+description: The dataset named Amazon-Stock-Price-1997-to-2020 consists of information on the stock prices of Amazon from 1997 to 2020. It includes various attributes such as the date and time of the stock price, the opening and closing prices, the highest and lowest prices reached during the trading day, and the volume of traded stocks. The dataset is comprehensive, covering a wide range of historical data on Amazon's stock performance. It can be useful for analyzing trends, conducting statistical analysis, and developing machine learning models related to stock market predictions and forecasting.

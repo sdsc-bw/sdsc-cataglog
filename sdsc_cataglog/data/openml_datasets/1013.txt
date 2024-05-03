@@ -1,0 +1,3 @@
+name: volcanoes-d4
+dataset_id: 1541.0
+description: The dataset "volcanoes-d4" contains information about volcanic eruptions around the world. It includes data on the location, elevation, and size of the volcanoes, as well as the type of activity they exhibit. The dataset also provides information on historical eruptions, including the date, duration, and magnitude. It covers a wide range of volcanoes, including active, dormant, and extinct ones. The dataset aims to provide researchers and scientists with valuable information for studying volcanic activity and developing strategies for predicting future eruptions. This dataset is a valuable resource for understanding the complex nature of volcanoes and their impact on the Earth's environment.

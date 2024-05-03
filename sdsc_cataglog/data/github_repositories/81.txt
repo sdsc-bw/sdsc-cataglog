@@ -1,0 +1,3 @@
+repo_name: vespa
+link: https://github.com/vespa-engine/vespa
+description: This is the primary repository for Vespa where all development is happening. Vespa is a platform used on a number of large internet services and apps which serve hundreds of thousands of queries from Vespa per second. Use cases such as search, recommendation, and personalization need to select a subset of data in a large corpus, evaluate machine-learned models over the selected data, organize and aggregate it, and return it, typically in less than 100 milliseconds, all while the data corpus is continuously changing. Run your own Vespa instance or deploy your Vespa applications to the cloud service. Full documentation is at https://docs.vespa.ai.

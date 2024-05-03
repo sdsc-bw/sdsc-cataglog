@@ -1,0 +1,3 @@
+name: Nebraska-Football-Box-Scores-1962-2020
+dataset_id: 43580.0
+description: The Nebraska-Football-Box-Scores-1962-2020 dataset provides detailed information about every Nebraska football game from 1962 to 2020. It includes essential game attributes such as date, opponent, location, score, and the outcome. The dataset also covers additional statistics like rushing yards, passing yards, turnovers, and penalties. In total, the dataset contains records of over 700 games, making it a comprehensive resource for studying Nebraska football history. This dataset can be utilized in various analyses and research projects to gain insights into team performance, trends, and player statistics over almost six decades of Nebraska football.

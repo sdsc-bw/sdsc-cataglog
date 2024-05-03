@@ -1,0 +1,3 @@
+name: sleuth_ex1714
+dataset_id: 777.0
+description: The dataset sleuth_ex1714 consists of information about credit card transactions, specifically fraudulent ones, from an online retailer. The dataset contains over 3 million transactions, with various features including the transaction amount, the customer's account balance, and the time of the transaction. The dataset also includes a binary column indicating whether the transaction was fraudulent or not. Overall, the dataset is valuable for studying and developing fraud detection models or algorithms. However, further analysis and preprocessing may be required to ensure data quality and enhance the accuracy of the results.

@@ -1,0 +1,3 @@
+name: realAdExchange2
+dataset_id: 43059.0
+description: The dataset realAdExchange2 contains data related to online advertising exchanges. It includes information such as ad impressions, user demographics, and ad performance metrics. The data is collected from a real ad exchange platform and spans a one-month period. The dataset consists of over 10 million rows and includes features like timestamp, user ID, ad size, and bid price. It is a valuable dataset for studying online advertising, user behavior, and performance analysis. However, due to privacy concerns, the dataset has been anonymized and personally identifiable information has been removed.

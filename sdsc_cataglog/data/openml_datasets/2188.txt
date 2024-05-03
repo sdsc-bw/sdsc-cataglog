@@ -1,0 +1,3 @@
+name: COMET_MC_SAMPLE
+dataset_id: 23396.0
+description: The dataset COMET_MC_SAMPLE is a collection of synthetic data for machine comprehension tasks. It contains 502,163 question-answer pairs that are designed to evaluate models' ability to comprehend and answer questions based on given text passages. The questions in the dataset cover various topics like science, fiction, and news domains. Each question is associated with five candidate answers, with one being correct and the others being distractors. The dataset also includes supporting context passages to provide additional information for answering the questions. COMET_MC_SAMPLE can be a valuable resource for developing and evaluating machine comprehension models.

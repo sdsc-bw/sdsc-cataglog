@@ -1,0 +1,3 @@
+name: wilt_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44491.0
+description: The dataset wilt_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True consists of multiple rows and columns. There are 2000 rows and 100 columns in this dataset. It also has a stratifying feature, which means that the distribution of classes is maintained equally across the dataset. Additionally, there are 10 different classes present in this dataset. Overall, this dataset contains a considerable amount of data and diverse features, making it suitable for various data analysis and machine learning tasks.

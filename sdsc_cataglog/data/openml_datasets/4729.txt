@@ -1,0 +1,3 @@
+name: Breast
+dataset_id: 45085.0
+description: The dataset "Breast" contains information related to breast cancer diagnoses. It consists of various attributes such as age, tumor size, lymph node status, tumor grade, and estrogen receptor status. The dataset aims to provide insights into predicting the presence or absence of breast cancer in patients. It includes 286 instances with 9 inputs and 1 output attribute, which serves as the class label. The dataset also incorporates missing values that have been replaced with question marks. Overall, the Breast dataset serves as a valuable resource for analyzing breast cancer patterns and developing prediction models for early detection and treatment.

@@ -1,0 +1,3 @@
+repo_name: imagetagger
+link: https://github.com/bit-bots/imagetagger
+description: ImageTagger is a collaborative online tool for labeling image data. This tool can be installed and run locally (best for development), in a docker container or in Kubernetes (used in our deployment). In some of the following code snippets, the `DJANGO_CONFIGURATION` environment variable is exported. This defines the type of deployment by selecting one of our predefined configuration presets. If ImageTagger is running in a development environment, no export is necessary. Please refer to the 'Installing and running ImageTagger' section for detailed installation instructions.

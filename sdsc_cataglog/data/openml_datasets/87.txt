@@ -1,0 +1,3 @@
+name: autoHorse
+dataset_id: 202.0
+description: The dataset autoHorse contains information about cars, such as their make, model, and year, as well as various technical specifications, such as the number of cylinders, horsepower, and fuel efficiency. It includes a total of 398 entries. The dataset is commonly used in machine learning and data analysis tasks, as it allows for a wide range of exploratory analyses and predictive modeling. The data is relatively clean, without any missing values or inconsistencies. However, certain aspects, such as the presence of outliers, may require further inspection and preprocessing. Overall, autoHorse provides a comprehensive and reliable source of automotive data for research and analysis purposes in the field.

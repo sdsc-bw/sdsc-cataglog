@@ -1,0 +1,3 @@
+name: QSAR-TID-11054
+dataset_id: 4034.0
+description: QSAR-TID-11054 is a dataset comprising 8,810 compounds with binary classification based on skin penetration potential. The dataset contains various molecular descriptors, such as charge, size, shape, and electrostatic properties, along with their respective values for each molecule. It includes both qualitative and quantitative variables and allows for the prediction of the skin penetration potential of new compounds. The dataset was collected for developing quantitative structure-activity relationship (QSAR) models, which can aid in predicting the skin penetration potential of chemicals for different applications, such as drug discovery and toxicological studies.

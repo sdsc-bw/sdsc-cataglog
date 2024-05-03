@@ -1,0 +1,3 @@
+name: FOREX_usddkk-day-Close
+dataset_id: 41897.0
+description: The dataset named FOREX_usddkk-day-Close contains information regarding the daily closing prices of USD to DKK exchange rates in the foreign exchange market. The dataset comprises several entries, each representing a specific day's closing price. It provides valuable data for analyzing the fluctuations and trends in the USD to DKK exchange rates over time. The dataset enables users to study the strength and volatility of the DKK currency against the USD and to develop strategies for foreign exchange trading. Overall, the FOREX_usddkk-day-Close dataset offers essential insights into the USD to DKK currency pair's historical performance and serves as a valuable resource for financial analysis and forecasting.

@@ -1,0 +1,3 @@
+name: Touch
+dataset_id: 42543.0
+description: The dataset Touch is a large collection of touch interactions recorded from various devices. It contains data from over 120 participants using different types of touch screens. The dataset includes information such as touch pressure, touch area, touch duration, and touch location. It also includes contextual information about the different applications and tasks in which the touch interactions occurred. The dataset aims to provide a comprehensive understanding of how people interact with touch screens and how their touch behaviors vary in different contexts. It can be used for various research purposes in the fields of human-computer interaction, user interface design, and touch interaction analysis.

@@ -1,0 +1,3 @@
+name: mushroom
+dataset_id: 24.0
+description: The mushroom dataset contains information about different attributes of mushrooms, including their class (edible or poisonous). It serves as a tool for classification and pattern recognition algorithms. The dataset consists of 23 features, such as cap shape, cap color, odor, gill size, and stalk surface, among others. With a total of 8,124 examples, each mushroom is accurately described with its corresponding attribute values. This dataset allows researchers to explore various statistical analyses and machine learning techniques to identify patterns and develop models to predict whether a mushroom is edible or poisonous based on its characteristics.

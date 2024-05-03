@@ -1,0 +1,3 @@
+name: Methane
+dataset_id: 42701.0
+description: The dataset "Methane" contains information about methane emissions from various sources. It includes data on methane emissions from agriculture, waste management, fossil fuels, and other anthropogenic activities. The dataset covers a wide range of years and provides insights into the trends and patterns of methane emissions globally. It includes both global and country-level data, allowing for analysis and comparisons across regions. The data highlights the significance of methane as a greenhouse gas and its contribution to climate change. This dataset serves as a valuable resource for researchers, policymakers, and anyone interested in studying and addressing methane emissions and their environmental impacts.

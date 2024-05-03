@@ -1,0 +1,3 @@
+name: frenchopen-men-2013
+dataset_id: 42969.0
+description: The dataset "frenchopen-men-2013" consists of information about the 2013 French Open tournament in men's singles tennis. The dataset contains data related to various aspects of the tournament, including players' performance, match details, and other relevant statistics. This dataset can be utilized to analyze the performance of players, identify trends, and draw conclusions about the tournament. It provides a comprehensive overview of the matches played during the French Open in 2013 and can be a valuable resource for researchers, analysts, and tennis enthusiasts interested in studying and understanding the tournament's outcomes and dynamics.

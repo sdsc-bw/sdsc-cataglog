@@ -1,0 +1,3 @@
+name: ozone-level-8hr_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44550.0
+description: The dataset "ozone-level-8hr_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns. It represents ozone level measurements taken at 8-hour intervals. The dataset is divided into ten classes, and it is stratified, meaning that each class is represented proportionally in the dataset. The dataset seed value is set to 2. However, these sentences do not provide specific details about the values or variables present in the dataset.

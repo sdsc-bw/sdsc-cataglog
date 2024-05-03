@@ -1,0 +1,3 @@
+name: QSAR-TID-10564
+dataset_id: 3791.0
+description: The dataset QSAR-TID-10564 contains information about the biological activity of a set of compounds. It includes 10564 instances with 205 features. The task involves predicting the activity value of these compounds based on their chemical features. The dataset is highly imbalanced, with the majority of instances belonging to one class. The features are provided as numerical values, and there are no missing values in the dataset. QSAR-TID-10564 is a widely used dataset in the field of computational chemistry and can be utilized for developing and evaluating machine learning models for compound activity prediction.

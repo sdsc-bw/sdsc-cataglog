@@ -1,0 +1,3 @@
+name: water-treatment
+dataset_id: 565.0
+description: The water-treatment dataset includes information about the treatment of water sources. It consists of 527 instances and 39 attributes, including a class attribute that represents whether the water treatment is normal or abnormal. The dataset contains missing values, with some attribute having more than 25% missing data. The attributes include various parameters like pH value, conductivity, turbidity, organic carbon, and chlorine dioxide concentration. The goal of the dataset is to predict whether the water treatment is normal or abnormal based on these attributes. The dataset is available on the UCI Machine Learning Repository.

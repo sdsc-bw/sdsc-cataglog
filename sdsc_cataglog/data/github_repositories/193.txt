@@ -1,0 +1,3 @@
+repo_name: enas
+link: https://github.com/melodyguan/enas
+description: ENAS is a tool that allows efficient neural architecture search via parameter sharing, with implementations for tasks such as CIFAR-10 image classification and Penn Tree Bank language modeling. The macro search space and micro search space can both be explored using specific scripts provided by the authors. It is important to note an errata in the language model implementation on the repository, and to use the correct implementation provided elsewhere. Citation of the authors' paper is encouraged if you use their work.

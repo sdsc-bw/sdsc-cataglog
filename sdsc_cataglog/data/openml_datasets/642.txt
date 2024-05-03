@@ -1,0 +1,3 @@
+name: fried
+dataset_id: 901.0
+description: The dataset "fried" contains information on popular fried foods and their nutritional values. It consists of 17 attributes that provide details about each food item, including the type of food, cooking method, and serving size. These attributes cover the nutritional composition of the food item, such as calories, fat, carbohydrates, and protein content. The dataset also includes information on vitamins and minerals in the fried foods. Additionally, it provides data on cholesterol and sodium content, which are crucial factors to consider for individuals with dietary restrictions or health concerns. The "fried" dataset offers comprehensive information for studying the nutritional aspects of fried foods.

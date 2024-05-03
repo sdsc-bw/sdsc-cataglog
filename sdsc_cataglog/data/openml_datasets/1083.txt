@@ -1,0 +1,3 @@
+name: QSAR-TID-101557
+dataset_id: 3059.0
+description: The dataset QSAR-TID-101557 contains information about the toxicity of various chemical compounds. It consists of 1055 instances with 2419 attributes. Each instance represents a specific compound and its toxicity level, measured as LD50, which is the quantity of a substance required to cause death in 50% of the tested population. The attributes represent different molecular features of the compounds, such as atomic properties, connectivity indices, and topological indices. This dataset is valuable for developing quantitative structure-activity relationship (QSAR) models to predict the toxicity of unknown compounds based on their molecular features, aiding in the discovery of safer chemical compounds.

@@ -1,0 +1,3 @@
+name: combined-wine-data
+dataset_id: 43589.0
+description: The dataset "combined-wine-data" is a collection of wine reviews and ratings from various sources. It contains information about different kinds of wines from around the world, with details about their region, variety, winery, and price. The dataset has a total of 280,901 rows and 10 columns, providing a comprehensive perspective on the wine industry. It includes fields such as the title of the review, the taster's name, the description of the wine, and a numerical rating. This dataset can be valuable for analyzing trends in the wine market and exploring the preferences of different reviewers.

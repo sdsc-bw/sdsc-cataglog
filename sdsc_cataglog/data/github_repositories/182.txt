@@ -1,0 +1,3 @@
+repo_name: rmarkdown
+link: https://github.com/rstudio/rmarkdown
+description: The **rmarkdown** package helps you create dynamic analysis documents that combine code, rendered output (such as figures), and prose. You bring your data, code, and ideas, and R Markdown renders your content into a polished document that can be used to do data science interactively within the RStudio IDE, reproduce your analyses, collaborate and share code with others, and communicate your results. R Markdown documents can be rendered to many output formats including HTML documents, PDFs, Word files, slideshows, and more, allowing you to focus on the content while R Markdown takes care of your presentation. See more about them in Get Started.

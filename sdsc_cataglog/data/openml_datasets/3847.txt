@@ -1,0 +1,3 @@
+name: bank-marketing
+dataset_id: 43972.0
+description: The bank-marketing dataset provides information about a telemarketing campaign conducted by a bank. The dataset consists of 41,188 instances and 20 attributes, including customer information like age, job, marital status, and education level. The campaign's objective was to make a term deposit sale to clients who were contacted via telephone. The dataset also includes information on the outcomes of the campaign, such as whether a client subscribed to a term deposit or not. This dataset is commonly used in machine learning studies to predict whether future clients will subscribe to a term deposit based on their demographics and other characteristics.

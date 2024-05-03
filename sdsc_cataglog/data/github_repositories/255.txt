@@ -1,0 +1,3 @@
+repo_name: catalyst
+link: https://github.com/catalyst-team/catalyst
+description: 'Catalyst helps you implement compact but full-featured Deep Learning pipelines.with just a few lines of code. You get a training loop with metrics, early-.stopping, model checkpointing, and other features without the boilerplate.'

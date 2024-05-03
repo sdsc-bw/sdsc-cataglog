@@ -1,0 +1,3 @@
+name: boston
+dataset_id: 853.0
+description: The dataset "boston" is related to housing prices in Boston. It contains 506 rows and 13 columns, providing a total of 6,538 data points. The columns include various features such as crime rate, proportion of residential land, nitric oxide concentration, and age of houses, among others. The target variable in this dataset is the median value of owner-occupied homes. The data is useful for regression analysis, where the goal is to predict the median value of homes based on the provided features. The dataset has been widely used for testing, training, and experimenting with machine learning algorithms and regression models.

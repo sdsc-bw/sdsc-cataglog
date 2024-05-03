@@ -1,0 +1,3 @@
+name: bridges
+dataset_id: 1007.0
+description: The dataset "bridges" contains information about various bridges in the United States. It includes attributes such as the state in which the bridge is located, its identification number, location description, and design details. There are columns that provide data on bridge length, width, type, and condition. Additional information includes the year built, the material used, and the waterway being crossed. This comprehensive dataset can be used to study the characteristics, conditions, and maintenance needs of bridges in the United States, aiding in infrastructure planning and decision-making processes.

@@ -1,0 +1,3 @@
+name: Best-Books-of-the-19th-Century
+dataset_id: 43791.0
+description: The dataset "Best-Books-of-the-19th-Century" contains information about a selection of the best books published in the 19th century. It includes details such as the book's title, author, publication year, and a brief summary of the book's plot. The dataset aims to provide a comprehensive overview of some of the most highly-regarded literary works of the 19th century. This dataset can be beneficial for researchers, literature enthusiasts, and historians interested in analyzing and understanding the literary landscape of the 19th century. The dataset enables exploration, comparison, and evaluation of literary works from this era, contributing to a deeper understanding of 19th-century literature.

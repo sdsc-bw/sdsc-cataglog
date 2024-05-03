@@ -1,0 +1,3 @@
+name: FOREX_chfjpy-day-High
+dataset_id: 41848.0
+description: The dataset FOREX_chfjpy-day-High provides information about the highest daily trading value of the currency pair CHF/JPY in the foreign exchange market. It contains data points representing different time periods, such as days, and records the highest value reached during those periods. The dataset likely includes various attributes related to the currency pair, such as date, time, and potentially other relevant market data. It allows users to analyze the historical performance and volatility of CHF/JPY, identify trends, and make informed trading decisions based on the highest daily values observed.

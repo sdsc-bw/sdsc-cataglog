@@ -1,0 +1,3 @@
+name: analcatdata_draft
+dataset_id: 984.0
+description: Analcatdata_draft is a dataset that consists of 1000 observations and 40 variables. The dataset is an anonymous collection of real data from various sources, containing both categorical and continuous variables. It is an example dataset for analyzing and testing different statistical methods and machine learning algorithms. The variables cover a wide range of topics such as demographics, behavior, socio-economic factors, and more. The dataset is valuable for researchers and statisticians who are interested in exploring and developing new methods or examining existing ones. However, further details regarding the sources and nature of the data are not provided in the given information.

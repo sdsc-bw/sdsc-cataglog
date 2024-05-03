@@ -1,0 +1,3 @@
+name: QSAR-TID-30034
+dataset_id: 3845.0
+description: The dataset QSAR-TID-30034 contains 3,034 data points with 153 molecular descriptors, which were computed for the purpose of quantitative structure-activity relationship (QSAR) modeling. The descriptors represent various molecular properties such as topological indices, atomic and electronic properties, and molecular connectivity. The dataset includes the pIC50 values, which indicate the inhibitory activity against thrombin, a blood-clotting enzyme, as the target variable. The dataset is provided in a comma-separated values (CSV) format and can be used to develop QSAR models for predicting the inhibitory activity of compounds against thrombin, aiding in the discovery of potential anticoagulant drugs.

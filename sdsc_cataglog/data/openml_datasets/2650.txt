@@ -1,0 +1,3 @@
+name: TaskCreationTestDataset
+dataset_id: 41952.0
+description: The TaskCreationTestDataset is a dataset that consists of various tasks performed by individuals. It includes information such as the task description, the user who initiated the task, the timestamp of task creation, the task organization, and the task priority. The dataset aims to provide a diverse set of tasks for testing and evaluating task creation algorithms. It contains a large number of tasks with different characteristics, allowing researchers to analyze patterns and trends. The dataset is valuable for developing and validating algorithms related to task creation and organization.

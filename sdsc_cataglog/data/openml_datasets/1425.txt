@@ -1,0 +1,3 @@
+name: QSAR-TID-101053
+dataset_id: 3405.0
+description: The QSAR-TID-101053 dataset is commonly used in quantitative structure-activity relationship (QSAR) studies. It contains information on 1053 compounds, with each compound characterized by 419 attributes or features. The dataset is well-suited for prediction tasks such as toxicity analysis or drug discovery, as it includes measurements of biological activities for each compound. The dataset is publicly available and has been widely utilized in various machine learning and cheminformatics studies. Its high-dimensional nature makes it a valuable resource for exploring feature selection algorithms and developing predictive models in the field of QSAR.

@@ -1,0 +1,3 @@
+name: QSAR-TID-101045
+dataset_id: 3382.0
+description: The QSAR-TID-101045 dataset is composed of 4,001 compounds with 935 molecular descriptors. It was created to be used for predicting the toxicity of chemical compounds. Each compound in the dataset is labeled either as being "active" or "inactive" for a specific target property. The features of the compounds were derived from SMILES notations, Chiron molecular descriptors, and Morgan fingerprints. The dataset also features additional information such as compound names, source, and biological activity. It provides a valuable resource for researchers and developers working on toxicity prediction models and related fields.

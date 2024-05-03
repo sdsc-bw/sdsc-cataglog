@@ -1,0 +1,3 @@
+name: churn-uplift-orange
+dataset_id: 45580.0
+description: The dataset "churn-uplift-orange" is a collection of data that is focused on customer churn and uplift analysis. It includes various features related to customer behavior, such as purchase history, demographic information, and marketing campaigns. The dataset is intended to be used for studying customer churn and uplift modeling, which involves identifying customers who are at risk of churning and predicting the effectiveness of marketing strategies in retaining them. It provides a valuable resource for analyzing and developing strategies to minimize customer churn and maximize marketing impact. The dataset can be used in conjunction with the Orange data mining software for efficient and comprehensive analysis.

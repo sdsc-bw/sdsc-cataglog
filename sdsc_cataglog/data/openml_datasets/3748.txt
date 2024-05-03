@@ -1,0 +1,3 @@
+name: Personal-Loan-Modeling
+dataset_id: 43826.0
+description: The dataset Personal-Loan-Modeling consists of information from a retail bank regarding customers' personal loan approval decisions. It contains 5,000 instances with 14 attributes each, including the Loan ID, age, income, ZIP code, family size, education, employment, credit card balance, mortgage, securities account, CD account, online banking, credit score, and personal loan approval status. The data is useful for performing various analytical tasks and examining factors that influence personal loan approval, like customer demographics and financial indicators. The dataset lacks any missing values or outliers, making it suitable for accurate modeling and prediction analysis.

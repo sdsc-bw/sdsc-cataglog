@@ -1,0 +1,3 @@
+name: QSAR-TID-20157
+dataset_id: 3211.0
+description: QSAR-TID-20157 is a dataset consisting of 1055 chemical compounds with their corresponding biological activities. The dataset is used for quantitative structure-activity relationship (QSAR) studies to predict the biological activity of new compounds. The dataset includes various molecular descriptors such as logP, weight, polarizability, and the number of atoms. The compounds in the dataset have different classes of biological activities, ranging from non-toxic to highly toxic. The dataset is publicly available and has been used in various research studies for developing QSAR models and evaluating their performance. It provides valuable information for designing new compounds with desired biological activities.

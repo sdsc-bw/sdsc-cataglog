@@ -1,0 +1,3 @@
+name: early-stage-diabetes
+dataset_id: 42994.0
+description: The dataset "early-stage-diabetes" consists of medical data regarding patients who are either normal, demonstrating early-stage diabetes, or displaying advanced-stage diabetes. The data includes attributes such as age, gender, blood pressure, body mass index, and other measurable factors related to glucose metabolism. The dataset has 768 instances, each representing a patient, and 16 attributes. The goal of this dataset is to identify the early-stage diabetes patients using various classification algorithms. The accuracy rates achieved by different algorithms on this dataset range from 75% to 97%, showing the potential for accurate prediction using this dataset.

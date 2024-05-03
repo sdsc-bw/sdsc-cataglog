@@ -1,0 +1,3 @@
+name: EMNIST_Balanced
+dataset_id: 41039.0
+description: The dataset EMNIST_Balanced comprises handwritten characters from the Extended Modified National Institute of Standards and Technology (MNIST). It contains a balanced set of 131,600 images, with around 47,000 examples per class. The characters in this dataset cover the upper and lower case alphabets along with multiple digits. It is derived from the NIST Special Database 19 and has been converted to a more manageable format. EMNIST_Balanced is suitable for various machine learning tasks including character recognition, classification, and handwritten text analysis. It offers a diverse range of handwritten characters that can be utilized for training and evaluation purposes.

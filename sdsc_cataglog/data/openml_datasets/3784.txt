@@ -1,0 +1,3 @@
+name: mne-sample-meg-auditory
+dataset_id: 43883.0
+description: The mne-sample-meg-auditory dataset contains EEG and MEG recordings from participants who listened to auditory stimuli. The dataset is composed of two types of data: evoked data, which captures averaged brain responses to repeated stimuli, and continuous data, which records brain activity with high temporal resolution. The dataset includes information on the auditory stimuli, such as the tone frequency and onset time. It also provides information on channel locations and types. The dataset is useful for studying auditory processing and can be used to investigate sensory perception and cognitive processes related to auditory stimuli.

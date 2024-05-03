@@ -1,0 +1,3 @@
+repo_name: pmml2js
+link: https://github.com/teco-kit/pmml2js
+description: PMML to Javascript (pmml2js) is a project that focuses on transforming PMML to Javascript code for running in a browser. The decision tree engine was created by artistoex and currently supports decision trees. The project provides usage examples, including binary sorting and the Iris Dataset, as well as an API for generating executable models. Tests can be run by opening ./pmml2js/tests/*.html in any browser.

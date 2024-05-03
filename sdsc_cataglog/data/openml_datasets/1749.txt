@@ -1,0 +1,3 @@
+name: QSAR-TID-101405
+dataset_id: 3732.0
+description: The dataset QSAR-TID-101405 consists of 7412 drug-like compounds with known mutagenicity against salmonella typhimurium. Each compound is represented by a set of molecular descriptors, including 41 attributes related to electronic and thermodynamic properties, as well as topological descriptors. The compounds are classified into two classes: mutagenic and non-mutagenic, based on experimental observations. The dataset presents a challenging classification problem due to the unbalanced distribution of mutagenic and non-mutagenic compounds. It is commonly used for the development and evaluation of machine learning models in predicting mutagenicity as an important aspect in drug development and toxicology research.

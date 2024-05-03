@@ -1,0 +1,3 @@
+name: Covid-19--historical-data
+dataset_id: 43733.0
+description: The dataset "Covid-19--historical-data" provides historical data on the Covid-19 pandemic. It includes information related to global and country-specific cases, deaths, and recoveries. The data is available in a daily time series format, spanning from the onset of the pandemic until the current date. The dataset covers various countries and continents. It offers valuable insights into the progression of the virus, helping researchers and analysts understand the impact of Covid-19 across different regions. With this dataset, users can analyze and visualize trends, patterns, and fluctuations in Covid-19 cases over time, aiding in informed decision-making and strategy development.

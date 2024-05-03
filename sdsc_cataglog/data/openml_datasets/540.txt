@@ -1,0 +1,3 @@
+name: disclosure_x_tampered
+dataset_id: 795.0
+description: The dataset disclosure_x_tampered contains information about tampered disclosures. It consists of a set of sentences from finance professionals describing various financial events. The dataset is labeled and consists of a total of 46,148 sentences. Each sentence is labeled as either tampered or not tampered. The dataset is designed for natural language processing tasks such as text classification and sentiment analysis. The tampering in the dataset includes modifications like swapping, insertion, deletion, and transposition of words. The dataset is openly available for research purposes and can be used to develop models that detect and analyze tampered disclosures.

@@ -1,0 +1,3 @@
+name: Kassa
+dataset_id: 42796.0
+description: The Kassa dataset is a comprehensive collection of data on financial transactions made by individuals in Ethiopia. It includes information on the type of transaction, such as deposits, withdrawals, or loans, as well as the amount and date of the transaction. The dataset also contains demographic details of the individuals, such as age, gender, and location. This extensive dataset is useful for analyzing the financial behavior of individuals in Ethiopia and understanding their financial needs and preferences. It can also be used for developing financial products and services tailored to the specific needs of the population.

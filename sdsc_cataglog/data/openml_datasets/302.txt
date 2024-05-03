@@ -1,0 +1,3 @@
+name: quake
+dataset_id: 550.0
+description: The dataset quake contains information about earthquakes that occurred in the years 1964 to 2007. It includes various attributes such as the date and time of the earthquake, the location (longitude and latitude), depth, magnitude, and other related details. The dataset consists of a total of 20,721 records. The earthquakes in the dataset were spread across different regions worldwide, including the United States, Japan, and other countries. The dataset provides valuable information for analyzing and studying earthquake patterns and occurrences over a large time span, allowing researchers to understand seismic activities and explore relationships between various earthquake attributes.

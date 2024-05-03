@@ -1,0 +1,3 @@
+name: Kassa
+dataset_id: 42795.0
+description: The dataset Kassa consists of various types of information collected from retail stores in a particular region. It includes details of sales transactions, such as the date and time of the purchase, the items bought, and the amount spent by customers. The dataset also contains information about the stores themselves, including their locations and store sizes. Additionally, it includes data about the different product categories and brands available in the stores. Overall, the Kassa dataset provides comprehensive information about retail activities, facilitating analysis to understand customer behavior, sales patterns, and store performance.

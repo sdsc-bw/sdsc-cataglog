@@ -1,0 +1,3 @@
+name: rsctc2010_1
+dataset_id: 1077.0
+description: The dataset rsctc2010_1 comprises information collected in 2010 for a competition called "The Rules Discovery Challenge". It contains 250 instances and 4 attributes, including a class attribute that represents the target variable. The dataset aims to be used for classification purposes. Each instance is labeled as a certain class, and three classes are present in the dataset. The attributes are of a numerical nature, and they represent different features of the instances. The rsctc2010_1 dataset provides a valuable resource for exploring classification algorithms and developing rule-based models.

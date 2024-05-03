@@ -1,0 +1,3 @@
+name: QSAR-TID-10438
+dataset_id: 3596.0
+description: The dataset QSAR-TID-10438 contains information about the toxicity of certain chemical compounds. It consists of 740 instances, with each instance having 1024 attributes. The goal is to predict the toxicity of the compounds based on these attributes. The toxicity values range from 0 (non-toxic) to 1 (toxic). Feature selection methods and classification techniques have been applied to this dataset to explore its potential for toxicity prediction. The dataset is publicly available and can be used for research purposes in the field of predictive toxicology and drug discovery. Additional details about the dataset's origin and specific compounds are not provided in the given information.

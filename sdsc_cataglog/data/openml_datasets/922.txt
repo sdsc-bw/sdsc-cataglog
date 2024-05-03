@@ -1,0 +1,3 @@
+name: MegaWatt1
+dataset_id: 1442.0
+description: The dataset MegaWatt1 is a comprehensive collection of power consumption data from residential buildings in six countries including Canada, France, Germany, Ireland, Netherlands, and the United States. It is created for the purpose of studying energy usage patterns, load forecasting, and building energy management systems. The dataset contains hourly power consumption readings for a period of one year, with additional attributes such as weather conditions and temperature. It also includes information about the building type, number of occupants, and their demographic characteristics. MegaWatt1 dataset is widely used in energy research and offers valuable insights for developing sustainable energy solutions.

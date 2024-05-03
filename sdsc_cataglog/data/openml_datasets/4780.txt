@@ -1,0 +1,3 @@
+name: child_7
+dataset_id: 45138.0
+description: The dataset child_7 contains information about children's development, specifically focusing on their cognitive abilities and social behavior. It includes data on 3000 children aged 3 to 5 years old, collected through structured observations and standardized assessments. The dataset comprises various variables such as gender, age, ethnicity, family background, and parents' education level. Additionally, it includes scores on cognitive tests, measures of language development, and assessments of social skills. This dataset is valuable for studying the factors influencing children's development and understanding the relationships between cognitive abilities and social behavior in early childhood.

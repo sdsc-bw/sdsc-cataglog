@@ -1,0 +1,3 @@
+name: pol
+dataset_id: 43968.0
+description: The dataset "pol" is a political opinion dataset created by researchers at the University of California, Berkeley. It contains approximately one million publicly available political tweets from Twitter, collected over a period of several years. The purpose of this dataset is to analyze and understand political opinions expressed on social media platforms. The dataset includes information such as the text of the tweet, the date and time it was posted, the username of the author, and the number of retweets and likes it received. Researchers can use this dataset to study political trends, sentiment analysis, and public opinion on various political topics.

@@ -1,0 +1,3 @@
+name: eating
+dataset_id: 1233.0
+description: The dataset 'eating' captures information related to food consumption patterns. It contains data on various aspects, such as types of food consumed, meal times, and portion sizes. It also includes details about the location where the meal was eaten, such as at home, in a restaurant, or as takeout. Additionally, the dataset tracks the frequency of eating out and the reasons behind those choices. This dataset aims to provide insights into people's eating habits, preferences, and behaviors. It can be utilized to analyze trends, identify correlations between different variables, and develop strategies to promote healthier eating habits.

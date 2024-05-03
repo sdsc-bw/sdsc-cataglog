@@ -1,0 +1,3 @@
+name: walking-activity
+dataset_id: 1509.0
+description: The walking-activity dataset is a collection of data that provides insight into physical activity levels during walking. The dataset includes various attributes such as step count, pace, heart rate, distance covered, and duration of activity. It also categorizes the walking activity into different intensities, including light, moderate, and vigorous. The data is measured using wearable devices like fitness trackers or smartphones. The dataset offers valuable information for researchers and developers in the field of health and wellness. It can be used to analyze trends in walking activity, monitor fitness levels, and develop personalized activity recommendations.

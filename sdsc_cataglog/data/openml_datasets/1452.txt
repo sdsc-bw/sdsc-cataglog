@@ -1,0 +1,3 @@
+name: QSAR-TID-11402
+dataset_id: 3432.0
+description: The QSAR-TID-11402 dataset is utilized for predicting the toxic effects of chemical compounds. It contains 184 compounds with 1,138 molecular descriptors and biological activity values for three different endpoints. The dataset aims to identify potential toxicity risks of chemicals and aid in the development of safer compounds. The database includes various types of descriptors, such as constitutional, topological, geometrical, electronic, and hybrid-related descriptors. The molecular activity values are determined using experimental or semi-experimental methods. The dataset serves as a valuable resource for researchers and scientists working in the field of drug discovery and chemical risk assessment.

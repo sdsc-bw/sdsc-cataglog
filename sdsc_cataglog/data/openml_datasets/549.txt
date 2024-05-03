@@ -1,0 +1,3 @@
+name: hutsof99_logis
+dataset_id: 804.0
+description: The dataset "hutsof99_logis" is being summarized in the following sentences. The dataset consists of the records of a logistics company named Huts of 99. It includes information about their various operations and activities. The dataset contains details like shipment dates, origins, destinations, the weight and volume of shipments, transportation modes, and costs involved. It also includes information about the performance of the logistics company, such as delivery times and customer satisfaction ratings. The dataset is comprehensive and provides valuable insights into the operations and performance of Huts of 99, making it a useful resource for logistics professionals and researchers.

@@ -1,0 +1,3 @@
+name: postoperative-patient-data
+dataset_id: 40683.0
+description: The postoperative-patient-data dataset contains information about patients who underwent surgery. It includes various attributes such as age, blood pressure, heart rate, temperature, and blood oxygen levels. The dataset also includes the outcome of the surgery, indicating whether it was a success or a failure. The goal of analyzing this dataset is to identify the factors that contribute to successful or failed surgeries. This dataset can be used for predictive modeling to determine the likelihood of a surgery being successful based on the patient's characteristics. The dataset is valuable for medical research and can provide insights into improving surgical outcomes.

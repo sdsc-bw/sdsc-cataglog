@@ -1,0 +1,3 @@
+name: ibm-employee-performance
+dataset_id: 43897.0
+description: The dataset "ibm-employee-performance" provides information about the performance ratings of employees in IBM. It includes attributes such as age, education level, job satisfaction, business travel frequency, and other factors that may impact the performance of employees. The dataset also contains information on job roles, job levels, years in current role, and years with the company. This dataset is useful for analyzing and predicting employee performance based on different variables. It can help organizations gain insights into the factors that contribute to high or low employee performance and optimize their human resource management strategies accordingly.

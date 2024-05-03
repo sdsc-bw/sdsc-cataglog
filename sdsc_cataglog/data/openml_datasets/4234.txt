@@ -1,0 +1,3 @@
+name: MiniBooNE_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44412.0
+description: The dataset MiniBooNE_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True has 2000 rows and 100 columns. It includes 10 classes or categories of data. The data has been stratified, meaning that it has been divided into smaller, representative subgroups. The dataset is likely used for machine learning or statistical analysis. It may be useful for training and testing models or for investigating patterns and relationships within the data. The specific meaning and content of the data are not provided.

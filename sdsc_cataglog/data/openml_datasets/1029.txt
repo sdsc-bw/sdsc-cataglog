@@ -1,0 +1,3 @@
+name: bank-marketing
+dataset_id: 1558.0
+description: The dataset "bank-marketing" focuses on a marketing campaign of a Portuguese banking institution. It contains information about individuals contacted by the marketing team via phone calls. The dataset includes several key features such as age, job, education, marital status, and whether or not the person has credit in default. Additionally, it includes information about the outcome of the marketing campaign - whether the person subscribed to a term deposit or not. The dataset has a total of 41,188 instances and is useful for various classification and prediction tasks, assisting researchers and analysts in understanding customer behavioral patterns and optimizing future marketing strategies.

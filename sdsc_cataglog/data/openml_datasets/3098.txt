@@ -1,0 +1,3 @@
+name: gas-turbine-2012
+dataset_id: 42975.0
+description: The gas-turbine-2012 dataset contains data from a gas turbine located in Turkey. The data spans from March to December and includes 11 sensors measuring temperature, pressure, and other operational variables. The dataset aims to analyze the turbine's performance and explore trends in gas turbine operation. It includes both normal and faulty turbine operation scenarios, making it suitable for the development and evaluation of diagnostic and prognostic algorithms. The dataset can be used to predict the turbine's performance degradation or identify possible failures, aiding in maintenance and optimizing the turbine's efficiency and reliability.

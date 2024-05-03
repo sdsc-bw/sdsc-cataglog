@@ -1,0 +1,3 @@
+name: appendicitis_test_edsa
+dataset_id: 45591.0
+description: The dataset appendicitis_test_edsa is being referred to in the following sentences. The dataset is related to appendicitis, a medical condition characterized by the inflammation of the appendix. It contains information about patients who have undergone diagnostic tests for appendicitis, including their age, gender, and various clinical attributes such as temperature and abdominal pain severity. The dataset is expected to assist in the development of predictive models to aid in diagnosing appendicitis accurately.

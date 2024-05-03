@@ -1,0 +1,3 @@
+name: Store-20-Retail-Data-Analytics
+dataset_id: 43413.0
+description: Store-20-Retail-Data-Analytics is a dataset that contains information about a retail store. The dataset has 20 variables, including details about the store's location, product categories, sales, and customer demographics. The dataset is structured, with each row representing a specific transaction. It provides insight into the store's performance, allowing the analysis of sales trends and customer behavior. The dataset can help retailers make informed decisions regarding inventory management, marketing strategies, and store operations. It will enable researchers to analyze the effectiveness of various factors on the store's success, such as discounts, promotions, and customer satisfaction.

@@ -1,0 +1,3 @@
+name: QSAR-TID-12471
+dataset_id: 3949.0
+description: QSAR-TID-12471 is a dataset that consists of 731 compounds with their corresponding measured log EC50 toxicity values against Tetrahymena pyriformis. Each compound is represented by various 2D descriptors such as shape, connectivity, and functional groups. The dataset provides information on the molecular features that may contribute to the toxicity of compounds. It aims to support the development of predictive models for toxicity assessment. The dataset has been extensively used for QSAR modeling and has demonstrated its effectiveness in predicting the toxicity of new chemicals. It is freely available and can be utilized to facilitate research in toxicology and chemical risk assessment.

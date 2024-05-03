@@ -1,0 +1,3 @@
+name: QSAR-TID-100852
+dataset_id: 3785.0
+description: The dataset QSAR-TID-100852 contains chemical compound descriptors and their corresponding biological activities. It focuses on compounds that have potential antitumor activity against leukemia cells. The dataset includes 74 compounds, with 41 descriptors to describe the compounds' properties. The compounds were synthesized and their biological activities were evaluated using a cell viability assay. The dataset provides information on the biological activity as a continuous variable, which indicates the percentage of cell viability. The goal of this dataset is to develop quantitative structure-activity relationship (QSAR) models to predict the antitumor activity of compounds based on their chemical descriptors.

@@ -1,0 +1,3 @@
+name: wine_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44369.0
+description: The dataset wine_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset named "wine" with 2000 rows or instances. It contains 10 classes or categories and 100 columns or features. The dataset has been stratified, meaning the distribution of instances in each class is proportional to the overall dataset. This ensures that each class is represented fairly in the dataset. The dataset could be useful for classification tasks where the goal is to assign instances to one of the ten classes.

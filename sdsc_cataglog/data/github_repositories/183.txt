@@ -1,0 +1,3 @@
+repo_name: papermill
+link: https://github.com/nteract/papermill
+description: **Papermill** is a tool for parameterizing, executing, and analyzing Jupyter Notebooks. This opens up new opportunities for how notebooks can be used. For example, Papermill takes an _opinionated_ approach to notebook parameterization and execution based on our experiences using notebooks at scale in data pipelines.

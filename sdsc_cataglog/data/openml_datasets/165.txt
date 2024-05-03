@@ -1,0 +1,3 @@
+name: heyl
+dataset_id: 403.0
+description: The dataset "heyl" is under the MIT license and is publicly available for research purposes. It contains information on parties held at the Massachusetts Institute of Technology (MIT) in the mid-2000s. The dataset includes various attributes such as the date, time, location, and theme of each party. It also includes statistics on attendance and alcohol consumption. The heyl dataset was created to understand the dynamics of social events at MIT and potentially provide insights into party culture. The dataset offers a valuable resource for analyzing party trends and studying behavioral patterns within a university setting.

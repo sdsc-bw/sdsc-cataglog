@@ -1,0 +1,3 @@
+name: QSAR-TID-11269
+dataset_id: 3396.0
+description: The dataset QSAR-TID-11269 consists of various features derived from molecular structures. The purpose of the dataset is to predict mutagenicity, which is the ability of a molecule to cause mutations in DNA. The dataset includes 6,870 instances and each instance contains 41 attributes including molecular descriptors, chemical properties, and relative frequency of chemical substructures. The data was collected using an automated algorithm and the mutagenicity was experimentally tested using the Ames test. This dataset has been widely used in machine learning research for developing predictive models for mutagenicity.

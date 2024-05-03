@@ -1,0 +1,3 @@
+name: Sample-of-Car-Data
+dataset_id: 43613.0
+description: The dataset Sample-of-Car-Data contains information about various cars, such as their make, model, year of manufacture, price, mileage, fuel type, horsepower, and other specifications. It includes data from a range of car brands and covers both new and used cars. The dataset seems to provide comprehensive information that can be utilized for various purposes such as car market analysis, research on pricing trends, comparison of different car models, and prediction of car performance based on specifications. It is a valuable resource for anyone interested in studying the automotive industry or making informed decisions related to buying or selling cars.

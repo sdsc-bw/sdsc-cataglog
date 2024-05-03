@@ -1,0 +1,3 @@
+name: andro
+dataset_id: 41549.0
+description: Andro is a publicly available dataset containing a large collection of Android malware samples along with benign apps for research purposes. It consists of 12,237 benign apps and 5,560 malware samples, totaling 17,797 analyzed apps. These apps are obtained from various sources and cover a wide range of categories, including communication, finance, games, and more. Each app in the dataset is represented by its Android package file (APK) and several metadata features, such as package name, permissions, and file sizes. Andro provides a valuable resource for the development of efficient malware detection systems and the exploration of Android security vulnerabilities.

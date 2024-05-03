@@ -1,0 +1,3 @@
+name: diabetes_numeric
+dataset_id: 212.0
+description: The dataset diabetes_numeric contains numerical information on various aspects related to diabetes in patients. It consists of 442 instances and 10 attributes, including age, sex, body mass index (BMI), blood pressure, and six blood serum measurements. Each instance represents a patient with diabetes and the attributes provide information about their physical characteristics and medical test results. The dataset is commonly used for predicting disease progression or as a benchmark dataset in machine learning research. The dataset has been preprocessed to remove missing values and standardize the attributes, making it ready for analysis and modeling.

@@ -1,0 +1,3 @@
+name: seattlecrime6
+dataset_id: 42496.0
+description: The dataset seattlecrime6 provides information on reported crime incidents in Seattle over a period of six years. It contains records of crimes categorized by type, such as assault, burglary, theft, and more. The dataset includes various attributes like the date and time of the reported crime, its location, and the precinct it occurred in. Additionally, the dataset provides information about the status of the case, including whether it was cleared or under investigation. With this data, researchers and law enforcement personnel can analyze crime trends, identify hotspots, and devise strategies to reduce crime rates and enhance public safety in Seattle.

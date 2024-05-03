@@ -1,0 +1,3 @@
+name: sylvine_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44681.0
+description: The dataset "sylvine_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True" has 2000 rows and 100 columns with 10 different classes. It is stratified, meaning that the distribution of classes is balanced. The dataset likely represents some form of seed classification or analysis. The number of rows suggests a substantial dataset, while the high number of columns may indicate the inclusion of various features or attributes related to the seeds. Overall, this dataset offers a diverse range of seed samples, contributing to a comprehensive understanding of seed characteristics and classification.

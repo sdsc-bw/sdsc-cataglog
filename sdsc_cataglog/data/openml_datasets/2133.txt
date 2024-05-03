@@ -1,0 +1,3 @@
+name: QSAR-TID-30043
+dataset_id: 4119.0
+description: The dataset QSAR-TID-30043 consists of 3,043 chemical compounds with their corresponding biological activity values. It was created for Quantitative Structure-Activity Relationship (QSAR) modeling, which involves predicting the activity of new chemical compounds based on their structural features. The compounds in this dataset were tested for their ability to inhibit the growth of cancer cells. Various features were calculated for each compound, including molecular descriptors and topological indices. The dataset is useful for developing models that can predict the bioactivity of new chemical compounds, aiding in the discovery of potential drugs for cancer treatment.

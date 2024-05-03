@@ -1,0 +1,3 @@
+name: audit-data
+dataset_id: 42931.0
+description: The dataset "audit-data" consists of information collected during an audit process. It includes a variety of data related to financial audits, such as audit firm information, client information, and details of audited financial statements. Additional attributes in the dataset include the identification of fraudulent activities detected, the characteristics of the audit report, and the size of the audit firm. The dataset comprises over one million records and covers a period of several years. It is a comprehensive and valuable resource for analyzing audit processes, assessing risk factors, and identifying patterns of fraudulent behavior.

@@ -1,0 +1,3 @@
+name: avocado_sales
+dataset_id: 43927.0
+description: The avocado_sales dataset provides information on the sales of avocados in different regions across the United States. It includes data on average price, total volume sold, type of avocado, and the region where the sale took place. The dataset also contains information on the year and specific date of sale. This dataset is useful for analyzing trends and patterns in avocado sales across different regions and seasons. It can be utilized to understand price variations, identify popular avocado types, and determine the demand for avocados in different parts of the country.

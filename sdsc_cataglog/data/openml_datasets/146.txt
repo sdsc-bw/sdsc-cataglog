@@ -1,0 +1,3 @@
+name: mv
+dataset_id: 344.0
+description: The dataset ‘mv’ is a collection of multivariate time series obtained from clinical monitoring systems in intensive care units. It contains 90 anonymized records from 12 patients, with each record spanning 61,920 data points. The data is stored in a comma-separated values (CSV) format, with each column representing a variable such as heart rate, blood pressure, oxygen saturation, etc. There are missing values in the dataset, denoted by NaN. The dataset also includes metadata files providing additional information about the patients and the variables. It serves as a valuable resource for researchers and analysts in the healthcare domain to develop and evaluate algorithms for monitoring and prediction.

@@ -1,0 +1,3 @@
+name: Ipl_predictions2020
+dataset_id: 43700.0
+description: The dataset "Ipl_predictions2020" contains information of the Indian Premier League (IPL) matches in the year 2020. The dataset provides predictions made for each match, including the predicted winner, predicted margin of victory, and the predicted number of runs scored by each team. It also includes the actual winner and the actual margin of victory for each match, allowing for comparison with the predictions. Furthermore, the dataset includes additional attributes such as team names, venue, and the date of each match. The dataset serves as a valuable resource for analyzing the accuracy of predictions and studying the performance of teams in the IPL 2020 season.

@@ -1,0 +1,3 @@
+name: yeast_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44469.0
+description: The dataset yeast_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows, 10 different classes, and 100 columns. It is stratified, meaning that it maintains the same class distribution as the original dataset when divided into smaller subsets. The dataset aims to study and understand yeast seed data. It provides information about various characteristics or attributes of yeast seed samples, potentially helping to analyze patterns or make predictions. The dataset can be used for classification or regression tasks, where the goal is to predict the class or target variable based on the available features.

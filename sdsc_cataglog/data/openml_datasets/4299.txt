@@ -1,0 +1,3 @@
+name: KDDCup09_appetency_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44477.0
+description: The dataset "KDDCup09_appetency_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" contains information on customer appetency. It has 2000 rows and 100 columns, with a target variable divided into 10 classes. The dataset is stratified, meaning it is representative of the entire population. The dataset provides insights into customer behavior, preferences, and tendencies. It is useful for analyzing patterns, identifying trends, and predicting customer appetency. The dataset's specific size, class distribution, and column count make it a valuable resource for data analysis and predictive modeling in the field of customer behavior and marketing strategies.

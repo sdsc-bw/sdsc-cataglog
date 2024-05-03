@@ -1,0 +1,3 @@
+name: QSAR-TID-100098
+dataset_id: 3771.0
+description: The QSAR-TID-100098 dataset is a collection of 36,794 compounds with their corresponding values for biological activity. The compounds were tested for their ability to inhibit a specific protein target. The dataset contains information about the compounds' molecular structures and properties, including features derived from two-dimensional chemical structures. It also includes the experimental biological activity values, expressed as negative logarithm of the concentration that inhibits the target by 50%. The dataset is useful for developing quantitative structure-activity relationship (QSAR) models to predict the biological activity of compounds based on their molecular properties.

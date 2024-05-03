@@ -1,0 +1,3 @@
+name: SurvBoard-TCGA-BLCA-complete
+dataset_id: 44190.0
+description: The dataset SurvBoard-TCGA-BLCA-complete is a comprehensive collection of cancer patient data from the TCGA-BLCA project. It contains information on 408 patients diagnosed with bladder cancer. The dataset includes various data types, such as clinical, genomic, and survival information. The clinical data includes patient age, gender, tumor stage, and grade. Genomic data consists of gene expression profiles and mutation status. The dataset also provides survival information, including overall survival time and survival status. This dataset serves as a valuable resource for studying bladder cancer prognosis and identifying potential biomarkers and therapeutic targets.

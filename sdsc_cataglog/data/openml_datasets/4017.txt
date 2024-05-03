@@ -1,0 +1,3 @@
+name: credit-approval_reproduced
+dataset_id: 44155.0
+description: The credit-approval_reproduced dataset is a machine learning dataset that contains information about credit card applications. It consists of 690 observations and 16 attributes, with both numeric and categorical data. The goal of the dataset is to predict whether a credit card application should be approved or not based on the available attributes. The attributes include variables related to personal, financial, and employment information of the applicants. The dataset has some missing values that need to be handled appropriately. Additionally, the dataset is imbalanced, with a higher proportion of applications being approved compared to those that are denied.

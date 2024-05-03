@@ -1,0 +1,3 @@
+name: wine_quality
+dataset_id: 43257.0
+description: The wine_quality dataset contains observations for red and white wines, with a total of 6497 samples. Each sample consists of 12 variables, including quality rating, fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, and alcohol. The quality rating ranges from 3 to 9, with higher values representing better quality. The dataset is collected from the north of Portugal and is part of the UCI Machine Learning Repository. It is commonly used to explore and analyze the relationship between wine attributes and quality.

@@ -1,0 +1,3 @@
+name: adult
+dataset_id: 1590.0
+description: The adult dataset is a well-known dataset used for classification tasks and is often used in machine learning research. It contains data about individuals and various attributes. The dataset includes both categorical and numerical features, such as age, education, occupation, and income. The target variable of interest is whether an individual's income exceeds a certain threshold. With over 48,000 instances, it provides a considerable amount of data to work with. The adult dataset has been used in numerous studies and competitions to evaluate the performance of different algorithms and models in predicting income levels based on individual characteristics.

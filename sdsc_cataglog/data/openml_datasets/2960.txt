@@ -1,0 +1,3 @@
+name: dataset_time
+dataset_id: 42645.0
+description: The dataset dataset_time consists of time-stamped data, categorized into three main columns: date, time, and value. It includes records from various points in time, with a specific date and corresponding time. The value column represents numeric measurements or observations captured at these instances. The dataset likely aims to capture changes or trends over time in a particular variable or phenomenon. The time component allows for analyzing temporal patterns, while the date ensures a comprehensive representation of the data across multiple days or periods. Overall, the dataset_time facilitates the exploration and analysis of time-related trends and phenomena.

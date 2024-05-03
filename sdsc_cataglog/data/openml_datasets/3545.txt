@@ -1,0 +1,3 @@
+name: BSE-30-daily-market-price-(2008-2018)
+dataset_id: 43621.0
+description: The dataset BSE-30-daily-market-price covers a period from 2008 to 2018 and comprises daily market prices of BSE-30 stocks. It includes information on the closing price, high and low prices, and traded volume of these stocks, enabling analysis of their performance over the specified timeframe. The dataset allows users to study the trends and fluctuations in the market and individual stocks, gain insights into the overall market behavior, and conduct statistical analysis or develop predictive models based on historical data. With a decade's worth of information, this dataset offers a valuable resource for research and analysis in the field of finance and stock markets.

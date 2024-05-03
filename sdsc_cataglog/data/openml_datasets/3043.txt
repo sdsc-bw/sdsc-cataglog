@@ -1,0 +1,3 @@
+name: Midwest_survey
+dataset_id: 42804.0
+description: The dataset "Midwest_survey" contains information from a survey conducted in the Midwest region of the United States. It includes data on various factors such as education, income, age, and political affiliations. The survey aimed to gather insights into different aspects of Midwestern people's lives and their demographics. The dataset provides a comprehensive perspective on the population, allowing for analysis and exploration of relationships between variables. It is a valuable resource for researchers studying the social, economic, and political dynamics of the Midwest region.

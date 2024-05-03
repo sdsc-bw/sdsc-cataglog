@@ -1,0 +1,3 @@
+name: FOREX_usdchf-day-High
+dataset_id: 41730.0
+description: The dataset "FOREX_usdchf-day-High" focuses on the highest value registered for the currency pair USD/CHF over a specific time period. It contains information related to the daily highs of this currency pair, which reflects the maximum value reached in a day. While details about the dataset's origin or timeframe are not mentioned, it can be inferred that it provides valuable insights into the fluctuations and performance of the USD/CHF exchange rate. The dataset likely includes daily high values recorded at different points in time, allowing analysts to study trends, patterns, and potential factors influencing the USD/CHF exchange rate.

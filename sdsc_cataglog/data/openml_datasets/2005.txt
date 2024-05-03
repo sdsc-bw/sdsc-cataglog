@@ -1,0 +1,3 @@
+name: QSAR-TID-194
+dataset_id: 3991.0
+description: The dataset QSAR-TID-194 contains information on the toxicity of various chemical compounds. It consists of 194 instances with 1024 features, representing the descriptors of each compound. The dataset is divided into two classes: non-toxic and toxic compounds. The toxic compounds class contains 57 instances, while the non-toxic class contains 137 instances. The goal of this dataset is to develop a model that can accurately predict the toxicity of unknown compounds based on their descriptors. The dataset can be used for various machine learning tasks such as classification, regression, or feature selection in the field of drug discovery and toxicology.

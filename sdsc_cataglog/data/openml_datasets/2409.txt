@@ -1,0 +1,3 @@
+name: reuters
+dataset_id: 41547.0
+description: The Reuters dataset contains a collection of news articles from the Reuters newswire service. It includes over 1 million records and covers a wide range of topics, such as business, politics, and sports. The articles are available in English and are classified into various categories and topics. This dataset is commonly used for text classification and natural language processing tasks. It provides a valuable resource for researchers and developers working on information retrieval, sentiment analysis, and other text-based applications. The dataset is widely used in the machine learning community and offers opportunities for training and evaluating models.

@@ -1,0 +1,3 @@
+name: Microsoft-Stock-market-(2001---2021)
+dataset_id: 43800.0
+description: The dataset "Microsoft-Stock-market- (2001---2021)" is a collection of information on Microsoft's stock market performance from the years 2001 to 2021. It encompasses various details such as the opening and closing prices, highest and lowest prices, trading volumes, and adjusted closing prices. The dataset includes daily records of these metrics, allowing for comprehensive analysis of Microsoft's stock market trends and patterns over the course of two decades. This dataset can be utilized by financial analysts, investors, and researchers to gain insights into Microsoft's historical stock market performance and potentially make informed decisions in the future.

@@ -1,0 +1,3 @@
+name: OVA_Kidney
+dataset_id: 1134.0
+description: The dataset OVA_Kidney is designed to explore the mechanisms of kidney disease. It contains information on the gene expression profiles of mouse kidneys after the induction of disease using ovalbumin sensitization. The dataset includes data from multiple time points, allowing researchers to examine the progression of kidney disease over time. The gene expression profiles were measured using microarray technology, and the dataset also includes associated clinical parameters, such as blood creatinine levels. This comprehensive dataset provides valuable insights into the molecular mechanisms involved in kidney disease and can be used for further analysis and understanding of the condition.

@@ -1,0 +1,3 @@
+name: child_5
+dataset_id: 45136.0
+description: The dataset child_5 is related to child development outcomes. It consists of numerous variables including demographic information like age, ethnicity, and gender. Additionally, it contains information about the child's environment such as family structure, parental education, and household income. The dataset also includes measurements of the child's physical and cognitive development, as well as their behavioral and emotional well-being. The purpose of this dataset is to examine and analyze the various factors that may impact child development outcomes, providing insights into potential patterns and associations between different variables.

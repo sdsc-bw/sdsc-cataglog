@@ -1,0 +1,3 @@
+name: CPS1988
+dataset_id: 43963.0
+description: The dataset CPS1988 is part of the Current Population Survey (CPS) and refers to the year 1988. It contains a wide range of information about individuals and households in the United States, such as demographics, education, employment, income, and health insurance coverage. The dataset covers a representative sample of the population and provides valuable insights into the socioeconomic conditions and trends during that time period. CPS1988 can be used for various research purposes, including analyzing inequality, labor market dynamics, and social policy impacts. Researchers can access this dataset to conduct studies and make informed decisions based on the data from 1988.

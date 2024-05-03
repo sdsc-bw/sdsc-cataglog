@@ -1,0 +1,3 @@
+name: 1DUltrasoundMuscleFatigueDataStudy2Of2
+dataset_id: 43076.0
+description: The dataset 1DUltrasoundMuscleFatigueDataStudy2Of2 contains information collected from a study that explored muscle fatigue using ultrasound technology. This is the second part of the study, and it focuses on evaluating changes in muscle thickness and echo intensity after repetitive muscle actions. The dataset includes measurements of muscle thickness and echo intensity at different time intervals during and after the muscle actions. Additionally, the dataset provides details about the participants, such as their age, gender, and physical activity levels. The data could be valuable for further research on muscle fatigue and understanding its effects on muscle structure and performance.

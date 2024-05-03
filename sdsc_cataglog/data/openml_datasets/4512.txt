@@ -1,0 +1,3 @@
+name: wine-quality-white_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44691.0
+description: The dataset wine-quality-white_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True contains information on white wines. It has a total of 2000 rows and 100 columns, with 10 different classes or categories. The dataset is stratified, meaning that each class is represented proportionally. It likely includes various attributes related to white wines, such as acidity levels, sugar content, and alcohol percentage. The dataset could be used for classification or regression tasks to predict the quality or attributes of white wines based on the given features.

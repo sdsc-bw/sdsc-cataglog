@@ -1,0 +1,3 @@
+name: QSAR-TID-11409
+dataset_id: 3612.0
+description: The QSAR-TID-11409 dataset contains information about the toxicity of various chemical compounds. It is collected from studies conducted in the European Union, United States, and Japan. The dataset includes attributes such as the molecular structure, physicochemical properties, and experimental results of the compounds. The toxicity is measured using a binary classification, where compounds are labeled as either safe or hazardous. The dataset consists of 6,401 instances, each with 481 attributes. It is commonly used for developing predictive models and assessing the toxicity of new chemical compounds. However, more research is needed to fully understand and utilize this dataset.

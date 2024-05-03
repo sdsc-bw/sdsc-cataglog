@@ -1,0 +1,3 @@
+name: FOREX_audjpy-day-Close
+dataset_id: 41857.0
+description: The dataset FOREX_audjpy-day-Close contains information about the daily closing prices of the AUD/JPY (Australian Dollar/Japanese Yen) currency pair. The dataset includes historical data, presenting the closing prices for successive days. The dataset is likely used for analyzing and forecasting trends in the AUD/JPY exchange rate. It can help in identifying patterns, fluctuations, and potential opportunities in the currency market. However, further details about the specific time range, frequency, and any other accompanying variables or features within the dataset are not provided in the given information.

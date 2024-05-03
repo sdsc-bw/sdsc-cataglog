@@ -1,0 +1,3 @@
+name: autoHorse
+dataset_id: 840.0
+description: The dataset autoHorse contains information about various automobile models. It consists of 205 instances and 26 attributes, including specifications like make, fuel type, number of doors, body style, horsepower, engine size, and price. The dataset is often used for studying regression models and predicting car prices based on their characteristics. However, it does have some missing values, which may require data preprocessing. autoHorse is a well-known dataset used in machine learning and data analysis projects for understanding and exploring automotive data.

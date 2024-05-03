@@ -1,0 +1,3 @@
+name: FOREX_eursgd-hour-Close
+dataset_id: 41758.0
+description: The dataset "FOREX_eursgd-hour-Close" refers to the hourly closing prices for the currency pair Euro (EUR) and Singapore dollar (SGD) in the foreign exchange (FOREX) market. It contains a collection of prices over a certain period of time, likely expressed in Singapore dollars per Euro. The dataset is likely to have multiple records, each representing the closing price at a specific hour. These prices are crucial for tracking the exchange rate fluctuations between the Euro and Singapore dollar and can be analyzed to identify patterns, trends, or make predictions related to the FOREX market.

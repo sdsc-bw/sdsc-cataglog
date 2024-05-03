@@ -1,0 +1,3 @@
+name: Concrete_Data
+dataset_id: 4353.0
+description: The dataset Concrete_Data contains information about the compressive strength of different types of concrete. It consists of nine variables, including cement, blast furnace slag, fly ash, water, superplasticizer, coarse aggregate, fine aggregate, age, and compressive strength. The dataset contains a total of 1,030 instances, each representing a different mix design of concrete. The purpose of the dataset is to analyze the relationship between the various variables and the compressive strength of concrete. It can be used for regression analysis and predicting the compressive strength based on the input variables.

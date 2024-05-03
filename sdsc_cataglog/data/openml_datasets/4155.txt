@@ -1,0 +1,3 @@
+name: Meta_Album_FNG_Extended
+dataset_id: 44335.0
+description: The dataset Meta_Album_FNG_Extended is a collection of extended metadata about the albums in the Free Music Archive (FMA) database. It contains information about album genres, artist names, dataset names, and other relevant details. The dataset includes approximately 25,000 album entries with various features such as album ID, artist ID, and track ID. It also contains contextual information like the number of tracks and whether the album is considered a "FNG" (Free Non-Gated) release. The dataset is a valuable resource for researchers and music enthusiasts who wish to explore and analyze the albums available in the FMA database.

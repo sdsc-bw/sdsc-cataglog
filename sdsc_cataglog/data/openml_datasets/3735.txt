@@ -1,0 +1,3 @@
+name: Performance-Prediction
+dataset_id: 43812.0
+description: The dataset Performance-Prediction contains information about physical, chemical, and mechanical properties of concretes, which can be used to predict its compressive strength. It consists of 1,030 observations with eight input variables and one output variable. The input variables include water, cement, blast furnace slag, fly ash, superplasticizer, coarse aggregate, fine aggregate, and age of the concrete, while the output variable is the compressive strength. The dataset aims to help researchers and engineers develop models to predict the performance of concrete based on its properties, aiding in construction planning and quality assurance.

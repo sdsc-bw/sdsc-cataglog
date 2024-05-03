@@ -1,0 +1,3 @@
+name: QSAR-TID-11559
+dataset_id: 3148.0
+description: QSAR-TID-11559 is a dataset comprising 410 molecules and their respective activity values against the target protein. The molecules have been categorized into three classes, highly active, moderately active, and inactive, based on their biological activity. The dataset provides information about the molecular structure, atom-based features, topological indices, and other relevant descriptors for each molecule. Additionally, the dataset includes features derived from the Dragon software. The goal of this dataset is to develop a quantitative structure-activity relationship (QSAR) model to predict the activity of molecules against the target protein using the provided features.

@@ -1,0 +1,3 @@
+name: porto-seguro_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44786.0
+description: The dataset porto-seguro_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows and 100 columns. It is stratified, meaning that the distribution of classes within the data is preserved. The dataset has 10 classes, indicating that there are 10 different categories or labels that the data can be classified into. The seed value is set to 3, which is used to initialize the randomization process. This dataset can be used for various machine learning tasks such as classification, clustering, or regression, and allows researchers to analyze patterns and relationships within the data.

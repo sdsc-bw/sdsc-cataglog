@@ -1,0 +1,3 @@
+name: beer_reviews
+dataset_id: 42078.0
+description: The beer_reviews dataset contains a vast collection of reviews for various types of beer. It includes information about the beers' aromas, appearance, palate, taste, and overall impressions. The dataset also provides details on the reviewers, such as their usernames, locations, and the dates they posted the reviews. Each review is given a numeric rating, allowing for comparisons and analysis. With over a million entries, this dataset offers a comprehensive view of the beer community's opinions and preferences, making it valuable for research, analysis, and understanding the beer market.

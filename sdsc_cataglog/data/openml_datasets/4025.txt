@@ -1,0 +1,3 @@
+name: IEEE80211aa-GATS-NS3.35
+dataset_id: 44179.0
+description: The IEEE80211aa-GATS-NS3.35 dataset is a collection of network simulation data designed for the development and evaluation of wireless network protocols. It is specifically tailored for investigating the IEEE 802.11aa amendment in the context of NS-3 simulation framework version 3.35. The dataset includes various scenarios with different network configurations, traffic patterns, channel conditions, and mobility patterns. It also provides performance metrics such as throughput, delay, and packet loss to assess the effectiveness of the proposed protocols. The dataset serves as a valuable resource for researchers and developers working on improving the performance and reliability of wireless networks.

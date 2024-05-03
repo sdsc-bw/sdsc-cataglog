@@ -1,0 +1,3 @@
+name: white-clover
+dataset_id: 1009.0
+description: The white-clover dataset contains information about white clover (Trifolium repens) plants from two experimental sites in New Zealand. The dataset includes 352 observations and 15 variables, covering various aspects of the plants' growth, physiology, and interactions with pests. The variables include data on leaf area, plant height, biomass, insect damage, and nitrogen fixation rates. The dataset also includes information about the experimental site, such as elevation, aspect, and slope. This dataset serves as a valuable resource for researchers and scientists interested in studying white clover and its response to environmental factors and pest interactions.

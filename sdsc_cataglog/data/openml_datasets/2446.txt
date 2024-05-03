@@ -1,0 +1,3 @@
+name: FOREX_eurhkd-minute-High
+dataset_id: 41710.0
+description: The dataset "FOREX_eurhkd-minute-High" contains minute-by-minute data on the high prices of the EUR/HKD currency pair in the foreign exchange market. This dataset likely includes historical data, allowing users to analyze trends and patterns in the fluctuation of high prices over time. The information may be useful for traders, economists, and researchers who focus on this currency pair. The dataset provides a granular level of detail, enabling users to investigate short-term movements and make informed decisions based on these insights. It is valuable in understanding the dynamics and volatility of the EUR/HKD exchange rate on a minute-to-minute basis.

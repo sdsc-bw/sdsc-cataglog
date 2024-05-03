@@ -1,0 +1,3 @@
+name: andes_3
+dataset_id: 45211.0
+description: The dataset "andes_3" is a comprehensive collection of data related to the Andes mountain range. It provides various information about the region, including topography, climate, flora, and fauna. The data is collected from multiple sources, such as satellite images, field surveys, and scientific literature. The dataset consists of several variables, such as elevation, temperature, precipitation, vegetation type, and species presence. It covers a wide spatial extent, encompassing different countries and ecosystems within the Andes. This dataset is valuable for researchers, conservationists, and policymakers interested in studying the Andes region and understanding its ecological and environmental characteristics.

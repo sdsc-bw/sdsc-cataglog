@@ -1,0 +1,3 @@
+name: Disaster-Tweets
+dataset_id: 43395.0
+description: The Disaster-Tweets dataset comprises of 10,876 tweets collected during natural or man-made disasters. It includes information about the occurrence of a disaster, such as earthquakes, floods, or hurricanes. Each tweet is labeled as either a disaster or non-disaster tweet, indicated by a binary target variable. The dataset provides numerous features including keywords, location, and text of the tweets. It serves as a valuable resource for researchers and developers to analyze and develop machine learning models for natural language processing tasks, particularly in the domain of disaster response, as well as for studying human behavior during crises.

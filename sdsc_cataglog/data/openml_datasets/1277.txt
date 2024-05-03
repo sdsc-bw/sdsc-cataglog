@@ -1,0 +1,3 @@
+name: QSAR-TID-11104
+dataset_id: 3253.0
+description: The dataset QSAR-TID-11104 contains information related to the quantification of biological activity for a series of compounds. The compounds are classified based on their inhibitory effects on certain biological targets. The dataset includes various chemical descriptors, such as molecular and electronic properties, which play a crucial role in predicting the biological activity of the compounds. The dataset comprises 1052 compounds, and each compound is represented by 357 features. The aim of this dataset is to develop predictive models that can accurately determine the biological activity of new compounds based on their chemical characteristics.

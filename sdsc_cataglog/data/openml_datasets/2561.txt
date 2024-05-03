@@ -1,0 +1,3 @@
+name: FOREX_eurnzd-day-Close
+dataset_id: 41826.0
+description: The dataset FOREX_eurnzd-day-Close pertains to daily closing prices of the currency pair Euro (EUR) and New Zealand dollar (NZD) in the foreign exchange (FOREX) market. The dataset contains information about the closing prices for each trading day, indicating the exchange rate between EUR and NZD at the end of the day. The dataset provides a time series of closing prices, allowing for analysis of the historical performance and fluctuations of the Euro and New Zealand dollar exchange rate. This dataset is relevant for individuals or organizations involved in currency trading, financial analysis, or making informed decisions regarding investments related to the EUR/NZD exchange rate.

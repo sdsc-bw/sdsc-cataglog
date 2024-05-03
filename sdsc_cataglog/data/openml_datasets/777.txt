@@ -1,0 +1,3 @@
+name: gina_prior
+dataset_id: 1042.0
+description: The dataset gina_prior contains information about nitrogen dioxide (NO2) concentrations at five different locations in the city of Gina. It includes data for several years, including the average NO2 concentration, number of exceedances of the European Union’s annual limit value, and the corresponding gregorian dates. Each observation also provides additional information like the hour of the day the measurement was taken and whether the measurement was made near a road or a background location. The dataset also includes the location's latitude, longitude, altitude, country, and station name. It is a comprehensive dataset for studying NO2 concentrations and air pollution patterns in Gina.

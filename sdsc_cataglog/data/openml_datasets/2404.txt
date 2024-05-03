@@ -1,0 +1,3 @@
+name: black_friday
+dataset_id: 41540.0
+description: The dataset black_friday contains information about the transactions made on Black Friday in a retail store. It includes variables such as user ID, product ID, age, gender, city category, marital status, product category, purchase amount, and the year of purchase. The dataset contains a total of 550,068 rows and 12 columns. The main purpose of this dataset is to analyze customer behavior and preferences during the Black Friday sale. The dataset also provides insights into the sales performance of different products and demographics. It can be used for various statistical analysis and machine learning applications.

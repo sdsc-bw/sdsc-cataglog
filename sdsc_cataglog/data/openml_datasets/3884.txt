@@ -1,0 +1,3 @@
+name: isolet
+dataset_id: 44010.0
+description: The isolet dataset is a collection of speech data containing 7797 isolated words, spoken by 150 different communicators. Each word is encoded as a 617-dimensional feature vector, which represents the speech characteristics. The dataset is commonly used for speech recognition research and contains words from 26 different speakers of the English language. The dataset also includes labels that identify the speaker, gender, and the spoken word. It is widely used in machine learning algorithms for tasks like speech recognition, speaker identification, and gender classification. The isolet dataset is easily accessible and has been extensively studied in various research studies related to speech processing.

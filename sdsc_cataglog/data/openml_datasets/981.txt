@@ -1,0 +1,3 @@
+name: twonorm
+dataset_id: 1507.0
+description: The twonorm dataset is a widely used dataset in machine learning and pattern recognition tasks. It consists of 20 features and two classes, making it a binary classification problem. The dataset contains 7400 instances, with each instance belonging to either class 1 or class 2. The twonorm dataset poses a challenging classification problem due to its high dimensionality and overlapping data. It is commonly used for evaluating and comparing classification algorithms' performance, as well as for testing feature selection and dimensionality reduction techniques. Overall, the twonorm dataset provides a valuable resource for researchers and practitioners in the field of machine learning.

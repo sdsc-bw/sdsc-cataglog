@@ -1,0 +1,3 @@
+name: pol
+dataset_id: 201.0
+description: The dataset "pol" is a collection of political news articles from multiple sources. It contains a wide range of topics related to politics, including elections, government policies, international relations, and political events. The dataset is comprehensive and covers various countries and regions, providing a global perspective on political affairs. The articles are written by different authors and cover different aspects of politics, ensuring a diverse range of content. Overall, the dataset "pol" is a valuable resource for analyzing and understanding political trends, developments, and debates in contemporary society from a multitude of sources and perspectives.

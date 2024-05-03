@@ -1,0 +1,3 @@
+name: QSAR-TID-10266
+dataset_id: 3182.0
+description: The dataset QSAR-TID-10266 is composed of 3,229 chemical compounds. Each compound is represented by 1024 molecular descriptors, describing various characteristics such as energy, size, shape, and atomic composition. The compounds are classified into two classes; active and inactive, according to their inhibitory activity towards a protein target. The dataset was curated to study and develop quantitative structure-activity relationship (QSAR) models. The dataset can be used for various purposes, including drug discovery and toxicity prediction. It provides a valuable resource for researchers working in the field of chemoinformatics and computational chemistry.

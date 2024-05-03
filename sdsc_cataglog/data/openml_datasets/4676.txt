@@ -1,0 +1,3 @@
+name: yprop_4_1
+dataset_id: 45032.0
+description: The yprop_4_1 dataset contains information about the financial health of different companies. It includes variables such as total assets, total liabilities, net income, and operating cash flows. The dataset has a total of 4,000 observations and 50 variables. It covers a wide range of industries and provides valuable insights into the financial performance and stability of these companies. The data is gathered from various sources, such as annual reports and financial statements. Researchers can utilize this dataset to conduct analyses related to company performance, risk assessment, and financial forecasting.

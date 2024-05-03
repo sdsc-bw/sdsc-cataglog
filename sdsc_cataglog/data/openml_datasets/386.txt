@@ -1,0 +1,3 @@
+name: fri_c0_250_10
+dataset_id: 635.0
+description: The dataset fri_c0_250_10 contains information about a network of computer files. It consists of 250 nodes and 10 clusters. Each node represents a file, and the clusters represent groups of related files. The dataset provides details such as the file size, the number of file references, and the creation time of each file. The network is based on file references, where a directed edge from one node to another indicates that the first file references the second file. The dataset is useful for analyzing file relationships, identifying file clusters, and studying file characteristics within a network context.

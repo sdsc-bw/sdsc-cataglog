@@ -1,0 +1,3 @@
+name: musk
+dataset_id: 1116.0
+description: The musk dataset is a collection of chemical compounds used to predict whether a given molecule is musk or non-musk. The dataset includes a total of 6,601 instances, with 102 attributes each. These attributes represent various molecular features like energy, charge, and shape. The data has already been divided into training and test sets, with 4,391 instances in the training set and 2,210 instances in the test set. This dataset is often used in machine learning and pattern recognition tasks, where the goal is to classify new molecules as musk or non-musk based on their attributes.

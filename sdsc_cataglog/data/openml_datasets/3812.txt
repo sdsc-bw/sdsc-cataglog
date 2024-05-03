@@ -1,0 +1,3 @@
+name: eucalyptus
+dataset_id: 43925.0
+description: The dataset "eucalyptus" consists of information about the eucalyptus plant. It includes details on the different species of eucalyptus, their geographical distribution, and their properties. The dataset also provides information about the ecological role of eucalyptus in various habitats. It covers aspects such as the impact of eucalyptus on biodiversity, its role in carbon sequestration, and its potential for different industrial applications. The dataset is comprehensive and valuable for researchers, conservationists, and policymakers interested in understanding and managing eucalyptus ecosystems and their ecological importance.

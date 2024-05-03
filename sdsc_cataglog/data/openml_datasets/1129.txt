@@ -1,0 +1,3 @@
+name: QSAR-TID-11300
+dataset_id: 3105.0
+description: The dataset QSAR-TID-11300 contains information on various chemical compounds and their associated biological activity. It consists of 2,057 instances with 14 attributes, including descriptors derived from molecular structures and experimental properties. The biological activity is measured in terms of LD50, a measure of toxicity in rats. The dataset aims to predict the toxicity of new compounds based on their chemical properties. It is a challenging dataset due to its imbalanced class distribution, with majority non-toxic compounds. QSAR-TID-11300 has been used in research on machine learning algorithms for toxicity prediction and the development of new drugs with reduced toxicity.

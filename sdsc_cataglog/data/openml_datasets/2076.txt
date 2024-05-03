@@ -1,0 +1,3 @@
+name: QSAR-TID-10844
+dataset_id: 4062.0
+description: The dataset QSAR-TID-10844 contains numerical values representing different molecular descriptors of compounds. It consists of 420 molecules, each with 332 molecular descriptors. The compounds were tested for their inhibitory activity against a specific enzyme. The dataset also includes the measured activity values for each compound. The dataset aims to develop quantitative structure-activity relationship (QSAR) models to predict the inhibitory activity of compounds. This dataset can be used for training and evaluating machine learning algorithms to build accurate predictive models for drug discovery and design.

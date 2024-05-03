@@ -1,0 +1,3 @@
+name: fri_c1_1000_5
+dataset_id: 743.0
+description: The dataset "fri_c1_1000_5" contains 1000 samples each with 5 features. It is used for classification tasks and is part of the FRI (Financial Risk Institute) research project. The features represent various attributes and characteristics of financial data. The dataset aims to provide insights into risk assessment and financial modeling. It is analyzed using classification algorithms to predict different classes or categories based on the given features. The dataset offers a valuable resource for researchers and practitioners in the finance industry, aiding in the development of accurate risk assessment models and making informed financial decisions.

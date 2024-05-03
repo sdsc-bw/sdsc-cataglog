@@ -1,0 +1,3 @@
+name: lsvt
+dataset_id: 1484.0
+description: The LSVT dataset is a collection of voice recordings of individuals with Parkinson's disease (PD) who underwent the Lee Silverman Voice Treatment (LSVT) intervention. It includes audio recordings of sustained phonation, passage reading, and conversation tasks. The dataset consists of two subsets: LSVT-LOUD, containing data before and after the treatment, and LSVT-COMMANDS, focusing on specific voice commands. The recordings are accompanied by several features such as jitter, shimmer, harmonic-to-noise ratio, etc. This dataset was created to aid research and development of speech processing techniques for analyzing and understanding the effects of the LSVT intervention on PD patients' voice quality and speech performance.

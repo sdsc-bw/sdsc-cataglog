@@ -1,0 +1,3 @@
+name: Weather
+dataset_id: 45601.0
+description: The dataset "Weather" contains historical weather data obtained from various sources. It includes information like temperature, humidity, pressure, wind speed, and precipitation for different locations around the world. The data is recorded at regular intervals, usually on an hourly basis. The dataset is extensive, covering several years of weather observations. It provides a valuable resource for analyzing climate patterns and trends. Researchers and meteorologists can utilize this dataset to study weather changes over time, identify climate anomalies, and develop accurate forecasting models. The dataset is available for public use and can be accessed for free.

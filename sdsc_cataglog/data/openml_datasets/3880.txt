@@ -1,0 +1,3 @@
+name: superconduct
+dataset_id: 44006.0
+description: The dataset "Superconduct" consists of various data parameters for 21,263 superconductors. It includes both quantitative and categorical features, such as critical temperature, number of elements, atomic mass, and more. The dataset also provides information about the chemical formula and symmetry of the superconductors. Additionally, it contains calculated properties, like the ratio between the average valence electrons of the elements. The purpose of this dataset is to facilitate research and analysis in the field of superconductivity, aiding in the discovery of materials with high critical temperatures and advancing understanding in this area of physics.

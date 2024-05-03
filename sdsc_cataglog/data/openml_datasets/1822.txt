@@ -1,0 +1,3 @@
+name: QSAR-TID-101477
+dataset_id: 3806.0
+description: The dataset QSAR-TID-101477 includes information about chemical compounds and their biological activities. It consists of 1,019 molecules and 140 different features. The features represent molecular descriptors such as size, shape, and atomic properties. The dataset provides binary classification labels indicating whether a compound is active or inactive against a specific target. The data was curated from various sources and can be used for machine learning tasks such as predicting the activity of new compounds. QSAR-TID-101477 offers a valuable resource for researchers in the fields of pharmaceuticals and drug discovery.

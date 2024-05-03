@@ -1,0 +1,3 @@
+name: KDDCup99
+dataset_id: 1113.0
+description: The KDDCup99 dataset is a widely used benchmark dataset in the field of intrusion detection and network security. It was created from the data collected in the DARPA Intrusion Detection Evaluation Program. The dataset consists of network traffic data captured from a simulated environment with different types of attacks. It contains about 5 million records and 42 attributes, making it a comprehensive and complex dataset. KDDCup99 has been used by researchers to develop and evaluate various machine learning algorithms and intrusion detection systems to improve network security.

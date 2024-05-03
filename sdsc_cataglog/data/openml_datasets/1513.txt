@@ -1,0 +1,3 @@
+name: QSAR-TID-102774
+dataset_id: 3496.0
+description: The dataset QSAR-TID-102774 consists of 152 observations and 1027 descriptors. It contains information on various compounds used in the synthesis of novel diuretic agents. The compounds were synthesized and tested for their ability to inhibit the human carbonic anhydrase isoform II enzyme, which plays a crucial role in the regulation of fluid balance. The descriptors include molecular and electronic properties, as well as topological and constitutional descriptors. The dataset aims to provide insights into the structure-activity relationship of these compounds and aid in the discovery of potential diuretic agents with improved efficacy.

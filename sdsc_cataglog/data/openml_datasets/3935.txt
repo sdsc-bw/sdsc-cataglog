@@ -1,0 +1,3 @@
+name: Mercedes_Benz_Greener_Manufacturing
+dataset_id: 44061.0
+description: The dataset Mercedes_Benz_Greener_Manufacturing contains information related to a manufacturing process implemented by Mercedes-Benz to reduce energy consumption during vehicle production. The dataset includes anonymized variables and is structured in a tabular format. It consists of around 4000 observations and 378 variables, with most variables being labeled as 'X0' to 'X377'. The purpose of this dataset is to develop models that can predict the time taken for a specific production task. Variables such as car characteristics, manufacturing codes, and feature engineering are present in the dataset. The dataset is suitable for exploratory data analysis and machine learning purposes.

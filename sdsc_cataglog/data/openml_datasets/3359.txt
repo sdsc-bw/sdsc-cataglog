@@ -1,0 +1,3 @@
+name: Amazon-Echo-Dot-2-Reviews-Dataset
+dataset_id: 43431.0
+description: The Amazon-Echo-Dot-2-Reviews-Dataset is a dataset that contains reviews and ratings for the Amazon Echo Dot 2nd generation. The dataset includes over 1,000 reviews, with information about the reviewer, such as their name and location. It also includes the review title and text, as well as the rating given by the reviewer. The dataset can be used to analyze and understand customer sentiments towards the Amazon Echo Dot 2nd generation.

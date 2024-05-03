@@ -1,0 +1,3 @@
+name: Test_vectors
+dataset_id: 42462.0
+description: The dataset called Test_vectors contains a collection of pre-generated queries and corresponding documents in a question answering system. It includes a variety of query types such as factoid, list, and entity. The queries cover several domains including science, literature, and sports. Each query has a corresponding question ID and the respective document contains the correct answer. The documents have been obtained from various sources such as web pages and books. The dataset aims to assess the performance of different question answering models by evaluating their ability to accurately answer queries based on the provided documents.

@@ -1,0 +1,3 @@
+name: svensson
+dataset_id: 423.0
+description: The dataset "svensson" contains information on Swedish surnames and their popularity. It includes data on the number of individuals with each surname, details on name changes due to marriage or other reasons, as well as the frequency of specific surnames in different Swedish regions. The dataset is extensive, covering several decades and providing insight into the changing popularity and distribution of Swedish surnames. It can be used for various research purposes, such as studying naming trends, understanding social demographics, and analyzing regional variations in surname usage. Overall, the svensson dataset offers valuable information for those interested in Swedish surnames and their historical context.

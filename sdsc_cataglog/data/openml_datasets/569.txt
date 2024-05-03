@@ -1,0 +1,3 @@
+name: boston_corrected
+dataset_id: 825.0
+description: The dataset "boston_corrected" consists of housing data of various neighborhoods in Boston. It contains a total of 506 observations and 14 attributes. Each observation represents a different suburb and contains data on factors like crime rate, proportion of residential land, average number of rooms per dwelling, etc. The dataset is known for being used in a famous regression example known as the Boston Housing Data Set, where the goal is to predict the median value of owner-occupied homes. It is commonly used in machine learning and statistical modeling tasks for studying housing prices and related factors in the Boston area.

@@ -1,0 +1,3 @@
+name: mtp
+dataset_id: 405.0
+description: The MTP dataset is a collection of data related to the Mobile Termination Point, which is an essential component in telecommunication networks. The dataset includes information about the duration, location, and type of phone calls made through this network. It also contains data on the performance and usage of the network, such as call drops, signal strength, and network congestion. The dataset provides valuable insights and analysis opportunities for researchers and network experts to improve network efficiency, quality, and customer experience. It can be used to identify patterns, optimize network resources, and develop strategies for network improvement.

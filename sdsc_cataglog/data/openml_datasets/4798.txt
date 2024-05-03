@@ -1,0 +1,3 @@
+name: mildew_3
+dataset_id: 45156.0
+description: The dataset mildew_3 contains information related to the growth of mildew on different plants. It includes data on various environmental factors such as temperature, humidity, and wind speed, along with observations of mildew growth on different plant varieties. The dataset consists of 1000 instances, each representing a combination of environmental factors and the corresponding mildew growth. The purpose of the dataset is to analyze the impact of environmental conditions on mildew growth to develop strategies for prevention and control. It can be used for statistical analysis, machine learning algorithms, and other research purposes in the field of plant pathology.

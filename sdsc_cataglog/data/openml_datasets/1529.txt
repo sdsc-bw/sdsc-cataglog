@@ -1,0 +1,3 @@
+name: QSAR-TID-101222
+dataset_id: 3513.0
+description: The dataset QSAR-TID-101222 is a collection of 1055 instances, each containing 41 molecular descriptors and a binary class label indicating the bioactivity of various molecules. The dataset was obtained using molecular representations and structure-activity relationships. The descriptors include physicochemical, topological, electronic, and quantum-chemical properties of the molecules. The dataset aims to predict the bioactivity of molecules based on their descriptors. However, the specific details about the molecules, their bioactivity targets, and further context are not provided in the summary.

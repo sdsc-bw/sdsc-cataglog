@@ -1,0 +1,3 @@
+name: dresses-sales
+dataset_id: 23381.0
+description: The dataset "dresses-sales" contains information about sales of dresses. It includes data on various attributes such as the season, the type of the dress, its price, and the total number of sales. The dataset consists of 500 rows and 13 columns. The columns provide details on attributes like the age category, the style, the usage, the price range, the rating, the size, the discount percentage, the length, the neckline, the sleeve length, the waistline, and the material. The data can be used to analyze sales trends, customer preferences, and to develop predictive models for dress sales.

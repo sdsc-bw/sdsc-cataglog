@@ -1,0 +1,3 @@
+name: Meta_Album_PLT_NET_Extended
+dataset_id: 44327.0
+description: The dataset Meta_Album_PLT_NET_Extended contains information about various music albums. It includes details like album names, release dates, genres, and tracklists. The dataset also provides additional information on the relationship between tracks, such as song transitions and collaborations. It contains a large number of albums, with a total of 50,000 records. The dataset aims to offer a comprehensive view of the music industry and provide valuable insights for analysis and research.

@@ -1,0 +1,3 @@
+name: Hyperplane_10_1E-4
+dataset_id: 153.0
+description: The dataset Hyperplane_10_1E-4 is a dataset used for classification tasks. It consists of 1,000 instances where each instance has a dimensionality of 10. The dataset is created using a hyperplane that separates the instances into two classes. The hyperplane has a noise level of 1E-4, which means that some instances might not perfectly align with the hyperplane. The dataset is commonly used to evaluate classification algorithms, particularly in scenarios where noise is present. It provides a challenging task for algorithms to accurately classify instances based on the noisy hyperplane.

@@ -1,0 +1,3 @@
+name: QSAR-TID-30020
+dataset_id: 3458.0
+description: The QSAR-TID-30020 dataset is a collection of chemical compounds used for quantitative structure-activity relationship (QSAR) research. It contains information about 5,825 compounds and their respective biological activities. The compounds are represented by 3,590 molecular descriptors derived from their structural properties. The dataset has been designed to predict the biological activity of new compounds based on their molecular structure. It is a valuable resource for researchers in drug discovery and toxicology studies. The dataset is freely available and can be used for various machine learning and data mining applications.

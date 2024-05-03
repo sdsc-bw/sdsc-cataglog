@@ -1,0 +1,3 @@
+name: elusage
+dataset_id: 790.0
+description: ELUsage is a dataset that provides valuable information on the usage of electronic libraries. It includes data collected from academic libraries to understand the patterns and trends in electronic resource usage. The dataset consists of statistics about the number of visits, session duration, and pages accessed by library users. It also includes data about the size, subscription information, and type of electronic resources. Information about the usage of specific resources like journals, books, and databases is available too. ELUsage dataset offers insights into how electronic library resources are utilized, enabling researchers to analyze trends and make informed decisions for resource allocation and collection development.

@@ -1,0 +1,3 @@
+name: analcatdata_apnea1
+dataset_id: 767.0
+description: The dataset analcatdata_apnea1 is about the diagnosis of sleep apnea. It includes data for 120 patients, with 22 variables. The variables include age, sex, weight, smoke, and alcohol. The main objective is to predict the apnea/hypopnea index (AHI) based on various attributes. The AHI indicates the severity of sleep apnea, with higher values indicating more severe cases. The dataset also includes the outcome variable, which categorizes patients into three groups based on the severity of their condition. The dataset is useful for understanding the factors that contribute to sleep apnea and developing predictive models for its diagnosis.

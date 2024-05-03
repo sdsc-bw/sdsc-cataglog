@@ -1,0 +1,3 @@
+name: bank-marketing_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44404.0
+description: The dataset "bank-marketing_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns. It is a bank marketing dataset with 10 classes. The data has been stratified to ensure proportional representation of each class. The dataset likely includes various features related to bank marketing activities such as customer demographics, financial details, or response to marketing campaigns. It can be used for various machine learning tasks such as classification or prediction of customer behavior. The exact details of the features and target variable are not mentioned in the given sentences.

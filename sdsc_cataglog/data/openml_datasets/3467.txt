@@ -1,0 +1,3 @@
+name: Sample---Employees-Monthly-Salary
+dataset_id: 43543.0
+description: The dataset Sample---Employees-Monthly-Salary contains information about the monthly salaries of employees. It includes various attributes such as the employee's ID, gender, age, job title, and monthly salary. The dataset also contains information about the company, such as the company's ID, name, and location. The dataset provides a comprehensive overview of the salary distribution among employees, allowing for analysis of factors like gender pay gap, age-related salary differences, and differences in salaries based on job titles. This dataset can be utilized to identify trends and patterns to inform HR policies, compensation strategies, and highlight potential disparities in wages.

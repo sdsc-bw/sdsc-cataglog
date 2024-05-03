@@ -1,0 +1,3 @@
+name: dataset_31_credit-g
+dataset_id: 42628.0
+description: The dataset dataset_31_credit-g is focused on credit-giving decisions made by a financial institution. It contains 13 attributes such as age, income, employment, and education level, which are utilized to assess creditworthiness. The instances in the dataset represent individuals who applied for loans, with binary labels indicating whether the loan was approved or not. The dataset comprises 1000 instances, with approximately 30% approved and 70% denied. The dataset_31_credit-g presents an opportunity to analyze and develop models to predict credit approval decisions based on the provided attributes.

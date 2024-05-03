@@ -1,0 +1,3 @@
+name: compass_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44458.0
+description: The dataset "compass_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns. It is categorized into 10 classes and has been stratified for a balanced distribution. The specific details of the dataset, such as the types and nature of the features, are not mentioned. The dataset's name suggests that it may be related to the COMPAS system, which is used in criminal justice to predict recidivism rates. However, this information is not explicitly stated in the given sentence.

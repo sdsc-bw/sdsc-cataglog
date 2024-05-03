@@ -1,0 +1,3 @@
+name: AP_Colon_Lung
+dataset_id: 1126.0
+description: The dataset AP_Colon_Lung contains data on the classification of colon and lung tumor samples. The dataset includes 62 samples, out of which 40 are colon samples and 22 are lung samples. Each sample has 48 attributes, including gene expression data obtained from DNA microarray experiments. The dataset has been used for the purpose of classification and feature selection in cancer bioinformatics research. The features represent the expression levels of different genes that may be related to the development or progression of colon and lung tumors. It provides a valuable resource for studying these types of cancer and developing predictive models.

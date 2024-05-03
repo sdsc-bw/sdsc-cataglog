@@ -1,0 +1,3 @@
+name: QSAR-TID-106
+dataset_id: 4000.0
+description: The QSAR-TID-106 dataset consists of 1338 compounds with their anti-HIV activity values. The dataset was created to develop quantitative structure-activity relationship (QSAR) models to predict the anti-HIV activity of compounds. These compounds belong to different classes and have varying structures. The values of anti-HIV activity were determined using a bioassay, and the dataset includes additional information such as molecular descriptors and other physicochemical properties. The dataset can be utilized to analyze the relationship between chemical structure and anti-HIV activity, and to develop models for predicting the activity of new compounds.

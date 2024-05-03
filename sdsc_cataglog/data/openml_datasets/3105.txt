@@ -1,0 +1,3 @@
+name: gnfuv-pi-5
+dataset_id: 42982.0
+description: The dataset gnfuv-pi-5 is a comprehensive collection of information related to parking tickets issued by the San Francisco Municipal Transportation Agency (SFMTA). It includes data points such as citation dates, violation codes, fine amounts, and geographical coordinates of violation locations. The dataset provides insights on parking violations and patterns across different neighborhoods and time periods in San Francisco. It can be used for analysis, research, and improving parking enforcement strategies. The dataset is regularly updated and publicly available, allowing stakeholders to access and utilize the information for various purposes.

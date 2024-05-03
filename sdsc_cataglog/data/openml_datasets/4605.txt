@@ -1,0 +1,3 @@
+name: porto-seguro_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44783.0
+description: The dataset "porto-seguro_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns. It has 10 different classes and employs stratification. The purpose of the dataset is unclear from the provided information. It seems to be focused on classification tasks, given the presence of multiple classes. The seed value for the dataset is set to 0, implying a fixed randomization for reproducibility. However, further details about the nature of the data, its features, or intended use are not mentioned, thus making it difficult to provide a comprehensive summary.

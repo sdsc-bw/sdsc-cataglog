@@ -1,0 +1,3 @@
+name: APSFailure_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44509.0
+description: The dataset APSFailure_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns, with 10 classes. The dataset is stratified, meaning that the distribution of classes is maintained while sampling. It is a multiclass classification dataset, where the goal is to classify instances into one of the 10 classes. The dataset is seeded with a specific value, ensuring reproducibility. It is likely that the dataset contains information related to the APS (Air Pressure System) and failures associated with it, as suggested by its name. Overall, it provides a useful resource for evaluating and developing classification models.

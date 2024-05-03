@@ -1,0 +1,3 @@
+name: kidney
+dataset_id: 553.0
+description: The dataset "kidney" contains information related to the diagnosis of chronic kidney disease (CKD). It consists of 400 instances and 25 features, including numerical, categorical, and textual variables. The dataset is publicly available on the UCI Machine Learning Repository. Each instance represents a patient with CKD, and the features include age, blood pressure, blood glucose level, albumin, hemoglobin, white blood cell count, and various other medical measurements. The dataset aims to aid in the analysis and prediction of CKD, helping healthcare professionals make informed decisions and improve patient care.

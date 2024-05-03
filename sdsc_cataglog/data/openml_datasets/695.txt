@@ -1,0 +1,3 @@
+name: tae
+dataset_id: 955.0
+description: The TAE dataset is a collection of evaluations provided by students for various teaching assistants. It includes 151 instances, with each instance having 5 attributes related to the TAs' performance. These attributes include the TA's knowledge, their ability to explain clearly, their willingness to help, their ability to stimulate student interest, and their overall rating. The dataset also contains additional information such as the TA's identity and the course being taught. The purpose of this dataset is to enable the analysis of different attributes to improve teaching effectiveness and provide feedback for TAs' professional growth.

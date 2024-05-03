@@ -1,0 +1,3 @@
+name: stock
+dataset_id: 223.0
+description: The stock dataset provides historical data on various aspects of the stock market, including stock prices, trading volume, and market capitalization. The dataset includes information on different stock exchanges worldwide, such as NYSE, NASDAQ, and London Stock Exchange. It covers a wide range of companies from various sectors, including technology, finance, healthcare, and energy. The data is updated regularly and spans over a considerable time period, allowing for comprehensive analysis and evaluation of stock market trends. This dataset is valuable for researchers, analysts, and traders who seek to gain insights into the stock market and make informed investment decisions.

@@ -1,0 +1,3 @@
+name: QSAR-TID-146
+dataset_id: 3358.0
+description: The dataset QSAR-TID-146 contains information related to the quantitative structure-activity relationship (QSAR) of around 1600 compounds. It includes various molecular descriptors, such as the number of hydrogen bond donors and acceptors, molecular weight, and polar surface area. The activity of each compound is measured in terms of its inhibitory concentration against a specific enzyme target. The dataset has been extensively used for developing QSAR models and for predicting the inhibitory concentration of new compounds. It is readily available for research purposes and can be accessed through the QSAR DataBank platform.

@@ -1,0 +1,3 @@
+name: FOREX_eurtry-minute-Close
+dataset_id: 41771.0
+description: The dataset FOREX_eurtry-minute-Close contains information about the closing rates of the EUR/TRY currency pair in minute intervals. The dataset consists of historical data and is commonly used in the field of foreign exchange trading. It provides insights into the volatility and fluctuations of the exchange rates between the Euro and the Turkish Lira over time. Traders and analysts can utilize this data to identify patterns, trends, and potential trading opportunities. The dataset is crucial for conducting technical analysis and making informed decisions in the forex market, as it offers a comprehensive overview of minute-by-minute changes in the EUR/TRY exchange rate.

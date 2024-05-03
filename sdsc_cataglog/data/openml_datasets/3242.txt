@@ -1,0 +1,3 @@
+name: Used-Cars-Dataset
+dataset_id: 43305.0
+description: The Used-Cars-Dataset is a collection of information on used cars for sale. The dataset contains various attributes including the make, model, year, price, mileage, fuel type, and other specifications of the vehicles. It includes data on different car brands and models from various years and with different prices and mileage. This dataset can be used for analyzing trends in the used car market, predicting car values, and understanding factors that affect car prices. The dataset offers valuable insights for car buyers, sellers, and researchers interested in the automotive industry.

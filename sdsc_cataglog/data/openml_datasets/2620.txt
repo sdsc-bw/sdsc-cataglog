@@ -1,0 +1,3 @@
+name: FOREX_chfsgd-hour-Close
+dataset_id: 41885.0
+description: The dataset FOREX_chfsgd-hour-Close contains hourly closing prices of the CHF/SGD currency pair in the foreign exchange (FOREX) market. The dataset contains data points for multiple time periods, with each data point representing the closing price of CHF/SGD at the end of an hour. The dataset is likely to include a significant number of data points, allowing for analysis of trends and patterns in the currency pair's price behavior over time. This dataset can be used by traders, analysts, and researchers to study the CHF/SGD exchange rate and develop trading strategies or make informed decisions related to the currency pair's performance.

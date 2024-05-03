@@ -1,0 +1,3 @@
+name: Meta_Album_ACT_410_Mini
+dataset_id: 44301.0
+description: The dataset Meta_Album_ACT_410_Mini contains information related to albums and artists. It includes metadata about the albums, such as the album title, release date, and genre. Additionally, it provides data about the artists, including their name, nationality, and gender. The dataset also includes information about the album tracks, such as track number, title, and duration. It is a smaller version of a larger dataset and can be used for various analysis and research purposes related to album and artist information.

@@ -1,0 +1,3 @@
+name: house_sales
+dataset_id: 44002.0
+description: The dataset house_sales contains information about the sales of houses. It includes several attributes such as the sale price, location, number of bedrooms, bathrooms, and the overall condition of the house. The dataset also provides details on the square footage, year built, and the type of property (single-family, townhouse, etc.). Additionally, it includes information on the date of sale, the selling agent, and the property's zoning classification. The house_sales dataset can be used to analyze trends in the housing market, predict house prices, and understand the factors that influence property sales.

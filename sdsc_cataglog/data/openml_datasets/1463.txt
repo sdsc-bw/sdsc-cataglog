@@ -1,0 +1,3 @@
+name: QSAR-TID-11989
+dataset_id: 3443.0
+description: The dataset QSAR-TID-11989 consists of 6,200 chemical compounds and their associated biological activity values. These compounds are related to the inhibition of the enzyme Thrombin, which plays a crucial role in blood coagulation. This dataset's aim is to develop a quantitative structure-activity relationship (QSAR) model to predict the inhibitory potency of novel compounds on Thrombin. The molecular descriptors used for this dataset include topological, geometrical, and electronic parameters. The dataset is useful for researchers interested in developing new drugs or studying the structure-activity relationship of Thrombin inhibitors.

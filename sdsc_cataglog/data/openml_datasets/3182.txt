@@ -1,0 +1,3 @@
+name: white_wine1
+dataset_id: 43119.0
+description: The dataset white_wine1 consists of various attributes that describe different properties of white wine. It contains 4898 rows and 12 columns, which represent the number of samples and the number of attributes respectively. The attributes provide information such as the wine's acidity levels, sugar content, pH level, alcohol content, and more. The dataset aims to explore the relationship between these attributes and the wine's quality, which is scored on a scale of 0 to 10. Overall, the white_wine1 dataset offers a comprehensive collection of data that can be used to analyze and understand the factors that contribute to the quality of white wine.

@@ -1,0 +1,3 @@
+name: datasets-uta4
+dataset_id: 42349.0
+description: The dataset datasets-uta4 contains information about pedestrians and vehicles collected by the University of Texas at Arlington. It includes data on pedestrian trajectories, vehicle trajectories, and other related information. The dataset consists of over 1 million trajectory samples from various scenarios, such as busy urban intersections and parking lots. It also includes annotations for different events, such as crossing, waiting, and interaction between pedestrians and vehicles. The dataset aims to provide a comprehensive set of data for research in pedestrian and vehicle interaction, autonomous driving, and other related areas.

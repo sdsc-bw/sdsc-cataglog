@@ -1,0 +1,3 @@
+name: SurvBoard-TCGA-BLCA-incomplete
+dataset_id: 44188.0
+description: The dataset SurvBoard-TCGA-BLCA-incomplete revolves around bladder cancer (BLCA) and contains incomplete patient survival data. It provides information on various characteristics and features of BLCA patients, such as age, gender, race, tumor stage, and molecular subtypes. However, due to missing survival information, the dataset is considered incomplete. Bladder cancer is a significant health issue, and this dataset aims to contribute to the understanding and analysis of BLCA patient data. The dataset can aid in the development of models for predicting patient survival outcomes and identifying potential risk factors associated with bladder cancer.

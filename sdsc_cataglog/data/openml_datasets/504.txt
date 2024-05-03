@@ -1,0 +1,3 @@
+name: meta
+dataset_id: 757.0
+description: The dataset meta is a collection of metadata about different datasets. It provides useful information such as the name, description, format, size, and other relevant details about each dataset. This metadata is essential for data scientists and researchers who need to understand the characteristics of the data before using it in their analyses or models. The dataset meta also includes information about the source of the data, its licensing terms, and any associated tags or labels. Having access to this metadata helps users quickly identify and select the most suitable datasets for their specific needs, ensuring more efficient and accurate analysis.

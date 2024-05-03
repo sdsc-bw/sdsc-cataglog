@@ -1,0 +1,3 @@
+name: breast-cancer-coimbra
+dataset_id: 42900.0
+description: The breast-cancer-coimbra dataset contains data from 116 patients with breast cancer collected at a hospital in Coimbra, Portugal. The dataset includes clinical features like age and BMI, as well as 10 real-valued features extracted from images of fine needle aspirate (FNA) samples of breast cells. The target variable in this dataset is a binary classification indicating whether the patient has breast cancer or not. The dataset is relatively small with 198 instances and 10 features. It is publicly available and is often used by researchers and machine learning practitioners to develop and evaluate breast cancer prediction models.

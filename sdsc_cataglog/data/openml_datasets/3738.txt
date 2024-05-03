@@ -1,0 +1,3 @@
+name: Reliance-Industries-(RIL)-Share-Price-(1996-2020)
+dataset_id: 43816.0
+description: The dataset Reliance-Industries (RIL) - Share-Price (1996-2020) provides information about the share prices of Reliance Industries Limited (RIL) from 1996 to 2020. RIL is a major conglomerate operating in various industries such as petrochemicals, refining, oil, and gas exploration. The dataset likely includes data on the opening and closing prices, highest and lowest prices, trading volume, and other relevant information. Analyzing this dataset can help understand the historical trends and performance of RIL's shares over the years, enabling investors and analysts to make informed decisions.

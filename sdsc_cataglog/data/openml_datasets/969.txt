@@ -1,0 +1,3 @@
+name: qsar-biodeg
+dataset_id: 1494.0
+description: The dataset "qsar-biodeg" consists of a collection of 41 chemical compounds. These compounds are known to have an impact on the biodegradation process, thus making them of interest for various environmental studies. In order to evaluate the biodegradability potential, multiple features such as the presence of certain chemical groups, molecular connectivity, and spatial properties were recorded for each compound. Additionally, the dataset includes a target variable representing the experimental biodegradability values of the compounds. This dataset provides valuable insights for developing predictive models and understanding the factors influencing biodegradation processes in the environment.

@@ -1,0 +1,3 @@
+name: Toronto-COVID-19-Cases
+dataset_id: 43480.0
+description: The Toronto-COVID-19-Cases dataset provides information on the confirmed cases of COVID-19 in the city of Toronto, Canada. It includes data on the number of cases, age group distribution, sex distribution, neighborhood location, and more. The dataset is regularly updated to track the progression of the pandemic and to help monitor and understand the impact of the virus on the community. This dataset is used by researchers, health professionals, and policymakers to analyze trends, identify areas of concern, and develop appropriate strategies to combat the spread of the virus and protect public health in Toronto.

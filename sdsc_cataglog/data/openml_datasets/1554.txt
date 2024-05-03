@@ -1,0 +1,3 @@
+name: QSAR-TID-220
+dataset_id: 3538.0
+description: The dataset QSAR-TID-220 is a collection of chemical compounds used in drug discovery research. It consists of 220 compounds and their respective biological activities against a specific target. The compounds' structures are represented by 2D molecular descriptors, such as atom types and connectivity information. The dataset also includes additional information, such as the number of hydrogen bond donors and acceptors. The goal of this dataset is to develop quantitative structure-activity relationship (QSAR) models to predict the biological activities of similar compounds. QSAR-TID-220 provides a valuable resource for researchers working in drug design and discovery.

@@ -1,0 +1,3 @@
+name: FOREX_audnzd-hour-High
+dataset_id: 41825.0
+description: The dataset FOREX_audnzd-hour-High contains information about hourly high values of the AUD/NZD forex (foreign exchange) trading pair. The dataset likely includes historical data, representing the highest value reached by the AUD/NZD pair within each hourly period. The dataset seems relevant for analyzing the trading patterns, trends, and potential fluctuations in this particular forex pair. It can be used by traders, researchers, or analysts to derive insights and make informed decisions based on the historical performance of AUD/NZD. The dataset may enable the identification of significant price points or support/resistance levels, aiding in predicting future movements or formulating trading strategies.

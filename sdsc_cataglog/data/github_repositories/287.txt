@@ -1,0 +1,3 @@
+repo_name: AIF360
+link: https://github.com/Trusted-AI/AIF360
+description: The AI Fairness 360 toolkit is an extensible open-source library containing techniques developed by the research community to help detect and mitigate bias in machine learning models throughout the AI application lifecycle. The AI Fairness 360 package is available in both Python and R. The package includes supported bias mitigation algorithms, supported fairness metrics, and an interactive experience for data scientists. The library is still in development and encourages contributions of metrics, explainers, and debiasing algorithms. Installation instructions are provided for Conda, pip, and manual installation. Examples and troubleshooting steps are also available.

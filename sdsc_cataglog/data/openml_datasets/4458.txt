@@ -1,0 +1,3 @@
+name: segment_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44637.0
+description: The dataset segment_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset that has been artificially created with 2000 rows and 100 columns. It consists of 10 different classes, meaning there are 10 different categories or labels present in the dataset. The dataset has been stratified, which means that the distribution of the classes in the dataset is representative of the overall population. That is, the proportions of each class in the dataset are similar to the proportions in the entire population. Overall, this dataset provides a well-balanced and representative sample for analysis.

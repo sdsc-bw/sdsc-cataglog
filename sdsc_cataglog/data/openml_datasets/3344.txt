@@ -1,0 +1,3 @@
+name: Students-Academic-Performance-Dataset
+dataset_id: 43415.0
+description: The Students-Academic-Performance-Dataset is a dataset that focuses on the academic performance of students. It contains information about various factors that may affect students' performance, such as their gender, race/ethnicity, parental level of education, lunch type, and test preparation course completion. The dataset is diverse, including data from different countries and socio-economic backgrounds. It offers 1,000 observations and 8 variables. This dataset can be used for various purposes, such as analyzing the impact of different factors on academic performance, identifying patterns and trends, and developing strategies to improve students' achievement levels.

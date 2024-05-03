@@ -1,0 +1,3 @@
+name: Weather
+dataset_id: 45602.0
+description: The dataset "Weather" contains historical weather data collected from various weather stations. It includes information such as temperature, humidity, wind speed, and precipitation for different locations and dates. The data is in a tabular format with columns representing different variables and rows representing individual records. This dataset is diverse and covers a wide range of geographical locations and time periods. It can be used for various analyses and studies related to weather patterns, climate change, and forecasting. The dataset allows researchers to examine trends, make predictions, and assess the impact of weather conditions on various aspects of life.

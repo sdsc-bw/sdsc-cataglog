@@ -1,0 +1,3 @@
+name: USA-Airport-Dataset
+dataset_id: 43479.0
+description: The dataset USA-Airport-Dataset contains information about airports in the United States. It includes various attributes such as the airport name, the city it is located in, the state, the country, latitude and longitude coordinates, the type of airport (public, military, etc.), and the airport's elevation. It also provides details about the airport's usage, such as the number of enplanements and passenger load factors. Additionally, the dataset contains information on the airport's facilities, such as the number of runways, heliports, and control towers. This dataset can be used for various analyses and visualizations related to airports in the United States.

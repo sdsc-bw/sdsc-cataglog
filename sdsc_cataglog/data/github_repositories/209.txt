@@ -1,0 +1,3 @@
+repo_name: pytorch
+link: https://github.com/pytorch/pytorch
+description: PyTorch is a Python package that provides two high-level features: A GPU-Ready Tensor Library and Dynamic Neural Networks with Tape-Based Autograd. PyTorch is not a Python binding into a monolithic C++ framework and is built to be deeply integrated into Python. You can use it naturally like you would use NumPy/SciPy/scikit-learn etc. PyTorch is designed to be intuitive, linear in thought, and easy to use, and has minimal framework overhead. PyTorch is currently maintained by Soumith Chintala, Gregory Chanan, Dmytro Dzhulgakov, Edward Yang, and Nikita Shulga, with major contributions coming from hundreds of talented individuals in various forms and means.

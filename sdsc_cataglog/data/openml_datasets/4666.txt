@@ -1,0 +1,3 @@
+name: Diabetes130US
+dataset_id: 45022.0
+description: The dataset Diabetes130US contains 130 observations, each representing a patient with diabetes. The dataset consists of 12 variables including age, gender, body mass index, blood pressure, and various blood tests for glucose, insulin, and cholesterol levels. The patients included in the dataset are at least 21 years old and were labeled as having diabetes based on clinical criteria. The objective of analyzing this dataset is to explore patterns, correlations, and potential predictive factors related to diabetes. Additionally, the dataset contains some missing values, which will need to be appropriately handled during analysis.

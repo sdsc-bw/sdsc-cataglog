@@ -1,0 +1,3 @@
+name: airlines
+dataset_id: 42493.0
+description: The dataset "airlines" contains information about different airlines and their performance. It provides data on various aspects like the number of passengers carried, miles flown, and the number of flights. The dataset also includes details about the airline's punctuality and delays, including the average arrival and departure delays. Information on the origin and destination airports, as well as the distance between them, is readily available. Additionally, the dataset offers insights into the airline's fleet, such as the number and type of aircraft operated. Overall, this comprehensive dataset allows for in-depth analysis and evaluation of airlines' overall performance and operations.

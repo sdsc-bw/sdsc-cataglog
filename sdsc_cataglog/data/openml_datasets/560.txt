@@ -1,0 +1,3 @@
+name: puma8NH
+dataset_id: 816.0
+description: The dataset puma8NH contains information about the performance of eight different personal assistance teams in a mobile robotics scenario. The teams were evaluated in terms of their effectiveness in acquiring a target object and their response time. The dataset consists of 20 trials for each team, resulting in a total of 160 observations. In each trial, the teams attempted to reach and pick up a target object in a given time frame. The dataset also includes additional features like the distance between the target and team, team skill level, and target appearance. The dataset aims to analyze team performance in mobile robotics scenarios.

@@ -1,0 +1,3 @@
+name: MagicTelescope
+dataset_id: 44070.0
+description: The MagicTelescope dataset consists of information collected by the Major Atmospheric Gamma Imaging Cherenkov (MAGIC) telescopes. It includes measurements from high-energy particles with energies above 100 GeV. The dataset contains 19020 instances with 11 features, including the signal or background classification as the target variable. The features consist of different properties such as integral, maximum, and minimum values of the curve of light intensity, as well as features related to the width, length, size, and asymmetry of the image. The dataset provides valuable information for the development and evaluation of machine learning models for high-energy astrophysics and particle physics research.

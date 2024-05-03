@@ -1,0 +1,3 @@
+name: insurance_4
+dataset_id: 45146.0
+description: The dataset insurance_4 is a collection of data related to insurance claims. It contains information about various factors such as age group, gender, BMI, number of children, smoking habits, region, and charges. The dataset consists of 1,338 records. Additionally, it includes columns like age, sex, children, smoker, region, and charges. The dataset is likely to be used for analyzing insurance trends, predicting claim costs, assessing risk factors, and determining appropriate insurance premiums. Overall, insurance_4 offers a comprehensive dataset for exploring various aspects of insurance claims and related factors.

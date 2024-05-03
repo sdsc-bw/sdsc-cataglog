@@ -1,0 +1,3 @@
+name: first-order-theorem-proving_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44664.0
+description: The dataset called "first-order-theorem-proving_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2,000 rows and 10 different classes. Each row represents a first-order theorem-proving problem, and there are 100 columns in total. The dataset is stratified, meaning that the distribution of classes is balanced. The purpose of this dataset is to provide a collection of examples for first-order theorem proving tasks, where the goal is to automatically prove mathematical theorems using automated reasoning techniques. This dataset can be used for training and evaluating machine learning models in the domain of theorem proving.

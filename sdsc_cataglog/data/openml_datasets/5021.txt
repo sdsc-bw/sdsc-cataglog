@@ -1,0 +1,3 @@
+name: Click
+dataset_id: 45556.0
+description: Click is a dataset that contains information about users' browsing behavior while using a web browser extension. The dataset includes unique user IDs, timestamps of when a user clicked on a link, and the URL of the link that was clicked. The dataset spans a period of several months and consists of millions of data points. It provides valuable insights into user engagement and browsing patterns. Clicks are categorized into different types, such as whether they lead to an article, a video, or an external website. This dataset can be used to analyze user preferences, improve user experience, and make informed decisions regarding content recommendations and advertising strategies.

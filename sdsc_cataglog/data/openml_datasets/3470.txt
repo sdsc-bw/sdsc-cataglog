@@ -1,0 +1,3 @@
+name: AqSolDB-A-curated-aqueous-solubility-dataset
+dataset_id: 43546.0
+description: The dataset AqSolDB-A is an extensively curated database comprising information on the aqueous solubility of various compounds. It contains data for over 16,000 small organic molecules, making it useful for tasks such as drug discovery and environmental chemical assessment. The dataset includes experimental solubility values, as well as relevant chemical descriptors and structural information for each compound. The curated nature of the dataset ensures the reliability and accuracy of the reported solubility measurements. AqSolDB-A has the potential to aid in the development of computational models and machine learning algorithms for solubility prediction.

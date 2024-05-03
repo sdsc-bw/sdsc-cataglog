@@ -1,0 +1,3 @@
+name: QSAR-TID-12243
+dataset_id: 3887.0
+description: The dataset QSAR-TID-12243 is a collection of chemical compounds and their corresponding bioactivity values against a certain receptor. It consists of 7,000 compounds and 1024 molecular descriptors. The compounds were divided into two sets: training set (5,000 compounds) and test set (2,000 compounds). The bioactivity values represent the binding affinity of the compounds with the receptor. The aim of this dataset is to develop predictive models for bioactivity based on the molecular descriptors. The dataset is publicly available and can be utilized for various applications in drug discovery and computational chemistry.

@@ -1,0 +1,3 @@
+name: QSAR-TID-10364
+dataset_id: 4059.0
+description: The dataset QSAR-TID-10364 has been created to predict the biological activity of a series of molecules. It contains information about 340 chemical compounds, with each compound characterized by 5 structural attributes and 1 target variable. The target variable represents the inhibitory activity of these compounds towards a specific biological target. The dataset can be used for regression analysis to develop models for predicting inhibitory activity based on the given structural attributes. It is a valuable resource in drug discovery research and could aid in identifying potential candidates for further development as pharmaceuticals.

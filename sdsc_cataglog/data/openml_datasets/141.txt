@@ -1,0 +1,3 @@
+name: grub-damage
+dataset_id: 338.0
+description: The dataset "grub-damage" contains information about the extent of damage caused by grubs to maize plants in a greenhouse. It includes data on various factors such as soil type, temperature, rainfall, and nitrogen levels. The goal of this dataset is to understand the relationship between these factors and the damage caused by grubs. The dataset consists of 2000 rows and 7 columns, with each row representing a different observation. The columns include information such as the extent of damage, soil type, and the levels of different variables. This dataset can be used for analysis and modeling purposes to predict and prevent grub damage in maize plants.

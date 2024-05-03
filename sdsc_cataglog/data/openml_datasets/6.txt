@@ -1,0 +1,3 @@
+name: liver-disorders
+dataset_id: 8.0
+description: The dataset "liver-disorders" contains information about different medical attributes of patients with liver disorders. It consists of 345 rows and 7 attributes. The attributes include age, gender, total bilirubin levels, direct bilirubin levels, alkaline phosphatase levels, aspartate aminotransferase levels, and patients' liver disorders status. The dataset aims to help understand the relationship between these attributes and the presence of liver disorders. It may be used for building predictive models or conducting statistical analysis to gain insights into the factors contributing to liver disorders and potentially improving diagnosis and treatment strategies.

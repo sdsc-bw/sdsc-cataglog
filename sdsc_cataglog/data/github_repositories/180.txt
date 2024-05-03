@@ -1,0 +1,3 @@
+repo_name: stencila
+link: https://github.com/stencila/stencila
+description: Stencila is a platform for collaborating on, and publishing, dynamic, data-driven content. Our aim is to lower the barriers for creating data-driven documents and make it easier to create beautiful, interactive, and semantically rich articles, web pages, and applications from them.

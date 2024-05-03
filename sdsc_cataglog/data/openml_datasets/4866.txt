@@ -1,0 +1,3 @@
+name: diabetes_5
+dataset_id: 45224.0
+description: The dataset diabetes_5 consists of information about 442 diabetic patients. It includes ten features such as age, sex, body mass index (BMI), blood pressure, and various blood serum measurements. The dataset aims to understand the factors that affect the progression of diabetes and related complications. The target variable is a quantitative measure of disease progression. The dataset does not contain any missing values. Its features have been normalized using various statistical techniques. This dataset is frequently used in machine learning and statistical research for classification, regression, and predictive modeling tasks related to diabetes.

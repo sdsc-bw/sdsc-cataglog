@@ -1,0 +1,3 @@
+name: mammography
+dataset_id: 310.0
+description: The dataset mammography is used in medical research to develop breast cancer diagnosis models. It contains 11 different attributes, including patient age, shape, and margin of the mass detected during mammography. It also includes information about the severity of the mass, such as whether it is benign or malignant. The dataset consists of 961 instances, with 516 benign and 445 malignant cases. This dataset is often used to train machine learning models to accurately predict breast cancer diagnosis based on mammography results. Researchers aim to leverage this dataset to improve early detection and treatment outcomes for breast cancer patients.

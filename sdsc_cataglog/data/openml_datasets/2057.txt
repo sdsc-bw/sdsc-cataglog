@@ -1,0 +1,3 @@
+name: QSAR-TID-103458
+dataset_id: 4043.0
+description: The dataset QSAR-TID-103458 is used for the development of quantitative structure-activity relationship (QSAR) models. It consists of 1055 chemical compounds, with each compound having 1584 molecular descriptors. The compounds are classified into two classes: 1 for active and 0 for inactive. The goal is to build a model that can accurately predict whether a given compound is active or inactive based on its molecular descriptors. The dataset is provided along with a training set and a test set, and the performance of QSAR models can be evaluated using various statistical measures.

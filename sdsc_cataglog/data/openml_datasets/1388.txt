@@ -1,0 +1,3 @@
+name: QSAR-TID-10167
+dataset_id: 3365.0
+description: The dataset QSAR-TID-10167 contains information on various chemical compounds and their biological activities. It consists of 169 compounds with 540 molecular descriptors, including physicochemical properties and structural features. The biological activities of the compounds are measured using the toxicity induction delay (TID) endpoint. The dataset aims to predict the TID value for new compounds based on their molecular descriptors. It is used for developing quantitative structure-activity relationship (QSAR) models, which assist in drug discovery and toxicity evaluation. The dataset provides valuable information for researchers in the field of computational chemistry and pharmaceutical development.

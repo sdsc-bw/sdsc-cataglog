@@ -1,0 +1,3 @@
+name: QSAR-TID-10331
+dataset_id: 3711.0
+description: The dataset QSAR-TID-10331 contains 1574 instances of chemical compounds, with each compound represented by 10 molecular descriptors. These descriptors include molecular weight, number of atoms, and other characteristics. The data also contains the measured activity against a particular biological target, which is represented as a continuous value. The dataset is primarily used for quantitative structure-activity relationship (QSAR) modeling, aiming to predict the biological activity of new chemical compounds based on their molecular properties. It is publicly available and can be used for research purposes in the field of drug discovery and design.

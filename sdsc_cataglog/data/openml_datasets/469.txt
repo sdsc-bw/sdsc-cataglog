@@ -1,0 +1,3 @@
+name: pol
+dataset_id: 722.0
+description: The dataset "pol" consists of 757 observations and 9 variables. It contains information about political preferences and opinions from a sample of individuals. The variables capture details such as party affiliation, ideology, political interest, and voter registration status. Additionally, the dataset provides data on respondents' opinions on various political issues, including abortion, gun control, and healthcare. The dataset was collected through phone interviews conducted by professional surveyors. In order to analyze the data, certain modifications were made, including recoding of variables and creation of new composite variables. The dataset "pol" is relevant for studying political behavior and public opinion.

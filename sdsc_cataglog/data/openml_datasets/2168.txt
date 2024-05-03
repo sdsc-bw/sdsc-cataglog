@@ -1,0 +1,3 @@
+name: GeographicalOriginalofMusic
+dataset_id: 4544.0
+description: The dataset "GeographicalOriginalofMusic" contains information about the geographical origin of various types of music. It provides details such as the country or region from which the music originates, the latitude and longitude of that location, and the genre or style of the music. The dataset covers a wide range of musical genres from around the world, including traditional music, folk music, classical music, and contemporary music. It also includes information about subgenres and specific artists or composers. The dataset is valuable for researching the geographical distribution and cultural influences on different types of music.

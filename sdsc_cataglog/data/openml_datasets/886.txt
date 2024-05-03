@@ -1,0 +1,3 @@
+name: AP_Colon_Uterus
+dataset_id: 1160.0
+description: The dataset AP_Colon_Uterus contains medical data regarding colon and uterine diseases. It includes information from patients diagnosed with colon or uterine cancer, as well as non-cancerous conditions such as polyps and inflammation. The dataset consists of various attributes including age, gender, medical history, symptoms, and treatment details. It aims to study the prevalence, risk factors, and outcomes of colon and uterine diseases. The data was collected from multiple healthcare institutions over a period of five years. The dataset provides valuable insights for researchers, healthcare professionals, and policymakers to understand and address these diseases and improve patient outcomes.

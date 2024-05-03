@@ -1,0 +1,3 @@
+name: Titanic
+dataset_id: 41265.0
+description: The dataset Titanic consists of information regarding the passengers of the Titanic ship, famous for sinking in 1912. The data includes details like their survival status, age, gender, ticket fare, cabin class, embarkation point, and family relations aboard. It contains 891 instances, representing the passengers. There are variables such as "Survived" indicating whether a passenger survived (0 for no, 1 for yes), "Pclass" representing the cabin class, "Age", "Embarked", and more. This dataset offers a valuable resource for exploring and analyzing factors influencing survival rates on the Titanic and understanding the demographics of its passengers.

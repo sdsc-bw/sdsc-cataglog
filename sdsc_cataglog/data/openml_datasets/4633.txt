@@ -1,0 +1,3 @@
+name: red_wine
+dataset_id: 44972.0
+description: The dataset red_wine contains information about various properties and quality ratings of red wine samples. It includes a total of 1599 instances and 12 attributes. These attributes provide details such as fixed acidity, volatile acidity, residual sugar, pH level, alcohol content, and more. The quality of each wine sample is rated on a scale from 0 to 10. The dataset also encompasses a balanced distribution of samples across the quality ratings. Its purpose is to enable analysis and modeling of the relationships between the different wine attributes and their impact on quality.

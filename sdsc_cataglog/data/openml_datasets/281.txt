@@ -1,0 +1,3 @@
+name: humandevel
+dataset_id: 528.0
+description: The dataset humandevel contains information about the human development index (HDI) of various countries. HDI measures a country's overall progress in terms of health, education, and income. The dataset includes data from 1990 to 2018, providing a longitudinal perspective. It covers a wide range of countries from different regions and income groups. The dataset provides HDI values for each country, as well as data on life expectancy, education, and gross national income per capita. The information in this dataset can be used to analyze and compare the development levels of different countries over time.

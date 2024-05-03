@@ -1,0 +1,3 @@
+name: Click_prediction_small
+dataset_id: 1217.0
+description: The dataset Click_prediction_small is a small-sized dataset used for click prediction research purposes. It contains a collection of anonymized features related to online advertising. The dataset has a total of 37,157 entries, each with 48 different features. These features include various attributes such as demographic information, contextual information, and historical data about the users' interactions with online ads. The goal with this dataset is to develop machine learning models that can accurately predict the likelihood of a user clicking on an ad based on the provided features.

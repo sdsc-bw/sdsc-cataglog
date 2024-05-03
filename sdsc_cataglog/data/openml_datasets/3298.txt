@@ -1,0 +1,3 @@
+name: Online-Retail-II-UCI
+dataset_id: 43368.0
+description: The Online-Retail-II-UCI dataset is a large collection of transactional data from an online retail store. It contains information about customer purchases, such as the product description, quantity, price, and customer ID. The dataset encompasses more than one year of transactions from 2009 to 2011. It includes data from customers in various countries, primarily the United Kingdom. The dataset is valuable for analyzing customer behavior, making predictions, and identifying patterns in online retail. It may also be used for tasks like market basket analysis, customer segmentation, and churn prediction.

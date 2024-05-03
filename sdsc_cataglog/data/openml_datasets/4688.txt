@@ -1,0 +1,3 @@
+name: LoanDefaultPrediction
+dataset_id: 45044.0
+description: The dataset LoanDefaultPrediction is related to predicting whether a loan will be defaulted or not. It consists of information for over 100,000 loans including demographic data, loan characteristics, credit history, and borrower's financial behavior. The dataset contains attributes such as loan amount, term, interest rate, employment length, and loan grade. Additionally, it includes features like debt ratio, revolving utilization, inquiries in the last six months, and number of open accounts. The dataset is valuable for building machine learning models to analyze and predict loan default risks, providing insights for lenders and financial institutions to make informed decisions.

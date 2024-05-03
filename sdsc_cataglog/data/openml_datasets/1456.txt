@@ -1,0 +1,3 @@
+name: QSAR-TID-101392
+dataset_id: 3436.0
+description: The QSAR-TID-101392 dataset is a collection of chemical compounds' molecular descriptors along with their toxicity activity against 101392 target proteins. Each compound is represented by 74 molecular descriptors, including atom-centered fragments and topological descriptors. The toxicity activity is measured on a scale from 0 (inactive) to 1 (active). The dataset is provided to aid in the development of predictive models for toxicity activity. It has been utilized in the QSAR modeling community as a benchmark dataset due to its diversity in chemical compounds and target proteins. The dataset can be valuable for the development of novel computational models and improvement of existing ones in toxicity prediction.

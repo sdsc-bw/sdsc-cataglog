@@ -1,0 +1,3 @@
+name: Pakistans-Migration-History
+dataset_id: 43698.0
+description: The dataset "Pakistans-Migration-History" provides information about the migration history of Pakistan. It includes data on the movement of people within and out of Pakistan over time. The dataset covers various aspects of migration, such as the reasons for migration, destination countries, and demographics of migrants. It also provides information on the socio-economic impact of migration on both the migrants and the countries involved. The dataset aims to enhance our understanding of migration patterns and their consequences in Pakistan. It is a valuable resource for researchers, policymakers, and anyone interested in studying migration dynamics in Pakistan.

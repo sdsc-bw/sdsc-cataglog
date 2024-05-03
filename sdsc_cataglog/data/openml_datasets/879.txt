@@ -1,0 +1,3 @@
+name: AP_Colon_Ovary
+dataset_id: 1153.0
+description: The dataset AP_Colon_Ovary consists of gene expression data from colon and ovary tissue samples. The data was obtained using the Affymetrix GeneChip platform and includes measurements of gene expression levels for a large number of genes. The dataset contains information for multiple subtypes of colon and ovary cancers, as well as normal tissue samples for comparison. The dataset provides valuable insights into the molecular features of colon and ovary tumors, aiding in the understanding of their biology and potential development of targeted therapies. The gene expression data can be analyzed to identify differential expression patterns and potential biomarkers associated with these cancer subtypes.

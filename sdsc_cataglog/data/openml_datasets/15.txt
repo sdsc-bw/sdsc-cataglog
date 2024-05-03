@@ -1,0 +1,3 @@
+name: mfeat-morphological
+dataset_id: 18.0
+description: The dataset mfeat-morphological is a collection of hand-drawn patterns that were created for character recognition research. The patterns' morphological properties were analyzed, giving a total of 6 measurements per pattern. The dataset contains 2000 patterns, each consisting of 2 by 2 grids with elements that can take 4 different values. The grids were scanned in raster form and stored as 8-bit grayscale images. Prior to scanning, the patterns were randomly rotated and translated within each 2 by 2 grid. The dataset mfeat-morphological serves as a resource for studying the morphological properties of patterns and their impact on character recognition algorithms.

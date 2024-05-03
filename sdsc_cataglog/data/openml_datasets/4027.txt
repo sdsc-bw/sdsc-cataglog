@@ -1,0 +1,3 @@
+name: KDDCup09_upselling
+dataset_id: 44185.0
+description: The KDDCup09_upselling dataset focuses on identifying potential customers that may be interested in purchasing a product. The dataset consists of various features such as client information, product features, call center activities, and previous purchases. It includes a training set with over 20,000 records and a test set with around 4,370 records. The objective is to utilize these features to predict whether or not a customer will upgrade their service. The dataset has been anonymized and does not include any sensitive information. Predicting customer upsell can help companies target their marketing efforts more effectively and increase revenue.

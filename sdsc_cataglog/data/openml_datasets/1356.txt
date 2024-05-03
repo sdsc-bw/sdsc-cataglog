@@ -1,0 +1,3 @@
+name: QSAR-TID-10623
+dataset_id: 3333.0
+description: The dataset QSAR-TID-10623 consists of chemical compounds and their corresponding biological activities. It contains 25,914 instances and 102 numerical attributes. The compounds are classified as either active or inactive based on their biological activity towards a specific target protein. The dataset is highly imbalanced, with 99.9% of compounds being inactive and only 0.1% being active. The attribute values vary widely, and missing values are replaced with zeros. The dataset is used to develop models for predicting the biological activity of new compounds, aided by machine learning and statistics.

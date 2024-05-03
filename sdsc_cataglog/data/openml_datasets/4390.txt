@@ -1,0 +1,3 @@
+name: ada_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44569.0
+description: The dataset ada_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True has 2000 rows and 100 columns. It consists of 10 classes and is stratified, meaning it maintains the same class distribution as the original dataset. The dataset has been created with the seed 1, which ensures it can be replicated in future experiments. However, further information about the specific nature of the dataset, such as the type of data in each column or the purpose of the dataset, is not provided in the given sentences.

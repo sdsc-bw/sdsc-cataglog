@@ -1,0 +1,3 @@
+name: analcatdata_authorship
+dataset_id: 970.0
+description: The dataset analcatdata_authorship contains information related to the authorship of various texts. It includes a total of 841 instances, each representing a text document. There are five attributes included in this dataset, which are used to categorize the texts. These attributes include the age of the text, the origin of the text, the type of text, its length, and its author. The dataset is intended to be used for authorship attribution analysis or any other related research that involves text analysis, classification, or identification of authorship patterns.

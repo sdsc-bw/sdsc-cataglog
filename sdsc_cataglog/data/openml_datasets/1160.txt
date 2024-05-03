@@ -1,0 +1,3 @@
+name: QSAR-TID-12847
+dataset_id: 3136.0
+description: The dataset QSAR-TID-12847 contains 186 compounds, each with 828 molecular descriptors. These descriptors represent various physical and chemical properties of the compounds. The goal of the dataset is to predict the toxicity of these compounds based on their molecular descriptors. The toxicity is measured using a continuous variable, LD50, which represents the lethal dose required to kill 50% of a group of test organisms. The dataset also includes categorical variables indicating the biological class of the compound. Multiple machine learning models have been applied to this dataset, achieving good prediction accuracy and suggesting the potential use of these models in drug discovery and toxicology studies.

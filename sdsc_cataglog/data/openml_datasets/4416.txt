@@ -1,0 +1,3 @@
+name: blood-transfusion-service-center_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44595.0
+description: The dataset blood-transfusion-service-center_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True contains synthetic data related to blood transfusion service centers. It has 2000 rows and 100 columns. The data is divided into 10 different classes. Stratification has been applied to ensure a balanced distribution of data across the classes. This dataset is generated under a specific seed value, meaning it can be reproduced identically. It may be used for various analysis and machine learning purposes related to blood transfusion services.

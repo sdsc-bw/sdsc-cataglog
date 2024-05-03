@@ -1,0 +1,3 @@
+name: insurance_5
+dataset_id: 45147.0
+description: The dataset insurance_5 contains information about insurance policyholders and their claims. It consists of 10 attributes, including the age, sex, BMI, number of children, smoking habits, region, charges, and whether the individual is insured or not. The dataset includes a total of 1,338 instances and no missing values. The age range of the policyholders is between 18 to 64 years, with the majority of policyholders falling within the 18-35 age group. The charges vary widely, with some policyholders having significantly higher charges than others. The dataset aims to provide insights into factors that may influence insurance charges.

@@ -1,0 +1,3 @@
+name: fri_c2_250_5
+dataset_id: 911.0
+description: The dataset fri_c2_250_5 contains information on friendships in a social network. It includes 250 nodes, representing individuals, and 5 attributes associated with each node. The attributes provide additional details about the individuals, such as age, gender, occupation, and interests. The dataset aims to capture the relationships and characteristics of individuals within this network to facilitate research and analysis in fields like social sciences and network analysis. It is a valuable resource for studying social patterns, dynamics, and behavior within a specific community or society.

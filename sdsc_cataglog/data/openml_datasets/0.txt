@@ -1,0 +1,3 @@
+name: anneal
+dataset_id: 2.0
+description: The anneal dataset is composed of 898 rows and 39 columns, with missing data being denoted by "?". It represents a real-world industrial case where the goal is to predict the quality of the annealing process. The target variable is the product's quality index, which ranges from 1 to 8. The attributes include a mix of categorical and continuous variables, with some being discrete and others continuous. The dataset contains features such as chemistry, geometry, temperature, and processing parameters like time spent in different furnaces during the annealing process. The dataset also includes information on the type of steel substrates used.

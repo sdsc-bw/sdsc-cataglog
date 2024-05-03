@@ -1,0 +1,3 @@
+name: philippine_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44563.0
+description: The dataset philippine_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows with 100 columns. It is stratified with 10 classes, meaning that the data is divided into groups based on specific characteristics. The dataset is likely to be related to the Philippines, given its name. The seed number is 0, which could be used for random number generation or data splitting. The dataset might be used for classification or clustering tasks, considering the presence of classes and dimensions. It is presumed that the dataset focuses on some characteristics or features of the Philippines, with each row representing a specific case or observation.

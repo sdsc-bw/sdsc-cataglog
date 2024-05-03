@@ -1,0 +1,3 @@
+name: superconductivity
+dataset_id: 44964.0
+description: The dataset "Superconductivity" contains information about the critical temperature of various superconducting materials. It consists of 21 columns of attributes related to the elemental composition, structure, and superconducting properties of different materials. The dataset includes 21263 rows, each representing a unique material, and has been derived from scientific publications and databases. It also provides additional information like the number of elements, number of atoms in the unit cell, and the space group symmetry of the materials. This dataset can be used for various applications in materials science and superconductivity research.

@@ -1,0 +1,3 @@
+name: california
+dataset_id: 44024.0
+description: The California dataset contains information about various aspects of the state. It includes data on demographics, economy, education, healthcare, environment, and crime. The dataset provides details on population, income levels, employment rates, education levels, healthcare access, air quality, water quality, and crime rates. It offers a comprehensive overview of the state's social, economic, and environmental conditions. The dataset is useful for researchers, policymakers, and analysts looking to understand and assess the state of California. It serves as a valuable resource for making informed decisions and formulating strategies to improve various sectors in the state.

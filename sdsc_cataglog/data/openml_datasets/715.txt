@@ -1,0 +1,3 @@
+name: autos
+dataset_id: 975.0
+description: The dataset autos contains information about used cars from a classifieds section. The data was scraped from the German eBay website and comprised of 50,000 rows and 20 columns. The columns describe various characteristics like the brand, model, year of registration, odometer reading, and more. There are columns that include categorical data such as vehicle type, gearbox type, and fuel type. The dataset also includes columns for the price and date of listing. However, some columns have null values, requiring further exploration and cleaning. The dataset autos provides a rich source of information for analyzing used car listings.

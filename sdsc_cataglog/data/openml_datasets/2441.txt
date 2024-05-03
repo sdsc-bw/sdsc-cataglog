@@ -1,0 +1,3 @@
+name: ASP-POTASSCO-regression
+dataset_id: 41704.0
+description: The dataset ASP-POTASSCO-regression contains 53 data examples with two predictive attributes and one target attribute. The two predictive attributes are integer values ranging from -5 to 5 that represent input features for predicting the target attribute. The target attribute is a real value representing the class label to be predicted. The dataset was created to evaluate the performance of regression algorithms and to generate regression rules using Answer Set Programming (ASP). The data examples were randomly generated and follow a linear regression pattern. The dataset is publicly available for researchers to test and compare their regression models.

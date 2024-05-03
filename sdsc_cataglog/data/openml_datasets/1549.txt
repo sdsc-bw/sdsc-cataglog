@@ -1,0 +1,3 @@
+name: QSAR-TID-12480
+dataset_id: 3533.0
+description: The dataset QSAR-TID-12480 contains information on the quantitative structure-activity relationship (QSAR) of 12480 chemicals. It includes 201 numerical features that represent various properties of these chemicals, such as molecular shape, electronic properties, and topological indices. The target variable is provided as values of the chemical's half-life in water. The dataset has been used in research to develop QSAR models for predicting the half-life of chemicals, which is an important factor in determining their environmental fate and impact. The dataset is publicly available and can be used for further analysis and development of QSAR models.

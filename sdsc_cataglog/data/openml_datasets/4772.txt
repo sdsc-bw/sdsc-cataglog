@@ -1,0 +1,3 @@
+name: barley_10
+dataset_id: 45130.0
+description: The dataset barley_10 comprises information about the growth and yield of several barley varieties across ten different sites. It consists of a total of 120 observations recorded for seven variables. The variables include the variety of barley, the site where it was grown, the year of the experiment, the yield in bushels per acre, the nitrogen level, and the row spacing. The dataset is useful for studying the effect of various factors on barley growth and yield in different environments. The observations were collected for research purposes, and they provide valuable insights into the performance of different barley varieties.

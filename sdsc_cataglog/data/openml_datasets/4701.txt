@@ -1,0 +1,3 @@
+name: jasmine
+dataset_id: 45057.0
+description: The Jasmine dataset consists of various HTML and CSS files collected from open-source projects on GitHub. It aims to provide a comprehensive collection of files to facilitate research in code analysis, program comprehension, and other related areas. The dataset includes files with different levels of complexity, allowing researchers to analyze code from simple projects to more intricate ones. Jasmine comprises 231 projects, amounting to approximately 33,000 files. The dataset is organized in a structured manner, with each project folder containing the relevant files, enabling easy access and utilization. Overall, the Jasmine dataset serves as a valuable resource for studying code analysis and program comprehension.

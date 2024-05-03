@@ -1,0 +1,3 @@
+name: energy-efficiency
+dataset_id: 1472.0
+description: The dataset "energy-efficiency" aims to study the energy efficiency of buildings by considering various factors. It consists of 768 different instances, each representing a building. The dataset includes 8 attributes related to the buildings' characteristics, such as the overall compactness, surface area, wall area, roof area, glazing area, and more. Additionally, the dataset has two output variables: heating load and cooling load, which indicate the energy required for heating and cooling, respectively. The data was generated through simulations with an energy analysis software to represent different building shapes, orientations, and surface areas, enabling the study of energy-efficient designs.

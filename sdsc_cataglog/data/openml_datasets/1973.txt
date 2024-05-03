@@ -1,0 +1,3 @@
+name: QSAR-TID-10062
+dataset_id: 3959.0
+description: The dataset QSAR-TID-10062 is a collection of chemical compounds with measured values for their quantitative structure-activity relationship (QSAR). The dataset consists of 10062 compounds, each described by 828 molecular descriptors. These descriptors represent various properties of the compounds, such as molecular shape, size, and polarity. The activity values for each compound indicate their biological activity against a specific target. The dataset's purpose is to aid in the development of computational models that can predict the biological activity of new chemical compounds. It has been used in various scientific studies and is freely available for research purposes.

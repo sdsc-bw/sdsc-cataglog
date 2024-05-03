@@ -1,0 +1,3 @@
+name: QSAR-TID-252
+dataset_id: 3368.0
+description: The dataset QSAR-TID-252 consists of information on the toxicity of various chemical compounds. It contains 252 instances, each representing a different compound, along with 23 attributes that describe various molecular properties. These attributes include information about the structure, size, shape, and polarity of the compounds. The toxicity of each compound is measured as a continuous value, ranging from 0 to 1. The dataset is used for predicting the toxicity of unknown compounds based on their molecular properties. The dataset can be useful in the field of drug discovery and chemical risk assessment.

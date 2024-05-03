@@ -1,0 +1,3 @@
+name: simulated_adult
+dataset_id: 45638.0
+description: The simulated_adult dataset is a set of records that simulates data about adults. It consists of 32 variables or columns and 1,000 observations or rows. Each observation represents one adult, and each variable captures different aspects about the individuals, such as age, education level, marital status, and occupation. The dataset also includes information about the individuals' income, whether they earn more or less than $50,000 annually, and their race and gender. It was created for the purpose of providing a sample dataset for data analysis and machine learning tasks, allowing researchers to explore and analyze adult-related characteristics.

@@ -1,0 +1,3 @@
+name: SGEMM_GPU_kernel_performance
+dataset_id: 43144.0
+description: The dataset SGEMM_GPU_kernel_performance examines the performance of a kernel on a GPU using the single precision general matrix-matrix multiplication (SGEMM) operation. It contains 22 features, including different parameters of the kernel and their configurations, such as the thread block size, kernel launch configuration, shared memory size, etc. The dataset also includes the runtime achieved by the kernel in milliseconds. The dataset is used for regression analysis, aiming to predict the performance of the kernel based on its input parameters. The dataset is publicly available and can be used for studying GPU performance optimization techniques and benchmarking different GPU architectures.

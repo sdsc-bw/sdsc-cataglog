@@ -1,0 +1,3 @@
+name: FOREX_cadjpy-hour-High
+dataset_id: 41833.0
+description: The dataset FOREX_cadjpy-hour-High comprises hourly high values of the CAD/JPY currency pair in the foreign exchange (forex) market. It provides information on the highest exchange rate between the Canadian Dollar (CAD) and the Japanese Yen (JPY) at each hour. The dataset likely consists of a time series with multiple data points, capturing fluctuations in the currency pair's value over time. Analyzing this dataset can aid in understanding the volatility, trends, and potential trading opportunities within the CAD/JPY forex market hour by hour.

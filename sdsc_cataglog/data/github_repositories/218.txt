@@ -1,0 +1,3 @@
+repo_name: jina
+link: https://github.com/jina-ai/jina
+description: Jina is an MLOps framework to build multimodal AI microservice-based applications written in Python that can communicate via gRPC, HTTP and WebSocket protocols. It allows developers to build and serve services and pipelines while scaling and deploying them to production while removing the complexity, letting them focus on the logic/algorithmic part, saving valuable time and resources for engineering teams.

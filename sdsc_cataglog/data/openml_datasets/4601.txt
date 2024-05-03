@@ -1,0 +1,3 @@
+name: KDDCup99_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44780.0
+description: The dataset KDDCup99_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True has been created with 2000 rows, 10 classes, and 100 columns. The dataset has been stratified, meaning that the class distribution has been maintained while sampling the data. It is a part of the KDD Cup 1999 dataset, which was created to evaluate intrusion detection systems. This particular dataset is one of the subsets of the original dataset. It provides a relatively small but diverse sample for analyzing and developing intrusion detection algorithms. The dataset's seed number is 2, which indicates the specific random seed used to generate the data.

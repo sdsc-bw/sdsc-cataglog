@@ -1,0 +1,3 @@
+name: QSAR-TID-11758
+dataset_id: 3282.0
+description: The dataset QSAR-TID-11758 consists of 4,775 chemical compounds labeled as either active or inactive against a specific target molecule. The compounds were evaluated for their bioactivity and various physicochemical properties were recorded, including molecular weight, hydrogen bond donors and acceptors, polar surface area, etc. The dataset also includes descriptors representing the compound's structure, such as atom type information, counts of specific atoms and bonds, topological indices, and other molecular properties. QSAR modeling can be performed on this dataset to develop predictive models for bioactivity, which can be used in drug design and discovery.

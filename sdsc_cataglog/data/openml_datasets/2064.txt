@@ -1,0 +1,3 @@
+name: QSAR-TID-218
+dataset_id: 4050.0
+description: The QSAR-TID-218 dataset contains 4,543 structurally diverse compounds with their respective quantitative structure-activity relationship (QSAR) values. These compounds were evaluated for their potential to bind to human estrogen receptor alpha (ERα) using a fluorescence polarization (FP) assay. The dataset includes 14 molecular descriptors that represent various properties of the compounds such as shape, flexibility, and electronic features. The QSAR values were obtained from an in vitro assay, and their range is between -10.215 and 1.816. This dataset is useful for studying the relationship between molecular descriptors and ERα binding affinity, and can aid in developing predictive models for estrogenic activity.

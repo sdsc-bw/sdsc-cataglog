@@ -1,0 +1,3 @@
+name: barley_1
+dataset_id: 45121.0
+description: The dataset barley_1 consists of information on the variety, site, year, and yield of different types of barley. It includes data from multiple sites and years, providing a wide range of observations. The dataset allows for the exploration of various factors affecting barley yield, such as the variety and environmental conditions. The variables present in the dataset offer opportunities for analyzing and comparing different aspects of barley production. With its comprehensive information, barley_1 can be useful in studying the impact of various factors on barley yield and gaining insights into patterns and trends within the data.

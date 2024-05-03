@@ -1,0 +1,3 @@
+name: heart-switzerland
+dataset_id: 1513.0
+description: The dataset heart-switzerland contains data related to cardiovascular disease in Switzerland. It consists of 1239 instances and 14 attributes, including information about age, sex, blood pressure, cholesterol level, and other medical factors. The dataset aims to explore the presence of significant features that can predict the presence of heart disease. It has been used for classification and prediction tasks to develop models that can assist in diagnosing heart conditions. The dataset is relevant for researchers, medical practitioners, and machine learning enthusiasts interested in studying and understanding cardiovascular disease patterns in Switzerland.

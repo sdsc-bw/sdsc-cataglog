@@ -1,0 +1,3 @@
+name: andes_6
+dataset_id: 45214.0
+description: The dataset andes_6 contains information about the Andes Mountains, specifically focusing on six different variables. These variables include the latitude, longitude, elevation, average annual precipitation, average temperature, and average vegetation index. The dataset covers a specific region of the Andes, providing data points for different locations within this area. The dataset aims to provide a comprehensive understanding of the environmental characteristics of the Andes Mountains, as well as potential trends or patterns across the different variables. It can be used for research purposes or to analyze and visualize the relationships between these variables in the Andes region.

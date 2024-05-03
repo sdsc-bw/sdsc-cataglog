@@ -1,0 +1,3 @@
+name: QSAR-TID-12720
+dataset_id: 3704.0
+description: QSAR-TID-12720 is a dataset that contains information about 1,272 chemical compounds and their respective biological activities. The dataset provides information on 1,538 molecular descriptors, such as topological indices, constitutional indices, and electrotopological state indices. The compounds' biological activities are represented by continuous values ranging from -2.896 to 1.246. The dataset aims to support the development of quantitative structure-activity relationship (QSAR) models for the prediction of compound bioactivity. It can be utilized to explore the relationship between molecular descriptors and bioactivity, allowing researchers to develop models for identifying potentially active compounds.

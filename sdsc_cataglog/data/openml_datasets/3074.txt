@@ -1,0 +1,3 @@
+name: cargo-2000
+dataset_id: 42910.0
+description: Cargo-2000 is a dataset that provides information about air cargo transportation. It consists of a collection of data related to cargo flights, including details on the type of cargo, weight, origin, and destination. The dataset aims to improve the efficiency and reliability of air cargo transportation by providing standardized data and performance metrics. By analyzing the information in the dataset, it is possible to identify trends, assess performance, and make informed decisions to optimize cargo operations. Cargo-2000 promotes collaboration among stakeholders and supports continuous improvement initiatives in the air cargo industry.

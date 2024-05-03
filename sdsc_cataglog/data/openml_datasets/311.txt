@@ -1,0 +1,3 @@
+name: schlvote
+dataset_id: 559.0
+description: The dataset schlvote focuses on voting patterns for schools in Switzerland. It contains information on the electoral results of school-level votes from 1985 to 2016. The dataset includes variables like the year of the vote, the language region of the school, the canton, the vote outcome, and the voter turnout. It provides a comprehensive overview of the voting behavior in different regions and over time within the Swiss education system. This dataset can be used for various research purposes, such as analyzing the impact of language diversity or political ideology on school voting outcomes and examining trends in voter participation.

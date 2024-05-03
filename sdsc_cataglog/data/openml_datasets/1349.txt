@@ -1,0 +1,3 @@
+name: QSAR-TID-11055
+dataset_id: 3326.0
+description: The QSAR-TID-11055 dataset contains information about a collection of compounds used for antimicrobial testing. The dataset includes 412 chemical compounds, each associated with 68 molecular descriptors. These descriptors are numerical values that represent various molecular properties such as molecular weight, hydrogen bonding, and hydrophobicity. The dataset also contains the experimental activity values of these compounds against five different bacterial strains. This dataset is utilized for the development and evaluation of predictive models to determine the antimicrobial activity of compounds based on their molecular features.

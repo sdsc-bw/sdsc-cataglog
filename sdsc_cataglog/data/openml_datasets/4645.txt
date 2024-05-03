@@ -1,0 +1,3 @@
+name: space_ga
+dataset_id: 44985.0
+description: The dataset space_ga contains information about space exploration activities. It includes data about various aspects such as missions, astronauts, launch sites, spacecraft, and space agencies. The dataset provides details about the duration, outcome, and purpose of missions that have been conducted. It also includes information about astronauts, including their names, nationalities, and experience. Launch sites for space missions are also documented. The dataset includes details about spacecraft, such as their names, types, and manufacturers. Furthermore, it provides information about space agencies involved in the missions, including their names, countries, and years of establishment.

@@ -1,0 +1,3 @@
+name: QSAR-TID-10624
+dataset_id: 3862.0
+description: The QSAR-TID-10624 dataset contains chemical structures and their corresponding bioactivity information. It includes 7,648 compounds, described by 1,828 molecular descriptors, obtained from the PubChem Chemical Database. The bioactivity values represent binary classification labels indicating the compounds' activity against a specific target. The dataset was assembled for the purpose of developing and evaluating machine learning models for predicting the bioactivity of chemical compounds. It is useful for researchers and scientists working in the field of chemoinformatics and drug discovery. The dataset is publicly available, allowing for further analysis and model development.

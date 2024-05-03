@@ -1,0 +1,3 @@
+name: QSAR-TID-10188
+dataset_id: 3193.0
+description: The dataset QSAR-TID-10188 consists of 4,661 chemical compounds with various molecular properties. These compounds were tested for their ability to inhibit a particular target protein and were assigned an activity value. The dataset includes 41 input features describing the molecular structure, physical properties, and chemical composition of these compounds. The target protein is responsible for a specific disease, making this dataset valuable for drug design and discovery. It can be used to develop quantitative structure-activity relationship (QSAR) models to predict the inhibitory activity of new compounds, aiding in the search for potential drugs. The dataset is publicly available for researchers.

@@ -1,0 +1,3 @@
+name: QSAR-TID-101408
+dataset_id: 3960.0
+description: The QSAR-TID-101408 dataset contains information about chemical compounds and their biological activities. It consists of 7,210 compounds, each represented by 881 molecular descriptors. The descriptors include both numerical and categorical features related to the compounds' structure and properties. The dataset aims to predict the compounds' target interaction with different proteins, such as enzymes and receptors. A set of binary classifiers have been developed using the dataset for predicting compound-protein interactions. The dataset can be useful for researchers and scientists working in the field of drug discovery and chemical biology, aiding in identifying potential drug targets.

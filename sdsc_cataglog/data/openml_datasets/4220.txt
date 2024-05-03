@@ -1,0 +1,3 @@
+name: Meta_Album_PLT_VIL_Mini
+dataset_id: 44286.0
+description: The dataset called Meta_Album_PLT_VIL_Mini contains a collection of various music albums related to popular culture. It consists of a wide range of genres and presents an opportunity to explore and analyze cultural trends and interests. The dataset also includes additional information such as album names, release dates, artist names, and track listings. It is a smaller version of a larger dataset, specifically curated for use in research and analysis. The Meta_Album_PLT_VIL_Mini dataset provides an accessible resource for studying the musical landscape and the impact of popular culture on the music industry.

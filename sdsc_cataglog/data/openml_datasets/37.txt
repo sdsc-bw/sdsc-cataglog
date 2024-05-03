@@ -1,0 +1,3 @@
+name: haberman
+dataset_id: 43.0
+description: The haberman dataset contains information about the survival status of patients who underwent surgery for breast cancer at the University of Chicago's Billings Hospital during 1958-1970. It consists of four attributes: patient's age, the year of surgery, the number of positive auxiliary nodes detected, and the survival status of patients (1 or 2, denoting survived or died within 5 years after surgery, respectively). The dataset consists of 306 data points, with 225 patients who survived and 81 patients who didn't. It is often used for analyzing and predicting survival rates based on different factors and is beneficial in medical research and statistical analysis.

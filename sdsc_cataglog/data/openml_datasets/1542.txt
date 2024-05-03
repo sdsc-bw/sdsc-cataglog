@@ -1,0 +1,3 @@
+name: QSAR-TID-10012
+dataset_id: 3526.0
+description: The dataset QSAR-TID-10012 consists of 1050 samples, each with 31 features and one target variable. It aims to predict the acute toxicity class of chemical compounds. The samples represent different chemical compounds with known toxicity levels, categorized into three classes: Class 1 (non-toxic), Class 2 (moderately toxic), and Class 3 (highly toxic). The features provide information about the molecular structure and properties of the compounds, including molecular weight, hydrophobicity, and topological indices. The target variable is the toxicity class, which is represented by numerical values. This dataset can be used to develop machine learning models for toxicological prediction and compound screening.

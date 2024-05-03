@@ -1,0 +1,3 @@
+name: pathfinder_10
+dataset_id: 45251.0
+description: The dataset pathfinder_10 provides information about the performance of 10 pathfinding algorithms on 8 different maps. It includes data on the number of nodes expanded, running time, and path length for each algorithm on each map. The dataset is structured in a table format, with rows representing individual algorithm-map combinations and columns representing different performance metrics. The purpose of this dataset is to compare and evaluate the performance of different pathfinding algorithms on various maps. It can be used by researchers and developers working on pathfinding algorithms to analyze their effectiveness and make informed decisions regarding algorithm selection for different scenarios.

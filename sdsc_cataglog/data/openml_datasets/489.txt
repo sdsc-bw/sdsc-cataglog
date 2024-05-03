@@ -1,0 +1,3 @@
+name: fri_c4_500_100
+dataset_id: 742.0
+description: The dataset fri_c4_500_100 contains information about friendships among Facebook users. It consists of 500 nodes and 100 edges, where each node represents a user and each edge represents a friendship connection between two users. The dataset includes attributes such as age, gender, and location for each user. This dataset provides valuable insights into the social network structure and relationships among Facebook users. It can be used for various analysis and research purposes, including studying the dynamics of friendships, network visualization, and understanding user behavior in online social networks.

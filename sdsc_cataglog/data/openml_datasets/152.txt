@@ -1,0 +1,3 @@
+name: internet_usage
+dataset_id: 372.0
+description: The internet_usage dataset provides information on the usage of the internet in various countries across the world. It includes data on the percentage of individuals using the internet, the ratio of internet users to population, and the total number of internet users. The dataset covers a wide range of countries and provides information for multiple years. It can be used to analyze trends in internet usage and to compare the digital divide between different countries. The dataset is useful for researchers, policymakers, and businesses interested in understanding the global internet landscape and its implications.

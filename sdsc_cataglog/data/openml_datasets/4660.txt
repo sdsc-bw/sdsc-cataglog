@@ -1,0 +1,3 @@
+name: default-of-credit-card-clients
+dataset_id: 45016.0
+description: The dataset named default-of-credit-card-clients contains information about credit card clients from Taiwan. It consists of 30,000 instances and 24 attributes, where the last attribute indicates whether the client experienced default payment or not. The dataset includes the client's demographic and financial information, such as gender, education level, marital status, age, payment history, outstanding balance, and credit limit. Additionally, it provides categorical variables indicating the payment status for the previous six months (April to September). This dataset is frequently used in studies and analysis to predict credit default and understand the factors influencing it.

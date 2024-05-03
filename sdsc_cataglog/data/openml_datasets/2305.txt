@@ -1,0 +1,3 @@
+name: jungle_chess_2pcs_endgame_rat_panther
+dataset_id: 41002.0
+description: The dataset jungle_chess_2pcs_endgame_rat_panther focuses on the endgame scenarios of a specific chess variant called Jungle Chess. The game involves two players, each having a rat and a panther as their main pieces. This dataset contains information about various game configurations and actions taken during the endgame. It includes features like the piece positions on the chessboard, the player's turn, and the move made by the player. The dataset is meant for research purposes, allowing researchers to analyze and understand the strategic aspects of this chess variant in its final stages.

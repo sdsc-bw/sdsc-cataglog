@@ -1,0 +1,3 @@
+name: QSAR-TID-11399
+dataset_id: 3457.0
+description: The dataset QSAR-TID-11399 consists of 4,313 chemical compounds, each with 1027 molecular descriptors and a binary target variable indicating toxicity. The compounds were divided into training and test sets, with 3,450 and 863 instances, respectively. The dataset includes features like connectivity indices, molecular properties, and topological indices. The target variable indicates if a compound is toxic or non-toxic based on experiments conducted on mice. This dataset is useful for developing toxicology prediction models.

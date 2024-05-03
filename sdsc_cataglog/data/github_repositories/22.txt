@@ -1,0 +1,3 @@
+repo_name: snakemake
+link: https://github.com/snakemake/snakemake
+description: The Snakemake workflow management system is a popular tool to create reproducible and scalable data analyses. Workflows are described via a human-readable, Python-based language and can be seamlessly scaled to various environments without modifying the workflow definition. Additionally, Snakemake workflows can specify required software that will be automatically deployed to any execution environment. The homepage for Snakemake is https://snakemake.github.io/.

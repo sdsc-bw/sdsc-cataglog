@@ -1,0 +1,3 @@
+name: QSAR-TID-163
+dataset_id: 4009.0
+description: The QSAR-TID-163 dataset is a collection of chemical compounds with associated biological activities, gathered to develop quantitative structure-activity relationship (QSAR) models. It consists of 163 diverse compounds, where each compound is represented by 67 molecular descriptors and has an associated binary activity value indicating whether it is active or inactive against a specific target. The dataset aims to aid in the prediction of the activity of new compounds against the target receptor. It holds potential for researchers working in drug discovery and chemoinformatics, providing a valuable resource for developing and validating QSAR models.

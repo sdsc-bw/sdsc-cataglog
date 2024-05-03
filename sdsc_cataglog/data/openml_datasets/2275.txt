@@ -1,0 +1,3 @@
+name: HappinessRank_2015
+dataset_id: 40916.0
+description: The HappinessRank_2015 dataset provides information about the happiness and well-being of countries worldwide. It consists of data collected from 158 countries, measuring various factors such as GDP per capita, social support, life expectancy, freedom, perceptions of corruption, and more. The dataset also includes an overall happiness rank for each country. The purpose of this dataset is to understand the determinants of happiness and to compare happiness levels across different countries. This dataset can be used for research and analysis to gain insights into the factors that contribute to happiness and to explore any patterns or correlations within the data.

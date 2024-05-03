@@ -1,0 +1,3 @@
+name: uci_diabetes_p
+dataset_id: 42106.0
+description: The dataset uci_diabetes_p consists of a collection of medical records of patients with diabetes. It includes variables such as age, sex, body mass index (BMI), blood pressure, and various blood test results. The dataset also provides information on the medication taken by the patients and the presence or absence of certain diabetic complications. It has a total of 70,000 records and 18 features. The aim of this dataset is to understand the factors and variables that contribute to the progression or regression of diabetes, as well as the potential impact of different medications and complications on patient outcomes.

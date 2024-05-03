@@ -1,0 +1,3 @@
+name: QSAR-TID-12299
+dataset_id: 3681.0
+description: The dataset QSAR-TID-12299 contains 417 chemicals which were tested for their mutagenic effect on bacteria. The goal of the study was to determine whether these chemicals could potentially cause mutations in living organisms. The dataset includes various molecular structures, such as atoms, bonds, and chemical properties, of these chemicals. In addition, the dataset provides information about the mutagenic effect of each chemical, measured through the mutagen index and a categorical classification. This dataset is valuable for researchers and scientists involved in drug development or chemical risk assessment as it allows for the analysis and prediction of mutagenic properties in new compounds.

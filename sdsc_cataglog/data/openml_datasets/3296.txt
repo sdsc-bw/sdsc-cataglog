@@ -1,0 +1,3 @@
+name: Amazon---Ratings-(Beauty-Products)
+dataset_id: 43366.0
+description: The Amazon Ratings dataset focuses on beauty products and consists of customer reviews and ratings. It contains information about the products, such as brand name, product category, and price. The dataset provides insight into customer opinions and satisfaction levels for various beauty items, allowing for analysis and understanding of consumer preferences. With the dataset, researchers can explore factors that influence ratings, such as product quality or price. This dataset is valuable for businesses in the beauty industry to gain insights into customer satisfaction and make informed decisions to improve their products and services.

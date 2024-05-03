@@ -1,0 +1,3 @@
+name: QSAR-TID-12832
+dataset_id: 3615.0
+description: The dataset QSAR-TID-12832 is comprised of 1440 instances, each containing 1024 attributes. It was collected for the purpose of predicting the half-life time of compounds in the environment. The compound half-life is an essential parameter to evaluate their persistence and potential risk. The dataset includes a target variable representing the compound half-life, and the attributes are numerical values representing molecular descriptors calculated for each compound. The dataset is balanced, with equal instances for each class: long and short. It can be utilized for machine learning tasks such as regression or classification to develop models for predicting compound half-life.

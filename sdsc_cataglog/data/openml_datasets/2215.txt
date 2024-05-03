@@ -1,0 +1,3 @@
+name: birds
+dataset_id: 40588.0
+description: The dataset birds contains information about various bird species. It provides detailed attributes for each bird entry including their ID, common name, family name, order name, and species code. The dataset also includes information about the bird's population status, their conservation status, and the location of their occurrence. Additionally, there is data about the bird's geographical range, their habitat preferences, and their diet. The dataset is comprehensive and aims to facilitate research and analysis on bird species, their characteristics, and their ecological roles. This dataset is valuable for ornithologists, conservationists, and anyone interested in studying bird diversity and ecology.

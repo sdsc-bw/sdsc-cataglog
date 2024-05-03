@@ -1,0 +1,3 @@
+name: fri_c2_250_10
+dataset_id: 830.0
+description: The dataset fri_c2_250_10 contains information about friendships among a group of individuals. The dataset consists of 250 individuals, with each individual having 10 friends. The data collected includes attributes such as age, gender, and interests of the individuals, along with the strength of their friendships. The dataset aims to understand the formation and dynamics of friendships within the group and to analyze any patterns or correlations that may exist between the attributes and the strength of friendships. It provides an opportunity to investigate social networks and develop models for studying social behaviors and interactions.

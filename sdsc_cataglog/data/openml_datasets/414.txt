@@ -1,0 +1,3 @@
+name: chscase_census6
+dataset_id: 664.0
+description: The dataset chscase_census6 contains information related to the 2010 Census for a specific area. It includes data on various socio-economic factors such as race, age, income, education, and housing. The dataset provides details about the population by different demographic categories and geographical areas within the region. It is useful for researching and analyzing trends, patterns, and disparities in the population's characteristics and distributions. This dataset can be beneficial for understanding the area's socio-economic profile, planning policies and interventions, and conducting research in fields like demography, urban planning, and social sciences.

@@ -1,0 +1,3 @@
+name: chscase_funds
+dataset_id: 680.0
+description: The dataset "chscase_funds" contains information on funds allocated to Child Health Support Case (CHSC) programs in different states. It includes data from multiple years and tracks the allocation and use of funds for various purposes such as program administration, direct health services, training, and evaluation. The dataset provides details on the amount of funds allocated for each purpose and the corresponding state. It also includes information on the program type (state, local, or tribal) and the funding source (federal or non-federal). This dataset enables an analysis of the allocation patterns and effectiveness of CHSC funds across states and years.

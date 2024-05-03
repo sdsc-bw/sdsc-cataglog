@@ -1,0 +1,3 @@
+name: jungle_chess_2pcs_endgame_panther_lion
+dataset_id: 40998.0
+description: The dataset jungle_chess_2pcs_endgame_panther_lion focuses on a particular endgame scenario in the game of jungle chess, involving two pieces, a panther and a lion. Jungle chess is a chess variant with a different set of pieces and rules. The dataset contains various features describing the game state, such as positions and types of pieces, player moves, and other attributes. Several machine learning algorithms were trained using this dataset, and their performance was evaluated. The dataset aims to contribute to the development of AI models for jungle chess and provides a valuable resource for researchers and enthusiasts in this field.

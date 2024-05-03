@@ -1,0 +1,3 @@
+name: analcatdata_gviolence
+dataset_id: 518.0
+description: The dataset analcatdata_gviolence is a collection of observations on domestic and non-domestic violence in small towns of North Carolina. It consists of 151 instances with 11 attributes, including demographic characteristics, economic indicators, and indicators of violence such as homicide rates and assault rates. The purpose of the dataset is to study the impact of various factors on violence rates. The attributes provide information on population size, gender distribution, unemployment rates, income levels, education levels, and racial composition. The dataset is suitable for analyzing and understanding the relationships between socio-economic variables and violence rates in small towns.

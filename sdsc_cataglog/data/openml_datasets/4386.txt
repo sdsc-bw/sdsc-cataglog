@@ -1,0 +1,3 @@
+name: philippine_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44564.0
+description: The dataset used is called "philippine_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True". It contains a total of 2000 rows and 100 columns, with 10 different classes. The dataset is stratified, meaning that the proportion of each class in the dataset is representative of the population. The specific details of the dataset, such as the types of data present and any other relevant information, are not mentioned in the given sentences.

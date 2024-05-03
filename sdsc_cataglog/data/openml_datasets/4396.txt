@@ -1,0 +1,3 @@
+name: arcene_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44575.0
+description: The dataset arcene_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns. It has 10 different classes. The data is stratified, meaning that the class distribution is preserved in the dataset. This dataset is used for classification tasks. Stratifiction is a useful method to ensure that the training and testing datasets have similar class distributions. The dataset has a varied number of instances per class and features per instance. It can be used to evaluate the performance of classification models by training them and then analyzing their accuracy and predictions.

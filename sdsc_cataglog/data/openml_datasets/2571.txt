@@ -1,0 +1,3 @@
+name: FOREX_cadchf-minute-High
+dataset_id: 41836.0
+description: The dataset FOREX_cadchf-minute-High provides high frequency minute-level data for the CAD/CHF currency pair in the foreign exchange market. It includes information on the highest price reached within each minute interval. The dataset is likely designed for traders or analysts who require detailed and precise data for studying price movements and conducting technical analysis. With minute-level granularity, users can analyze short-term trends, volatility, and support/resistance levels for CAD/CHF pair. This dataset could be valuable in developing trading strategies, identifying entry/exit points, and evaluating the effectiveness of various trading indicators or algorithms.

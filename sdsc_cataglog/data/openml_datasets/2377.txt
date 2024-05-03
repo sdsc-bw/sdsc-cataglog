@@ -1,0 +1,3 @@
+name: rf2
+dataset_id: 41484.0
+description: The dataset rf2 contains information about radio frequency interference (RFI) signals captured by a radio telescope. It includes various attributes such as the frequency, signal strength, time stamp, and antenna position. The dataset is collected over a certain period and represents different directions in the sky. It also includes the power spectral density (PSD) values, which give insights into the amount and distribution of power in the RFI signal. The rf2 dataset is valuable for analyzing and understanding the characteristics of RFI in radio astronomy, aiding in the development of effective mitigation techniques to overcome interference challenges.

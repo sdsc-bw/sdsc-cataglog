@@ -1,0 +1,3 @@
+name: Dorothea
+dataset_id: 4137.0
+description: The dataset Dorothea is a widely used dataset in machine learning, consisting of feature vectors that represent chemical compounds. Each feature vector contains various attributes of a specific compound, such as the presence or absence of certain molecules. Dorothea is commonly used in binary classification tasks, where the goal is to classify compounds as active or inactive based on their feature vectors. The dataset is challenging due to its large feature space and class imbalance, with only a small portion of compounds being active. Researchers often employ different techniques, such as feature selection and dimensionality reduction algorithms, to effectively handle this dataset for accurate classification.

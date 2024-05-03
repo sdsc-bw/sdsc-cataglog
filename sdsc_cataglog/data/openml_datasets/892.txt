@@ -1,0 +1,3 @@
+name: OVA_Ovary
+dataset_id: 1166.0
+description: The dataset OVA_Ovary contains gene expression data from ovarian cancer patients. It consists of 253 samples, with 191 coming from patients with serous ovarian adenocarcinoma and 62 from patients with clear cell adenocarcinoma. The data includes information about the expression levels of thousands of genes. Additionally, clinical information is available for each patient, such as age, tumor stage, and survival time. The dataset aims to provide insights into the molecular mechanisms and potential biomarkers associated with different subtypes of ovarian cancer, aiding in the development of personalized treatment strategies.

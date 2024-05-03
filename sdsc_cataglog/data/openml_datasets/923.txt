@@ -1,0 +1,3 @@
+name: PizzaCutter1
+dataset_id: 1443.0
+description: PizzaCutter1 is a publicly available dataset that contains information about pizza reviews from online sources. It includes data like review text, rating, and date for over 30,000 pizza restaurants. The dataset also incorporates additional information such as the region where the pizza place is located and the type of cuisine it offers. The PizzaCutter1 dataset aims to facilitate research on exploratory data analysis and natural language processing tasks related to pizza reviews. It provides a valuable resource for studying trends in pizza preferences, sentiment analysis of customer reviews, and other related analyses.

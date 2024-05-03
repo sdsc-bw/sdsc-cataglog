@@ -1,0 +1,3 @@
+name: telco-customer-churn
+dataset_id: 42178.0
+description: The dataset "telco-customer-churn" focuses on customer churn in a telecommunications company. It contains demographic and subscription information of customers along with their churn status. The dataset includes attributes such as customer tenure, payment methods, internet service, contract type, and monthly charges. The primary objective of this dataset is to predict customer churn based on these features. It is a valuable resource for companies in the telecommunications industry to understand factors that contribute to customer attrition and devise strategies to improve customer retention and reduce churn rate.

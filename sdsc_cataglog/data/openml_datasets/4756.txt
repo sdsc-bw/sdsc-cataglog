@@ -1,0 +1,3 @@
+name: alarm_5
+dataset_id: 45114.0
+description: The dataset alarm_5 consists of records related to an alarm system, specifically focusing on alarms related to five different scenarios. It includes information such as the date and time of the alarm, the type of alarm triggered, the device or sensor responsible for the alarm, and the location where the alarm occurred. Each record provides detailed information about the alarms and their associated events. The dataset can be used to analyze patterns, trends, and anomalies in the alarm system, providing valuable insights for improving its efficiency, effectiveness, and response time.

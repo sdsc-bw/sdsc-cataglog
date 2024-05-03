@@ -1,0 +1,3 @@
+name: anneal
+dataset_id: 42716.0
+description: The dataset anneal focuses on the prediction of the quality of steel annealing. It consists of 38 attributes that describe various characteristics of the steel material and process parameters used during annealing. These attributes include temperature, time, heating rate, cooling rate, gas flow rate, and chemical composition. The target variable is the relative reduction in area of the material, which indicates the quality of the annealing process. The dataset is relatively small, with 798 instances, and no missing values are present. It is widely used in studies related to steel manufacturing processes and machine learning algorithms aiming to predict the outcome of steel annealing accurately.

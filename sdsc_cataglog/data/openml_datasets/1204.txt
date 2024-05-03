@@ -1,0 +1,3 @@
+name: QSAR-TID-12162
+dataset_id: 3180.0
+description: The QSAR-TID-12162 dataset is a compilation of molecular descriptors and bioactivity data for 1851 compounds related to tuberculosis. It was created to develop quantitative structure-activity relationship (QSAR) models for the prediction of anti-tuberculosis activity. The dataset includes 41 molecular descriptors, such as molecular weight, XLogP, topological surface area, and other physicochemical properties. The bioactivity data provided is binary, indicating whether a compound is active or inactive against tuberculosis. This dataset can be used for machine learning and statistical analysis to develop models for predicting the anti-tuberculosis activity of new compounds and aid in drug discovery efforts.

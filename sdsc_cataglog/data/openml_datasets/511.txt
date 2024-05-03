@@ -1,0 +1,3 @@
+name: analcatdata_apnea3
+dataset_id: 764.0
+description: The dataset "analcatdata_apnea3" contains information related to sleep apnea research. It consists of data from 110 individuals who underwent overnight sleep studies. The dataset includes several variables, such as age, sex, apnea hypopnea index (AHI), oxygen desaturation index (ODI), minimum oxygen saturation percentage, and body position during sleep. The AHI and ODI values represent the number of apnea and hypopnea events per hour and the number of oxygen desaturations per hour, respectively. The dataset provides valuable insights into the relationship between various factors and sleep apnea, aiding in further research and analysis in this field.

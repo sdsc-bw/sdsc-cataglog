@@ -1,0 +1,3 @@
+name: Stars-from-Gaia-DR2-and-RAVE-DR5
+dataset_id: 43679.0
+description: The dataset Stars-from-Gaia-DR2-and-RAVE-DR5 combines information from two large astronomical surveys, Gaia-DR2 and RAVE-DR5, to create a comprehensive dataset of stars. Gaia-DR2 provides astrometric and photometric data for over a billion stars, including their positions, distances, and motions. RAVE-DR5 complements this with radial velocity measurements for over 500,000 stars, which allows researchers to study their motion in three-dimensional space. By combining these datasets, researchers gain access to a wealth of information about the properties and dynamics of stars, enabling a deeper understanding of our galaxy and its evolution.

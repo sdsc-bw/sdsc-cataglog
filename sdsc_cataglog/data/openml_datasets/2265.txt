@@ -1,0 +1,3 @@
+name: cleveland-nominal
+dataset_id: 40711.0
+description: The dataset "cleveland-nominal" contains information on heart disease patients from the Cleveland area. The dataset is in a nominal format, meaning the attributes are represented only by labels and not by numbers. The dataset consists of 14 attributes such as age, sex, cholesterol levels, and presence of exercise-induced angina. The goal of the dataset is to predict whether a patient has heart disease or not based on these attributes. Overall, the cleveland-nominal dataset provides important information about heart disease patients and can be used for analysis and prediction purposes.

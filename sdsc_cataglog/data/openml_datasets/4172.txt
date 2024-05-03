@@ -1,0 +1,3 @@
+name: credit_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44353.0
+description: The dataset credit_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns. It is stratified with 10 classes, meaning that the distribution of each class in the dataset is similar. The dataset is intended for credit-related analysis, potentially concerning factors such as loan applications or credit scores. It is named "credit_seed_0" to indicate that it is one of several versions generated using a random seed of 0. The dataset provides a sufficient amount of data for analyzing credit-related patterns or training machine learning models in this domain.

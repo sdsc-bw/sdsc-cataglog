@@ -1,0 +1,3 @@
+name: FOREX_audusd-day-High
+dataset_id: 41726.0
+description: The dataset FOREX_audusd-day-High relates to the daily high values of the AUD/USD currency pair in the foreign exchange market. The data includes numerical values denoting the highest point reached by AUD/USD exchange rate during each day. It is assumed that the dataset contains a range of historical data, indicating various high points over time. The dataset likely serves to provide insights on the volatility and performance of the AUD/USD pair, aiding in analysis and prediction of future trends. The information is essential for traders and investors dealing with AUD/USD exchange and enables them to make informed decisions based on past high points.

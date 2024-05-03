@@ -1,0 +1,3 @@
+name: vowel
+dataset_id: 307.0
+description: The vowel dataset consists of measurements taken from the speech signal of various American English vowels. It contains a total of 11 vowel phonemes, each pronounced by different speakers. The measurements include 10 attributes related to the vocal tract configuration during the production of each vowel. These attributes include the first nine formants (frequency components) and the band levels, which represent the power spectrum of the speech signal. The dataset also provides information about the sex of the speakers. The goal of this dataset is to analyze and classify the vowels based on their acoustic attributes.

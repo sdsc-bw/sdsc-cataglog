@@ -1,0 +1,3 @@
+name: qsabr1
+dataset_id: 441.0
+description: The dataset qsabr1 is a collection of data related to banking and finance in Qatar. It includes information such as loan amounts, interest rates, and repayment durations. The dataset also contains data on the credit ratings of borrowers, their employment status, and their monthly income. It provides insight into the lending practices of financial institutions in Qatar and can be used for research and analysis purposes. However, specific details on the source of the dataset and its timeframe are not mentioned in the provided sentences.

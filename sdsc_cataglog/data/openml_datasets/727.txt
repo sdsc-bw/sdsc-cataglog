@@ -1,0 +1,3 @@
+name: collins
+dataset_id: 987.0
+description: The dataset "collins" consists of information related to the field of chemistry. It contains data regarding chemical compounds and their properties, which can be useful for various research purposes. The dataset includes details such as the molecular structure, properties, and functional groups of the compounds. It also provides information about their biological activity and potential applications. The collins dataset is valuable for chemists, researchers, and scientists who are interested in exploring chemical compounds, investigating their properties, or developing new drugs or materials. It allows for in-depth analysis and comparison of different compounds, aiding in the advancement of chemical research.

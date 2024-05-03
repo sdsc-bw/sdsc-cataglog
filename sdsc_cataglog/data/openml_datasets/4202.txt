@@ -1,0 +1,3 @@
+name: pol_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44383.0
+description: The dataset pol_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset with 2000 rows and 100 columns. It contains data divided into 10 classes, with stratified sampling used to ensure an equal representation of each class. The dataset seems to be used for a classification task, where the goal is to classify data instances into one of the 10 classes. The exact nature of the data and the classes are not mentioned, but the dataset is structured in a way that promotes balanced class distribution, which can be important in many classification tasks.

@@ -1,0 +1,3 @@
+name: prnn_synth
+dataset_id: 464.0
+description: The dataset prnn_synth is created for evaluating the performance of machine learning models in predicting the next symbol in a sequence. The dataset consists of synthetic sequences generated from random initialization of state and using probabilistic finite state machines (PFSM). Each sequence contains randomly chosen symbols from a fixed alphabet. The dataset includes multiple partitions, such as training, validation, and test sets, with different characteristics and sizes. Additionally, it provides measurements of perplexity, which is a measure of how well a model predicts the next symbol, to enable model comparison and evaluation.

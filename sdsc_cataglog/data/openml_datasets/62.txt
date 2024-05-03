@@ -1,0 +1,3 @@
+name: primary-tumor
+dataset_id: 171.0
+description: The primary-tumor dataset contains information about different types of primary tumors found in patients. The dataset comprises 339 instances with nine attributes. These attributes include the age of the patient, tumor size, tumor site, histological type, degree of differentiation, mitoses, status of the lymph nodes, and whether the patient experienced recurrence or not. The dataset serves as a valuable resource for studying and predicting primary tumors, as well as understanding the various factors and features associated with them. It allows researchers to analyze patterns and develop models to aid in the diagnosis and treatment of primary tumors.

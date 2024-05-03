@@ -1,0 +1,3 @@
+name: autoUniv-au7-700
+dataset_id: 1553.0
+description: The dataset autoUniv-au7-700 is being described in the given sentences. It consists of 700 instances and 7 attributes. The dataset represents different universities and contains information on their admission rate, SAT score, acceptance rate, estimated cost, academic reputation, graduation rate, and financial aid. The dataset is provided in the ARFF format and can be used for various purposes, such as analyzing factors influencing university admissions or predicting admission rates based on the given attributes. This dataset can be beneficial for researchers, analysts, and educational institutions interested in exploring university admissions and related factors.

@@ -1,0 +1,3 @@
+name: QSAR-TID-102711
+dataset_id: 4003.0
+description: The dataset QSAR-TID-102711 contains information on the toxicity of different compounds. It consists of 5108 instances with 1024 attributes, including 1023 chemical descriptors and one binary class attribute indicating the toxicity level (active or inactive). The compounds were tested against a specific biological target to determine their toxicity. The dataset is widely used for various machine learning and data mining applications, especially in the field of quantitative structure-activity relationship (QSAR) modeling. It offers valuable insights into the relationships between chemical structures and toxicity, facilitating the development of predictive models to identify potentially toxic compounds.

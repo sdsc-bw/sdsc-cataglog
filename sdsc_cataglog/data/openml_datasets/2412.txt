@@ -1,0 +1,3 @@
+name: atp1d
+dataset_id: 41550.0
+description: The dataset atp1d contains information about tennis matches from ATP tournaments. It consists of various attributes such as the surface type (clay, grass, or hard), the round of the match (round of 16, quarterfinals, semifinals, etc.), and the player's rankings, among others. The dataset also includes performance indicators such as the number of aces, double faults, and the duration of the match. It covers matches from both singles and doubles categories, providing a comprehensive overview of different aspects of the game. The dataset atp1d offers valuable insights for analyzing tennis match patterns, player performance, and tournament outcomes.

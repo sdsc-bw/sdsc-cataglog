@@ -1,0 +1,3 @@
+name: FOREX_audchf-day-High
+dataset_id: 41875.0
+description: The dataset FOREX_audchf-day-High consists of historical daily high prices for the currency pair AUD/CHF in the foreign exchange market. The dataset contains information about high price levels observed on various trading days. It is likely a time-series dataset representing a considerable time span. The data may be useful for analyzing the performance, trends, and volatility of the AUD/CHF currency pair. By examining the daily highs, market participants and analysts can gain insights into the trading range and potential price levels of AUD/CHF.

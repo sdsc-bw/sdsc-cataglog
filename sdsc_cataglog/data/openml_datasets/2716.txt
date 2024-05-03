@@ -1,0 +1,3 @@
+name: beer_reviews
+dataset_id: 42087.0
+description: The dataset beer_reviews is a comprehensive collection of beer reviews from individuals all around the world. It contains over 1.5 million entries and covers a wide range of information about different beers. The data includes attributes such as the beer's name, style, size, and alcohol by volume (ABV). Additionally, it provides detailed ratings and reviews by users, including descriptions, scores, and sentiment analysis. The dataset also offers location information, allowing analysis by country, state, and city. With its extensive attributes and user-generated content, the beer_reviews dataset provides an invaluable resource for studying beer preferences, trends, and sentiments on a global scale.

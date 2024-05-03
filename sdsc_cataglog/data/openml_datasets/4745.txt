@@ -1,0 +1,3 @@
+name: SRBCT
+dataset_id: 45101.0
+description: The dataset SRBCT is a part of the UCI Machine Learning Repository and consists of gene expression profiles of Small Round Blue Cell Tumors (SRBCT). It aims to classify four different types of SRBCTs: Ewing's sarcoma, rhabdomyosarcoma, Burkitt's lymphoma, and neuroblastoma. The dataset contains 63 samples, with each sample having 2,308 gene expression features. Additionally, the dataset provides a categorical label indicating the tumor type for each sample. This dataset has been widely used by researchers for tumor classification and machine learning algorithm evaluation in the field of computational biology and bioinformatics.

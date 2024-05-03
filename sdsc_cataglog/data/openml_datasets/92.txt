@@ -1,0 +1,3 @@
+name: autoPrice
+dataset_id: 207.0
+description: The dataset autoPrice contains information about different car models, including their attributes and prices. It consists of 205 instances or rows, with 26 attributes or columns. These attributes include the car symboling, normalized losses, make, fuel type, aspiration, number of doors, body style, drive wheels, engine location, wheel base, length, width, height, curb weight, engine type, number of cylinders, engine size, fuel system, bore, stroke, compression ratio, horsepower, peak rpm, city mpg, highway mpg, and price. The dataset is used for analyzing the factors that affect car prices and developing predictive models.

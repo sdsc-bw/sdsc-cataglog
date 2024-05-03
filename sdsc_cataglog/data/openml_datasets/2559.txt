@@ -1,0 +1,3 @@
+name: FOREX_eurgbp-hour-Close
+dataset_id: 41824.0
+description: The dataset FOREX_eurgbp-hour-Close contains hourly closing prices for the EUR/GBP currency pair. The dataset provides information on the closing price of the currency pair every hour for an unspecified period. The prices are in the form of numerical values and are specifically related to the exchange rate between the Euro and the British Pound. It is not specified whether the data includes weekends or holidays. The dataset is likely to be useful for studying trends, patterns, and fluctuations in the EUR/GBP exchange rate over time.

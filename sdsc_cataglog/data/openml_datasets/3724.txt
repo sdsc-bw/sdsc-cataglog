@@ -1,0 +1,3 @@
+name: Motorcycle-Dataset
+dataset_id: 43801.0
+description: The Motorcycle-Dataset contains data on 30 motorcycles of various brands and models, with information including horsepower, weight, and engine displacement. The dataset also includes variables such as make, model, and year, allowing for further analysis and comparisons. It provides a comprehensive overview of motorcycles in terms of their specifications, enabling researchers or enthusiasts to study and understand the different characteristics of these vehicles. With a total of 10 columns, the dataset offers a valuable resource for exploring and drawing insights from the motorcycle industry and its products.

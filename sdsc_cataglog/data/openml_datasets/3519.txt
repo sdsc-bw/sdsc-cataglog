@@ -1,0 +1,3 @@
+name: Loan-Predication
+dataset_id: 43595.0
+description: The dataset Loan-Predication provides information on various features of loans, such as the applicant's marital status, education, employment, and income, along with other factors related to loan approval. It includes both categorical (e.g., gender, property area) and numerical variables (e.g., loan amount, loan duration). The dataset aims to predict whether a loan will be approved or not based on these features. It allows for exploring patterns and trends related to loan approval and serves as a valuable resource for designing predictive models in the field of loan prediction.

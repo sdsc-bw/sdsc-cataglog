@@ -1,0 +1,3 @@
+name: AP_Omentum_Lung
+dataset_id: 1132.0
+description: The dataset AP_Omentum_Lung focuses on the relationship between omentum metastases and non-small cell lung cancer (NSCLC). It contains information related to the 512 patients who were diagnosed with NSCLC and underwent omentectomy. The dataset includes various variables such as patient age, gender, histology type, omental metastasis status, and survival outcomes. The omentum metastases were identified through histopathological examination. Researchers can use this dataset to study the presence and impact of omental metastases on NSCLC prognosis and potentially find new ways to prevent or treat omentum metastases in lung cancer patients.

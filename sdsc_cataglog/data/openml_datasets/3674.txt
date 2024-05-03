@@ -1,0 +1,3 @@
+name: Solar-Radiation-Prediction
+dataset_id: 43751.0
+description: The Solar-Radiation-Prediction dataset contains weather and atmospheric conditions along with solar radiation measurements from several sensors placed in different locations. It aims to predict the amount of solar radiation based on these factors. The dataset has a total of 27,276 instances and 11 attributes, including temperature, humidity, wind speed, precipitation, and solar radiation. The data was collected for a duration of one year at 3-minute intervals. The dataset is useful for researchers and analysts working in the field of renewable energy, climate studies, and weather forecasting, as it provides valuable insights into solar radiation patterns.

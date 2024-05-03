@@ -1,0 +1,3 @@
+name: Bioresponse_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44657.0
+description: The dataset Bioresponse_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True is a collection of 2000 rows and 100 columns, with 10 different classes. It has been stratified, meaning that the distribution of classes in the dataset is representative of the overall population. This dataset is specifically focused on bioresponse data. The seed value used for generating this dataset is 4. The dataset has been designed to be diverse, with a sufficient number of observations for each class. It can be used for various machine learning tasks such as classification or pattern recognition in the field of bioresponse analysis.

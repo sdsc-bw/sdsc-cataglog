@@ -1,0 +1,3 @@
+repo_name: cml
+link: https://github.com/iterative/cml
+description: Continuous Machine Learning (CML) is an open-source CLI tool for implementing continuous integration & delivery (CI/CD) with a focus on MLOps. Use it to automate any workflow, host and manage packages, find and fix vulnerabilities, create instant dev environments, and write better code with AI. CML provides a number of functions to help package the outputs of ML workflows into a CML report. CML can help train and evaluate models — and then generate a visual report with results and metrics — automatically on every pull request.

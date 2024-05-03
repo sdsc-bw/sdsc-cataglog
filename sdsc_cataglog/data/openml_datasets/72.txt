@@ -1,0 +1,3 @@
+name: wine
+dataset_id: 187.0
+description: The wine dataset is a popular and widely used dataset in machine learning and data analysis. It contains information about different types of wine, including their chemical properties and quality ratings. The dataset consists of 14 attributes, such as alcohol content, acidity levels, and sulfur dioxide concentration. It also includes a class label that indicates the origin of the wine. The dataset has 178 instances, making it suitable for training and testing machine learning algorithms. It is often used for classification tasks, where the goal is to predict the origin or quality of a given wine based on its attributes.

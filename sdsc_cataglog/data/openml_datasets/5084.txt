@@ -1,0 +1,3 @@
+name: Weather
+dataset_id: 45625.0
+description: The dataset "Weather" contains information about various weather conditions and events. It includes data from multiple locations and spans a specific time period. The dataset comprises diverse variables such as temperature, humidity, precipitation, wind speed, and atmospheric pressure. It also includes records of extreme weather events such as storms, hurricanes, and heatwaves, as well as natural disasters like floods and tornadoes. The dataset is comprehensive and provides accurate information for analysis and insights into weather patterns and trends. Its inclusion of various variables and events makes it a valuable resource for research in meteorology, climate science, and related fields.

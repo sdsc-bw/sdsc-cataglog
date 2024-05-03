@@ -1,0 +1,3 @@
+name: QSAR-TID-17089
+dataset_id: 3738.0
+description: The dataset QSAR-TID-17089 contains information on molecular compounds and their biological activity against a specific target. It consists of 4,389 compounds with 623 molecular descriptors, such as their physicochemical properties and structural characteristics. The compounds are classified into three categories based on their biological activity: active, moderately active, and inactive. The dataset aims to develop predictive models to estimate the biological activity of new compounds without requiring experimental testing. This dataset has been widely used in the field of cheminformatics and drug discovery to explore the relationship between molecular structure and biological activity.

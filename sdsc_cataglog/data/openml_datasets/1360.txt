@@ -1,0 +1,3 @@
+name: QSAR-TID-47
+dataset_id: 3337.0
+description: The dataset QSAR-TID-47 consists of 47 chemical compounds and their associated biological activities to predict their binding affinity with a certain receptor. The compounds are represented by a set of physicochemical properties such as hydrophobicity, molecular weight, and topological indices. The dataset provides information on compounds with a wide range of biological activity, including strong to weak binding affinities. It is useful for machine learning and predictive modeling tasks to understand the relationship between the structural features of the compounds and their biological activity. QSAR-TID-47 can be utilized for developing new drugs and optimizing chemical structures for desired biological outcomes.

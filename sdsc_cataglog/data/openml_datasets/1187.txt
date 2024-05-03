@@ -1,0 +1,3 @@
+name: QSAR-TID-20158
+dataset_id: 3163.0
+description: The dataset QSAR-TID-20158 contains information about chemical compounds and their corresponding biological activities. It includes 1055 instances and 2048 features, which are descriptors that provide information about the compounds' properties. The dataset was created to study the quantitative structure-activity relationship (QSAR) to predict the biological activity of new compounds. The target variable is a continuous value that represents the toxicity level of the compounds. This dataset can be useful for researchers working on drug discovery and development, as well as for developing QSAR models to predict the toxicity of new compounds.

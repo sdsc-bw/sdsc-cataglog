@@ -1,0 +1,3 @@
+name: TuningSVMs
+dataset_id: 41977.0
+description: The TuningSVMs dataset consists of 32 features describing the performance of Support Vector Machines (SVMs) on various tasks. These features include accuracy, precision, recall, and F1 score. The dataset also contains 134 samples, divided into three classes. The goal of the dataset is to predict the class of a given SVM based on its performance features. The dataset is useful for evaluating and optimizing SVMs, as well as for comparing different tuning techniques. It can be used to train and test SVM classifiers or to develop algorithms for SVM performance improvement.

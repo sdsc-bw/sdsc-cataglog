@@ -1,0 +1,3 @@
+name: reuters
+dataset_id: 41470.0
+description: The dataset Reuters contains news articles from the Reuters website. The articles cover various topics such as politics, business, sports, and entertainment. The dataset includes over 13,000 articles from the years 2010-2017, each with its respective category and text. The articles are written in English and are labeled with multiple categories, allowing for multi-label classification tasks. The dataset also features a hierarchical structure with four levels of categories, ranging from general topics to more specific ones. The Reuters dataset is widely used in natural language processing and machine learning research for tasks such as text classification, sentiment analysis, and topic modeling.

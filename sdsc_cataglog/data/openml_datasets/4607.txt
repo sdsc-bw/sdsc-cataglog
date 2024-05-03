@@ -1,0 +1,3 @@
+name: porto-seguro_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44785.0
+description: The dataset porto-seguro_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True has 2000 rows and 100 columns. It includes 10 different classes and is stratified, meaning the distribution of classes in the dataset is representative of the overall population. The dataset likely contains information about Porto Seguro, a company or location. The variables in the dataset could include various factors related to the classes, possibly representing different aspects of Porto Seguro or different categories of data. Overall, the dataset is designed to provide a representative sample of data with multiple classes and diverse variables.

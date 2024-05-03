@@ -1,0 +1,3 @@
+name: FOREX_eurgbp-minute-Close
+dataset_id: 41786.0
+description: The dataset "FOREX_eurgbp-minute-Close" contains minute-level closing prices for the EUR/GBP currency pair in the foreign exchange (FOREX) market. The dataset presents information about the exchange rate between the Euro (EUR) and the British Pound (GBP) at different points in time. It includes data for a specific timeframe, likely spanning several days or months, and provides a close value for each minute. The dataset is relevant for analyzing short-term fluctuations in the EUR/GBP exchange rate, identifying patterns, and conducting research or implementing trading strategies in the FOREX market.

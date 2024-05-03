@@ -1,0 +1,3 @@
+name: QSAR-TID-118
+dataset_id: 3476.0
+description: The dataset QSAR-TID-118 contains a set of 118 chemical compounds, each with their corresponding biological activity towards the target protein. The compounds are represented by 228 molecular descriptors, including topological, thermodynamic, electronic, and geometric characteristics. The goal of this dataset is to explore the relationship between these descriptors and the biological activity. The target protein is associated with a specific disease, therefore understanding this relationship can lead to the discovery of potential drug candidates. QSAR modelling techniques can be applied to analyze the dataset and predict the biological activity of new compounds, facilitating drug discovery efforts.

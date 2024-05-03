@@ -1,0 +1,3 @@
+name: analcatdata_asbestos
+dataset_id: 459.0
+description: The dataset analcatdata_asbestos provides information about a study conducted on asbestos workers. It contains a total of 258 records or data points. The data includes variables such as time of exposure to asbestos, age of the workers, smoking habits, and risk of asbestos-related diseases. The dataset does not include any missing values; however, some variables are considered non-deterministic. The study aims to analyze the relationship between asbestos exposure and the risk of diseases, specifically lung cancer and mesothelioma. This dataset can be used for further research and analysis in the field of occupational health and asbestos-related diseases.

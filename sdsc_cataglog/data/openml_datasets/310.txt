@@ -1,0 +1,3 @@
+name: bank32nh
+dataset_id: 558.0
+description: The dataset bank32nh is a collection of data related to the banking sector. It contains 32 observations and consists of 4 continuous input variables and 3 categorical output variables. The input variables include demographic information like age, income, education, and employment status of the individuals. The output variables provide information about whether the individuals have a low, medium, or high net worth. This dataset can be used for various purposes, such as analyzing the factors influencing net worth or developing predictive models. It offers valuable insights into the relationships between demographic factors and financial status in the banking industry.

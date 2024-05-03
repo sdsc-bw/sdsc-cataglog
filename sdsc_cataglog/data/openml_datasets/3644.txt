@@ -1,0 +1,3 @@
+name: Moneyball
+dataset_id: 43720.0
+description: The Moneyball dataset originated from the Oakland Athletics baseball team's quest to find a competitive edge despite having a limited budget. It includes statistical player data such as on-base percentage and slugging percentage. The team's general manager, Billy Beane, utilized advanced analytics to identify undervalued players based on these metrics. This approach challenged conventional wisdom and shook up the traditional scouting process. The success of Moneyball led to a shift in how baseball teams evaluate players. The dataset captures this transformative trend in the sport and remains a reference point for teams and analysts seeking a data-driven approach to talent evaluation and team building.

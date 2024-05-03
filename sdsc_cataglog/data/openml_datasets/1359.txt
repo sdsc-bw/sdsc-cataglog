@@ -1,0 +1,3 @@
+name: QSAR-TID-12998
+dataset_id: 3336.0
+description: The QSAR-TID-12998 dataset contains information about the biological activity and physicochemical properties of 1039 compounds. The compounds are related to the inhibition of the CYP2D6 enzyme, which plays a significant role in drug metabolism. The dataset includes various features such as molecular descriptors, calculated physicochemical properties, and a measure of the biological activity. It is intended for developing quantitative structure-activity relationship (QSAR) models to predict the inhibitory activity of new compounds against CYP2D6. The dataset has been curated and is publicly available for researchers interested in developing models for predicting drug metabolism.

@@ -1,0 +1,3 @@
+name: dbworld-bodies-stemmed
+dataset_id: 1561.0
+description: The dataset "dbworld-bodies-stemmed" is a collection of text documents in stemmed format. It contains articles from various disciplines, including computer science, information retrieval, and database management. The documents cover different topics such as data modeling, query optimization, and machine learning. The dataset's purpose is to aid research in natural language processing, text analysis, and information retrieval tasks. Each document in the dataset is stemmed, where common word endings are removed to simplify analysis. The dataset is valuable for training and evaluating algorithms related to text processing, information extraction, and topic modeling.

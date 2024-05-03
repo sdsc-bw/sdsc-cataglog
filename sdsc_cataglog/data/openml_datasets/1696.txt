@@ -1,0 +1,3 @@
+name: QSAR-TID-101317
+dataset_id: 3679.0
+description: The dataset QSAR-TID-101317 is a collection of chemical compounds with associated descriptors and their corresponding biological activities. It consists of 4,961 instances, each comprising 786 variables including both numerical and categorical attributes. The dataset aims to investigate the relationship between the chemical structure of these compounds and their biological activities, specifically related to therapeutic index response. The data was generated using the Discovery Studio 3.5 software, and various molecular descriptors were calculated. The dataset is publicly available and can be used for building predictive models or exploring chemoinformatics research in drug discovery and development.

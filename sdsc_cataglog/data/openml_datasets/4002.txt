@@ -1,0 +1,3 @@
+name: diamonds
+dataset_id: 44140.0
+description: The dataset diamonds provides information about a variety of diamonds. It contains 53,940 entries with various attributes for each diamond, such as carat weight, cut, color, clarity, and price. The carat weight ranges from 0.2 to 5.01, while the cut, color, and clarity are categorized on a scale. The dataset also includes the dimensions (length, width, and depth) of the diamonds. In addition, it provides information about the diamond's table percentage, depth percentage, and the measurement in millimeters. The dataset can be used to analyze the relationship between the diamond attributes and its price, allowing for insights into the factors influencing diamond pricing.

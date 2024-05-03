@@ -1,0 +1,3 @@
+name: wine
+dataset_id: 44091.0
+description: The wine dataset is a collection of data related to different attributes of wine that can be used for analysis. It includes information such as alcohol content, pH levels, and acidity. The dataset has a total of 178 instances, making it a relatively medium-sized dataset. Each instance represents a specific wine sample. It is often used for classification and regression tasks to predict the quality or characteristics of wine based on these attributes. The attributes in the dataset are numeric and have different ranges, requiring normalization before analysis. Overall, the wine dataset provides a valuable resource for studying and understanding the properties and qualities of different wines.

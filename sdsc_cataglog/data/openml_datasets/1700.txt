@@ -1,0 +1,3 @@
+name: QSAR-TID-18033
+dataset_id: 3683.0
+description: The dataset QSAR-TID-18033 contains information related to the toxicity of chemicals. It includes 4973 chemical compounds and their corresponding EC50 values, which represent the concentration of a compound required to inhibit the activity of an enzyme by 50%. The compounds in the dataset are diverse, representing various chemical classes and structural features. The data also includes additional descriptors such as 2D and 3D descriptors, constitutional descriptors, and electronic properties. This dataset can be used for modeling the toxicity and bioactivity of chemical compounds, aiding in drug discovery and toxicological studies.

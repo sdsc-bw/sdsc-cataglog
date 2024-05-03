@@ -1,0 +1,3 @@
+name: FOREX_usdchf-hour-High
+dataset_id: 41780.0
+description: The dataset "FOREX_usdchf-hour-High" provides information on the hourly highs of the USD/CHF exchange rate in the foreign exchange market. It likely contains historical data and measures the highest value reached by the USD/CHF pair each hour. The dataset is specific to the USD/CHF currency pair and may be useful for analyzing the volatility and performance of this particular exchange rate. It could be used to identify patterns, trends, and potential trading opportunities in the USD/CHF market.

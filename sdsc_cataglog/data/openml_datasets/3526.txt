@@ -1,0 +1,3 @@
+name: FEER-Dataset
+dataset_id: 43602.0
+description: The FEER-Dataset is a collection of multi-modal data that aims to facilitate research in emotion recognition. It includes data from multiple sources such as videos, audio recordings, physiological signals, and self-reported ratings. The dataset contains recordings of participants in various scenarios, including facial expressions, vocalizations, and physiological responses. The data is annotated with emotion labels as well as additional information such as intensity and valence. FEER-Dataset is intended to provide researchers with a comprehensive resource to develop and evaluate emotion recognition models, allowing for a deeper understanding of emotions and their expressions.

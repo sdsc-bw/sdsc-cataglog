@@ -1,0 +1,3 @@
+name: QSAR-TID-12567
+dataset_id: 3816.0
+description: The dataset QSAR-TID-12567 contains information about chemical compounds and their biological activity. It includes 1055 instances with 902 molecular descriptors and one target variable representing the activity value. The dataset was created for the purpose of developing quantitative structure-activity relationship (QSAR) models. The compounds in the dataset are classified into three different activity classes: inactive, moderately active, and highly active. The dataset aims to assist in analyzing the relationship between the chemical structure of compounds and their biological activity, with potential applications in drug design and discovery.

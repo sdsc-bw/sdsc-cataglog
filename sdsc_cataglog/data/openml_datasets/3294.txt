@@ -1,0 +1,3 @@
+name: Gambling-Behavior-Bustabit
+dataset_id: 43364.0
+description: The dataset "Gambling-Behavior-Bustabit" focuses on capturing gambling behavior patterns from the Bustabit online gambling platform. It contains information from over 15,000 unique users over a period of two years. The dataset includes various features such as the user's ID, the amount wagered, the amount won or lost, the game round they played, and the payout multiplier. It also provides insights into user behavior by indicating the number of bets made, the duration between bets, and the profit or loss generated. This dataset enables researchers to analyze gambling behavior and develop strategies for responsible gambling initiatives.

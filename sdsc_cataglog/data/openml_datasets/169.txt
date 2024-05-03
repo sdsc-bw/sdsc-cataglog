@@ -1,0 +1,3 @@
+name: krystek
+dataset_id: 407.0
+description: The dataset "Krystek" is a compilation of historical data related to the energy sector. It consists of 1,000 records with variables such as the year, country, and types of energy sources. The dataset provides an overview of global energy systems and can be used for various purposes, such as analyzing trends in energy production and consumption over time or comparing energy sources across different countries. It is a valuable resource for researchers, policymakers, and analysts interested in studying energy-related topics and identifying patterns or patterns in energy use and production.

@@ -1,0 +1,3 @@
+name: analcatdata_negotiation
+dataset_id: 899.0
+description: The dataset analcatdata_negotiation is used for analyzing negotiation processes. It contains information about 90 negotiation pairs from a study where two people negotiated for a fixed amount of money. The dataset includes various attributes like gender, culture, and individual differences that might influence the negotiation process. The data can be used to understand the factors that contribute to negotiation outcomes and to develop strategies for achieving successful negotiations. The dataset has been widely used in research on negotiation processes and can be a valuable resource for studying human interactions and decision-making in negotiation scenarios.

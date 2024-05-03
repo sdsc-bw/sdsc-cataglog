@@ -1,0 +1,3 @@
+name: QSAR-TID-12261
+dataset_id: 3262.0
+description: QSAR-TID-12261 is a dataset that consists of 1527 molecules labeled as either active or inactive against a target protein. The molecules are represented by 41 molecular descriptors that include physicochemical properties and molecular fingerprints. The goal of this dataset is to develop a predictive model that can accurately classify molecules as active or inactive based on these descriptors. The dataset is publicly available and can be used for various machine learning tasks, such as classification or regression. QSAR-TID-12261 provides an opportunity for researchers to study the relationship between molecular structure and activity against the target protein.

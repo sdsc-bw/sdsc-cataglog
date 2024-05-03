@@ -1,0 +1,3 @@
+name: Reading_Hydro_downstream
+dataset_id: 44221.0
+description: The dataset "Reading_Hydro_downstream" contains information collected downstream of a hydroelectric power facility in Reading. It includes data related to water levels, flow rates, and water quality. The dataset is organized in a tabular format, with each row representing a specific time period. The variables in the dataset include date and time, water level, flow rates, temperatures, and concentrations of various substances. The dataset provides valuable insights into the behavior of the water downstream of the hydroelectric power plant and can be used to analyze water quality, predict flow patterns, and assess the impact of the power plant on the downstream environment.

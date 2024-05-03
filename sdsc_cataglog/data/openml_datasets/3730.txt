@@ -1,0 +1,3 @@
+name: Forest-Fires-Data-Set-Portugal
+dataset_id: 43807.0
+description: The dataset Forest-Fires-Data-Set-Portugal contains information about forest fires in Portugal from 2000 to 2003. The dataset includes various attributes such as the geographical location, month, day, temperature, humidity, wind speed, rain, and area burned. The data was collected from the Montesinho Natural Park in northeastern Portugal. The purpose of this dataset is to analyze and predict forest fires in Portugal based on the given attributes. This dataset is useful for researchers, environmentalists, and authorities involved in fire control and prevention efforts, as it provides valuable insights into the factors influencing forest fire occurrences.

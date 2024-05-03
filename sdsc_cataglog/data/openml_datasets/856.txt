@@ -1,0 +1,3 @@
+name: OVA_Lung
+dataset_id: 1130.0
+description: The dataset "OVA_Lung" consists of gene expression data obtained from lung biopsies of patients with non-small cell lung cancer (NSCLC) and patients without cancer. The aim of this dataset is to identify gene signatures that can distinguish between cancerous and non-cancerous lung tissue. The dataset includes gene expression values for 20,531 genes, along with clinical information such as patient age, gender, smoking history, and tumor histology. It is a valuable resource for researchers studying lung cancer and can be utilized to develop diagnostic or prognostic tools for NSCLC.

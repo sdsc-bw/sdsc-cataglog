@@ -1,0 +1,3 @@
+repo_name: rcnn
+link: https://github.com/taolei87/rcnn
+description: This repo contains Theano implementations of popular neural network components and optimization methods, including the RCNN (Recurrent Convolutional Neural Network). It also includes the implementation of three different models: 1) Neural question retrieval for community-based QA, 2) Sentiment analysis / document classification, and 3) Rationalizing neural predictions. The RCNN model is described in paper [2], with datasets and pre-trained word vectors available for download. The implementation of the RCNN in this repo requires Theano >= 0.7, Python >= 2.7, and Numpy.

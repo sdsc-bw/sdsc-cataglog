@@ -1,0 +1,3 @@
+name: FOREX_usddkk-hour-Close
+dataset_id: 41871.0
+description: The dataset FOREX_usddkk-hour-Close contains hourly closing prices for USD/DKK forex trading. It includes information about the exchange rate between the US dollar (USD) and the Danish krone (DKK). The dataset covers an unspecified period of time, likely showcasing multiple years' worth of data. Each entry provides the closing price for the currency pair at a specific hour. This dataset would be useful for analyzing the fluctuation of the USD/DKK exchange rate over time and identifying patterns or trends in forex trading.

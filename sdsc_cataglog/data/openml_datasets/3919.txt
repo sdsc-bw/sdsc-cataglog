@@ -1,0 +1,3 @@
+name: Allstate_Claims_Severity
+dataset_id: 44045.0
+description: The Allstate_Claims_Severity dataset contains a large number of features that describe the characteristics of insurance claims. It has both categorical and numerical variables, including ID, target values, and anonymized features. Some of the anonymized variables are skewed and continuous, while others are highly correlated. The dataset consists of over 188,000 records, with each entry representing a unique claim. The aim of this dataset is to predict the severity of insurance claims based on the given features. The dataset is suitable for regression and machine learning models, and can be used for analyzing claim patterns and developing predictive models for claim severity.

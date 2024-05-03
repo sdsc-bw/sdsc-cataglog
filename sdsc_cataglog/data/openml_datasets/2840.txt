@@ -1,0 +1,3 @@
+name: hate_det5
+dataset_id: 42417.0
+description: The dataset hate_det5 consists of a collection of tweets that have been labeled as hate speech or not. It contains 20,000 tweets in total, with approximately 11,300 labeled as hate speech and 8,700 as non-hate speech. The dataset aims to provide a balanced distribution of hate and non-hate speech examples. It was created using an automated tool that categorized tweets as hate speech based on certain criteria such as offensive language and derogatory terms. The dataset is useful for training machine learning models to detect and classify hate speech in online social media platforms.

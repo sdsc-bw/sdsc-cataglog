@@ -1,0 +1,3 @@
+name: fri_c4_100_25
+dataset_id: 625.0
+description: The dataset fri_c4_100_25 contains data on a social network where users can form connections and communicate with each other. It consists of 100 vertices, representing individual users, and 25 edges, representing connections between users. Each vertex has attributes such as age, gender, and occupation, providing additional information about the users. The dataset also includes attributes for the edges, such as the strength of the connection between users. This dataset is valuable for analyzing the social network's structure, relationships between users, and studying various social phenomena.

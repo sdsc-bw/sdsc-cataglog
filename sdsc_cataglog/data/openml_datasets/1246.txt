@@ -1,0 +1,3 @@
+name: QSAR-TID-10839
+dataset_id: 3222.0
+description: QSAR-TID-10839 is a dataset that contains information about 399 chemical compounds and their corresponding toxicity levels towards algae. It consists of 6 input variables, including molecular descriptors related to the structure and properties of the compounds. The output variable is a continuous value that represents the toxicity level. The dataset is suitable for the development and evaluation of quantitative structure-activity relationships (QSAR) models. It can be used to predict the toxicity of new compounds towards algae based on their chemical characteristics. The dataset is publicly available and has been used in various studies related to toxicity prediction and drug discovery.

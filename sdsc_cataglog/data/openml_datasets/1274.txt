@@ -1,0 +1,3 @@
+name: QSAR-TID-19642
+dataset_id: 3250.0
+description: The dataset QSAR-TID-19642 consists of molecular descriptors of different chemicals, along with their corresponding values for toxicity towards Daphnia magna, a species of water flea. The dataset contains 6,024 instances and 828 numeric features, as well as a target variable indicating the toxicity level. The aim of this dataset is to predict the toxicity of chemicals using the provided descriptors. This dataset has been widely used for building machine learning models and exploring various feature selection methods and classification algorithms for toxicity prediction. The data can be downloaded from the QSAR-TID-19642 repository for further analysis and research purposes.

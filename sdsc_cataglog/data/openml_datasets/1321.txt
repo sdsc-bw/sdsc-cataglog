@@ -1,0 +1,3 @@
+name: QSAR-TID-20122
+dataset_id: 3297.0
+description: The dataset QSAR-TID-20122 includes information on 1053 chemical compounds and their biological activities against the human immunodeficiency virus type 1 (HIV-1). The compounds were experimentally tested, and their structures were represented through molecular descriptors. The dataset also includes the measured activity values and the Ames mutagenicity classification. The purpose of this dataset is to build and evaluate machine learning models for predicting the activity/affinity of potential inhibitors against the HIV-1 virus. The dataset is widely used in research for drug discovery and in developing models for quantitative structure-activity relationship (QSAR) studies.

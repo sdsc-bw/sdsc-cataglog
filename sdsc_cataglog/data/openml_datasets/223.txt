@@ -1,0 +1,3 @@
+name: backache
+dataset_id: 463.0
+description: The dataset backache contains information related to patients suffering from backache symptoms. It includes a total of 310 observations with 12 attributes. The attributes consist of the severity of backache, the number of hours the pain lasts, pain location, cause of pain, whether there is pain in leg or not, mobility restrictions, treatment followed, and outcome after treatment. The dataset was collected to analyze different factors associated with backache symptoms and find insights on predicting and managing backache. It offers a valuable resource for researchers and healthcare professionals in understanding and addressing backache-related issues.

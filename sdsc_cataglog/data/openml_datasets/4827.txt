@@ -1,0 +1,3 @@
+name: hailfinder_10
+dataset_id: 45185.0
+description: The dataset hailfinder_10 contains information on hailstorms in ten different regions. It includes details like the date, time, duration, size, and intensity of each hailstorm. The dataset also provides the geographical coordinates of the hailstorm location. It consists of over 1,000 records, with each record representing a different hailstorm event. Additionally, the dataset contains supplementary information such as the wind speed, cloud cover, and temperature during the hailstorm. This dataset can be used to analyze and understand the patterns and characteristics of hailstorms in the ten regions it covers, aiding in hailstorm research and prevention strategies.

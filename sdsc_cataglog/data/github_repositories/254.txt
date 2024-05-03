@@ -1,0 +1,3 @@
+repo_name: FGLab
+link: https://github.com/Kaixhin/FGLab
+description: FGLab is a machine learning dashboard, designed to make prototyping experiments easier. Experiment details and results are sent to a database, which allows analytics to be performed after their completion. The server is FGLab, and the clients are FGMachines. FGLab tries to follow the SemVer standard whenever possible. Releases can be found here. There are 3 ways to run FGLab: Installing locally, via Docker, or hosted on Heroku. Run `node lab` (or `npm start`) to start FGLab. You can now access the user interface from a browser on the current machine. Please read the overview to understand how FGLab and FGMachine cooperate - both are needed in order to run experiments.

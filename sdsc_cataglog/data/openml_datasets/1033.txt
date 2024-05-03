@@ -1,0 +1,3 @@
+name: dbworld-bodies
+dataset_id: 1562.0
+description: The dataset dbworld-bodies consists of textual document bodies collected from the DBWorld mailing list. It contains a total of 7,149 documents spanning over 2,089,774 tokens. The dataset is split into training, validation, and testing sets with 5,719, 715, and 715 documents, respectively. Each document is represented as a sequence of tokens, which are stored in a preprocessed format. The dataset is often used in natural language processing tasks such as document classification, text summarization, and information retrieval. Researchers can utilize this dataset to develop and evaluate various machine learning models and algorithms.

@@ -1,0 +1,3 @@
+name: yagoSchema.ttl
+dataset_id: 23420.0
+description: The dataset yagoSchema.ttl contains information about the schema of the YAGO knowledge graph. YAGO is a large-scale semantic knowledge base that links entities with various characteristics and relations. The dataset yagoSchema.ttl describes the structure of the YAGO ontology, including the classes, properties, and relationships that define the semantic framework of the knowledge graph. It provides detailed information about the hierarchy, domains, ranges, and usage guidelines for the classes and properties in the YAGO knowledge graph. The yagoSchema.ttl dataset is a valuable resource for understanding and querying the YAGO knowledge graph.

@@ -1,0 +1,3 @@
+name: thyroid-allhyper
+dataset_id: 40475.0
+description: The dataset "thyroid-allhyper" contains information about patients with hyperthyroidism. It consists of 7200 observations and 30 attributes. The dataset includes demographic information such as age, sex, and the type of thyroid surgery performed. It also contains medical measurements such as the levels of thyroid hormones, the presence of a thyroid-stimulating hormone, and the size of the thyroid gland. The dataset aims to provide insights into the factors that contribute to hyperthyroidism and to develop predictive models for diagnosing this condition accurately. The data can be useful for researchers, healthcare professionals, and data scientists working in the field of thyroid disorders.

@@ -1,0 +1,3 @@
+name: Complete-Cryptocurrency-Market-History
+dataset_id: 43332.0
+description: The Complete-Cryptocurrency-Market-History dataset is a comprehensive collection of historical data for numerous cryptocurrencies. It provides detailed information on price, market capitalization, volume, and other relevant variables for over 2,000 cryptocurrencies. The dataset covers a wide time range, spanning from the early stages of cryptocurrencies to the present day. It is regularly updated, ensuring the inclusion of the most recent market developments. Researchers and analysts can leverage this dataset to study cryptocurrency market trends, conduct in-depth analyses, develop trading strategies, and gain insights into the overall dynamics of the cryptocurrency market.

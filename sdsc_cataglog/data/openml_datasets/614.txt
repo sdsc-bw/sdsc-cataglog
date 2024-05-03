@@ -1,0 +1,3 @@
+name: pollen
+dataset_id: 871.0
+description: The dataset "pollen" contains information about the concentration of pollen particles in the air. It consists of multiple variables such as date, time, location, and the number of pollen particles per cubic meter. The dataset was collected by sensors placed in various locations to monitor pollen levels over time. It can provide valuable insights into the seasonal variations of pollen concentration, allowing researchers and healthcare professionals to analyze its impact on allergy sufferers and develop effective preventive measures. The dataset can be utilized for research purposes, including studying the correlation between pollen levels and climate factors, as well as developing predictive models for pollen allergies.

@@ -1,0 +1,3 @@
+name: Meta_Album_BTS_Mini
+dataset_id: 44309.0
+description: The dataset Meta_Album_BTS_Mini contains information about the mini-album released by the K-pop group BTS, also known as Bangtan Boys. It includes details such as the album's title, release date, language, genre, and the number of tracks it contains. The dataset also provides information on the album's physical attributes, such as its format, weight, and dimensions. Additionally, it contains data on the album's popularity and performance, including the number of copies sold and its chart rankings. The dataset allows for a comprehensive analysis of BTS's mini-album, providing insights into its success and impact.

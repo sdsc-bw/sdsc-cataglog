@@ -1,0 +1,3 @@
+name: New-York-Citi-Bike-Trip-Duration-2016
+dataset_id: 43573.0
+description: The dataset "New-York-Citi-Bike-Trip-Duration-2016" contains information about bike-sharing trips in New York City for the year 2016. It includes details such as trip duration, start and end times, user demographics, and bike station locations. The dataset aims to provide insights into bike usage patterns and trends in the city. With over 1.3 million records, the dataset is extensive and valuable for studying transportation patterns, urban mobility, and sustainable transportation solutions. It can be utilized by researchers, urban planners, transportation companies, and policymakers to analyze and improve bike-sharing systems and infrastructure in New York City.

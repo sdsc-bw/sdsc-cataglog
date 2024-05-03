@@ -1,0 +1,3 @@
+name: BNG(credit-g)
+dataset_id: 40514.0
+description: BNG (credit-g) is a dataset that contains information about customer's credit history, demographics, and loan applications. It consists of 250,000 anonymized records with 24 attributes, including details like age, gender, income, employment, and loan amount. The dataset is divided into training and testing sets, with around 69% of customers labeled as good credit risks. The goal is to utilize this dataset for credit risk prediction, assessing the likelihood of customers being able to repay their loans. It provides an opportunity to develop and refine machine learning models to aid in accurate credit risk assessment and decision-making processes.

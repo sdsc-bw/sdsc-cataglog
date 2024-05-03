@@ -1,0 +1,3 @@
+name: wine_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44367.0
+description: The dataset, wine_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True, consists of information related to wine samples. It contains 2000 rows and 100 columns. The dataset is categorized into 10 different classes, representing various types of wines. The data has been stratified, ensuring that each class is proportionally represented within the dataset. The information in this dataset is valuable for conducting analyses and developing models related to wines. It provides a diverse range of features and classes, offering insights into the characteristics and qualities of different wines.

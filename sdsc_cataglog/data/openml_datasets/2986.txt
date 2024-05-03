@@ -1,0 +1,3 @@
+name: weather
+dataset_id: 42691.0
+description: The weather dataset is an extensive collection of information related to various weather conditions. It contains data regarding temperature, humidity, wind speed, precipitation, and other meteorological parameters. This dataset allows researchers to analyze and understand climate patterns and trends. It covers a wide range of geographical locations and time periods, providing a comprehensive view of global weather patterns. The dataset is regularly updated and maintained with detailed records for each weather observation. This information is useful for numerous applications, such as weather forecasting, climate modeling, agricultural planning, and studying the impact of weather on various industries.

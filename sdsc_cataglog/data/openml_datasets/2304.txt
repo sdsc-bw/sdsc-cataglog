@@ -1,0 +1,3 @@
+name: jungle_chess_2pcs_endgame_complete
+dataset_id: 41001.0
+description: The dataset "jungle_chess_2pcs_endgame_complete" contains information about endgame positions in the board game Jungle Chess. It consists of 28056 instances, with each instance having 7 features and a target variable. The features include the piece types, positions, and distances, as well as the player's turn. The target variable represents the player who will win the game. The dataset does not contain any missing values. It was originally obtained from the "OpenML" website and has been used for predictive modeling tasks. This dataset provides valuable information for analyzing and predicting the outcomes of endgame positions in Jungle Chess.

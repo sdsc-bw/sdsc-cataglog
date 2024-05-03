@@ -1,0 +1,3 @@
+name: fri_c3_500_5
+dataset_id: 749.0
+description: The dataset fri_c3_500_5 contains a collection of social network interactions, with each interaction representing a friendship between two individuals. The dataset has 500 individuals, and each individual has an average of 5 friends. It provides information about the interactions and relationships between these individuals, allowing for the analysis of a variety of social network dynamics. The dataset is valuable for studying friendship formation, network analysis, and the impact of social connections on various phenomena. With its detailed information about friendships, it serves as a useful resource for researchers interested in social networks and human behavior.

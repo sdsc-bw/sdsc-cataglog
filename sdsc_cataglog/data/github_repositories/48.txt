@@ -1,0 +1,3 @@
+repo_name: sklearn-deap
+link: https://github.com/rsteca/sklearn-deap
+description: sklearn-deap is a library that allows you to use evolutionary algorithms instead of gridsearch in scikit-learn, reducing the time required to find the best parameters for your estimator. It evolves only the combinations that give the best results. It's implemented using the deap library and can be installed using pip: "pip install sklearn-deap" or by cloning the repo and typing "python setup.py install" on your shell. An ipython notebook comparing EvolutionaryAlgorithmSearchCV against GridSearchCV and RandomizedSearchCV is available as an example.

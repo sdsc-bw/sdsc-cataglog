@@ -1,0 +1,3 @@
+name: QSAR-TID-101324
+dataset_id: 3478.0
+description: The dataset QSAR-TID-101324 includes information on the quantitative structure-activity relationship (QSAR) of a set of chemicals. It contains 309 compounds, each with 1024 molecular descriptors and a binary outcome indicating the compound's biological activity. The goal of this dataset is to develop a predictive model that can accurately classify new compounds as active or inactive based on their molecular structure. The dataset is labeled, and the features represent different structural characteristics of the compounds. This dataset is commonly used in the field of cheminformatics for studying structure-activity relationships and developing computational models for drug discovery and toxicology.

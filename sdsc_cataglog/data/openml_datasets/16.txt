@@ -1,0 +1,3 @@
+name: mfeat-pixel
+dataset_id: 20.0
+description: The dataset mfeat-pixel consists of 2,000 6x6 pixel images of digits. Each image represents a numerical digit ranging from 0 to 9. The images have been preprocessed so that each pixel is represented by a real number ranging from 0 to 1. The dataset is used for pattern recognition and machine learning tasks, such as classification algorithms. It is often employed as a benchmark dataset to evaluate and compare the performance of different approaches. The mfeat-pixel dataset provides a valuable resource for exploring and developing algorithms for digit recognition and image classification tasks.

@@ -1,0 +1,3 @@
+name: chscase_census2
+dataset_id: 909.0
+description: The dataset chscase_census2 is related to the Community Health Status Assessment and Community Engagement (CHSCase) program. It provides data on various factors such as population, age, race, poverty status, education, and employment for different geographic areas. The dataset is collected from the US Census Bureau and includes information from diverse communities across the United States. It aims to analyze and assess the health status and health disparities among different communities to improve public health outcomes. The dataset allows researchers and policymakers to understand and address health inequities and develop targeted interventions for vulnerable populations.

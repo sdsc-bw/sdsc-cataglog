@@ -1,0 +1,3 @@
+name: GAMETES_Epistasis_2-Way_20atts_0.1H_EDM-1_1
+dataset_id: 40646.0
+description: The dataset GAMETES_Epistasis_2-Way_20atts_0.1H_EDM-1_1 is a collection of genetic data used for studying epistasis, which refers to the interaction between multiple genes in determining a phenotype. The dataset consists of 1600 instances, each with 20 attributes representing various genetic factors. It has a class distribution where 50% of instances belong to one class and 50% to another. The dataset is notable for having a high dimensionality, a low ratio of instances to attributes, and a relatively low level of noise. It is commonly used in machine learning research to evaluate algorithms and techniques for handling epistatic interactions in genetic data.

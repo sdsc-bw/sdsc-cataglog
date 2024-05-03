@@ -1,0 +1,3 @@
+name: phoneme
+dataset_id: 43973.0
+description: The dataset phoneme consists of audio recordings of spoken words, specifically phonemes, which are the smallest units of sound. It includes recordings from various speakers and includes variations in pitch and speed. Each recording is labeled with the corresponding phoneme, allowing for supervised learning tasks. The dataset was collected for research purposes, such as studying speech recognition and natural language processing. It is often used for training and evaluating machine learning models in tasks like phoneme classification and speech synthesis. The dataset provides a valuable resource for researchers in the field of speech and language processing.

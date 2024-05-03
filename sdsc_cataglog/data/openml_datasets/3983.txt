@@ -1,0 +1,3 @@
+name: covertype
+dataset_id: 44121.0
+description: The dataset covertype provides information about the type of forest cover (7 classes) found in the Roosevelt National Forest of Colorado, USA. It contains 581,012 observations with 54 features extracted from remote sensing data. The target variable represents the forest cover type classification, while the other features include attributes like elevation, soil type, and wilderness area. The dataset is widely used for multi-class classification tasks and machine learning research. It is known for its high dimensionality, making it a challenging dataset to work with.

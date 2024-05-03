@@ -1,0 +1,3 @@
+name: WebEvaluationss
+dataset_id: 42006.0
+description: The WebEvaluationss dataset is a repository of data from user evaluations of various websites. It includes information such as ratings, comments, and demographic details of the users. The dataset was collected through a web-based evaluation system and consists of over 1,200 evaluations from around 500 users. The evaluations cover a wide range of websites, including e-commerce, news, and entertainment sites. The dataset can be used for research purposes, such as studying user behavior and preferences on the web, evaluating website performance, and developing algorithms for personalized recommendations.

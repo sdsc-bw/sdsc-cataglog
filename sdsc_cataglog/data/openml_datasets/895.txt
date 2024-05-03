@@ -1,0 +1,3 @@
+name: airlines
+dataset_id: 1169.0
+description: The dataset airlines provides information on different aspects of airline operations, including flight details and customer reviews for several airlines. It contains data on airline attributes such as the type of aircraft, seating arrangements, and onboard services. The dataset also includes information on flight routes, departure, and arrival times, as well as delays and cancellations. Moreover, it contains customer reviews highlighting their experiences with various airlines, enabling analysis of customer satisfaction and preferences. This dataset offers valuable insights into airlines' performance, customer sentiments, and can be used to analyze and improve various aspects of the airline industry.

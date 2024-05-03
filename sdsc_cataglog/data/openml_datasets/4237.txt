@@ -1,0 +1,3 @@
+name: MiniBooNE_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44415.0
+description: The dataset MiniBooNE_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset with 2000 rows and 100 columns, specifically designed for classification tasks. It has 10 different classes, making it suitable for multi-class classification problems. The dataset is also stratified, meaning that the distribution of data across the classes is maintained. This makes it useful for training machine learning models that require balanced representations from each class. With a reasonable size and diverse class distribution, the dataset is well-suited for evaluating classification algorithms and testing their performance on a variety of class types.

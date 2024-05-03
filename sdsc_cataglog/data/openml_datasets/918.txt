@@ -1,0 +1,3 @@
+name: svmguide1
+dataset_id: 1433.0
+description: The dataset svmguide1 contains information about features and corresponding classes of 999 objects. The dataset is commonly used in machine learning for classification tasks. It consists of two classes, with one class having 490 observations and the other class having 509 observations. The dataset includes a total of four features, with two real-valued features and two integer-valued features. Each feature has been standardized to have zero mean and unit standard deviation. The dataset is considered a good benchmark for evaluating machine learning algorithms, particularly for support vector machines (SVMs).

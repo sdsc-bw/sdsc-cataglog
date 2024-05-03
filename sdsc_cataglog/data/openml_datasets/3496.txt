@@ -1,0 +1,3 @@
+name: Internet-Movie-Database
+dataset_id: 43572.0
+description: The Internet-Movie-Database (IMDb) is a vast dataset containing information on movies, TV shows, and video games. It provides detailed records about each media item, including its title, release date, genre, plot summary, cast and crew information, user ratings, and reviews. The dataset covers a wide range of genres and time periods, allowing users to explore the history of film and television. IMDb offers an API that developers can use to access the dataset and build applications or conduct research. The dataset is frequently updated with new releases and additions to ensure accuracy and relevance for users.

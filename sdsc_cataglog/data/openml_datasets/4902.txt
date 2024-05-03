@@ -1,0 +1,3 @@
+name: pigs_8
+dataset_id: 45260.0
+description: The dataset pigs_8 contains information about pigs raised for commercial purposes. It includes data on various attributes such as the pig's identification number, the date it was born, its gender, the breed it belongs to, and its weight at different ages. The dataset also includes details about the pig's feed conversion ratio, which measures the efficiency of converting feed into body weight gain. Additionally, it provides information about the pig's average daily gain and the number of days it took to reach market weight. This dataset is likely useful for analyzing pig growth patterns and optimizing pig farming practices.

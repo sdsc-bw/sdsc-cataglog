@@ -1,0 +1,3 @@
+name: dataset_time_4
+dataset_id: 42650.0
+description: The dataset dataset_time_4 contains information about the duration of various events. It includes data from multiple sources, such as online platforms and physical devices. The dataset is organized in a time-series format, with each observation corresponding to a specific time and event. It also includes additional attributes, such as the location and type of event. The dataset provides valuable insights into the temporal patterns and trends of the events, which can be useful for various analytical purposes. Overall, dataset_time_4 offers a comprehensive and diverse collection of data about event durations.

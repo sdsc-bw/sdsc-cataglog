@@ -1,0 +1,3 @@
+name: tuiter
+dataset_id: 43085.0
+description: The dataset "tuiter" is a potentially valuable resource for research. It includes millions of Twitter messages in Spanish, collected over a three-year period from 2012 to 2015. The data covers a wide range of topics, allowing for analysis of various aspects of social dynamics, sentiment analysis, trends, and social issues. The dataset contains information about user profiles, follower networks, tweet content, hashtag usage, and timestamps. It offers opportunities to explore patterns in online communication and study the impact of social media on society. Researchers can utilize this dataset to gain insights into Spanish-speaking online communities and contribute to the field of computational social science.

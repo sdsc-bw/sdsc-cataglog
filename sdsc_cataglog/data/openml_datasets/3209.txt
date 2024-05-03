@@ -1,0 +1,3 @@
+name: IEEE80211aa-GATS
+dataset_id: 43194.0
+description: The dataset IEEE80211aa-GATS provides a benchmark analysis of the IEEE 802.11aa wireless standard's quality of service (QoS) enhancements and its impact on multimedia streaming. It contains a comprehensive set of measurements performed on a testbed consisting of different devices, such as smartphones and laptops. The dataset includes data related to network parameters, QoS metrics, and multimedia application performance. It aims to facilitate research in the area of QoS in wireless networks and assist in the development of efficient and reliable multimedia streaming solutions for IEEE 802.11aa.

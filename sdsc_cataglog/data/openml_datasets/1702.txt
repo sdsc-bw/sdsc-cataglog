@@ -1,0 +1,3 @@
+name: QSAR-TID-12214
+dataset_id: 3685.0
+description: The dataset QSAR-TID-12214 contains information about 4836 small organic molecules and their 3D descriptors. The molecules are classified into two classes: active and inactive. The dataset is divided into a training set and a test set. The training set consists of 2444 molecules, with 975 active and 1469 inactive molecules. The test set consists of 2392 molecules, with 947 active and 1445 inactive molecules. The 3D descriptors include molecular shapes, connectivity, and electrostatic properties. The dataset is useful for evaluating algorithms and models for predicting the activity of small organic molecules.

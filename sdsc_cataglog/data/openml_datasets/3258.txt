@@ -1,0 +1,3 @@
+name: USBreweries
+dataset_id: 43324.0
+description: The dataset USBreweries contains information about breweries in the United States. It includes details such as the name, address, city, state, postal code, latitude, and longitude of each brewery. The dataset also provides information on the type of brewery, such as microbrewery, regional brewery, brewpub, or planning. Additionally, it includes other relevant details like phone numbers and website URLs of the breweries. The dataset aims to provide a comprehensive list of breweries across the United States, making it a valuable resource for those interested in exploring or researching the brewing industry in the country.

@@ -1,0 +1,3 @@
+name: enron
+dataset_id: 40590.0
+description: The Enron dataset is a collection of emails and other data from the Enron Corporation, an American energy company that collapsed in 2001 due to fraud and accounting irregularities. The dataset contains approximately 500,000 emails sent by around 150 Enron employees, providing a rare and valuable insight into the company's operations and culture. It also includes financial data, employee directories, and other documents that shed light on Enron's activities. Researchers and analysts have utilized this dataset for various purposes, such as studying organizational behavior, developing fraud detection algorithms, and investigating patterns of communication within the company.

@@ -1,0 +1,3 @@
+name: water_0
+dataset_id: 45164.0
+description: The dataset water_0 is a collection of data related to water quality measurements. It includes information such as the location of the measurements, the date and time they were taken, and the values of various water quality parameters. The dataset contains a total of 5000 rows and 10 columns. It is primarily focused on freshwater sources such as rivers and lakes. The measurements were taken as part of a research project to analyze the quality of these water bodies. The dataset is freely available for analysis and can be used to study and understand the water quality in different locations at specific times.

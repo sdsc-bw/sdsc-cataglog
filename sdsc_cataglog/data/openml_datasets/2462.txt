@@ -1,0 +1,3 @@
+name: FOREX_usdcad-hour-Close
+dataset_id: 41727.0
+description: The dataset FOREX_usdcad-hour-Close contains hourly closing prices of the currency pair USD/CAD in the foreign exchange market. The dataset consists of a series of data points representing the closing price of USD/CAD for each hour over a certain period. The dataset provides information on the fluctuation of the exchange rate between the US dollar (USD) and the Canadian dollar (CAD) during the specified time period. Analyzing this dataset can help identify patterns or trends in the USD/CAD exchange rate over time and can be used for various purposes such as forecasting or backtesting trading strategies.

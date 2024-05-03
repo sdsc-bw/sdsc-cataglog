@@ -1,0 +1,3 @@
+name: fntest_sh
+dataset_id: 42433.0
+description: The dataset fntest_sh is a collection of data with various columns pertaining to different measurements and variables. It contains information regarding financial data, economic indicators, and market trends. The data ranges from 2000 to the present, allowing for a comprehensive analysis of long-term trends and patterns. The dataset includes columns such as date, open price, high price, low price, close price, volume, market cap, P/E ratio, and dividend yield. It encompasses multiple sectors and companies, providing a wide range of data for financial research and analysis. The dataset offers valuable insights into the performance and behavior of the financial market.

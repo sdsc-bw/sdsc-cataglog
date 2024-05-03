@@ -1,0 +1,3 @@
+name: FOREX_eurchf-day-Close
+dataset_id: 41894.0
+description: The dataset FOREX_eurchf-day-Close provides details about the daily closing prices of the FOREX pair EUR/CHF. The dataset primarily focuses on the closing prices, which reflect the last traded price of the day for this particular currency pair. It contains information about the EUR/CHF exchange rates for various dates, allowing for the analysis of trends, patterns, and fluctuations in their values. This dataset can be valuable for those interested in studying the relationship between the Euro and Swiss Franc and predicting potential future movements in their exchange rates.

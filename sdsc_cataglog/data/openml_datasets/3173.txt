@@ -1,0 +1,3 @@
+name: ilpd
+dataset_id: 43104.0
+description: The dataset "Indian Liver Patient Dataset" (ILPD) contains 583 instances and 10 attributes. It aims to predict liver disease based on various clinical and demographic features. The attributes include age, gender, total bilirubin, direct bilirubin, alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, total proteins, albumin, and globulin. The dataset also includes a target variable indicating whether a patient has liver disease or not. The dataset offers a valuable resource for researchers and practitioners to develop predictive models and analyze factors contributing to liver disease.

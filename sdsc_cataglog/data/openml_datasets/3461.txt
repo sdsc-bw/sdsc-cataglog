@@ -1,0 +1,3 @@
+name: AMD-Stock-Prices-Historical-Data
+dataset_id: 43537.0
+description: The dataset named "AMD-Stock-Prices-Historical-Data" contains historical stock price information related to AMD (Advanced Micro Devices) a technology company. The dataset includes data from multiple years and provides details about the opening, closing, high, and low stock prices for each trading day within the specified period. It also includes the volume of shares traded and the percentage change in the stock price. The dataset can be used to analyze the stock market performance of AMD, identify trends, and make predictions based on historical data. Overall, the dataset offers valuable insights into the stock trading activity of AMD and its market behavior.

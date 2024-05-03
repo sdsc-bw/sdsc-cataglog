@@ -1,0 +1,3 @@
+name: QSAR-TID-30028
+dataset_id: 4096.0
+description: The dataset QSAR-TID-30028 contains information related to the toxicology prediction of various molecules. It consists of 3,028 samples, each with 4,826 molecular descriptors and a corresponding binary outcome indicating toxicity. The dataset is primarily used to build models for toxicity prediction, and it has been widely studied in the field of quantitative structure-activity relationship (QSAR) modeling. The descriptors capture various molecular properties such as size, shape, and chemical composition, providing valuable information for understanding and predicting toxicity. This dataset serves as a valuable resource for researchers working on toxicology prediction and developing QSAR models.

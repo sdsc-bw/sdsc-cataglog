@@ -1,0 +1,3 @@
+name: yeast_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44468.0
+description: The dataset, named yeast_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True, consists of 2000 rows and 100 columns. It contains information related to yeast seed samples from 10 different classes. The dataset follows a stratified approach, ensuring a balanced representation of each class. Understanding and analyzing this dataset can provide valuable insights into yeast seed characteristics and their classification based on different attributes.

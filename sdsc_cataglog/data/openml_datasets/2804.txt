@@ -1,0 +1,3 @@
+name: Traffic_violations
+dataset_id: 42345.0
+description: The dataset Traffic_violations consists of information on traffic violations recorded by the Montgomery County Police Department in Maryland, USA. It includes various details such as the date and time of the violation, the location, and the type of violation committed. The dataset also contains information about the driver, including their gender, age, and race. It provides information on whether the driver was charged with the violation or given a warning, and the corresponding fine amount. The dataset is frequently updated with new records and aims to provide transparency and insights into traffic violation patterns in the county.

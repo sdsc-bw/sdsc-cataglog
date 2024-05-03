@@ -1,0 +1,3 @@
+name: sick
+dataset_id: 38.0
+description: The dataset "sick" comprises data related to a study focused on predicting whether a person is sick based on certain features. The data contains 3772 observations with 29 variables, including both categorical and continuous features. The target variable is binary, with 1 representing a sick individual and 0 representing a healthy individual. The dataset includes features such as age, sex, blood pressure, and cholesterol levels. Additionally, it contains missing values that have been encoded with NaN. The dataset is aimed at aiding in the development and evaluation of predictive models for illness detection based on the available features.

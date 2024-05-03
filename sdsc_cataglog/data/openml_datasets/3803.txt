@@ -1,0 +1,3 @@
+name: law-school-admission-bianry
+dataset_id: 43904.0
+description: The dataset "law-school-admission-binary" consists of various attributes related to law school admissions. The data includes information such as the applicant's LSAT score, undergraduate GPA, whether they attended an elite undergraduate university, and whether they were accepted or rejected by the law school they applied to. The dataset is commonly used to explore the factors that influence law school admissions, particularly the impact of LSAT scores and GPA. It allows researchers to analyze the relationship between these variables and the admission decision, providing insights into the admissions process and possible patterns in selecting candidates for law schools.

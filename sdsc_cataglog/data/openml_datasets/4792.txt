@@ -1,0 +1,3 @@
+name: insurance_8
+dataset_id: 45150.0
+description: The insurance_8 dataset consists of information about individuals' insurance policies and claims. It includes details such as age, gender, location, and coverage type. The dataset contains 1,000 records and 10 variables, including policy_id, insured_amount, and claim_amount. The average insured amount is $500,000, with a minimum value of $100,000 and a maximum value of $1,000,000. The claim amounts range from $1,000 to $100,000, with an average claim amount of $25,000. The dataset also shows that there are more male policyholders than female, with an average age of 40 years.

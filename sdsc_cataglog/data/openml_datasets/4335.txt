@@ -1,0 +1,3 @@
+name: dilbert_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44513.0
+description: The dataset named "dilbert_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns. It is stratified into 10 classes. Each row represents a data instance, and each column represents a feature. The dataset is named dilbert and has been generated using a specific seed value of 0. The stratified nature of the dataset implies that the distribution of classes is maintained proportionally. This dataset is suitable for various machine learning tasks such as classification, clustering, and data analysis, providing a diverse and representative set of data instances with different characteristics.

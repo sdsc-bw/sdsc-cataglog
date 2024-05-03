@@ -1,0 +1,3 @@
+name: mfeat-pixel
+dataset_id: 1022.0
+description: The mfeat-pixel dataset contains pixel per image data for handwritten gray-scale digits from 0 to 9. It consists of 10 classes and a collection of 2-dimensional matrices representing grayscale images of size 16x16 pixels. Each image is flattened into a 256-dimensional row vector. The dataset includes a total of 2,000 samples, with each class having exactly 200 samples. It is commonly used for pattern recognition and machine learning tasks, such as digit recognition algorithms. This dataset provides a diverse and balanced collection of handwritten digit images for various research and analysis purposes.

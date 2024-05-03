@@ -1,0 +1,3 @@
+name: QSAR-TID-10785
+dataset_id: 3919.0
+description: QSAR-TID-10785 is a dataset containing information on 2,008 molecules with 102 molecular descriptors. The dataset aims to predict the aquatic toxic effect of these compounds on daphnia magna, a water flea species commonly used as an indicator of water quality. The target variable is the lethal concentration (LC50) that causes 50% mortality in 48 hours. The descriptors include topology, fragments, atom-related, and constitutional properties. The dataset is divided into training and test sets, with 1,525 and 483 instances, respectively. QSAR-TID-10785 is relevant for developing quantitative structure-activity relationship (QSAR) models to predict toxicity and further enhance chemical safety assessments.

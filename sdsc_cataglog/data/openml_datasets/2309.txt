@@ -1,0 +1,3 @@
+name: jungle_chess_2pcs_endgame_rat_lion
+dataset_id: 41006.0
+description: The dataset jungle_chess_2pcs_endgame_rat_lion primarily focuses on a board game called Jungle Chess, specifically on the endgame scenarios involving two pieces, rat and lion. It consists of 3040 instances with 7 features and a target variable indicating the winning player. The seven features include the position of the rat and the lion, as well as their respective values, comparing player scores, and whether the rat is signing. The data is labeled, evenly distributed across three categories representing player 0 wins, player 1 wins, and draws. This dataset can be useful for examining and analyzing strategies in the Jungle Chess endgame scenario.

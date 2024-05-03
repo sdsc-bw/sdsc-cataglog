@@ -1,0 +1,3 @@
+name: youtube-spam-eminem
+dataset_id: 42907.0
+description: The dataset youtube-spam-eminem consists of 1,956 YouTube comments related to Eminem. It includes comments from real users as well as spam comments. The dataset was collected in September 2017 and contains a mixture of English and non-English comments. The dataset provides information such as the comment id, author name, date, content, and label indicating whether it is spam or not. The dataset aims to aid research on spam detection techniques and can be used for training machine learning models. The dataset is valuable in understanding spamming behavior and improving the detection of spam comments on YouTube.

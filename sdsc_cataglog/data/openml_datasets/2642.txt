@@ -1,0 +1,3 @@
+name: FOREX_eurusd-minute-Close
+dataset_id: 41711.0
+description: The dataset FOREX_eurusd-minute-Close contains minute-level closing prices for the EUR/USD currency pair in the foreign exchange (FOREX) market. The dataset includes information on the closing prices of this currency pair for various time intervals, specifically at each minute. The FOREX_eurusd-minute-Close dataset provides an opportunity to analyze and understand the minute-to-minute changes in the exchange rate between the euro and the US dollar. This dataset is useful for traders, analysts, and researchers seeking to study short-term fluctuations and trends in the EUR/USD exchange rate, potentially helping with decision-making and forecasting in the FOREX market.

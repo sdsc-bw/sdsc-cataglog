@@ -1,0 +1,3 @@
+name: QSAR-TID-10741
+dataset_id: 3906.0
+description: QSAR-TID-10741 is a dataset that contains information on the biological activity of a series of chemical compounds. The dataset consists of 4,297 compounds and their corresponding biological activity values, which were obtained through experimental testing. The compounds are represented by a set of molecular descriptors that describe their physical and chemical properties. The dataset also includes additional information such as the Compound ID, data source, and whether the compounds violate Lipinski's rule of five. The dataset can be used to develop quantitative structure-activity relationship (QSAR) models and aid in the prediction of the biological activity of new chemical compounds.

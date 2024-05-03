@@ -1,0 +1,3 @@
+name: QSAR-TID-12829
+dataset_id: 3445.0
+description: The dataset QSAR-TID-12829 contains information on the biological activity of chemicals. It consists of 1,282 compounds, with each compound represented by 3D molecular descriptor values. The target variable is the inhibitory concentration (IC50), representing the potency of the compounds in inhibiting the activity of a target protein. The dataset also includes additional descriptors like the molecular weight and solvent accessibility of the compounds. The aim is to predict the IC50 values using machine learning models. This dataset is useful for researchers working on drug discovery and developing models for predicting the potency of new compounds.

@@ -1,0 +1,3 @@
+name: QSAR-TID-12407
+dataset_id: 3112.0
+description: The dataset QSAR-TID-12407 contains information about the biological activity of compounds and their chemical descriptors. It includes 1134 instances with 1024 molecular descriptors. The dataset is related to the task of predicting the binding affinity of compounds to thrombin receptors. It was collected to explore the relationship between the structure and activity of compounds involved in thrombin receptor binding. The dataset is publicly available and can be used by researchers to develop predictive models or gain insights into the factors influencing thrombin binding affinity. Further details about the dataset and its attributes can be found in the original publication.

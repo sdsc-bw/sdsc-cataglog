@@ -1,0 +1,3 @@
+name: OVA_Breast
+dataset_id: 1128.0
+description: The dataset OVA_Breast is focused on breast cancer patients and contains information about their clinical and pathological features. It includes 683 instances and 10 attributes, out of which 9 are input features and 1 is the output class attribute. The input attributes provide details about factors such as patient age, tumor size, invasion type, mitotic rate, etc. The output attribute indicates the class of the tumor, either benign or malignant. The dataset aims to facilitate the development of machine learning models for classifying breast tumors based on their characteristics, thus aiding in the diagnosis and treatment of breast cancer.

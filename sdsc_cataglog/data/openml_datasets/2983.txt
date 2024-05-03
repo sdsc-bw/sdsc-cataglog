@@ -1,0 +1,3 @@
+name: Brazilian_houses
+dataset_id: 42688.0
+description: The Brazilian_houses dataset contains information on houses from various regions in Brazil. The dataset consists of features such as number of rooms, area, location, and price. The data was collected through surveys and includes both numerical and categorical variables. The dataset aims to provide insights into the Brazilian housing market and help in understanding the factors influencing house prices. It is a useful resource for researchers, real estate professionals, and policymakers to analyze the housing market trends and make informed decisions.

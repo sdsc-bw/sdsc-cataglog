@@ -1,0 +1,3 @@
+name: fri_c2_1000_50
+dataset_id: 622.0
+description: The dataset fri_c2_1000_50 contains 1,000 instances of binary data with 50 features. The data represents relationships of friendship between individuals, with a focus on their common interests. Each instance consists of a binary value indicating the presence or absence of a friendship link. The features describe various characteristics of the individuals, such as age, gender, and occupation. The dataset aims to explore patterns and associations between friendship and shared interests, allowing researchers to analyze social network dynamics and make inferences about people's preferences and behavior in friendship formation.

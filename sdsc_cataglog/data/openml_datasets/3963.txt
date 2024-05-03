@@ -1,0 +1,3 @@
+name: credit
+dataset_id: 44089.0
+description: The dataset credit contains information about the creditworthiness of individuals. It includes various attributes such as age, gender, marital status, education, occupation, and income level. The dataset also includes credit-related factors like credit history, loan amount, loan purpose, repayment status, and default. Additionally, it contains information about the individuals' financial behavior, such as savings, credit card usage, and previous loans. The data is used to assess the credit risk of individuals and make informed decisions about lending money. It is a valuable resource for financial institutions, credit bureaus, and researchers in the field of credit analysis.

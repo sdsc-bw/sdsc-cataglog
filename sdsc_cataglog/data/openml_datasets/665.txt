@@ -1,0 +1,3 @@
+name: humandevel
+dataset_id: 924.0
+description: The dataset "humandevel" contains information related to human development across countries. It includes variables like the Human Development Index (HDI), which measures a nation's overall development based on factors like education, income, and life expectancy. The dataset also includes other indicators like gross national income per capita, carbon dioxide emissions, and population size. The data covers various years and countries, providing valuable insights into the progress and disparities in human development across nations. It serves as a valuable resource for researchers, policymakers, and organizations interested in understanding and addressing global development issues.

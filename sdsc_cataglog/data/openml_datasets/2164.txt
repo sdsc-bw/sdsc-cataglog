@@ -1,0 +1,3 @@
+name: GesturePhaseSegmentationRAW
+dataset_id: 4537.0
+description: The dataset GesturePhaseSegmentationRAW consists of raw depth and RGB videos of various gesture phases and activities. It contains a total of 135 samples, each lasting around 30 seconds. The dataset aims to assist in gesture recognition, action recognition, and motion analysis tasks. Each sample is labeled with the corresponding gesture phases, including the start, transition, and end phases. The dataset also provides ground truth labels for RGB frames and depth maps, which can aid in training deep learning models. It offers a valuable resource for researchers and developers working in the field of human-computer interaction and computer vision.

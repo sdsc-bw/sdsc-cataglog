@@ -1,0 +1,3 @@
+name: wine-quality-red
+dataset_id: 40691.0
+description: The dataset wine-quality-red contains information about the quality of red wines. It consists of 1599 samples and 12 attributes, with no missing or null values. The target variable is the quality rating of the wines, ranging from 3 to 8. The attributes include chemical properties such as fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, and alcohol. These attributes provide essential information about the composition of the wines and can be used to predict their quality. The dataset is suitable for classification or regression tasks related to wine quality analysis.

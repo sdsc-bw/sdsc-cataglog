@@ -1,0 +1,3 @@
+name: QSAR-TID-261
+dataset_id: 3950.0
+description: QSAR-TID-261 is a dataset that aims to predict the toxicological properties of compounds. It consists of 261 compounds, with each compound represented by 1027 descriptors. The descriptors include both biological and physicochemical properties of the compounds. The dataset also contains information about the toxicological activity of the compounds, which is classified into three levels: active, inconclusive, and inactive. The dataset is further divided into a training set with 157 compounds and a test set with 104 compounds. QSAR-TID-261 provides a valuable resource for developing predictive models and understanding the relationship between compound characteristics and toxicological activity.

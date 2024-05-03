@@ -1,0 +1,3 @@
+name: acute-inflammations
+dataset_id: 1455.0
+description: The dataset "acute-inflammations" includes various features and a target variable related to cases of acute inflammations in patients. It contains 120 instances of patients, where each instance has eight attributes including temperature, occurrence of nausea, lumbar pain, urine pushing, micturition pains, burning of urethra, bladder inflammation, and decisions derived from a clinical administration of the patient that serves as the target variable. The dataset is useful for classification tasks and can be used to develop models for predicting the decision of inflammation based on the aforementioned features.

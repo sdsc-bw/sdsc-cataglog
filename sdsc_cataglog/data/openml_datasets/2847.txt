@@ -1,0 +1,3 @@
+name: hate_det13
+dataset_id: 42426.0
+description: The dataset hate_det13 is a collection of Twitter posts marked as hate speech or not. It consists of 5,000 tweets, with 19.43% labeled as hateful and 80.57% labeled as non-hateful. Each tweet is accompanied by metadata, including the user's profile information and the tweet's timestamp. The dataset is intended to be used for hate speech detection research and evaluation tasks. It provides an opportunity to analyze and create machine learning models to identify and classify hate speech content accurately. To train and evaluate models, researchers can utilize this dataset to develop more effective hate speech detection algorithms.

@@ -1,0 +1,3 @@
+name: NewFuelCar
+dataset_id: 41506.0
+description: The NewFuelCar dataset is a comprehensive collection of information on various features of fuel-efficient vehicles. It contains data on over 10,000 cars and includes details such as the car's make, model, fuel type, engine size, price, and fuel efficiency ratings. The dataset has been compiled using reliable sources and provides a valuable resource for analyzing and comparing fuel-efficient cars. It can be utilized by researchers, analysts, and car enthusiasts to study trends in the market for new fuel-efficient vehicles and make informed decisions regarding their purchase. The NewFuelCar dataset is an authoritative source of information in the field of sustainable transportation.

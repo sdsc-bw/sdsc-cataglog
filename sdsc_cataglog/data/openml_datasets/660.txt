@@ -1,0 +1,3 @@
+name: rabe_166
+dataset_id: 919.0
+description: The dataset "rabe_166" consists of 166 radio frequency (RF) recordings of individual wind turbines. Each recording has a duration of 10 seconds and includes information about various parameters such as wind speed, turbine rotation speed, electrical power, and RF signal strength. The dataset is labeled with the state of the turbine, indicating if it is operating optimally or if there is a fault present, categorized into four fault types. The purpose of this dataset is to provide a valuable resource for developing machine learning algorithms that can accurately detect and diagnose faults in wind turbines based on RF recordings.

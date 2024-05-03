@@ -1,0 +1,5 @@
+name: allrep
+dataset_id: 40708.0
+description: The dataset "allrep" is summarized in the following sentences:
+
+The "allrep" dataset contains data on various aspects of reputation in online communities including trust, credibility, and ratings. It includes information about the users' reputation scores, activity levels, and the content they contribute. The dataset consists of several features including user demographics, social connections, and interaction patterns. It also provides details about the reputation evaluation process employed in the community. The "allrep" dataset serves as a comprehensive resource for examining reputation dynamics and exploring the factors that contribute to reputation formation and evolution in online communities.

@@ -1,0 +1,3 @@
+name: QSAR-TID-11019
+dataset_id: 3609.0
+description: The dataset QSAR-TID-11019 is a collection of chemical compounds with associated quantitative structure-activity relationships (QSAR). It consists of 4380 instances and 102 attributes, including 101 molecular descriptors and 1 binary class label representing the biological activity of the compounds. The dataset represents a diverse range of organic compounds with various chemical properties. The objective of this dataset is to develop predictive models that can classify the compounds based on their biological activity. The dataset is publicly available and has been extensively used in QSAR research to explore the relationship between chemical structure and activity.

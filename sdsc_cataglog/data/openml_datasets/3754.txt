@@ -1,0 +1,3 @@
+name: Apple-Complete-Stock-Data1980-2020
+dataset_id: 43832.0
+description: The dataset "Apple-Complete-Stock-Data1980-2020" contains comprehensive information about Apple's stock market performance from 1980 to 2020. It encompasses various variables such as the date, opening and closing prices, volume of shares traded, highs and lows of the stock, and any adjustments made due to stock splits or dividends. This dataset is rich in detail, providing an extensive historical perspective on Apple's stock market activity over four decades. Researchers and analysts can utilize this dataset to study Apple's stock trends, assess its financial performance, and analyze various factors that may have influenced its market value during this period.

@@ -1,0 +1,3 @@
+name: arsenic-female-lung
+dataset_id: 950.0
+description: The dataset "arsenic-female-lung" is related to the analysis of arsenic levels in female lung tissue. It contains various attributes like age, arsenic concentration, smoking status, and lung cancer diagnosis for each individual included in the study. The data is collected from a group of females with non-small cell lung carcinoma, and the aim is to assess the relationship between lung cancer and arsenic exposure. The dataset also includes information about demographic factors such as race and education level. This dataset provides valuable insights into the potential association between arsenic exposure and lung cancer development in women.

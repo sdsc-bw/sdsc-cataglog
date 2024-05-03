@@ -1,0 +1,3 @@
+name: QSAR-TID-101033
+dataset_id: 3988.0
+description: The dataset QSAR-TID-101033 contains information on the biological activity of molecules towards a specific target. The molecular structures and physicochemical properties of these molecules are provided, along with their quantitative activity values. The objective is to predict the molecules' activity based on the given features. The dataset consists of 933 molecules, and each molecule is represented by 399 different molecular descriptors. The dataset can be used for modeling and machine learning tasks in the field of computational drug design and discovery. It is publicly available and can aid in developing predictive models for identifying potential drug candidates.

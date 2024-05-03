@@ -1,0 +1,3 @@
+name: QSAR-TID-100426
+dataset_id: 3209.0
+description: The dataset QSAR-TID-100426 comprises 6,960 molecular structures with their corresponding biological activity values against three different proteins. It is designed to provide information about the relationship between the structures of these molecules and their inhibitory activities. The dataset also includes 14 molecular descriptors that quantify various characteristics of the molecules. These descriptors consist of both 2D autocorrelation and 3D molecular descriptors. The dataset can be valuable for researchers working in the field of drug discovery, as it allows them to explore the factors that influence the activity of the molecules against the proteins of interest.

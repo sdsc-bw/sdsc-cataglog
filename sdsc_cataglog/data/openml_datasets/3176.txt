@@ -1,0 +1,3 @@
+name: movies
+dataset_id: 43113.0
+description: The dataset "movies" contains information about thousands of movies. It includes the movie title, genre, director, and the number of votes received. The dataset also provides the average rating of the movie, release year, and the duration in minutes. Additionally, important information such as the budget and gross earnings of the movies is included. The dataset covers a wide range of genres, including action, comedy, drama, and animation. It also includes movies from different years, allowing for analysis of trends and patterns over time. Overall, the dataset "movies" is a comprehensive and valuable resource for studying the film industry.

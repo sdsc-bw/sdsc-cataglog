@@ -1,0 +1,3 @@
+name: FOREX_chfsgd-hour-High
+dataset_id: 41820.0
+description: The dataset FOREX_chfsgd-hour-High is a collection of information regarding the hourly high rates of CHF/SGD currency pair in the foreign exchange market. It consists of various data points that signify the highest valuations reached within each hour. The dataset likely contains a chronological sequence of such highs, allowing for the analysis of trends, patterns, and fluctuations in CHF/SGD exchange rates over time. It may be useful for traders, economists, and researchers interested in understanding the behavior and volatility of the CHF/SGD exchange rate on an hourly basis.

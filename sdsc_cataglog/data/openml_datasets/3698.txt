@@ -1,0 +1,3 @@
+name: Articles-From-Buzzfeed-2020
+dataset_id: 43775.0
+description: The dataset Articles-From-Buzzfeed-2020 is a collection of articles from BuzzFeed published in the year 2020. It consists of various articles categorized by different topics such as news, entertainment, lifestyle, technology, and more. The dataset contains information like the article title, author, publishing date, article content, and the number of social media shares. Additionally, it includes metadata about the articles such as the tags, category, and URL. The dataset provides a comprehensive view of the articles published by BuzzFeed in 2020, allowing researchers and analysts to explore trends, analyze content, and gain insights into BuzzFeed's publishing patterns for the year.

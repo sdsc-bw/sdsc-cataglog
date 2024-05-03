@@ -1,0 +1,3 @@
+name: rabe_176
+dataset_id: 929.0
+description: The dataset rabe_176 contains information about Radially averaged backscatter echoes (RABE) from fish schools and zooplankton in the Mid-Atlantic Bight region. The data was collected using a Simrad EK60 echo sounder and includes measurements such as backscatter strength, mean target strength, and variability statistics. The dataset covers multiple frequencies and depths, with information available for different times and locations. This dataset is valuable for studying the behavior and distribution of fish schools and zooplankton in the Mid-Atlantic Bight region, and for understanding their ecological role and interactions in the marine ecosystem.

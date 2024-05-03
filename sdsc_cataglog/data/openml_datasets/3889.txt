@@ -1,0 +1,3 @@
+name: diamonds
+dataset_id: 44015.0
+description: The diamonds dataset contains information of 53,940 observations with 10 variables. The variables include characteristics like carat weight, cut quality, color, clarity, depth, table size, price, and dimensions. The dataset helps to understand the relationships between these variables and the prices of diamonds. Additionally, it provides insight into the factors that impact diamond prices, such as the carat weight and quality of cut. The dataset offers an opportunity for analysis and prediction of diamond prices based on various parameters. It is a comprehensive resource for researchers, jewelry enthusiasts, and industry professionals to study and explore the diamond market.

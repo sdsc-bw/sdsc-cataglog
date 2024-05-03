@@ -1,0 +1,3 @@
+name: Lorenz_attractor_regime_changes
+dataset_id: 42182.0
+description: The Lorenz_attractor_regime_changes dataset consists of numerical values representing different regimes of the Lorenz attractor system. It is a time series dataset with 4000 observations and 3 attributes: x, y, and z. The regimes refer to different patterns and behaviors exhibited by the system. The dataset exhibits abrupt changes in its regime, which makes it suitable for studying and analyzing regime changes in dynamic systems. The data was generated using a deterministic nonlinear system and can be used for various research purposes, including regime change detection algorithms, time series analysis, and modeling dynamical systems.

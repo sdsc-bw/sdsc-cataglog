@@ -1,0 +1,3 @@
+name: Data-on-COVID-19-(coronavirus)
+dataset_id: 43764.0
+description: The dataset Data-on-COVID-19- (coronavirus) is a comprehensive and regularly updated resource that provides information on the coronavirus pandemic. It contains data related to the number of confirmed cases, deaths, and recoveries across various countries. The dataset also includes information on testing rates, hospitalizations, and demographic characteristics of the affected population. It is maintained by the European Centre for Disease Prevention and Control (ECDC) and the World Health Organization (WHO). The dataset is freely available to the public and researchers, allowing for analysis and tracking of the global impact of COVID-19.

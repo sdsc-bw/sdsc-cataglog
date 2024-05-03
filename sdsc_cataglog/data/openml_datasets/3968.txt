@@ -1,0 +1,3 @@
+name: jannis
+dataset_id: 44094.0
+description: The dataset "jannis" refers to a collection of data that includes information on individual responses to a survey conducted by Jannis, likely for research or analysis purposes. The survey covers a broad range of topics, including demographics, interests, preferences, and behaviors. The dataset contains details such as age, gender, education level, occupation, income, and location, along with answers to various questions related to the survey. The purpose of this dataset is to provide a comprehensive view of the individuals surveyed, enabling researchers or analysts to draw insights and conclusions based on the collected data.

@@ -1,0 +1,3 @@
+name: Meta_Album_PLT_DOC_Micro
+dataset_id: 44273.0
+description: The dataset "Meta_Album_PLT_DOC_Micro" contains information related to various music albums. It includes details such as album titles, release dates, artists, genres, and lengths. The dataset also includes additional information like album reviews, ratings, and tracklists. The purpose of this dataset is to provide a comprehensive overview of music albums and their related attributes. The data is organized in a micro format, allowing users to analyze and extract specific information they require. This dataset can be used for various purposes, such as recommendation systems, music analysis, and market research in the music industry.

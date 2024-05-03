@@ -1,0 +1,3 @@
+name: pair0005
+dataset_id: 43299.0
+description: The dataset pair0005 involves the comparison of two datasets. The first dataset contains information about a user's activity on a website, such as the number of clicks and the duration of each visit. The second dataset contains information about the user's social interactions, such as the number of friends and the number of messages sent. The goal is to analyze the relationship between the user's activity on the website and their social interactions. This dataset pair provides valuable insights into how user behavior on a website is related to their social engagement, which can be used to improve website design and user experience.

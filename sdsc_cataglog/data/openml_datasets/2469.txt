@@ -1,0 +1,3 @@
+name: FOREX_eurpln-hour-Close
+dataset_id: 41734.0
+description: The dataset called FOREX_eurpln-hour-Close consists of hourly closing prices for the EUR/PLN currency pair in the foreign exchange market. The dataset likely includes a time series of closing prices, representing the value of 1 Euro in Polish Zloty for each hour. The dataset's focus is on the relationship and fluctuations in exchange rates between the Euro and Polish Zloty. It provides valuable information for analyzing trends and making predictions about the currency pair's future movements. The dataset could be useful for traders, analysts, and researchers interested in the EUR/PLN exchange rate.

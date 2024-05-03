@@ -1,0 +1,3 @@
+name: QSAR-TID-11866
+dataset_id: 3114.0
+description: The dataset QSAR-TID-11866 is a collection of chemical compounds used in drug development. It consists of 4,794 molecular structures, each with 527 positive and 47 negative outcomes. The compounds were represented by 22 molecular descriptors, including topological, geometric, and quantum chemical features. The dataset aimed to model the biological activity of the compounds using the descriptors. The positive outcome indicated compounds with potential therapeutic activity, while the negative outcome represented compounds with no therapeutic effect. This dataset is valuable for researchers working on drug discovery and development, as it provides a large and diverse set of compounds to study.

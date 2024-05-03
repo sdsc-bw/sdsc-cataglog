@@ -1,0 +1,3 @@
+name: splice
+dataset_id: 953.0
+description: The dataset splice consists of genetic sequences of nucleotides that are responsible for coding proteins in different species. It includes both exonic and intronic sequences, which are crucial for understanding the process of gene splicing. The dataset contains 3,442 sequences, with classes indicating whether a sequence is a donor or acceptor site for splicing. Each sequence measures 60 nucleotides in length. The dataset aims to help researchers develop accurate predictive models for identifying splice sites in DNA sequences. It is widely used in machine learning and bioinformatics to improve gene annotation and understand the splicing mechanism.

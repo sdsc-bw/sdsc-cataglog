@@ -1,0 +1,3 @@
+name: FOREX_eurpln-day-Close
+dataset_id: 41821.0
+description: The dataset FOREX_eurpln-day-Close contains daily closing prices for the currency pair EURPLN in the foreign exchange (FOREX) market. The dataset likely includes historical data for a specific period of time and provides insights into the exchange rate between the Euro and the Polish Zloty. The closing prices signify the rate at which one currency can be exchanged for the other at the end of each trading day. Analyzing this dataset can help understand the trends and fluctuations in the EURPLN exchange rate over time, aiding in making informed decisions related to foreign exchange trading or international transactions involving these currencies.

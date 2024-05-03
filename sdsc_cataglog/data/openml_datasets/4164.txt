@@ -1,0 +1,3 @@
+name: credit
+dataset_id: 44345.0
+description: The dataset Credit contains information related to credit card transactions made by clients in a European bank. It includes a total of 30 variables, out of which 28 are anonymized features obtained through Principal Component Analysis (PCA) transformation. These anonymous features are labeled as V1 to V28 to protect user privacy. Additionally, the dataset consists of the "Time" variable representing the number of seconds elapsed between this transaction and the first transaction in the dataset. The "Amount" variable represents the transaction amount. The dataset is highly unbalanced, with only 0.17% of fraudulent transactions in comparison to non-fraudulent transactions.

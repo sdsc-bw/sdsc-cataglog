@@ -1,0 +1,3 @@
+name: Employee-Turnover-at-TECHCO
+dataset_id: 43551.0
+description: The dataset Employee-Turnover-at-TECHCO provides information about employee turnover at the company TECHCO. It includes various attributes such as age, gender, department, job role, marital status, education level, monthly income, years since last promotion, years of experience, and whether the employee left the company or not. This dataset allows for analyzing and understanding the factors that contribute to employee turnover and can be used for developing strategies to reduce employee attrition. With a range of variables available, researchers can explore correlations, patterns, and potential predictors of employee turnover in the TECHCO organization.

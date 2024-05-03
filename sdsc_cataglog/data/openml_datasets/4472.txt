@@ -1,0 +1,3 @@
+name: Internet-Advertisements_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44651.0
+description: The dataset named "Internet-Advertisements_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True" consists of 2000 rows and 100 columns. The dataset has ten different classes, implying that the data is divided into ten categories. It also follows a stratified sampling technique, which ensures a proportional representation of each class in the dataset. This means that each category is represented fairly in the dataset, avoiding any bias. The dataset primarily focuses on internet advertisements and can be potentially used for various purposes, such as classification or prediction models related to online advertising.

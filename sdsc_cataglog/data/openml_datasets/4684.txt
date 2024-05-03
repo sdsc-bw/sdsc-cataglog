@@ -1,0 +1,3 @@
+name: Intersectional-Bias-Assessment
+dataset_id: 45040.0
+description: The Intersectional-Bias-Assessment dataset is a collection of information about the bias assessment tests conducted on various machine learning models. The dataset includes data about the demographic attributes of the participants, such as gender and race, as well as the results of bias assessments. The assessments evaluate the fairness of the models by analyzing their predictions across different demographic groups. The dataset provides a comprehensive and diverse collection of assessments that can be used to explore and mitigate intersectional bias in machine learning algorithms. It is a valuable resource for researchers and practitioners working on bias assessment and fairness in AI systems.

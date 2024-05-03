@@ -1,0 +1,3 @@
+name: dermatology
+dataset_id: 35.0
+description: The dermatology dataset is a collection of clinical attributes of 366 patients with skin diseases, containing a total of 34 different attributes. The attributes in the dataset include demographic information such as age and sex, as well as symptomatic and diagnostic features of various skin conditions. Each patient is assigned a class label representing a specific skin disease, ranging from 1 to 6. The aim of this dataset is to aid in the classification and diagnosis of dermatological diseases, providing valuable insights for medical professionals and researchers. The dataset is publicly available and can be used for machine learning and data analysis purposes.

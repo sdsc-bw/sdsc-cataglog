@@ -1,0 +1,3 @@
+name: page-blocks
+dataset_id: 30.0
+description: The dataset "page-blocks" consists of scanned grayscale images of document pages. Each image is divided into equally sized blocks and labeled as either a text or non-text block. The dataset contains a total of 5,473 instances, with approximately 4% being non-text blocks and 96% being text blocks. Each instance is represented by 10 attributes, including the block width, height, the number of horizontal and vertical lines, and the xy ratio. The aim of this dataset is to classify blocks as text or non-text based on these attributes. This dataset can be useful for developing machine learning algorithms for document analysis and OCR (optical character recognition) tasks.

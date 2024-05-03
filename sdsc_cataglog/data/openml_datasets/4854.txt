@@ -1,0 +1,3 @@
+name: andes_4
+dataset_id: 45212.0
+description: The dataset "andes_4" contains information about the earthquakes in the central Andes region from 2003 to 2019. It includes data on the magnitude, depth, location, and time of each earthquake. The dataset also includes information about the seismic stations used to record the earthquakes, including their latitude, longitude, and elevation. This dataset is useful for studying the seismic activity in the central Andes region and analyzing the patterns and trends of earthquakes in the area over the specified time period. The dataset provides a comprehensive view of the seismicity in the region and can be used for various research and analysis purposes.

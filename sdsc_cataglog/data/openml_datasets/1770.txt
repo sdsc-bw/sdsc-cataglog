@@ -1,0 +1,3 @@
+name: QSAR-TID-10436
+dataset_id: 3753.0
+description: The dataset QSAR-TID-10436 consists of 4,436 compounds, each described by 1024 molecular descriptors and a binary outcome variable indicating whether the compound has certain biological activity. The molecular descriptors provide information about the structural and chemical properties of the compounds. The dataset was created for the purpose of developing quantitative structure-activity relationship (QSAR) models to predict the biological activity of compounds based on their descriptors. QSAR models can be valuable in drug discovery and toxicology studies. The dataset is publicly available and can be used for further research and model development in the field of computational chemistry.

@@ -1,0 +1,3 @@
+repo_name: outlier-exposure
+link: https://github.com/hendrycks/outlier-exposure
+description: Outlier Exposure (OE) is a method for improving anomaly detection performance in deep learning models. Using an out-of-distribution dataset, we fine-tune a classifier so that the model learns heuristics to distinguish anomalies and in-distribution samples. Crucially, these heuristics generalize to new distributions. Unlike ODIN, OE does not require a model per OOD dataset and does not require tuning on "validation" examples from the OOD dataset in order to work. This repository contains a subset of the calibration and multiclass classification experiments. Please consult the paper for the full results and method descriptions.

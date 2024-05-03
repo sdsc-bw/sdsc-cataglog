@@ -1,0 +1,3 @@
+name: analcatdata_chlamydia
+dataset_id: 535.0
+description: The dataset analcatdata_chlamydia consists of 1693 observations with 33 variables, which were derived from a study investigating the factors associated with chlamydia infection. The dataset includes demographic information like age, gender, and race, as well as behavioral and healthcare-related variables such as condom use, number of sexual partners, and access to healthcare services. The data were collected from individuals attending a sexual health clinic. The dataset is suitable for conducting analyses to understand the risk factors and prevalence of chlamydia infection, and could be valuable for interventions and research in sexual health.

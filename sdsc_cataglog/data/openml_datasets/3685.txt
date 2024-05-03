@@ -1,0 +1,3 @@
+name: European-Soccer-Dataset-by-Role
+dataset_id: 43762.0
+description: The European-Soccer-Dataset-by-Role is a dataset that contains information about soccer players in Europe and their roles. It includes data about player attributes like height, weight, and skill ratings, as well as details about their current teams and positions. The dataset also provides statistics on player performance, such as goals scored and assists made. It covers multiple seasons and includes players from various European leagues. Overall, this dataset offers a comprehensive overview of soccer players in Europe and can be used for various analyses and insights related to player roles, attributes, and performance.

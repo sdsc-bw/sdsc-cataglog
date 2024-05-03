@@ -1,0 +1,3 @@
+name: analcatdata_bondrate
+dataset_id: 453.0
+description: The dataset analcatdata_bondrate contains information on various factors that potentially influence bond rates. It consists of 18 variables including bond rate, liquidity factor, maturity period, and others. The data spans over 60 observations. The dataset aims to assess the relationship between these variables and bond rates. The authors suggest that the liquidity factor and bond rates may have a negative correlation. Additionally, they hypothesize that maturity period and bond rates may have a positive correlation. This dataset provides an opportunity for analysts to explore and analyze the relationship between these variables and bond rates for further research or predictive modeling.

@@ -1,0 +1,3 @@
+name: compas-two-years
+dataset_id: 45039.0
+description: The dataset compas-two-years contains information about criminal defendants in the United States. It includes various attributes of the defendants, such as their age, race, sex, and prior criminal history. The dataset also provides detailed information about the predictions made by the COMPAS (Correctional Offender Management Profiling for Alternative Sanctions) algorithm, which aims to predict whether a defendant is likely to reoffend or miss their court appearance. This dataset covers a two-year period and is widely used in research to study the fairness and accuracy of predictive algorithms in the criminal justice system.

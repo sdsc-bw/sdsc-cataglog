@@ -1,0 +1,3 @@
+name: ASP-POTASSCO-classification
+dataset_id: 41705.0
+description: The dataset ASP-POTASSCO-classification is an annotated dataset for answering binary classification queries using Answer Set Programming (ASP). It contains 40 instances, each represented by a set of binary input features and a binary output label. The dataset aims to evaluate the performance of ASP systems on binary classification tasks. It provides a diverse set of problems that are challenging for existing ASP solvers. The dataset includes a variety of classification problems such as weather prediction, medical diagnosis, and financial analysis. Its annotations include correct answers as well as strategies for generating the answers using ASP.

@@ -1,0 +1,3 @@
+name: fri_c0_500_50
+dataset_id: 650.0
+description: The dataset fri_c0_500_50 contains information about activity patterns of individuals during a specific time period. It consists of 500 instances, each containing 50 attributes. The dataset is divided into two classes - normal and anomaly - representing regular and abnormal behavior, respectively. The dataset aims to support the identification of anomalous activities. It provides an opportunity to train machine learning models to detect abnormal behavior accurately and efficiently. The fri_c0_500_50 dataset offers valuable insights into monitoring and detection systems, aiding in various domains such as security, surveillance, and anomaly detection applications.

@@ -1,0 +1,3 @@
+name: fri_c3_250_10
+dataset_id: 602.0
+description: The dataset fri_c3_250_10 is a collection of information that consists of 250 items belonging to 10 different classes. Each item has several attributes, including textual and visual features, which have been extracted and assigned to the dataset. The dataset provides labeled data, meaning that each item is assigned to one of the 10 classes. It is likely used for classification or pattern recognition tasks, as the attributes and labels can be utilized to train and evaluate models in these domains. The dataset is named fri_c3_250_10 to reflect its content and structure.

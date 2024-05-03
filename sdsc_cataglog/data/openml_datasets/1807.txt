@@ -1,0 +1,3 @@
+name: QSAR-TID-17080
+dataset_id: 3790.0
+description: The QSAR-TID-17080 dataset consists of qualitative and quantitative information of 1024 chemical compounds, along with their corresponding observed log-transformed half-life values. The data was collected with the goal of predicting the half-life values of potential chemical compounds. The qualitative data includes molecular descriptors like the number of rings, double bonds, and amino acids in the compounds. The quantitative data comprises the hydrophilicity index, octanol-water partition coefficient, and the electronic properties of the compounds. The dataset aims to aid researchers in developing models and algorithms for predicting the potential of a chemical compound's half-life.

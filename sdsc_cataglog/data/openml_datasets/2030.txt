@@ -1,0 +1,3 @@
+name: QSAR-TID-12708
+dataset_id: 4016.0
+description: The dataset QSAR-TID-12708 contains information about the anti-cancer activity of various compounds. It consists of 4,957 chemical compounds, each comprising 3,187 molecular descriptors, resulting in a total of 15,798,209 data points. The dataset also includes the binary activity values, indicating whether each compound has been classified as active against cancer cells or not. Further, 41 molecular attributes are present, such as mass, conformational flexibility, electron affinity, and more. The dataset has been utilized to develop quantitative structure-activity relationship (QSAR) models to predict the anti-cancer activity of new chemical compounds.

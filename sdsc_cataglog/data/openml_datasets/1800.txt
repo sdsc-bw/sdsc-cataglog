@@ -1,0 +1,3 @@
+name: QSAR-TID-128
+dataset_id: 3783.0
+description: The dataset QSAR-TID-128 consists of 1025 compounds and their corresponding chemical structures. It was collected for the purpose of Quantitative Structure-Activity Relationship (QSAR) modeling in drug discovery. The compounds in the dataset were screened for their potential activity against various viral strains, including HIV and Ebola. Multiple descriptors were calculated for each compound, such as topological, constitutional, and physicochemical properties. The dataset also includes the measured activity values of the compounds against the target viral strains. This dataset is valuable for researchers working on drug discovery and developing predictive models for compound activity.

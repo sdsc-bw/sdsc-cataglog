@@ -1,0 +1,3 @@
+name: volcanoes-b3
+dataset_id: 1533.0
+description: The dataset volcanoes-b3 provides information about volcanoes worldwide, including their location, type, and activity status. It contains data on over 1,500 volcanoes and their associated attributes. The dataset also includes information on volcano names, elevation, primary and secondary rock types, eruption styles, and recent activities. It is maintained and regularly updated by the Smithsonian Institution's Global Volcanism Program. This dataset serves as a valuable resource for researchers, scientists, and anyone interested in studying volcanoes and their characteristics. It allows for comprehensive analysis and understanding of volcanic activity on a global scale.

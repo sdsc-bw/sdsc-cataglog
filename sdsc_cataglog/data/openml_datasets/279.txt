@@ -1,0 +1,3 @@
+name: analcatdata_seropositive
+dataset_id: 526.0
+description: The dataset analcatdata_seropositive contains information about 40 individuals who tested seropositive for a specific disease. It consists of 6 attributes, including age, sex, blood pressure levels, and a binary variable indicating whether the individual has been exposed to a specific risk factor. The age of the subjects ranges from 8 to 71 years, with an average age of 39.5 years. The blood pressure levels vary greatly, with systolic and diastolic values ranging from 100 to 164 and 64 to 114, respectively. The dataset aims to provide valuable insights into the relationship between the risk factor exposure and seropositivity for the disease.

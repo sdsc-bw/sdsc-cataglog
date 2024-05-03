@@ -1,0 +1,3 @@
+name: osales
+dataset_id: 41482.0
+description: The dataset osales is a collection of sales data with information about various products. It includes details such as the product name, its category, the quantity sold, the price, and the overall revenue. The dataset provides a comprehensive view of the products' performance over a specific period. It can be used to analyze sales trends, identify top-selling products, and compare the performance of different categories. The data can also be utilized to calculate the average revenue per product, examine the distribution of sales across categories, and determine the most profitable products. Overall, the osales dataset is a valuable resource for sales analysis and decision-making.

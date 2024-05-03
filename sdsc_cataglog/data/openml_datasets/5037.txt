@@ -1,0 +1,3 @@
+name: Give-Me-Some-Credit
+dataset_id: 45577.0
+description: The Give-Me-Some-Credit dataset contains information about borrowers and their credit worthiness. It consists of various attributes like age, income, loan amount, and number of late payments. The dataset is used to predict the likelihood of a borrower defaulting on a loan. It also includes a target variable indicating whether a borrower experienced a serious delinquency in the past two years. The dataset is widely popular among researchers and data scientists for credit scoring and risk assessment purposes. It provides a comprehensive collection of features to analyze and develop models for predicting credit default risks.

@@ -1,0 +1,3 @@
+name: QSAR-TID-11089
+dataset_id: 3839.0
+description: The dataset QSAR-TID-11089 is used for quantitative structure-activity relationship (QSAR) studies, which aim to predict the biological activity of compounds based on their chemical structures. It consists of 4,567 compounds with 413 molecular descriptors representing various physicochemical properties. The dataset also includes the biological activity values of these compounds, which indicates their effectiveness as inhibitors against thrombin, an enzyme involved in blood clotting. The dataset was curated from other QSAR datasets and is useful for researchers interested in developing new thrombin inhibitors or studying the relationship between the molecular structure of compounds and their inhibitory activity.

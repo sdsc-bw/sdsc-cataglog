@@ -1,0 +1,3 @@
+name: Pulsar-Dataset-HTRU2
+dataset_id: 43377.0
+description: The Pulsar-Dataset-HTRU2 is a collection of data that consists of 16,259 pulsar candidates identified by the High Time Resolution Universe Survey (HTRU2). Pulsars are a type of celestial object that emit regular pulses of radio waves and are known for their high precision in keeping time. The dataset includes 8 input variables that describe the characteristics of each candidate, such as the mean, standard deviation, and excess kurtosis of their pulse profiles. It also provides a target variable that indicates whether the candidate is a pulsar or not. The dataset can be used for classification tasks and has been widely used in research on pulsar identification.

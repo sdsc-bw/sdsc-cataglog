@@ -1,0 +1,3 @@
+name: Otto-Group-Product-Classification-Challenge
+dataset_id: 45548.0
+description: The Otto Group Product Classification Challenge dataset is provided by the Otto Group, one of the world's largest e-commerce companies. It includes anonymized features of over 200,000 products from various categories, such as fashion, electronics, and furniture. The dataset consists of 93 numerical features which represent counts of different events occurring during the day and a target variable indicating the product class. The challenge aims to develop a machine learning model that accurately predicts the product class for unseen products. The dataset is well-suited for exploring and implementing classification algorithms and techniques in a real-world e-commerce scenario.

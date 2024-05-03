@@ -1,0 +1,3 @@
+name: NSE-Stocks-Data
+dataset_id: 43676.0
+description: The NSE-Stocks-Data is a dataset that contains information on stock prices from the National Stock Exchange of India. It includes data from multiple companies and industries, allowing for a comprehensive analysis of the stock market. The dataset provides information on the opening and closing prices, highest and lowest prices, and volumes traded for each stock. Stock prices are recorded for different time intervals, such as minutes, hours, or days, depending on the dataset version. Researchers and analysts can use this dataset to study market trends, forecast stock prices, perform technical analysis, and develop trading strategies.

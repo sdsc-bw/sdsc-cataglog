@@ -1,0 +1,3 @@
+name: Meta_Album_PLK_Extended
+dataset_id: 44317.0
+description: The dataset "Meta_Album_PLK_Extended" is a collection of extended album metadata. It contains information about various albums, including genres, release dates, album durations, number of tracks, and song titles. The dataset covers different music genres like pop, rock, hip-hop, and classical. It includes albums from different years, spanning several decades, and incorporates albums from both well-known and less-known artists. The dataset aims to provide a comprehensive range of album metadata, enabling various research and analysis in the field of music and album analytics. Overall, it offers a rich and diverse collection of extended album information.

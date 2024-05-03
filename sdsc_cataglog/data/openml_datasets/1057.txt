@@ -1,0 +1,3 @@
+name: aloi
+dataset_id: 1592.0
+description: The dataset ALOI (Array of Light Objects for Identification) is a dataset consisting of images of various objects. It contains 1,000 color images, each of size 144x144 pixels, encompassing 100 classes. The objects include natural objects like plants, animals, insects, as well as everyday man-made items like electronics, tools, and furniture. The dataset aims to provide a wide range of objects commonly found in our surroundings for classification tasks. The images are captured under controlled conditions with consistent lighting and minimal background. ALOI dataset can be used for pattern recognition, image classification, and object identification research.

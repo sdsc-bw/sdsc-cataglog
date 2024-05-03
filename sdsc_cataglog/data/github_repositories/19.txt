@@ -1,0 +1,3 @@
+repo_name: bayeslite
+link: https://github.com/probcomp/bayeslite
+description: Bayeslite is a BQL interpretation and storage for BayesDB, but users and contributors should expect rapidly and dramatically shifting code and behavior at this time. It's important to note that this software should not be expected to treat your data securely. The easiest way to install Bayeslite is to use the package on Anaconda Cloud, and for further information, please see http://probcomp.csail.mit.edu/software/bayesdb.

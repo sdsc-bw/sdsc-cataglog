@@ -1,0 +1,3 @@
+name: autoUniv-au7-1100
+dataset_id: 1552.0
+description: The dataset autoUniv-au7-1100 consists of data related to universities. It contains 1100 instances and 16 attributes. The attributes include the university's name, country, website, number of students, number of academic staff, and various other factors such as international diversity, learning facilities, research output, and prestige. The data was collected from different university ranking systems, websites, and international surveys. The purpose of this dataset is to provide information and insights into the characteristics and performance of universities around the world, allowing for analysis and comparison.

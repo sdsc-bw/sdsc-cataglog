@@ -1,0 +1,3 @@
+name: robert_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44741.0
+description: The dataset "robert_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True" consists of 2000 rows and 100 columns. It includes 10 different classes and has been stratified, meaning that the distribution of classes in the dataset has been maintained. This dataset was likely created by a user named "robert" with the seed value of 3. The dataset could potentially be used for machine learning tasks, classification problems, or any analysis that requires a stratified dataset with multiple classes.

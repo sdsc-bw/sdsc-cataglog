@@ -1,0 +1,3 @@
+name: credit
+dataset_id: 43978.0
+description: The dataset "credit" contains information about 30,000 individuals and their credit history. It includes 25 variables such as age, education, marital status, and payment history. The target variable is whether the individual defaulted on their credit card payments or not. The dataset is highly imbalanced, with a default rate of approximately 22%. It is divided into two groups: 6,636 individuals who defaulted and 23,364 individuals who did not default. The data was collected in Taiwan from April 2005 to September 2005. This dataset can be used for credit default prediction and analysis of the factors influencing creditworthiness.

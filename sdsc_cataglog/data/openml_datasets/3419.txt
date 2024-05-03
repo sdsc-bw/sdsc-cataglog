@@ -1,0 +1,3 @@
+name: GoodReads-Choice-Awards
+dataset_id: 43493.0
+description: The dataset GoodReads-Choice-Awards includes information about highly-rated books selected through a yearly voting process conducted by Goodreads users. It contains data from multiple years, with each entry containing details such as book title, author, genre, rating, and number of votes. The dataset offers a comprehensive collection of best-selling books across various categories like fiction, non-fiction, mystery, fantasy, romance, etc., showcasing readers' preferences. With this dataset, researchers can analyze patterns, trends, and preferences in popular literature choices, helping authors, publishers, and literary enthusiasts understand consumer behavior and make informed decisions in the book industry.

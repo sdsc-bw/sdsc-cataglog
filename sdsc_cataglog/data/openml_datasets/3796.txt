@@ -1,0 +1,3 @@
+name: ibm-employee-attrition
+dataset_id: 43896.0
+description: The dataset "ibm-employee-attrition" consists of information about 1,470 employees from IBM, including features like age, education, job role, salary, work-life balance, and job satisfaction. It also contains the attrition status, which indicates whether an employee has left the company or is still employed. The dataset aims to analyze and predict employee attrition patterns. It includes both numerical and categorical variables, and some missing values. Exploratory data analysis and machine learning models can be employed on this dataset to understand the factors that contribute to employee attrition and potentially develop strategies to mitigate it.

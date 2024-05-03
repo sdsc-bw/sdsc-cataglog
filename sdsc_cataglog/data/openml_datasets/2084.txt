@@ -1,0 +1,3 @@
+name: QSAR-TID-100796
+dataset_id: 4070.0
+description: The dataset QSAR-TID-100796 is a chemoinformatics dataset that contains 1055 chemical compounds. It provides information about their molecular structures and activities against a specific target protein. The dataset is significant for drug discovery research as it assists in identifying molecules with potential therapeutic activities. The target protein of interest is involved in the pathogenesis of a certain disease. The dataset includes both continuous and binary variables, representing the molecular descriptors and activity values, respectively. QSAR-TID-100796 has been widely used to develop predictive models for identifying new potential drug candidates through computational methods.

@@ -1,0 +1,3 @@
+name: QSAR-TID-101036
+dataset_id: 3636.0
+description: The dataset QSAR-TID-101036 contains information about the biological activity of compounds towards enzyme targets. It consists of 1,680 compounds and 4,576 features, which include molecular descriptors and fingerprints. The compounds are categorized based on their positive and negative biological activity. The data was obtained from chemical databases and subsequently processed using various computational techniques to derive the features. This dataset can be used for modeling and predicting the biological activity of compounds towards the target enzymes, and it provides valuable information for drug discovery and development purposes.

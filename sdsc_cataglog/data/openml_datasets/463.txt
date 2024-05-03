@@ -1,0 +1,3 @@
+name: fri_c3_100_50
+dataset_id: 716.0
+description: The dataset fri_c3_100_50 consists of gene expression information and drug response data. It contains data on 100 cancer patients and 50 different drugs. Each patient's genetic profile is recorded, including the expression levels of their genes. The drug response data measures the effectiveness of each drug in terms of inhibiting cancer cell growth. The dataset is used for studying the relationship between gene expression and drug response for personalized medicine. It provides a valuable resource for understanding which drugs may have better efficacy on specific genetic profiles, allowing for more targeted and effective treatment strategies in cancer therapy.

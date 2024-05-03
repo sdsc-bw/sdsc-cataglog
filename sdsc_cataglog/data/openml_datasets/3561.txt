@@ -1,0 +1,3 @@
+name: Amazon-Stock-Data(Oct-2019---July-2020)LATEST
+dataset_id: 43639.0
+description: The Amazon-Stock-Data (Oct-2019---July-2020) LATEST dataset provides information on the stock prices of Amazon from October 2019 to July 2020. The dataset offers the latest data available for analysis. It includes variables such as the date, closing price, opening price, highest price, lowest price, and volume traded. The dataset can be used to analyze trends in Amazon's stock prices during this period, identify patterns, and conduct various statistical analyses. It provides researchers, investors, and analysts with valuable data to make informed decisions regarding Amazon's stock.

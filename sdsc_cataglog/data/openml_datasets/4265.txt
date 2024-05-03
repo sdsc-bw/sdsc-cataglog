@@ -1,0 +1,3 @@
+name: covertype_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44443.0
+description: The dataset covertype_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns. It includes information on 10 different classes of cover types. The dataset is stratified, meaning that the distribution of the classes is maintained in the same proportions as the original population in the dataset. This ensures a representative sample. The dataset provides valuable information on various cover types, aiding in analyzing patterns and making predictions related to vegetation cover in the given area. With its large size and class diversity, this dataset offers a comprehensive and robust resource for research and analysis purposes.

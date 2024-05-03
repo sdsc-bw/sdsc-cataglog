@@ -1,0 +1,3 @@
+name: pigs_7
+dataset_id: 45259.0
+description: The dataset "pigs_7" contains information about seven different pigs. Each pig has several attributes recorded such as weight, breed, gender, and age. The dataset also captures the pigs' feed consumption, with the amounts consumed on a daily basis. The pigs' health is monitored throughout the duration of the study, and any illnesses or treatments are recorded. Additionally, the dataset includes information on the pigs' living conditions, such as the type of housing they are provided with. Overall, the "pigs_7" dataset provides comprehensive information about the pigs' characteristics, feed consumption, health, and living conditions, allowing for detailed analysis and evaluation.

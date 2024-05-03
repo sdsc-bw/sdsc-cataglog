@@ -1,0 +1,3 @@
+name: steel-plates-fault
+dataset_id: 1504.0
+description: The dataset "steel-plates-fault" is a collection of data pertaining to the quality assessment of steel plates. It consists of 1,942 instances with 34 attributes each. The attributes include various measurements related to the geometrical features and specifications of the steel plates. The dataset was created to classify the types of surface defects that may occur on steel plates. The types of defects include seven different categories such as scratches, patches, and grooves, among others. The dataset also provides information about the steel manufacturing process, including cooling and rolling parameters.

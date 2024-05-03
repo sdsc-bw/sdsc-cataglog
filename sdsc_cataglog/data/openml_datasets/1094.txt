@@ -1,0 +1,3 @@
+name: QSAR-TID-65
+dataset_id: 3070.0
+description: The dataset QSAR-TID-65 contains information about 105 compounds and their corresponding toxicity levels. It is intended for use in the field of quantitative structure-activity relationship (QSAR) modeling, which aims to predict toxicity based on molecular properties. The dataset includes 828 molecular descriptors, such as molecular weight, surface area, and various other physicochemical properties. Each compound is labeled with a binary toxicity class, indicating whether it is toxic or non-toxic. The dataset offers potential insights into the relationship between molecular properties and toxicity, providing a valuable resource for developing predictive models in toxicology research.

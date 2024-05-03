@@ -1,0 +1,3 @@
+name: autoMpg
+dataset_id: 831.0
+description: The autoMpg dataset consists of various attributes of different car models, including the fuel efficiency (in miles per gallon) as the target variable. It provides information like the number of cylinders, horsepower, weight, and acceleration for each car. The dataset contains 398 instances with original missing values marked as "?". The missing values have been replaced with appropriate values in this modified version. The dataset is commonly used for regression tasks, such as predicting the fuel efficiency of a car based on its attributes.

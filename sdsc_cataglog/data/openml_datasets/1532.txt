@@ -1,0 +1,3 @@
+name: QSAR-TID-10876
+dataset_id: 3516.0
+description: The dataset QSAR-TID-10876 contains information about 102 compounds and their corresponding biological activities. These activities are measured as the concentration needed to achieve 50% inhibition for the target enzyme. The compounds possess a diverse set of chemical structures and have been tested against eight different enzymes. The dataset also includes physicochemical properties of the compounds such as molecular weight, solubility, and hydrophobicity. It is collected to aid in the development of computational models for predicting the biological activity of new compounds. The dataset is available for public use and is intended for research purposes in the field of drug discovery and development.

@@ -1,0 +1,3 @@
+name: QSAR-TID-10959
+dataset_id: 3840.0
+description: The QSAR-TID-10959 dataset contains information on the biological activity of compounds against a target enzyme. It includes 419 compounds that were tested for their inhibitory potency against the enzyme. The dataset provides various molecular descriptors as well as the experimental results, such as IC50 values, which represent the concentration needed to inhibit the enzyme by 50%. The compounds belong to 17 different chemical classes, making it a diverse dataset for analyzing structure-activity relationships. This dataset can be used for developing quantitative structure-activity relationship (QSAR) models to predict the inhibitory potency of new compounds against the target enzyme.

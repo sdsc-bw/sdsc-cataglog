@@ -1,0 +1,3 @@
+name: QSAR-TID-30050
+dataset_id: 3912.0
+description: The dataset QSAR-TID-30050 contains quantitative structure-activity relationship (QSAR) data for 289 compounds from different categories. The compounds have been tested for their toxicity against Tetrahymena pyriformis, an organism commonly used in ecotoxicology. The QSAR descriptors used for the analysis include molecular descriptors, topological descriptors, and constitutional descriptors. These descriptors are derived from the chemical structure of the compounds and are related to their toxicity. The dataset includes information about the compound name, ID, and various numerical descriptors. This dataset is valuable for studying the relationship between chemical structure and toxicity in various compounds.

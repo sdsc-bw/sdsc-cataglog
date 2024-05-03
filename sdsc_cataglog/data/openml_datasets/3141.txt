@@ -1,0 +1,3 @@
+name: art_daily_small_noise
+dataset_id: 43045.0
+description: The dataset art_daily_small_noise is a collection of time series data that represents the noise recordings of a specific artwork. It contains 14,400 data points divided into 24 intervals, with each interval representing one hour. The noise values were recorded using a sound sensor placed near the artwork, capturing variations in the ambient noise. The dataset is provided in the form of a CSV file and can be used for various applications, such as time series analysis, anomaly detection, and forecasting.

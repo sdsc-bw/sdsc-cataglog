@@ -1,0 +1,3 @@
+name: youtube
+dataset_id: 41559.0
+description: The YouTube dataset is a collection of information regarding videos on the YouTube platform. It encompasses various attributes, such as the video ID, uploader, category, title, description, tags, views, likes, dislikes, comment count, and thumbnail link. The dataset contains a large number of videos from diverse categories, allowing researchers to gain insights into user preferences and trends. It also includes temporal information, enabling the analysis of video popularity over time. With this dataset, researchers can explore various aspects of YouTube and develop models to predict user behavior, optimize content recommendation systems, and understand the impact of various factors on video performance.

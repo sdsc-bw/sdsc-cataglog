@@ -1,0 +1,3 @@
+name: analcatdata_dmft
+dataset_id: 469.0
+description: The dataset analcatdata_dmft contains information related to dental health. It consists of 303 observations and 26 variables. The dataset includes data on the number of decayed, missing, and filled teeth (DMFT) for individuals. The variables describe various aspects of dental health, such as the frequency of dental visits, oral hygiene habits, and socioeconomic factors. The dataset aims to provide a comprehensive understanding of the factors influencing dental health and can be used for exploratory data analysis, statistical modeling, and predictive analysis.

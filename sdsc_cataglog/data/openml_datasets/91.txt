@@ -1,0 +1,3 @@
+name: triazines
+dataset_id: 206.0
+description: The dataset triazines is used to study the degradation of triazine herbicides in soil under laboratory-controlled conditions. It consists of multiple samples taken over time from different soil environments with varying levels of triazine herbicide contamination. The data includes various physical and chemical characteristics of the soil, such as pH, organic matter content, and clay percentage, as well as information on the degradation of the herbicide, including concentration measurements and half-life calculations. The dataset aims to provide insights and understanding of how triazine herbicides interact with soil and their potential impact on the environment.

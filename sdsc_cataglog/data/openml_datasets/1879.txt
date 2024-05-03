@@ -1,0 +1,3 @@
+name: QSAR-TID-11280
+dataset_id: 3864.0
+description: The dataset QSAR-TID-11280 contains chemical compounds that have been tested for their effectiveness as inhibitors of the enzyme Caseine Kinase 2 (CK2). The dataset includes a total of 252 compounds and 64 molecular descriptors. The compounds are classified into two classes: active (inhibitors) and inactive. The goal of this dataset is to develop a model that can predict the activity of new compounds as CK2 inhibitors. The dataset was created using an open-source software called PaDEL-Descriptor, which calculates various molecular descriptors. This dataset can be used for QSAR modeling and drug discovery research related to CK2 inhibitors.

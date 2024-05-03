@@ -1,0 +1,3 @@
+name: QSAR-TID-10613
+dataset_id: 3773.0
+description: The dataset QSAR-TID-10613 contains information about chemical compounds and their biological activity towards a specific target. The dataset consists of 768 different compounds, with each compound being described by 479 molecular descriptors. These descriptors provide information about the structural and chemical properties of the compound. The biological activity of each compound is measured using an activity score, ranging from 0 to 1, where higher values indicate a stronger biological activity. The dataset is primarily used for developing quantitative structure-activity relationship (QSAR) models, which aim to predict the biological activity of new compounds based on their molecular structure and properties.

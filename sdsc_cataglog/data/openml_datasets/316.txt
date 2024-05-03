@@ -1,0 +1,3 @@
+name: fried
+dataset_id: 564.0
+description: The dataset "fried" is a collection of information related to three different types of french fries: shoestring, steak, and curly fries. It contains a range of variables including the number of fries in a serving, their weight, length, and thickness. The dataset also covers various attributes of the fries such as their greasiness, crispiness, and saltiness, rated on a scale of 1 to 10. Additionally, it includes information about the cooking time and the type of oil used. The dataset "fried" provides researchers and food enthusiasts with comprehensive data to analyze and evaluate the characteristics of different types of french fries.

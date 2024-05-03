@@ -1,0 +1,3 @@
+name: QSAR-TID-12077
+dataset_id: 3592.0
+description: The QSAR-TID-12077 dataset contains information on chemical compounds and their biological activity. It comprises 1134 instances and 828 features, including molecular descriptors, partition coefficients, and conformational flexibility. The goal of this dataset is to predict the compounds' biological activity against tubulin polymerization, which is associated with anti-cancer properties. The dataset includes compounds with diverse structures and biological activities, as well as compounds with known anti-tubulin properties. QSAR-TID-12077 serves as a valuable resource for developing models and algorithms in computer-aided drug design and for studying structure-activity relationships for potential anti-cancer drugs.

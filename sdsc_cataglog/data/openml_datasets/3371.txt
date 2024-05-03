@@ -1,0 +1,3 @@
+name: Filipino-Family-Income-and-Expenditure
+dataset_id: 43443.0
+description: The Filipino-Family-Income-and-Expenditure dataset contains information about the income and expenditure patterns of Filipino families. It provides data on various factors such as household size, income sources, expenses on food, housing, education, and transportation. The dataset also includes details regarding geographic location, employment status, education level, and other demographics. It covers a wide range of years to study income and expenditure trends over time. This dataset is useful for researchers, policymakers, and economists to analyze the financial situation of Filipino families, identify patterns, and develop strategies for improving their economic well-being.

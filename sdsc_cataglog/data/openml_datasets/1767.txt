@@ -1,0 +1,3 @@
+name: QSAR-TID-119
+dataset_id: 3750.0
+description: QSAR-TID-119 is a dataset that contains 4893 compounds with 334 target variables. The data is derived from multiple sources and is used for Quantitative Structure-Activity Relationship (QSAR) analysis. The target variables represent various biological activities, such as inhibition, binding, and activity against specific proteins or enzymes. The compounds have been represented by molecular descriptors, which encode structural and physicochemical properties. The dataset is well-structured with no missing values, allowing for easy analysis. It provides researchers with a valuable resource for building QSAR models and exploring the relationship between compound structure and biological activity.

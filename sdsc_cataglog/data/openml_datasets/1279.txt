@@ -1,0 +1,3 @@
+name: QSAR-TID-12786
+dataset_id: 3255.0
+description: The QSAR-TID-12786 dataset consists of 1,278 different compounds with their corresponding toxicity values. These compounds have been analyzed using various molecular descriptors to predict their toxicity levels. The dataset includes information about the chemical structure, molecular weight, and other relevant properties of each compound. This dataset is useful for developing quantitative structure-activity relationship (QSAR) models to predict toxicological properties of compounds. The data provided is valuable for researchers and scientists working in the field of toxicology and drug discovery.

@@ -1,0 +1,3 @@
+name: Running-Log-Insight
+dataset_id: 43556.0
+description: The dataset Running-Log-Insight contains information about runners' logins on a running log website. It includes data such as the runner's username, login timestamp, and their geographical information. The dataset aims to provide insights into users' login patterns, allowing website administrators to optimize and ensure a smooth user experience. It can also be used for analyzing peak login times, runner preferences in terms of location, and identifying any login issues or irregularities in user activity. The dataset, which is likely to have significant volume considering the extensive user base, can offer valuable information for enhancing the running log platform's performance and user satisfaction.

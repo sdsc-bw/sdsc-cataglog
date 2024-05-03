@@ -1,0 +1,3 @@
+name: meta
+dataset_id: 566.0
+description: The dataset meta provides information about various datasets available for analysis. It includes details like the size of the dataset, the number of variables, and the type of data. The dataset meta is an essential tool for researchers and analysts to understand the characteristics of different datasets before using them for analysis. It helps in assessing the suitability of a dataset for a specific research question or analysis objective. The details provided in the dataset meta assists in making informed decisions and avoiding any potential issues that may arise from using inappropriate datasets.

@@ -1,0 +1,3 @@
+name: FOREX_usdcad-minute-High
+dataset_id: 41798.0
+description: The dataset FOREX_usdcad-minute-High contains minute-by-minute data from the foreign exchange market, specifically focused on the currency pair USD/CAD. The dataset provides information on the highest price reached during each minute of trading. It is likely sourced from a reliable forex data provider and is suitable for analyzing high price trends of USD/CAD. The data can be utilized to study the volatility, trading patterns, and potential breakout levels of the currency pair. Evaluating the dataset can aid in developing trading strategies, identifying key support and resistance levels, and making informed decisions in USD/CAD trading.

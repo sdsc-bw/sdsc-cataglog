@@ -1,0 +1,3 @@
+name: QSAR-TID-10542
+dataset_id: 3755.0
+description: The dataset QSAR-TID-10542 comprises information on a set of chemical compounds along with their respective activity values against a specific target. This target is an essential enzyme involved in a particular biological process. The dataset contains a total of 1,054 samples and encompasses 41 molecular descriptors derived from the 2D chemical structure of each compound. These derived descriptors can be utilized to predict the activity of unknown compounds against the target enzyme. The dataset is publicly available and can aid in the development of computational models for predicting the biological activity of chemical compounds.

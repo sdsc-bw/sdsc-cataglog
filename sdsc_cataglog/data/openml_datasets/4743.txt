@@ -1,0 +1,3 @@
+name: Prostate
+dataset_id: 45099.0
+description: The Prostate dataset is a collection of clinical measurements extracted from medical records of patients who underwent a radical prostatectomy procedure. The dataset contains 9 variables, including age, prostate-specific antigen (PSA) level, and tumor volume. It also provides information regarding the presence of capsular penetration, seminal vesicle invasion, and lymph node status, among other details. The data primarily focuses on predicting the occurrence of tumor penetration into the prostatic capsule. This dataset can be utilized in various machine learning studies and statistical analyses to understand and predict factors associated with prostate cancer.

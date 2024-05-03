@@ -1,0 +1,3 @@
+name: Mammographic-Mass-Data-Set
+dataset_id: 45557.0
+description: The Mammographic-Mass-Data-Set is a dataset that contains data related to mammographic masses found in breast cancer screening. It includes 961 instances with 5 attributes, including patient's age, shape of the mass, margin, density, and assessment. The dataset was collected at the University Medical Centre, Institute of Oncology in Ljubljana, Slovenia. It contains missing values, which are represented by "?". The primary goal of this dataset is to investigate the use of machine learning models to predict the severity of masses detected in mammograms. This dataset can be used for research and analysis in the field of breast cancer detection and diagnosis.

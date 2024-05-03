@@ -1,0 +1,3 @@
+name: SoilHydroDB
+dataset_id: 42333.0
+description: The dataset SoilHydroDB pertains to soil hydrological data and is a comprehensive collection of soil texture and hydraulic properties from various studies conducted worldwide. It includes information such as soil type, particle size distribution, bulk density, and water retention characteristics. The dataset consists of measured data obtained through laboratory experiments, field measurements, and numerical simulations. The purpose of SoilHydroDB is to provide a reliable source of soil hydrological properties for research and modeling purposes in the fields of agriculture, soil science, hydrology, and environmental sciences. The dataset is freely available for researchers and can be accessed through an online database.

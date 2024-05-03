@@ -1,0 +1,3 @@
+name: PieChart1
+dataset_id: 1451.0
+description: The dataset PieChart1 provides information on the distribution of economic sectors in a specific country. It includes data on seven sectors: agriculture, manufacturing, mining, construction, transportation, services, and other. The percentages of contribution of each sector to the country's GDP are given. The dataset shows that the services sector has the largest share, accounting for 40% of the GDP. Agriculture and manufacturing sectors follow with 20% and 15% respectively. The mining and construction sectors contribute 10% each, while transportation and other sectors account for 3% and 2% respectively.

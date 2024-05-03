@@ -1,0 +1,3 @@
+name: Medium-Articles
+dataset_id: 43667.0
+description: The dataset Medium-Articles is a collection of articles from the online publishing platform Medium. It comprises 279,577 articles written by 50,000 distinct authors. The dataset contains various features, including the author's unique identifier, number of claps received, publication date, title, and text of the articles. The articles cover a wide range of topics, including technology, politics, science, and more. Overall, the dataset provides a rich and diverse collection of articles, making it suitable for various research and analysis purposes in the field of online publishing and content analysis.

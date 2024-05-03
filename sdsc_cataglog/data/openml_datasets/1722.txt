@@ -1,0 +1,3 @@
+name: QSAR-TID-12449
+dataset_id: 3705.0
+description: The QSAR-TID-12449 dataset is a collection of chemical compounds and their respective biological activity against a specific target. It comprises 12449 compounds with 5273 active and 7176 inactive compounds. It includes various molecular descriptors like constitutional, topological, and electronic properties, which serve as input features for quantitative structure-activity relationship (QSAR) models. The dataset's objective is to develop models that can predict the activity of new compounds against the target based on their chemical properties. The dataset is publicly available and can be utilized by researchers and machine learning practitioners for various drug discovery applications.

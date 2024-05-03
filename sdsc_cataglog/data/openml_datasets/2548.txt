@@ -1,0 +1,3 @@
+name: FOREX_audsgd-minute-Close
+dataset_id: 41813.0
+description: The dataset FOREX_audsgd-minute-Close contains information about the closing price of the AUD/SGD currency pair in minute intervals. It includes data on the exchange rate between the Australian Dollar (AUD) and the Singapore Dollar (SGD) over a period of time. The dataset provides detailed information on the fluctuations in the exchange rate, allowing for analysis of trends or patterns. This dataset is useful for traders, researchers, or analysts who are interested in studying the AUD/SGD exchange rate and its movements at a minute-by-minute level.

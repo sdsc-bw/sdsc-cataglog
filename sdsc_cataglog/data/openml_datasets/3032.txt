@@ -1,0 +1,3 @@
+name: KDDCup09-Upselling
+dataset_id: 42773.0
+description: The KDDCup09-Upselling dataset contains anonymized data from a US telemarketing campaign aimed at selling new services to existing customers. It includes customer information like demographics, purchase history, and usage, along with information about the services offered and responses received. The goal is to predict whether a customer will subscribe to a new service based on the given information. The dataset consists of nearly 50,000 instances, with some missing values. It presents a valuable opportunity to develop models and techniques that can predict upselling success, allowing businesses to tailor their marketing strategies and improve revenue generation.

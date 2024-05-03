@@ -1,0 +1,3 @@
+name: eeg-eye-state
+dataset_id: 1471.0
+description: The EEG-eye-state dataset contains measurements of EEG signals and corresponding eye state labels, collected from three subjects during visualizations on a monitor. The dataset consists of 14 features, including spectral features derived from the EEG signal such as band power, power spectrum entropy, and spectral edge frequency, as well as spatial and temporal features. The eye state labels indicate whether the subject's eyes were open or closed during the recording. The dataset aims to facilitate research on EEG signal analysis and classification algorithms for detecting eye movements or states based on EEG measurements.

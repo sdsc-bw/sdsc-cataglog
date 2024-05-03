@@ -1,0 +1,3 @@
+name: QSAR-TID-19689
+dataset_id: 3292.0
+description: QSAR-TID-19689 is a dataset composed of quantitative structure-activity relationship (QSAR) models for 19,689 chemical compounds. The dataset contains information about the inhibitory activity of these compounds against the human immunodeficiency virus (HIV) replication. It includes 19 molecular descriptors that capture various physicochemical properties of the compounds. The dataset can be used for predictive modeling and machine learning tasks to develop models that can identify potential inhibitors of HIV replication. The QSAR models can offer insights into the structure-activity relationships and aid in the discovery of new compounds with antiviral properties.

@@ -1,0 +1,3 @@
+name: kdd_ipums_la_97-small
+dataset_id: 43970.0
+description: The kdd_ipums_la_97-small dataset comprises data from the 1997 Los Angeles household survey conducted by IPUMS (Integrated Public Use Microdata Series). It covers a small subset of the full survey dataset. The dataset includes detailed information about households, individuals, and their characteristics such as age, education, income, occupation, and more. It contains nearly 1,000 household records with about 2,000 individual records. This dataset allows researchers to analyze various aspects of the population in Los Angeles in 1997 and understand social and economic patterns in the city.

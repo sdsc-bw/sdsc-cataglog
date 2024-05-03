@@ -1,0 +1,3 @@
+name: Binary-Dataset-of-Phishing-and-Legitimate-URLs
+dataset_id: 43622.0
+description: The Binary Dataset of Phishing and Legitimate URLs is a collection of URLs (web addresses) labeled as either phishing or legitimate. It contains 11,055 unique URLs, with 5486 classified as phishing and 5569 classified as legitimate. The dataset includes features like the length of the URL, the presence of various characters and symbols, and the domain's registration age. The purpose of this dataset is to aid researchers and developers in studying and developing effective phishing detection methods and techniques. It can also be used for training machine learning models to identify and classify phishing URLs accurately.

@@ -1,0 +1,3 @@
+name: FOREX_eurdkk-day-Close
+dataset_id: 41783.0
+description: The dataset named FOREX_eurdkk-day-Close contains daily closing prices for the currency pair Euro (EUR) to Danish Krone (DKK) in the foreign exchange market. It includes historical data and each entry represents the closing price of EUR to DKK for a specific day. The dataset is primarily focused on the exchange rate between these two currencies, allowing analysis and insights into the fluctuations and trends in their values over time. With this data, users can perform various statistical and quantitative analyses to gain a better understanding of the EUR to DKK exchange rate dynamics.

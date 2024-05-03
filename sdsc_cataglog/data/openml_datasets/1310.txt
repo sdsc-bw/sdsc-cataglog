@@ -1,0 +1,3 @@
+name: QSAR-TID-12687
+dataset_id: 3286.0
+description: QSAR-TID-12687 is a dataset that contains information about chemical compounds and their toxicity levels. The dataset consists of 4,885 instances, each with 828 attributes, including molecular descriptors like atomic properties, bond types, and other characteristics. It was developed to predict toxicity activity in new compounds based on the provided descriptors. QSAR-TID-12687 covers a diverse range of compounds and toxicity values, making it valuable for building predictive models in the field of predictive toxicology. Additionally, the dataset offers great potential for machine learning algorithms and data analysis to explore relationships between molecular descriptors and toxicological properties.

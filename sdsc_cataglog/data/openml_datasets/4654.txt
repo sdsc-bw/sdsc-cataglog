@@ -1,0 +1,3 @@
+name: Airlines_DepDelay_1M
+dataset_id: 44998.0
+description: The dataset Airlines_DepDelay_1M contains information about the delays in departure time for a large number of airline flights. It consists of data for a million flights and includes various attributes such as the airline carrier, origin and destination airports, scheduled and actual departure times, and the delay in minutes. This dataset is useful for studying and analyzing flight delays and their causes. Researchers or analysts can explore patterns, trends, and correlations in flight delays using this dataset, which can aid in improving airline scheduling and operations.

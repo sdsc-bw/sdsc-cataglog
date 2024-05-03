@@ -1,0 +1,3 @@
+name: sylvine_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44680.0
+description: The dataset is named sylvine_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True. It contains 2,000 rows and 10 classes. It has 100 columns and is stratified. Stratification means that the dataset was split in such a way that each class is represented in a balanced manner across the training and testing sets. The dataset is likely used for classification tasks, where the goal is to assign each instance to one of the 10 classes based on the information provided in the 100 columns.

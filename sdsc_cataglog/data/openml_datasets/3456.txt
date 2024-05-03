@@ -1,0 +1,3 @@
+name: The-Social-Dilemma-Tweets---Text-Classification
+dataset_id: 43532.0
+description: The dataset "The-Social-Dilemma-Tweets---Text-Classification" is a collection of tweets related to the documentary film "The Social Dilemma." The dataset contains 16,999 tweets, which are classified into different categories such as positive, negative, neutral, or spam. The dataset aims to assist in sentiment analysis and text classification tasks. It is collected using the Twitter API and includes attributes like the tweet text, tweet ID, user information, and timestamp. This dataset can be utilized for various research purposes, including understanding public opinions, studying social media behavior, and analyzing the impact of the documentary.

@@ -1,0 +1,3 @@
+name: dilbert_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44515.0
+description: The dataset, dilbert_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True, has 2000 rows and 100 columns. With a seed value of 2, it is divided into 10 classes. The data is stratified, meaning it is grouped based on certain attributes to maintain the proportionality of the classes in the dataset. The specific characteristics of the dataset, such as the nature of the data in the columns and the purpose of the dataset, are not mentioned in the given information. However, it can be inferred that the dataset is designed to be balanced and representative of the underlying population.

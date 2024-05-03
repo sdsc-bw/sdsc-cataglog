@@ -1,0 +1,3 @@
+name: GCM
+dataset_id: 1106.0
+description: The GCM dataset is a collection of climate model data that encompasses a wide range of global climate variables. It includes information such as temperature, precipitation, wind patterns, atmospheric pressure, and ocean currents. The dataset is obtained from General Circulation Models, which are complex computer simulations used to predict and understand Earth's climate system. GCM data is instrumental in studying climate change, as it provides insights into the past, present, and future climate conditions. It assists scientists and researchers in analyzing climate trends, evaluating the impacts of human-induced changes, and shaping policies to mitigate climate-related risks and plan for a sustainable future.

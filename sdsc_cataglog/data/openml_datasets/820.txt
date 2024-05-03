@@ -1,0 +1,3 @@
+name: MercuryinBass
+dataset_id: 1090.0
+description: The dataset MercuryinBass contains information about mercury concentrations in bass fish. The data was collected from various bodies of water across the United States. The dataset includes measurements of total mercury levels in different organs of the fish, such as muscle, liver, and blood. It also includes information about the size and weight of the fish, as well as the location and date of collection. The dataset aims to provide valuable information for studying the bioaccumulation of mercury in bass and its potential impacts on human health.

@@ -1,0 +1,3 @@
+name: Predicting-Critical-Heat-Flux
+dataset_id: 43681.0
+description: The dataset Predicting-Critical-Heat-Flux contains information related to predicting the critical heat flux (CHF) in boiling heat transfer systems. It includes 5,230 observations and 9 features, such as inlet diameter, mass flow rate, and pressure. The data was obtained through simulation using the subcooled boiling phenomena. The goal of this dataset is to develop an accurate model to predict the CHF, which is a critical parameter in the design and operation of nuclear reactors and other thermal systems. The dataset can be used for machine learning modeling and experimentation in the field of thermal engineering and heat transfer.

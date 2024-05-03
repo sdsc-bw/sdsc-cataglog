@@ -1,0 +1,3 @@
+name: QSAR-TID-10651
+dataset_id: 3684.0
+description: The dataset QSAR-TID-10651 contains information about the binding affinity of a set of compounds towards tau protein, which is associated with the development of Alzheimer's disease. The dataset includes molecular descriptors, such as topological, geometrical, and quantum chemical properties, as well as the binding affinity values measured experimentally. The primary objective of this dataset is to develop a quantitative structure-activity relationship (QSAR) model to predict the binding affinity of compounds towards tau protein. This dataset can be used for machine learning and computational modeling studies to aid in the discovery of potential drug candidates for Alzheimer's disease treatment.

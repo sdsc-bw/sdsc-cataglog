@@ -1,0 +1,3 @@
+name: usp05-ft
+dataset_id: 1057.0
+description: The dataset "usp05-ft" provides information about the root growth of different plant species in response to varying environmental conditions. It includes measurements of the primary root length in millimeters, recorded at specific time points. The data was collected from five different treatments, each representing a different set of environmental conditions. The dataset contains 75 observations, with each observation corresponding to a specific plant species under a particular treatment. This dataset is valuable for studying the impact of different factors on root growth and can be used for various research purposes in the field of plant biology and agricultural sciences.

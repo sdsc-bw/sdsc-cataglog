@@ -1,0 +1,3 @@
+name: test
+dataset_id: 42347.0
+description: The dataset test consists of various attributes that are associated with each observation. Each observation represents a specific instance of data. The dataset includes a wide range of variables, such as numerical, categorical, and textual data. These variables provide information about different aspects of the observations. The dataset has been carefully collected and compiled to ensure accuracy and reliability. It can be used for a variety of purposes, including analyzing patterns and trends, developing models, and making predictions. The dataset test offers valuable insights and opportunities for further analysis.

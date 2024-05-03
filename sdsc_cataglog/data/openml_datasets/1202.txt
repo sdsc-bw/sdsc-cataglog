@@ -1,0 +1,3 @@
+name: QSAR-TID-11140
+dataset_id: 3178.0
+description: The QSAR-TID-11140 dataset focuses on predicting the bioactivity of novel compounds. It comprises molecular descriptors (MDs), which represent the structural characteristics of the compounds. The dataset provides two target variables: IC50 (half maximal inhibitory concentration) and pIC50 (negative log of IC50). The compounds in the dataset were experimentally tested against a specific enzyme target. The MDs were generated using various computational tools and software. The dataset comprises 5,140 records, each with 1 target variable, 5 source variables, and 1 ID variable. Its purpose is to develop predictive models for bioactivity that can assist in drug discovery.

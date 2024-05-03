@@ -1,0 +1,3 @@
+name: Measles-Immunization-Rates-in-US-Schools
+dataset_id: 43638.0
+description: The dataset "Measles-Immunization-Rates-in-US-Schools" contains information about the immunization rates for measles in schools across the United States. It includes data on the number of students enrolled in each school, as well as the number of students who have received the measles vaccine. The dataset also provides details on the school's location and other demographic information such as the percentage of students eligible for free or reduced-price meals. This dataset can be used to analyze the vaccination coverage for measles in different regions of the country and assess the impact of immunization policies on school-aged children.

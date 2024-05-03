@@ -1,0 +1,3 @@
+name: one-hundred-plants-texture
+dataset_id: 1493.0
+description: The dataset "one-hundred-plants-texture" contains texture images of 100 different plant species. Each image captures the leaf of the respective plant along with its texture. The dataset aims to contribute to the field of plant species identification by providing a diverse collection of plant textures. The images were acquired through the use of a high-resolution digital camera. The dataset is conveniently organized into subfolders, with each folder representing a specific plant species. It is a valuable resource for researchers and machine learning enthusiasts involved in plant identification, leaf texture analysis, and related fields.

@@ -1,0 +1,3 @@
+name: lowbwt
+dataset_id: 203.0
+description: The dataset "lowbwt" contains 189 observations and 9 variables. It was derived from a study conducted at the Baystate Medical Center in Springfield, Massachusetts. The purpose of the study was to predict the risk of low birth weight in infants based on various maternal factors. The variables in the dataset include age, weight, race, smoking status, history of premature labor, history of hypertension, presence of uterine irritability, number of prenatal visits, and birth weight. The dataset provides valuable information for understanding and predicting factors associated with low birth weight, which can help in improving prenatal care and reducing adverse birth outcomes.

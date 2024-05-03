@@ -1,0 +1,3 @@
+name: Click_prediction_small
+dataset_id: 1218.0
+description: The dataset "Click_prediction_small" contains information related to online advertisements and user click behavior. It is comprised of a total of 40,000 instances with 11 features representing various attributes of each instance. The features include time-related variables like the hour and day of the week, as well as categorical features like the user's browser and advertiser. Additionally, there are numerical features such as the user's age and IP address. The dataset aims to support research and analysis on click prediction in online advertising, providing valuable insights into factors that influence user click behavior and enabling the development of effective advertising strategies.

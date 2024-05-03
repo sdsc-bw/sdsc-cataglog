@@ -1,0 +1,3 @@
+repo_name: geoplotlib
+link: https://github.com/andrea-cuttone/geoplotlib
+description: Geoplotlib is a python toolbox for visualizing geographical data and making maps. This will launch the geoplotlib window and plot the points on OpenStreetMap tiles, also allowing zooming and panning. geoplotlib automatically handles the data loading, the map projection, downloading the map tiles and the graphics rendering with OpenGL. Optional requirements for installation include running `python setup.py install` or using `pip install geoplotlib`. A detailed user guide can be found in the wiki.

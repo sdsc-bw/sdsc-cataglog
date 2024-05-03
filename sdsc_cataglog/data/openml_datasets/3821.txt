@@ -1,0 +1,3 @@
+name: eye_movements
+dataset_id: 43946.0
+description: The dataset eye_movements contains information on eye movement patterns during reading. The data was collected from 50 participants who read a series of text passages. The dataset includes various measurements such as fixation duration, saccade length, and regression count, which provide insights into the reading process. Additionally, the dataset includes information about the participants' age, gender, and reading proficiency level. The purpose of collecting this data is to better understand the factors influencing reading efficiency and to develop models for predicting reading performance. This dataset can be valuable for researchers studying reading comprehension, eye tracking, and related fields.

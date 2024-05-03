@@ -1,0 +1,3 @@
+name: credit-card-fraud-detection
+dataset_id: 43627.0
+description: The credit-card-fraud-detection dataset contains transaction data from European credit cardholders, collected over a span of two days in September 2013. The dataset comprises a total of 284,807 transactions, out of which only 492 (0.17%) were identified as fraudulent. The data includes various numerical features derived from the transaction, as well as a time component. Due to privacy concerns, the dataset features anonymized features and does not disclose any personal or sensitive information. This dataset serves as a platform for developing and evaluating machine learning models to detect fraudulent credit card transactions.

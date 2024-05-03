@@ -1,0 +1,3 @@
+name: dilbert_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44516.0
+description: The dataset dilbert_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns. It has 10 different classes and follows a stratified sampling approach. The dataset is likely used for classification tasks, where the goal is to predict the class each data point belongs to. The stratified sampling ensures that each class is represented proportionally in the dataset, which can help improve the accuracy of the models trained on it. The dataset is named dilbert_seed_3, indicating that it was created using a specific seed value of 3 for reproducibility purposes.

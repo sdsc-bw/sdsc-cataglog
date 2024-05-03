@@ -1,0 +1,3 @@
+name: dataset_sales
+dataset_id: 42183.0
+description: The dataset named "dataset_sales" refers to a collection of data related to sales transactions. It contains information such as the date of the transaction, the customer's name, the product purchased, the quantity bought, and the total amount spent. The dataset is likely to have been gathered from a sales database or point of sale system. It can be used for analyzing various aspects of sales performance, such as identifying popular products, tracking customer buying patterns, or evaluating revenue trends over time. The dataset_sales is valuable for businesses seeking to improve their sales strategies and optimize their profitability.

@@ -1,0 +1,3 @@
+name: baseball-hitter
+dataset_id: 525.0
+description: The baseball-hitter dataset contains information on baseball players and their hitting performance. It includes various attributes such as player name, team, position, batting average, and the number of home runs. The dataset also provides details on the player's age, height, weight, years of experience, and salary. It covers a wide range of hitters from different teams, and the data is collected over multiple seasons. This dataset can be used for analysis and prediction of hitting performance, assessing player value, and understanding the factors that contribute to success in baseball.

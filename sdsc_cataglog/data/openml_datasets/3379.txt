@@ -1,0 +1,3 @@
+name: student-grade-pass-or-fail-prediction
+dataset_id: 43452.0
+description: The student-grade-pass-or-fail-prediction dataset is centered around predicting whether a student will pass or fail a specific subject based on various attributes. The dataset contains information about 33,000 students with attributes such as gender, age, prior school records, and attendance rate. The target variable is a binary outcome, representing whether the student passed or failed. The dataset provides an opportunity to explore and analyze the relationship between these attributes and student performance. It can be useful for developing machine learning models or conducting statistical analysis to understand the factors that contribute to student success or failure in academia.

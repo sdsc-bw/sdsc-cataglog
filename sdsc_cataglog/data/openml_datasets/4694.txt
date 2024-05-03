@@ -1,0 +1,3 @@
+name: Amazon_Electronics_Dataset
+dataset_id: 45050.0
+description: The Amazon_Electronics_Dataset is a dataset containing information about electronics products sold on Amazon. The dataset includes various attributes such as product names, product descriptions, ratings, prices, and review information. The dataset is large, consisting of millions of rows and covers a wide range of electronic products like laptops, phones, cameras, headphones, and more. It also contains user reviews, allowing for sentiment analysis and review-based research. This comprehensive dataset enables researchers and analysts to analyze trends, customer preferences, and make data-driven decisions related to electronics products on Amazon.

@@ -1,0 +1,3 @@
+name: kdd_ipums_la_97-small
+dataset_id: 44124.0
+description: The dataset "kdd_ipums_la_97-small" is based on the IPUMS LA (Integrated Public Use Microdata Series for Latin America) database, specifically the 1997 microdata for Los Angeles, California. It contains a subset of the larger dataset, focusing on a smaller sample size. The dataset includes information about individuals living in the Los Angeles area, their demographics, education level, occupation, and income. It provides valuable data for research and analysis related to the socioeconomic characteristics of the population in Los Angeles, allowing researchers to study various aspects of the city's population dynamics.

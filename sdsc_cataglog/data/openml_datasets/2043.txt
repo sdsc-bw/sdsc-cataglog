@@ -1,0 +1,3 @@
+name: QSAR-TID-11296
+dataset_id: 4029.0
+description: The dataset QSAR-TID-11296 contains information related to the quantitative structure-activity relationship (QSAR) of chemical compounds. It includes a total of 9,296 samples, each with 41 numerical attributes. The dataset's main objective is to predict the compound's potential to inhibit HIV-1 protease enzyme activity, which is crucial in developing drugs for HIV treatment. The dataset was created using molecular simulation and quantum mechanics techniques. The attributes include structural descriptors, such as molecular weights and connectivity indices. QSAR-TID-11296 is intended for researchers and scientists in the field of drug discovery and development to aid in predicting HIV-1 protease inhibitory activity.

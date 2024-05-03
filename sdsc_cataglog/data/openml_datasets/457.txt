@@ -1,0 +1,3 @@
+name: rabe_148
+dataset_id: 710.0
+description: The dataset rabe_148 is a collection of data gathered during experiments in the town of Rabe. It consists of 148 records with various attributes, including age, gender, smoker status, blood pressure, and cholesterol levels. The dataset also includes information about the presence or absence of heart disease, classified as target values. The data was collected to analyze the relationship between these attributes and the occurrence of heart disease. It is crucial to explore this dataset as it provides valuable insights into the risk factors associated with cardiovascular health and can help develop predictive models for diagnosing and preventing heart disease.

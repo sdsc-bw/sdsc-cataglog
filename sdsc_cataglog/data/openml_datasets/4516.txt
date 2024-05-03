@@ -1,0 +1,3 @@
+name: Satellite_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44695.0
+description: The dataset, named Satellite_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True, consists of 2000 rows and 100 columns. It is a multi-class dataset with 10 distinct classes. The dataset has been stratified to ensure a proportional representation of each class. The data likely pertains to satellite imagery or satellite-based observations. Different features or characteristics of the satellite data could be represented in the 100 columns. Overall, this dataset aims to provide a representative sample of satellite observations, making it suitable for various analysis and classification tasks.

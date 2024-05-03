@@ -1,0 +1,3 @@
+name: covertype_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44379.0
+description: The dataset is named 'covertype_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True' and contains 2000 rows and 100 columns. It has 10 classes and is stratified, meaning the distribution of classes is maintained within the dataset. It is likely that the data relates to some form of cover type classification task, with each row representing a specific instance and the columns containing various features or attributes. The dataset's name suggests that it has been generated with a specific random seed value of 2. More details about the specific classes and attributes within the dataset are not provided.

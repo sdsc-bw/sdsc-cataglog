@@ -1,0 +1,3 @@
+name: Iris
+dataset_id: 44344.0
+description: The Iris dataset is a widely used dataset in machine learning. It contains measurements of four different attributes from 150 samples of Iris flowers of three different species. The four attributes measured are sepal length, sepal width, petal length, and petal width. Each sample is labeled with its corresponding species: Setosa, Versicolor, and Virginica. The dataset is often used for classification tasks in machine learning algorithms. It is popular for its simplicity, small size, and the clear separation of the different species. The Iris dataset serves as a great starting point for beginners in machine learning.

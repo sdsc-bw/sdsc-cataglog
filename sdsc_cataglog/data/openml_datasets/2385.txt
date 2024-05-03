@@ -1,0 +1,3 @@
+name: youtube
+dataset_id: 41492.0
+description: The YouTube dataset is a collection of data from the popular video-sharing platform. It comprises information about videos, channels, comments, and other related metrics. The dataset provides details such as video titles, descriptions, tags, and view counts. It also includes information about the channel owners and their subscriber counts. The dataset captures the engagement and popularity of videos through metrics like likes, dislikes, and comment counts. Additionally, it contains timestamps for video uploads and comment publication. The YouTube dataset is valuable for studying video trends, user behavior, and content performance on the platform.

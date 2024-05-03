@@ -1,0 +1,3 @@
+name: ar3
+dataset_id: 1060.0
+description: The dataset ar3 contains information on the effects of weight lifting on body mass index (BMI) in a group of individuals over a 12-week period. It consists of 31 observations and 20 variables, including age, gender, pre-exercise BMI, and post-exercise BMI. The main objective of the study was to determine the relationship between weight lifting and BMI changes. The data was collected from a randomized controlled trial where participants underwent weight lifting exercises three times a week. The dataset is commonly used for studying the effects of exercise on BMI and for developing predictive models related to weight lifting and BMI changes.

@@ -1,0 +1,3 @@
+name: FOREX_eursek-minute-Close
+dataset_id: 41761.0
+description: The dataset FOREX_eursek-minute-Close contains minute-level closing prices for the currency pair EUR/SEK (Euro/Swedish Krona) in the foreign exchange (FOREX) market. The dataset provides information on the closing price for each minute, allowing for the analysis of short-term fluctuations and trends in the EUR/SEK exchange rate. The dataset is likely to be useful for traders or researchers who focus on high-frequency trading or are interested in studying the dynamics of the EUR/SEK exchange rate over short periods. Additionally, the dataset may be utilized for building predictive models or backtesting trading strategies that depend on minute-level data.

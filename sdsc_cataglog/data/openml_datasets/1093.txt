@@ -1,0 +1,3 @@
+name: QSAR-TID-10475
+dataset_id: 3069.0
+description: The dataset QSAR-TID-10475 contains information on 4,075 chemical compounds and their biological activity against HIV-1 virus, measured using an enzyme-linked immunosorbent assay (ELISA). The dataset has 5 features that include electronic, topological, geometric, lipophilic, and induced-fit features. It also includes the standard pIC50 values used to evaluate the antiviral activity of the compounds. The dataset aims to facilitate the development of predictive models for identifying potential new drugs against HIV-1 virus. It can be used to explore the relationship between the compound features and its antiviral activity, and to build computational models for predicting the activity of new compounds.

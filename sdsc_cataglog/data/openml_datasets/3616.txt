@@ -1,0 +1,3 @@
+name: Are-Two-Sentences-of-the-Same-Topic
+dataset_id: 43691.0
+description: The dataset called "Are-Two-Sentences-of-the-Same-Topic" contains pairs of sentences labeled as either being on the same topic or different topics. It consists of 4,183 sentence pairs from various sources and covers a wide range of topics. Each sentence pair is labeled with a binary value indicating whether the two sentences are related or unrelated in terms of topic similarity. This dataset can be utilized for various natural language processing tasks such as sentence similarity, topic classification, and information retrieval. It provides a valuable resource for training and evaluating algorithms that deal with sentence and topic-level tasks.

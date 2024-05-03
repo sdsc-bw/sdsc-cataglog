@@ -1,0 +1,3 @@
+name: QSAR-TID-10808
+dataset_id: 3507.0
+description: The dataset QSAR-TID-10808 contains molecular descriptors and the inhibition activity of compounds against a target enzyme responsible for the treatment of various diseases. It consists of 1,008 compounds with 2,088 variables, including 88 target enzyme inhibition activities and 2,000 molecular descriptors. Data was collected using computational methods and the compounds have been structurally diverse. The dataset aims to provide valuable information for developing new drugs or improving existing ones, ultimately contributing to disease treatment and drug discovery. The dataset is publicly available, which allows researchers to analyze and evaluate the data for various purposes.

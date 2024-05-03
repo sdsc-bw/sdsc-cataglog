@@ -1,0 +1,3 @@
+name: insurance_dataset
+dataset_id: 43157.0
+description: The insurance_dataset is a dataset that contains information related to insurance claims. It includes 1338 rows and 7 columns. The columns consist of attributes such as age, sex, BMI, children, smoker status, region, and charges. The dataset is used to analyze various factors that impact insurance charges. It has been utilized for exploring relationships between variables, predicting charges based on demographic information, and identifying trends in insurance data. With a diverse range of attributes, the insurance_dataset provides valuable insights into the factors influencing insurance costs and enables data-driven decision-making in the insurance industry.

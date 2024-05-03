@@ -1,0 +1,3 @@
+repo_name: adversarial-robustness-toolbox
+link: https://github.com/Trusted-AI/adversarial-robustness-toolbox
+description: The Adversarial Robustness Toolbox (ART) is a Python library for Machine Learning Security that provides tools to defend and evaluate Machine Learning models and applications against adversarial threats. It supports all popular machine learning frameworks, data types and machine learning tasks. ART is hosted by the Linux Foundation AI & Data Foundation and was partially supported by the Defense Advanced Research Projects Agency (DARPA).

@@ -1,0 +1,3 @@
+name: The-2020-Pokemon-dataset
+dataset_id: 43795.0
+description: The-2020-Pokemon-dataset is a dataset that provides comprehensive information on various aspects of Pokémon from the year 2020. The dataset includes multiple features such as Pokémon name, type, abilities, and stats like Health Points (HP), Attack, Defense, and Speed. It also contains details about their evolution stages, generation, and legendary status. With over 800 Pokémon entries, this dataset serves as a valuable resource for researchers, trainers, and fans alike. Whether for analyzing the strengths and weaknesses of different Pokémon or studying the characteristics of specific generations, this dataset offers an extensive collection of Pokémon information for exploration and analysis.

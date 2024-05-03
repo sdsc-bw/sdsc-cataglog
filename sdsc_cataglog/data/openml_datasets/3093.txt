@@ -1,0 +1,3 @@
+name: ausopen-men-2013
+dataset_id: 42970.0
+description: The dataset "ausopen-men-2013" refers to the statistics and match information from the Australian Open tournament in 2013 for men's singles matches. This dataset includes various details such as the player names, their rankings, the match scores, the duration of matches, and the serving speed. It also provides information on the number of aces, double faults, and break points for each player. The dataset comprises a comprehensive collection of data relevant to the 2013 Australian Open's men's singles matches, enabling detailed analysis and insights into player performances and match outcomes during the tournament.

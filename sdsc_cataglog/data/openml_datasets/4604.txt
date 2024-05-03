@@ -1,0 +1,3 @@
+name: KDDCup99_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44782.0
+description: The dataset "KDDCup99_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" is limited to 2000 rows with 10 classes representing different types of network traffic and 100 columns. The dataset is designed to be stratified, meaning that it maintains the distribution of classes in the original dataset. It is part of the KDD Cup 1999 competition, which focused on intrusion detection in computer networks. The dataset provides a subset of the original dataset, allowing for easier analysis and experimentation with various machine learning algorithms.

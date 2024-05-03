@@ -1,0 +1,3 @@
+name: okcupid-stem_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44769.0
+description: The dataset "okcupid-stem_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns, divided into 10 different classifications. The dataset is stratified, meaning the distribution of data in each class is proportionate. It is likely a machine learning dataset that has been preprocessed to focus on relevant features, potentially stemming from the original OkCupid dataset. The purpose of the dataset could be to train a model to classify or predict certain attributes based on the provided features. Due to its manageable size, it is suitable for experimentation and training small-scale models.

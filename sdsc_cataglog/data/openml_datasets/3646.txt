@@ -1,0 +1,3 @@
+name: Gen-1-Pokemon
+dataset_id: 43722.0
+description: The Gen-1 Pokemon dataset contains information about the first generation of Pokemon, which were introduced in the original Pokemon Red and Blue games. It includes data on 151 Pokemon species, including their names, types, and various attributes like base stats and abilities. The dataset also provides details on evolutions, moves, and forms for each Pokemon. It is a comprehensive resource for fans and researchers interested in studying and analyzing the characteristics and relationships between different Gen-1 Pokemon. The dataset contributes to the understanding of the Pokemon franchise's beginnings and offers valuable insights into game mechanics and strategy.

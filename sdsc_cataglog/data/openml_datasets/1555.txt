@@ -1,0 +1,3 @@
+name: QSAR-TID-10371
+dataset_id: 3539.0
+description: QSAR-TID-10371 is a dataset that includes information about the toxicity of various compounds. It consists of 456 compounds, each described by 1024 molecular descriptors. These descriptors reflect the structural and chemical properties of the compounds. The dataset also provides an activity outcome, which indicates the toxicological class of each compound. The compounds are divided into six different classes based on their toxicity levels. This dataset can be used for developing quantitative structure-activity relationship (QSAR) models to predict the toxicity of new compounds. It is valuable for researchers studying toxicology and developing new drugs.

@@ -1,0 +1,3 @@
+name: Game-of-Thrones-Script-All-Seasons
+dataset_id: 43421.0
+description: The dataset "Game-of-Thrones-Script-All-Seasons" contains the full script of all seasons of the popular TV series "Game of Thrones". It includes a total of 67,373 rows and 8 columns, providing information such as the season, episode, scene, character, and dialogue. Additionally, it offers various details about the characters involved, like their gender and whether they are alive or dead. The dataset allows for in-depth analysis and exploration of the dialogues and interactions between characters throughout the show's entire duration. It proves particularly useful for fans, researchers, and analysts interested in studying the intricacies of "Game of Thrones".

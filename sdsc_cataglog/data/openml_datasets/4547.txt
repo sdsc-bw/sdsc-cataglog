@@ -1,0 +1,3 @@
+name: adult_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44726.0
+description: The dataset "adult_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns. It has been stratified into 10 classes. The name "adult_seed_3" indicates that the dataset is related to adults and was generated using the seed 3. The dataset is likely used for classification tasks where the goal is to assign data points into their respective classes. The high number of rows and columns suggests that it may contain a wide range of features and observations. It is possible that the dataset was created for training and testing machine learning models.

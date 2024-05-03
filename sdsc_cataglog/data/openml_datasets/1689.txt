@@ -1,0 +1,3 @@
+name: QSAR-TID-101404
+dataset_id: 3672.0
+description: The dataset QSAR-TID-101404 contains information on the activity levels of chemical compounds in relation to their potential for toxicity towards algae. It consists of 2,050 compounds and 41 molecular descriptors. The compounds are classified into three classes according to their activity level: active (toxic), inactive (non-toxic), and intermediate. The purpose of this dataset is to develop models that can predict the toxicity of chemical compounds towards algae based on their molecular descriptors. This dataset can be used in the field of environmental chemistry and toxicology to better understand the relationship between the structure of chemical compounds and their potential toxicity towards algae.

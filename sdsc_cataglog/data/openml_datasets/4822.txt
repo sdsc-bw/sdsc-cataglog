@@ -1,0 +1,3 @@
+name: hailfinder_5
+dataset_id: 45180.0
+description: The dataset hailfinder_5 contains information regarding hailstorms, specifically focusing on the size and location of hailstones. It includes data on the date and time of the event, as well as the latitude and longitude coordinates of the hailstorm's occurrence. Additionally, the dataset provides information about the hailstone's individual measurements, such as diameter and weight. The dataset aims to assist in understanding the patterns and characteristics of hailstorms, enabling researchers and meteorologists to analyze and predict future occurrences more accurately. Overall, hailfinder_5 is a comprehensive dataset that facilitates the study of hailstorms and their impact.

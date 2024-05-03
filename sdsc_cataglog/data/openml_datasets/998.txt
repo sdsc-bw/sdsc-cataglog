@@ -1,0 +1,3 @@
+name: wall-robot-navigation
+dataset_id: 1526.0
+description: The wall-robot-navigation dataset contains information gathered from a robot navigating through a simulated environment with walls. The dataset includes data on the robot's sensor readings, motor commands, and ground truth pose information. The robot collects the data as it moves through the environment, attempting to avoid collisions with walls. The dataset allows researchers to analyze and understand the robotic navigation process, including the robot's perception of the environment and its decision-making capabilities. This dataset is valuable for developing and testing algorithms related to robot navigation, obstacle avoidance, and mapping.

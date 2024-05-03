@@ -1,0 +1,3 @@
+name: mlr_knn_rng
+dataset_id: 42454.0
+description: The dataset "mlr_knn_rng" contains information on the performance of three machine learning algorithms: "mlr", "knn", and "rng". The dataset consists of 100 observations and 5 variables. The variables include "algorithm", which specifies the algorithm used, "accuracy", which measures the accuracy of the prediction, "error_rate", which indicates the error rate of the algorithm, "sensitivity", which measures the true positive rate, and "specificity", which represents the true negative rate. The dataset allows for the comparison and evaluation of the three algorithms' performance based on these metrics. The dataset is suitable for exploring and analyzing the strengths and weaknesses of each algorithm.

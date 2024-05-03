@@ -1,0 +1,3 @@
+name: fri_c1_1000_5
+dataset_id: 612.0
+description: The dataset fri_c1_1000_5 is being described in the given sentences. It contains data related to 1000 instances, with 5 attributes per instance. The dataset seems to be labeled with class information, as it is referred to as fri_c1. The number of instances and attributes in the dataset is revealed, but the nature or specific details of the attributes are not provided. Consequently, without further information, it is difficult to understand the context or purpose of this dataset.

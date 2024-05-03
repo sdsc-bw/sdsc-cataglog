@@ -1,0 +1,3 @@
+name: benzo32
+dataset_id: 434.0
+description: The dataset benzo32 contains information on 32 benzodiazepines. It includes data on the molecular weight, number of aromatic rings, lipophilicity, molar refractivity, and polarizability of these compounds. The dataset also provides details about the biological activity of benzodiazepines, such as their affinity for GABA receptors and their potency as sedatives or antiepileptic drugs. The dataset is primarily used for predicting and analyzing the structure-activity relationships of benzodiazepines and understanding their pharmacological properties. It can be a valuable resource for researchers and developers in the pharmaceutical industry working on benzodiazepine-related projects or drug discovery efforts.

@@ -1,0 +1,3 @@
+name: arsenic-male-lung
+dataset_id: 536.0
+description: The dataset arsenic-male-lung provides information on the relationship between arsenic exposure and lung cancer risk in males. It includes data from a case-control study conducted in Taiwan, where arsenic contamination in drinking water is prevalent. The dataset consists of 323 lung cancer cases and 167 controls, with various variables such as age, smoking status, and arsenic levels in urine. The aim is to analyze if there is a significant association between arsenic exposure and lung cancer development in males. Statistical analyses, such as logistic regression, have been performed to investigate this association, providing important insights into the potential health risks of arsenic exposure.

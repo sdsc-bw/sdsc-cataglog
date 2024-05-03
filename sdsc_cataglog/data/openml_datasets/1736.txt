@@ -1,0 +1,3 @@
+name: QSAR-TID-100052
+dataset_id: 3719.0
+description: The dataset QSAR-TID-100052 contains information on the chemical properties of several compounds in relation to their potential to inhibit HIV replication. It includes 105 compounds with 4 quantitative features measured for each, such as molecular weight and hydrophobicity. The dataset also provides the binary activity of each compound, indicating if it is active (1) or inactive (0) against HIV replication. The goal of this dataset is to predict the activity against HIV replication based on the measured quantitative features, allowing researchers to potentially identify new compounds with anti-HIV properties.

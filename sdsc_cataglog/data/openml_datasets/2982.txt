@@ -1,0 +1,3 @@
+name: wingstop_stock_prices
+dataset_id: 42682.0
+description: The dataset "wingstop_stock_prices" consists of historical stock prices of Wingstop Inc., a fast-food restaurant chain specializing in chicken wings. The dataset includes information such as the date, opening price, highest and lowest prices, closing price, and trading volume for each trading day. It covers a specific time period and contains data on the stock performance of Wingstop Inc. throughout that period. This dataset could be valuable for analysts and investors looking to analyze and predict stock trends, assess investment opportunities, or examine the historical performance of Wingstop Inc.'s stock.

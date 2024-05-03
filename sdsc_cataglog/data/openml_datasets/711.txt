@@ -1,0 +1,3 @@
+name: mfeat-fourier
+dataset_id: 971.0
+description: The mfeat-fourier dataset contains Fourier descriptors extracted from grayscale images of handwritten digits 0-9. Each image is represented by a 76-dimensional vector containing the coefficients of the Fourier series. The dataset consists of 2000 samples, with 200 samples per digit. It is commonly used for pattern recognition tasks and classification algorithms. This dataset is part of the mfeat dataset collection, which includes different feature sets obtained from the same handwritten digit images. The mfeat-fourier dataset provides a valuable resource for research and experimentation in the field of image analysis and machine learning.

@@ -1,0 +1,3 @@
+name: QSAR-TID-103521
+dataset_id: 3903.0
+description: The dataset QSAR-TID-103521 comprises 675 chemical compounds represented by 441 molecular descriptors used to predict their ecological toxicity against the lettuce plant. Out of these compounds, 66 were found to be active and 609 were labeled as inactive. The dataset contains information related to the molecular structure of the compounds and their corresponding biological activity as determined by a bioassay. This dataset can be used in the development of predictive models or machine learning algorithms to assess the toxicity of new chemical compounds against lettuce plants, aiding in environmentally friendly chemical design and assessment.

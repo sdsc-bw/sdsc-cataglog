@@ -1,0 +1,3 @@
+name: Bike_Sharing_Demand
+dataset_id: 44017.0
+description: The Bike_Sharing_Demand dataset contains information about the demand for bike rentals in different conditions. It includes features such as weather conditions, humidity, temperature, and the number of registered and casual users. The dataset covers a period of two years, from 2011 to 2012, divided into an hour-wise format. It aims to predict the bike rental demand based on the given features. The dataset was collected in Washington, D.C., and is useful for analyzing the factors influencing bike rental demand and developing prediction models for future demand based on weather and other factors.

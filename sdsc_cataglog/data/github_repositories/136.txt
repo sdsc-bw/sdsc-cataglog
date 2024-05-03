@@ -1,0 +1,3 @@
+repo_name: dagster
+link: https://github.com/dagster-io/dagster
+description: Dagster is a powerful tool that allows you to automate any workflow, host and manage packages, find and fix vulnerabilities, create instant dev environments, write better code with AI, collaborate outside of code, fund open source developers, and more.

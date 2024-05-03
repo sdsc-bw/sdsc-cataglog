@@ -1,0 +1,3 @@
+name: child_0
+dataset_id: 45131.0
+description: The dataset child_0 consists of diverse information about children, including their age, gender, weight, height, and parental income. It also contains data on the children's academic performance, such as math and reading scores. The dataset includes additional variables like the child's race and ethnicity, as well as their parents' education level, employment status, and marital status. Moreover, it provides data on the family's access to healthcare and the number of siblings the child has. Overall, child_0 presents a comprehensive picture of various factors that could influence a child's well-being and development.

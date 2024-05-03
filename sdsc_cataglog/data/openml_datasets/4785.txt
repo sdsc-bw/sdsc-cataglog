@@ -1,0 +1,3 @@
+name: insurance_1
+dataset_id: 45143.0
+description: The insurance_1 dataset is a comprehensive collection of information related to auto insurance. It includes records of customers' personal and policy details, such as age, gender, marital status, location, vehicle make and model, coverage type, and claim history. The dataset also provides insights into premium amounts, annual mileage, deductibles, and the number of incidents reported by each customer. The dataset consists of 5000 instances and is considered relatively clean, with no missing values or duplicate records. With its wide range of attributes, the insurance_1 dataset offers an excellent foundation for analyzing various aspects of the auto insurance industry.

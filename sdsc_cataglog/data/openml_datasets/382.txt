@@ -1,0 +1,3 @@
+name: fri_c1_500_5
+dataset_id: 631.0
+description: The dataset fri_c1_500_5, consists of 500 instances and multiple attributes. Each instance represents a user, while the attributes include their preferences for various items. The dataset is focused on user-based collaborative filtering, which aims to predict a user's preferences based on the preferences of other similar users. The goal is to use this dataset to build a recommendation system that can accurately predict the preferences and interests of users. With its size and attribute-rich nature, the dataset provides a valuable resource for exploring user behavior patterns and developing personalized recommendation algorithms.

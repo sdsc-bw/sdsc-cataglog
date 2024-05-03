@@ -1,0 +1,3 @@
+name: QSAR-TID-124
+dataset_id: 3611.0
+description: QSAR-TID-124 is a dataset containing information about the biological activity of diverse compounds. The dataset consists of 2D descriptors and biological activities of 4,204 chemical structures. The compounds have been tested against different biological targets and their activity is measured in terms of IC50 values. The majority of the compounds have moderate to high IC50 values, indicating their potential as inhibitors for various biological targets. The dataset also includes additional information such as the compound's name, source, and class. QSAR-TID-124 serves as a valuable resource for researchers involved in drug discovery and predictive modeling in the field of medicinal chemistry.

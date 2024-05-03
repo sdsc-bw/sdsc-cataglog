@@ -1,0 +1,3 @@
+name: pathfinder_2
+dataset_id: 45243.0
+description: The dataset pathfinder_2 contains information regarding the Pathfinder mission, specifically about the movements and functionality of the Pathfinder rover on Mars. The dataset includes various measurements, readings, and images collected during the mission. It also includes data on the atmospheric conditions of Mars, such as temperature, pressure, and wind speed. Researchers can access this dataset to study the rover's behavior and performance on the Martian surface, as well as to gain insights into the planet's environment. The pathfinder_2 dataset provides a valuable resource for understanding the capabilities of robotic missions on extraterrestrial bodies and for further exploration of Mars.

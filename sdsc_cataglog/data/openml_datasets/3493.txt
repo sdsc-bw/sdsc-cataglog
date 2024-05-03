@@ -1,0 +1,3 @@
+name: Auto-mobile-pricing
+dataset_id: 43569.0
+description: The dataset "Auto-mobile-pricing" consists of information about various automobiles and their pricing details. It includes 205 instances with 26 attributes each. The dataset provides valuable information for analyzing and predicting automobile prices based on different features like make, body style, number of doors, fuel type, horsepower, engine size, mileage, curb weight, and more. It offers a wide range of cars from different manufacturers and helps understand the factors affecting automobile prices. This dataset is suitable for exploratory data analysis, regression modeling, and developing predictive models in the automotive industry.

@@ -1,0 +1,3 @@
+name: FOREX_eurhuf-hour-Close
+dataset_id: 41736.0
+description: The dataset FOREX_eurhuf-hour-Close contains hourly closing prices for EUR/HUF currency pairs in the foreign exchange market. The data includes a time stamp for each observation, representing the end of each hour. The dataset is likely to be structured in columns, with one column representing the date and time, and another column representing the closing price for EUR/HUF at that specific hour. The dataset could be used for various purposes such as analyzing historical price trends, developing trading strategies, or predicting future movements of the EUR/HUF currency pair.

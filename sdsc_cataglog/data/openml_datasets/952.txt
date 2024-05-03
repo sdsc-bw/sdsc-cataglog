@@ -1,0 +1,3 @@
+name: gas-drift-different-concentrations
+dataset_id: 1477.0
+description: The dataset `gas-drift-different-concentrations` consists of gas drift measurements in different concentrations. The dataset contains several variables such as concentration, drift distance, wind speed, and wind direction. Each observation in the dataset represents a particular concentration level of the gas being measured. The gas drift distance is recorded along with the corresponding wind speed and direction. The dataset provides valuable information for studying the behavior and dispersion of gases under various concentration scenarios. It can be used to analyze the impact of wind conditions on gas drift and explore potential patterns or trends.

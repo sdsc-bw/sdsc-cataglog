@@ -1,0 +1,3 @@
+name: rl
+dataset_id: 44160.0
+description: The dataset "rl" is a collection of measurement data containing information about players' actions and rewards in different video game environments. It includes data from various reinforcement learning tasks, allowing researchers to study how agents learn and improve their decision-making strategies in different scenarios. The dataset provides rich information about the state of the game, such as the player's position, orientation, and the objects and entities present in the environment. It also includes details about the actions taken by the player and the corresponding rewards received. The "rl" dataset is an essential resource for researchers investigating reinforcement learning algorithms in gaming environments.

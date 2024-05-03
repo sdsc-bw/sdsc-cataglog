@@ -1,0 +1,3 @@
+name: QSAR-TID-10485
+dataset_id: 3467.0
+description: The dataset QSAR-TID-10485 contains information on the physicochemical properties of chemical compounds. It focuses on predicting the inhibition activity against thrombin, an enzyme involved in blood clotting. The dataset consists of 1,048 compounds, with each compound being described by 8 molecular descriptors. These descriptors include characteristics such as molecular weight, solubility, and lipophilicity. The dataset also provides the experimental inhibitory activity values for each compound. This dataset is particularly valuable for developing quantitative structure-activity relationship (QSAR) models to predict the inhibitory activity of unknown compounds against thrombin.

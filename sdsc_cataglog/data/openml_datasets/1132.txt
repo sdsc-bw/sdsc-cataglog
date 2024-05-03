@@ -1,0 +1,3 @@
+name: QSAR-TID-10506
+dataset_id: 3108.0
+description: QSAR-TID-10506 is a dataset that contains information related to the inhibition of protein tyrosine kinase in a set of compounds. The dataset consists of 10506 instances and 5 features, including molecular descriptors. The goal is to predict the activity values for the inhibitors. The dataset is publicly available and has been used in various studies. It provides valuable information for the development of models and algorithms in the field of protein tyrosine kinase inhibition. Overall, QSAR-TID-10506 is a comprehensive dataset that enables researchers to investigate and analyze the molecular properties and activities of tyrosine kinase inhibitors.

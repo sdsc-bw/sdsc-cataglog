@@ -1,0 +1,3 @@
+name: anneal
+dataset_id: 44258.0
+description: The anneal dataset is a benchmark for the task of predicting steel quality. It consists of 797,037 observations represented by 38 features. The dataset is labeled, with the target variable being the "annealing" flag, indicating whether a particular steel specimen meets quality standards after undergoing annealing. The features include information about processing parameters, composition, and final properties of the steel specimen. Missing values in the dataset are denoted by "?". The dataset is widely used for developing predictive models to ensure steel quality and has been heavily researched in the domain of statistical and machine learning algorithms.

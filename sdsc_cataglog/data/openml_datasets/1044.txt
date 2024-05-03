@@ -1,0 +1,3 @@
+name: real-sim
+dataset_id: 1578.0
+description: The real-sim dataset is a collection of documents used in information retrieval research and machine learning tasks. It contains over 70,000 documents with various attributes such as title, author, and content. The documents in the dataset are from various domains including news articles, scientific papers, and web pages. This dataset is commonly used for tasks like text classification, information retrieval, and document clustering. The real-sim dataset is often used as a benchmark for evaluating the performance of different algorithms and models in these areas.

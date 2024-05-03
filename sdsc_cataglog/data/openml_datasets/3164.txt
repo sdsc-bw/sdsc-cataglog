@@ -1,0 +1,3 @@
+name: art_daily_jumpsdown
+dataset_id: 43080.0
+description: The dataset art_daily_jumpsdown contains continuous video footage captured over a period of several days. It has a resolution of 160x120 pixels and a frame rate of 15 frames per second. The footage showcases various indoor and outdoor scenes with different lighting conditions. The dataset captures multiple instances where people can be seen jumping down from an elevated platform. The dataset can be used for activities such as object detection, activity recognition, and anomaly detection. It provides a diverse range of scenarios for studying human behavior and movement patterns.

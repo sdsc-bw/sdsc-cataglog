@@ -1,0 +1,3 @@
+name: white-clover
+dataset_id: 343.0
+description: The white-clover dataset is a collection of records that document the characteristics and growth of white clover plants under different conditions. The dataset includes information such as the plant's height, leaf production, root length, and flowering time. It also incorporates data on environmental factors like temperature, light intensity, and soil moisture. The purpose of this dataset is to study the impact of various variables on the growth and development of white clover. Researchers can analyze this data to explore the relationships between plant performance and environmental conditions, optimizing the cultivation of white clover for agriculture or ecological research.

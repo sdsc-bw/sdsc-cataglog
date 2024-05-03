@@ -1,0 +1,3 @@
+name: Bechdel-Cast-Data
+dataset_id: 43499.0
+description: The Bechdel-Cast-Data is a dataset consisting of information related to the portrayal of female characters in films. It encompasses various aspects such as the Bechdel Test status, cast information, film genre, and other relevant details. The dataset offers a comprehensive analysis of over a thousand films from different time periods and genres. It aims to assess gender representation in movies and evaluate if female characters have significant roles and engaging interactions. The Bechdel Test, requiring films to have at least two named women who talk to each other about something other than a man, is a key criterion used to determine gender equality in storytelling.

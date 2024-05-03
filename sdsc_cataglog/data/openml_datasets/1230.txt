@@ -1,0 +1,3 @@
+name: QSAR-TID-101055
+dataset_id: 3206.0
+description: The dataset QSAR-TID-101055 contains chemical compounds along with their biological activity values, which indicate their potency against specific targets. The data was obtained using quantitative structure-activity relationship (QSAR) techniques. The dataset consists of 1055 instances and 203 attributes, including molecular descriptors and chemical properties of the compounds. The compounds were labeled as either active or inactive based on their biological activity values. QSAR-TID-101055 has been widely used for developing predictive models to determine the activity of new chemical compounds. This dataset is valuable for researchers and scientists working in drug discovery and chemical synthesis fields.

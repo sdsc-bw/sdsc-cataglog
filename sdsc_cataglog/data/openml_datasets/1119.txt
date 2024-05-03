@@ -1,0 +1,3 @@
+name: QSAR-TID-101105
+dataset_id: 3095.0
+description: The QSAR-TID-101105 dataset is a collection of molecular descriptors and biological activities of chemical compounds. It consists of 4,486 compounds, each characterized by 881 molecular descriptors and their corresponding values of activity against a specific target protein. The dataset contains information on compounds that exhibit a range of bioactivities, including both active and inactive compounds. It was created to aid in the development of quantitative structure-activity relationship (QSAR) models, which are used in drug discovery and chemical toxicity prediction. This dataset serves as a valuable resource for researchers in the field of computational chemistry and drug design.

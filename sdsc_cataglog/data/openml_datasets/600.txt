@@ -1,0 +1,3 @@
+name: bolts
+dataset_id: 857.0
+description: The dataset "bolts" comprises information related to bolts and their characteristics. It includes data on various types of bolts, such as hex bolts, carriage bolts, and machine bolts. The dataset provides details on the dimensions and specifications of these bolts, including their length, diameter, head style, and material composition. Additionally, information on the threading type, thread density, and thread size is also available. The dataset aims to assist users in understanding the differences and similarities between bolt types, enabling them to make informed decisions when selecting bolts for different applications.

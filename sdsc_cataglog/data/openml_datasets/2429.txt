@@ -1,0 +1,3 @@
+name: airlines
+dataset_id: 41672.0
+description: The airlines dataset is a compilation of information on various airlines worldwide. It contains data on the airline's name, IATA code, country, and operational status. Additionally, the dataset provides details on the airline's fleet size, the number of routes operated, and the airline's headquarters location. Furthermore, the dataset includes information on the airline's founding year and if it has been acquired or merged with other airlines. The dataset aims to provide a comprehensive overview of different airlines, allowing for analysis and comparison of their key attributes and characteristics in the aviation industry.

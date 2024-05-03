@@ -1,0 +1,3 @@
+name: quake
+dataset_id: 772.0
+description: The dataset "quake" contains information about earthquakes recorded in Switzerland between 1517 and 2018. It includes details such as the date, time, magnitude, depth, and location of each earthquake. The dataset consists of 34,116 observations and 9 variables. It provides valuable insights into the frequency, intensity, and spatial distribution of seismic activities in Switzerland over more than 500 years. Researchers and scientists can utilize this dataset to analyze patterns, identify trends, and develop models for earthquake prediction and mitigation strategies. It serves as a valuable resource for understanding earthquakes, their impact, and the underlying geological processes in Switzerland.

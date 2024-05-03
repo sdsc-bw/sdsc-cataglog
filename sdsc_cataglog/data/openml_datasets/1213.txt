@@ -1,0 +1,3 @@
+name: QSAR-TID-101356
+dataset_id: 3189.0
+description: QSAR-TID-101356 is a dataset that is focused on biological activity evaluation for a set of compounds. It includes 182 molecules and 210 descriptors, which help in characterizing the compounds. The dataset has been used for quantitative structure-activity relationship (QSAR) modeling, which aims to predict the biological activity of new compounds based on their structural features. The dataset contains information about a wide range of compounds, including those with antimicrobial, anti-cancer, and anti-viral activities. It has been made publicly available to facilitate research and development in the field of drug discovery and design.

@@ -1,0 +1,3 @@
+name: Kaggle_bike_sharing_demand_challange
+dataset_id: 1414.0
+description: Kaggle_bike_sharing_demand_challenge is a dataset available on Kaggle, a platform for data science competitions. It consists of information about bike sharing demand, including features like weather conditions, date, and time. The dataset contains both training and testing data. The training data has information about the number of bikes rented for each hour over a two-year period. On the other hand, the testing data lacks the bike rental counts, which needs to be predicted using machine learning models. The goal of this challenge is to create a model that accurately predicts the bike rental demand based on the given features.

@@ -1,0 +1,3 @@
+name: sleuth_ex2015
+dataset_id: 683.0
+description: The dataset "sleuth_ex2015" consists of data related to gastroenteritis outbreaks reported in the United States during 2015. The information includes characteristics of the outbreaks such as the number of cases, locations, and various factors like the age group affected, how the outbreak originated, and the setting it occurred in. The dataset covers a wide range of outbreak sources, including contaminated food and water, person-to-person transmission, and unknown origins. It provides valuable insights into the epidemiology, spread, and potential causes of gastroenteritis outbreaks, aiding in the development of preventive strategies and interventions to mitigate future occurrences.

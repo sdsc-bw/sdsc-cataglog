@@ -1,0 +1,3 @@
+name: SantanderCustomerSatisfaction
+dataset_id: 45566.0
+description: The dataset SantanderCustomerSatisfaction contains information about customer satisfaction levels for a bank in Mexico. It contains a total of 76020 instances and a target variable indicating customer satisfaction (0 for dissatisfied and 1 for satisfied). The dataset includes a variety of features, such as the order in which the data was collected and anonymized values for variables. There are no missing values in the dataset. The purpose of this dataset is to predict customer satisfaction based on the provided features, which could potentially help the bank understand factors affecting customer satisfaction and make informed decisions to improve their services.

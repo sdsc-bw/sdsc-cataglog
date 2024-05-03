@@ -1,0 +1,3 @@
+name: QSAR-TID-10300
+dataset_id: 3607.0
+description: QSAR-TID-10300 is a dataset that contains information about chemical compounds and their biological activities. It consists of 1247 instances, each representing a unique compound. The dataset spans 41 attributes, including molecular properties and characteristics. The target variable is the biological activity, represented by continuous values ranging from -1.196 to 1.842. The dataset is labeled, with the majority of compounds having a negative biological activity. QSAR-TID-10300 is often used in the field of drug discovery and computational chemistry for predicting the biological activity of new compounds based on their molecular properties.

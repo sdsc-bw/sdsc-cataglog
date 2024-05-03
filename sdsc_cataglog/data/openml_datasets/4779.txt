@@ -1,0 +1,3 @@
+name: child_6
+dataset_id: 45137.0
+description: The dataset child_6 contains information about 100 children aged 6 years. The data includes variables such as gender, height, weight, pre-existing health conditions, and academic performance. The dataset was collected through surveys and physical measurements conducted by researchers. The purpose of the dataset is to study the relationship between physical characteristics and academic performance in young children. The data has been cleaned and annotated to ensure accuracy and consistency. Researchers can use this dataset to analyze correlations, examine trends, and draw conclusions about the factors influencing academic performance in 6-year-old children.

@@ -1,0 +1,3 @@
+name: pharynx
+dataset_id: 213.0
+description: The dataset "pharynx" is a comprehensive collection of data on the pharynx, a part of the throat in humans and animals. It includes information on anatomical characteristics, functions, diseases, and associated physiology. The dataset provides a diverse range of data, including images, diagrams, and text-based descriptions. It offers insights into the structure and function of the pharynx, serving as a valuable resource for researchers, medical professionals, and students. Accessible and constantly updated, the pharynx dataset offers an extensive and detailed understanding of this important anatomical feature, facilitating further studies and advancements in various fields related to the pharynx.

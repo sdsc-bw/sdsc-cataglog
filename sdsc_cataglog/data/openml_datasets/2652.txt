@@ -1,0 +1,3 @@
+name: seattlecrime6
+dataset_id: 41960.0
+description: The seattlecrime6 dataset provides information about reported crimes in Seattle, Washington between 2008 and 2014. It contains various fields including the date and time of the crime, the type of offense, the block location, the police precinct, and the nearest intersection. The dataset offers a detailed perspective on criminal activity in the city, with over 200,000 records. It is useful for analyzing crime patterns, identifying high crime areas, and evaluating the effectiveness of crime prevention strategies. Researchers, law enforcement agencies, and policymakers can utilize this dataset to gain insights into crime trends and make informed decisions regarding public safety.

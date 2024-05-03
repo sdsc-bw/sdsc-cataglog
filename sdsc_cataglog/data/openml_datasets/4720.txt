@@ -1,0 +1,3 @@
+name: churn
+dataset_id: 45076.0
+description: The dataset "churn" focuses on customer attrition in the telecommunications industry. It contains information on various customer characteristics, such as their gender, age, and marital status, as well as details about their services, contracts, and billing. The dataset also includes historical data on the customers' usage patterns, such as their call duration, total charges, and internet usage. The goal of analyzing this dataset is to predict customer churn and identify key factors that contribute to it. The dataset is often used for machine learning and predictive modeling to help businesses understand why customers leave and develop strategies to prevent churn.

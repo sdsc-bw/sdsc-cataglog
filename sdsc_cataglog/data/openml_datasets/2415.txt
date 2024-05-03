@@ -1,0 +1,3 @@
+name: enb
+dataset_id: 41553.0
+description: The dataset enb contains 7685 examples, each consisting of 8 features and a target variable. The target variable represents a heating load, while the features consist of various parameters like relative compactness, surface area, wall area, roof area, overall height, orientation, glazing area, and glazing area distribution. The data was generated using energy analysis simulation software, based on several building designs. The dataset aims to help researchers analyze and predict the heating load of buildings based on these features.

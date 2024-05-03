@@ -1,0 +1,3 @@
+name: echocardiogram-uci
+dataset_id: 42177.0
+description: The echocardiogram-uci dataset is a collection of medical data related to echocardiograms, which are ultrasound tests used to evaluate the heart's size, shape, and function. It contains 132 observations with 13 attributes, including information on patient demographics, medical history, and echocardiogram measurements. The dataset is primarily focused on predicting the presence or absence of heart disease, with 35% of the observations indicating the presence of disease. This dataset is frequently used in machine learning research to develop models that can accurately diagnose heart conditions based on echocardiogram data, aiding in medical decision-making.

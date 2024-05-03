@@ -1,0 +1,3 @@
+name: mini_insect_1
+dataset_id: 43326.0
+description: The mini_insect_1 dataset contains information about insects. It includes 100 observations and 5 variables. The dataset's variables capture different characteristics of the insects, such as their length, weight, and color. In addition, the dataset also provides information about the presence or absence of a specific physical feature in the insects. The data is in a tabular format and can be used to analyze and study the relationships between the variables and the presence of the physical feature. Additionally, the dataset can be used for machine learning tasks or predictive modeling related to insects.

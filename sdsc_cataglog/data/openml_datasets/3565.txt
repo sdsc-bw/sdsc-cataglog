@@ -1,0 +1,3 @@
+name: dataset_time_2
+dataset_id: 42646.0
+description: The dataset dataset_time_2 is a collection of data that focuses on time-related information. It contains various entries that are organized in a tabular format. The dataset includes columns that represent different aspects of time, such as date, day of the week, month, and year. It also includes additional information such as the hour, minute, and second for more precise time references. Overall, dataset_time_2 provides a comprehensive and granular view of time-related data, allowing for detailed analysis and exploration of temporal patterns and trends.

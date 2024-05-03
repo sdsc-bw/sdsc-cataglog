@@ -1,0 +1,3 @@
+name: gender-by-name
+dataset_id: 42996.0
+description: The dataset "gender-by-name" provides information on the gender associated with different names. It is used to determine the gender of an individual based on their name. The dataset contains a vast array of names from various cultures and languages. It is utilized in diverse fields like marketing, demographics, and research. The gender-by-name dataset is valuable for tasks such as personalizing communication, analyzing trends, and understanding gender distributions within populations. With its extensive coverage and use cases, this dataset plays a crucial role in enhancing various applications that require gender identification based on names.

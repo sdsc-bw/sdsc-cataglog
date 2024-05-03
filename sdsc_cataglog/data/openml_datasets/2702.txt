@@ -1,0 +1,3 @@
+name: airquality
+dataset_id: 42057.0
+description: The airquality dataset contains measurements of air quality variables taken in New York City over a five-month period. The variables include ozone concentration, particulate matter (PM) levels, and other meteorological conditions such as temperature, humidity, and wind speed. The dataset was collected daily, with some missing values. The purpose of this dataset is to study the relationship between air pollution and meteorological conditions, as well as to evaluate the effect of air pollutants on human health. The dataset has 153 rows and 6 columns, and it is widely used for statistical analysis and forecasting air quality patterns.

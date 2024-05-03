@@ -1,0 +1,3 @@
+name: Pokmon-Legendary-Data
+dataset_id: 43379.0
+description: The dataset Pokmon-Legendary-Data contains information about legendary Pokemon from the popular video game franchise Pokemon. It includes attributes like the name, abilities, types, base stats, and status about whether the Pokemon is legendary or not. With a total of 65 records, the dataset allows for analysis and classification of these powerful and rare creatures. This data is valuable for Pokemon enthusiasts and researchers interested in studying the characteristics and behavior of legendary Pokemon. It can be used to gain insights into the distributions and patterns of legendary Pokemon, as well as for training machine learning models to predict their rarity in the game.

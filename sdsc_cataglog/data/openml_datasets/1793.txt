@@ -1,0 +1,3 @@
+name: QSAR-TID-10131
+dataset_id: 3776.0
+description: The dataset QSAR-TID-10131 contains information on the biological activity of various molecules. It includes 7,422 instances of molecular compounds and their respective activity values. There are 574 molecular descriptors, which are used to represent the physical and chemical properties of these compounds. The activity values range from 1 to 11, with a mean value of 5.53. This dataset has been widely used for the development of models to predict the bioactivity of new compounds. It is available for use in machine learning and chemoinformatics research.

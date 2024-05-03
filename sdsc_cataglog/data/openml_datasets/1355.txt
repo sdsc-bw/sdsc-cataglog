@@ -1,0 +1,3 @@
+name: QSAR-TID-17145
+dataset_id: 3332.0
+description: The dataset QSAR-TID-17145 contains information on 8,483 chemical compounds and their biological activities. The compounds were tested for their potential to inhibit an enzyme related to hypertension. The dataset includes 4,009 positive instances and 4,474 negative instances, with various molecular descriptors used as features. The compounds were split into training and test sets, with 75% in the former and 25% in the latter. The dataset is widely used for developing machine learning models to predict the activity of new compounds and aid in drug discovery. Multiple performance metrics are available to evaluate the models' accuracy.

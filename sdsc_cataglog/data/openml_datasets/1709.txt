@@ -1,0 +1,3 @@
+name: QSAR-TID-12679
+dataset_id: 3692.0
+description: The dataset QSAR-TID-12679 is a collection of quantitative structure-activity relationship (QSAR) data. It contains information about chemical compounds and their associated biological activities. The dataset consists of 12679 instances, each with 1024 features. These features represent molecular descriptors that provide information about the compound's chemical structure. The biological activity of the compounds is measured using an IC50 value, which represents the concentration required to inhibit a specific process by 50%. This dataset can be used to develop predictive models that analyze the relationship between the chemical structure of a compound and its biological activity.

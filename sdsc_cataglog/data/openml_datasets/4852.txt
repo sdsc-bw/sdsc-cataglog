@@ -1,0 +1,3 @@
+name: andes_2
+dataset_id: 45210.0
+description: The dataset "andes_2" contains information about the Andes mountains' topography and land cover. It includes 100 variables or features, which consist of various geological, climatic, hydrological, and geomorphological parameters. The dataset is derived from remote sensing data and has a spatial resolution of 1 km. The information is collected using satellite images, and it covers an extensive area of the Andes, including parts of Argentina, Chile, Peru, Bolivia, and Colombia. The dataset provides valuable insights into the terrain characteristics and land use patterns of the Andes mountains, making it a valuable resource for researchers and analysts studying the region.

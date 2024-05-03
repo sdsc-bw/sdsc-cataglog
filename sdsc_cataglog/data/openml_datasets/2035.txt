@@ -1,0 +1,3 @@
+name: QSAR-TID-100863
+dataset_id: 4021.0
+description: The QSAR-TID-100863 dataset is a collection of information on molecular compounds and their biological activities. It consists of 420 compounds and 6 features or descriptors, providing data on their molecular structures and properties. The compounds have been classified into two categories based on their activities as either active or inactive. The dataset aims to aid in the development of quantitative structure-activity relationship (QSAR) models for predicting the biological activities of similar compounds. The information within this dataset is valuable for researchers and scientists working in the field of drug discovery and design.

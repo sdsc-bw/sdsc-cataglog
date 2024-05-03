@@ -1,0 +1,3 @@
+name: analcatdata_runshoes
+dataset_id: 498.0
+description: The dataset "analcatdata_runshoes" contains information about running shoes. It consists of 72 instances and 6 attributes. The attributes include brand name, price, weight, and ratings based on durability, flexibility, and traction. The dataset provides insights into the characteristics and performance of various running shoe brands. It can be used for analyzing factors that affect the price and ratings of running shoes. Additionally, it enables comparisons between different brands based on their attributes. The dataset can be beneficial for companies in the sports industry for making informed decisions regarding their running shoe offerings.

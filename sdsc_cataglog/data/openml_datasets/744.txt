@@ -1,0 +1,3 @@
+name: synthetic_control
+dataset_id: 1004.0
+description: The synthetic_control dataset is a time series dataset that consists of 600 observations and 60 variables. It is a synthetic dataset created to mimic the behavior of a real-world dataset, making it suitable for testing algorithms and models. The dataset contains information about the performance of different industries over time, with each industry represented by 10 variables. The goal of this dataset is to predict the behavior of a control group after a treatment is applied. Therefore, it serves as a benchmark for evaluating the performance of various modeling techniques in a controlled experimental setting.

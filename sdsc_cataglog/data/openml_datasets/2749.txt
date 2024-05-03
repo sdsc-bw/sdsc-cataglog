@@ -1,0 +1,3 @@
+name: colleges
+dataset_id: 42159.0
+description: The dataset "colleges" contains information about different colleges in the United States. It provides details such as the name, location, state, tuition fees, and acceptance rates of each college. Other attributes include the type of college (public, private, or for-profit), the number of students enrolled, the graduation rate, and the average SAT and ACT scores of admitted students. The dataset also includes information about the student-to-faculty ratio, the percentage of full-time faculty, and the median earnings of former students after attending the college. Overall, the dataset provides a comprehensive overview of various factors and characteristics of colleges in the United States.

@@ -1,0 +1,3 @@
+name: bank-marketing
+dataset_id: 45065.0
+description: The bank-marketing dataset is a collection of information related to a marketing campaign conducted by a Portuguese bank. The campaign offered term deposits to their clients. The dataset consists of around 45,000 observations with various attributes including demographic, economic, and social factors. It also includes information about previous marketing contacts and outcomes, as well as other banking-related data. This dataset is commonly used for classification tasks to predict if a client will subscribe to the term deposit or not. It provides a valuable resource for studying customer behavior and enhancing marketing strategies in the banking sector.

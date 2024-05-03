@@ -1,0 +1,3 @@
+name: QSAR-TID-10496
+dataset_id: 3146.0
+description: The dataset QSAR-TID-10496 contains 410 numerical and categorical attributes, including molecular properties, such as molecular weight and polarizability, and experimental results, such as the inhibitory concentration. The dataset consists of 1055 instances, with 50% of them being active compounds. The dataset aims to predict the activity of chemical compounds against the bacterial GyrB protein, which is essential for bacterial growth and survival. The dataset is suitable for studies related to drug discovery and design. Various machine learning algorithms can be applied to this dataset to develop predictive models for the activity of chemical compounds against the GyrB protein.

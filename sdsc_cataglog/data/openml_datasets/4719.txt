@@ -1,0 +1,3 @@
+name: KDD
+dataset_id: 45075.0
+description: The KDD dataset is a popular collection of data used for training and testing machine learning algorithms in intrusion detection systems (IDSs). It contains a vast amount of network traffic data collected in a military network environment and covers different types of attacks and normal activities. The dataset consists of 41 features, including source and destination IP addresses, protocol types, service used, and more. It has become a widely used benchmark in the research community to evaluate the effectiveness of IDSs and develop better intrusion detection techniques.

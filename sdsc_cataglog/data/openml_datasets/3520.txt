@@ -1,0 +1,3 @@
+name: Human-Memory-and-Cognition
+dataset_id: 43596.0
+description: The Human-Memory-and-Cognition dataset is a comprehensive collection of data related to human memory and cognition. It consists of information from multiple experiments and studies conducted to understand various aspects of memory, attention, and cognitive processes. The dataset includes data on subjects' performance in memory tasks, response times, accuracy, and other relevant variables. It covers a range of experimental paradigms such as working memory, episodic memory, and semantic memory. The dataset aims to provide researchers with valuable information for investigating the nature and mechanisms of human memory and cognition, facilitating advancements in this field.

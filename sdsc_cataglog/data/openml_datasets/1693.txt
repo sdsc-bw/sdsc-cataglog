@@ -1,0 +1,3 @@
+name: QSAR-TID-214
+dataset_id: 3676.0
+description: The QSAR-TID-214 dataset is a comprehensive collection of chemical compounds with their corresponding toxicity values. It contains 1,526 entries, each with 18 molecular descriptors that provide information about their structure and properties. The toxicity value for each compound is based on the Daphnia magna bioassay, which measures their effect on aquatic organisms. The dataset also includes information about the chemical name, CAS number, and SMILES representation of each compound. It aims to facilitate the development of quantitative structure-activity relationship (QSAR) models for predicting the toxicity of chemical compounds, which can be beneficial for the identification of potentially harmful substances.

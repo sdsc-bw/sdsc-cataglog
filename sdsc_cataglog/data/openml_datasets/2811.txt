@@ -1,0 +1,3 @@
+name: ELE-1
+dataset_id: 42361.0
+description: The dataset ELE-1 is a collection of electrical power consumption data that covers a period of one year with hourly measurements. It consists of various features, including the date and time, electrical power consumption, apparent power, reactive power, and voltage readings. The dataset also provides information on the power consumption for different areas, such as kitchens, laundry rooms, and air conditioning systems. Additionally, ELE-1 incorporates data from different sources, such as appliances, electrical circuits, and overall household power consumption. This dataset serves as a valuable resource for analyzing electricity usage patterns and developing energy-efficient strategies.

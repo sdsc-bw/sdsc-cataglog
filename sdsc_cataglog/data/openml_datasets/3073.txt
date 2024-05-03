@@ -1,0 +1,3 @@
+name: obesity-level-indicators
+dataset_id: 42909.0
+description: The dataset obesity-level-indicators provides information on obesity levels across various countries. It includes features such as obesity prevalence among adults and children, physical inactivity rates, and the consumption of calories and alcoholic beverages. The dataset also includes variables related to socioeconomic factors, such as income, education level, and healthcare expenditure. This dataset aims to provide a comprehensive understanding of the obesity levels globally and to identify potential factors contributing to obesity. It can be used for research purposes, policy-making, and implementing interventions to combat obesity and promote healthy living.

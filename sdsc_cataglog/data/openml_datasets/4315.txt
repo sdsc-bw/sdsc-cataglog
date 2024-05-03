@@ -1,0 +1,3 @@
+name: numerai28.6_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44493.0
+description: The dataset numerai28.6_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2,000 rows and 100 columns. It includes data from 10 different classes and is stratified, meaning that the proportions of the classes are maintained in the dataset. The dataset, provided by Numerai, is used for predictive modeling competitions. It is seeded at 0, ensuring consistent results for different users. The dataset serves as a training set for machine learning models to predict outcomes based on the given features. Participants can use this dataset to develop and test their models in the competition.

@@ -1,0 +1,3 @@
+name: skillcraft1
+dataset_id: 42918.0
+description: The dataset skillcraft1 consists of varying attributes related to player performance in the online game StarCraft II. The dataset was collected by extracting data from replays of controlled human versus human games. It includes 3,147 observations and 20 attributes, such as actions per minute, number of unique units, and frequency of right clicks. The goal of the dataset is to explore different factors that contribute to player expertise and performance. The dataset also includes a rating variable that indicates the skill level of each player. The dataset has been widely used to analyze player behavior, skill acquisition, and prediction models in gaming.

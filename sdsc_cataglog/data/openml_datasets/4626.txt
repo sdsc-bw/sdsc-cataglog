@@ -1,0 +1,3 @@
+name: geographical_origin_of_music
+dataset_id: 44965.0
+description: The dataset "geographical_origin_of_music" focuses on the geographical origins of various music genres. It contains information about the specific region or country associated with each genre, as well as additional details such as instruments used and cultural influences. The dataset aims to provide a comprehensive overview of global music and its diverse origins. It can be used for various research purposes, including analyzing the spread and evolution of different music styles across time and continents. The dataset is likely to be valuable for music historians, anthropologists, and anyone interested in studying the cultural connections between music and geographical locations.

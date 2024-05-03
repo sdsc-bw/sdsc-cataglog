@@ -1,0 +1,3 @@
+name: fri_c4_100_50
+dataset_id: 932.0
+description: The dataset fri_c4_100_50 consists of 100 rows and 50 columns of data. It is a collection of information that has been categorized and organized for easy analysis. The dataset contains various types of data, including numerical values, categorical variables, and text descriptions. It is designed to be used for research and analysis purposes, allowing users to explore patterns, relationships, and trends within the data. The dataset is comprehensive and comprehensive, representing a wide range of topics and domains. It can be a valuable resource for data scientists, researchers, and analysts in various fields.

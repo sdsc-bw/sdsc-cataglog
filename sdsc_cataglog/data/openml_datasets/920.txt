@@ -1,0 +1,3 @@
+name: fourclass
+dataset_id: 1435.0
+description: The dataset fourclass consists of 6,000 instances with 20 attributes. Each instance belongs to one of four classes. The classes are evenly distributed in the dataset, with each class having 1,500 instances. The attributes are numerical and continuous, with values ranging from 0 to 1. The dataset has been extensively used in classification tasks and is often employed to evaluate machine learning algorithms. Some commonly used algorithms for this dataset are decision trees, neural networks, and support vector machines. Despite its simplicity, the dataset provides a good challenge for evaluating the performance of various classification algorithms.

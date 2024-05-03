@@ -1,0 +1,3 @@
+name: GDP-per-capita-all-countries
+dataset_id: 43809.0
+description: The dataset "GDP-per-capita-all-countries" provides information on the Gross Domestic Product (GDP) per capita for various countries. It includes data from numerous countries, considering both developed and developing nations. The dataset intends to offer a comprehensive view of the economic output per person across different regions and income groups. The GDP per capita figures can help analyze the relative affluence of countries, economic growth trends, and income disparities. The dataset likely consists of annual or periodic data, potentially spanning several years, helping establish long-term patterns and changes in economic performance around the world.

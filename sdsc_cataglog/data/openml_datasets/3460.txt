@@ -1,0 +1,3 @@
+name: Chennai-Zomato-Restaurants-Data
+dataset_id: 43536.0
+description: The dataset Chennai-Zomato-Restaurants-Data contains information about restaurants in Chennai, India from the Zomato platform. The dataset provides details about restaurant names, locations, cuisines, average costs for two people, user ratings, restaurant types (such as cafes or bars), and other attributes. It also includes data on delivery availability and online order availability. The dataset aims to assist users in making informed decisions about dining options in Chennai. With comprehensive information about various aspects of restaurants, users can analyze and compare different establishments based on their preferences, making it a valuable resource for food enthusiasts and researchers.

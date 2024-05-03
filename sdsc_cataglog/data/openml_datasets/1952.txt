@@ -1,0 +1,3 @@
+name: QSAR-TID-11718
+dataset_id: 3937.0
+description: The dataset QSAR-TID-11718 is a collection of quantitative structure-activity relationship (QSAR) data for 11718 compounds. It provides information about the physicochemical properties of each compound, including molecular weight, polarizability, and solubility. The dataset also includes the bioactivity data, which represents the strength of the compounds' interaction with a biological target. The compounds in the dataset belong to various chemical classes and have diverse bioactivity profiles. This dataset can be used in QSAR modeling and drug discovery research to predict the bioactivity of unknown compounds and identify potential drug candidates.

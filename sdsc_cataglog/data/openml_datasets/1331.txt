@@ -1,0 +1,3 @@
+name: QSAR-TID-10498
+dataset_id: 3307.0
+description: The QSAR-TID-10498 dataset is derived from the Toxin, Target and Drug Target-Induced Sequence Data Resource. It contains information on a set of compounds that have been experimentally tested for their ability to inhibit certain proteins. The dataset includes 2122 compounds and 12 features, such as molecular weight, solubility, and polar surface area, which are used to predict the biological activity of the compounds. The dataset is primarily used in the field of chemoinformatics to develop quantitative structure-activity relationship (QSAR) models, which can help in drug discovery and development by predicting the biological activity of new compounds.

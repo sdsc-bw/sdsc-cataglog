@@ -1,0 +1,3 @@
+name: QSAR-TID-10074
+dataset_id: 3198.0
+description: The QSAR-TID-10074 dataset is composed of 900 molecules with 42 numerical descriptors, obtained from different sources. These descriptors represent various properties associated with the molecules, such as shape, size, and electrostatic charge. The dataset was curated with the objective of developing quantitative structure-activity relationship (QSAR) models to predict the biological activity of the molecules. The activity values indicate the potential of each molecule to bind to a specific target protein. Machine learning algorithms can be applied to this dataset to explore relationships between the descriptors and activity values, aiding in the discovery of new molecules with desired molecular properties.

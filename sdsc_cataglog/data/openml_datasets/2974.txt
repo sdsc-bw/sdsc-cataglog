@@ -1,0 +1,3 @@
+name: SalaryData
+dataset_id: 42660.0
+description: The dataset SalaryData contains information about the salary and various attributes of employees. It consists of 303 observations and 6 columns. The columns in the dataset represent different variables such as age, experience, educational qualification, gender, position, and salary. The data is collected from a diverse range of industries and positions. The primary goal of this dataset is to explore the factors that influence salary levels. This dataset can be utilized for analyzing salary trends, identifying patterns in employee compensation, and developing predictive models to estimate salaries based on the provided attributes.

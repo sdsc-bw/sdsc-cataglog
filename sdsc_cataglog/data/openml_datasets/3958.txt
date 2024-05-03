@@ -1,0 +1,3 @@
+name: kdd_ipums_la_97-small
+dataset_id: 44084.0
+description: The dataset kdd_ipums_la_97-small is a subset of the larger kdd_ipums_la_97 dataset. It contains a smaller number of observations and fewer variables. The dataset includes information about individuals and households in the Los Angeles metropolitan area in 1997. Variables in the dataset capture various demographic and socioeconomic characteristics, such as age, race, education, employment status, and income. The purpose of this smaller dataset may be to provide a manageable subset of the larger dataset for specific analysis or to showcase a sample of the data available in the complete dataset.

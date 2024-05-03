@@ -1,0 +1,3 @@
+name: SVHN_small
+dataset_id: 42140.0
+description: The dataset SVHN_small contains a collection of images of digits from the Street View House Numbers (SVHN) dataset. It consists of 10 classes, representing the digits 0 to 9. The dataset has a total of 13,068 images, divided into 7,741 for training and 3,278 for testing purposes. Each image is in RGB format with a resolution of 32x32 pixels. The dataset also includes corresponding labels for each image, indicating the correct digit. SVHN_small is a subset of the original SVHN dataset, specifically designed for experiments that require a smaller dataset size.

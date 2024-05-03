@@ -1,0 +1,3 @@
+name: dna_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44642.0
+description: The dataset "dna_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2,000 rows and 100 columns. It has been stratified to ensure representation from all 10 classes. The dataset focuses on DNA sequences, and each row represents a sequence. The columns contain various features that describe the sequence, such as nucleotide positions, codons, or other relevant information. The dataset aims to provide a diverse and comprehensive representation of DNA sequences across different classes, allowing for analysis and exploration in DNA-related research or applications.

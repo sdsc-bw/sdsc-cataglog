@@ -1,0 +1,3 @@
+name: KDD98
+dataset_id: 42343.0
+description: The KDD98 dataset is a commonly used dataset in the field of intrusion detection. It contains a large number of network traffic records collected from a simulated environment. The dataset is publicly available and widely used for research purposes. It includes different types of network attacks, such as denial of service, user-to-root, and remote-to-local attacks. Each record in the dataset contains various attributes, including network connection information, packet features, and host attributes. The goal of analyzing this dataset is to develop effective intrusion detection systems that can accurately identify and classify network attacks, ultimately enhancing network security.

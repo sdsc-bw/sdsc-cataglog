@@ -1,0 +1,3 @@
+name: Kuzushiji-49
+dataset_id: 41991.0
+description: Kuzushiji-49 is a large dataset consisting of 270,912 images of handwritten Japanese characters from the Kuzushiji script. The script was widely used in Japan for over a thousand years but has become obsolete since the 1900s. The dataset includes 49 unique classes, each representing a distinct character or glyph. It was created to promote research and development in the field of cultural heritage preservation. The images were collected from historical documents and normalized for training machine learning models. Kuzushiji-49 provides a valuable resource for studying and preserving this ancient writing system.

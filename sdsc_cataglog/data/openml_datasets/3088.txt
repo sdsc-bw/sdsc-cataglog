@@ -1,0 +1,3 @@
+name: wimbledon-men-2013
+dataset_id: 42965.0
+description: The dataset wimbledon-men-2013 contains data about the men's singles matches played in Wimbledon in the year 2013. It includes information about various aspects of the matches, such as the names of the players, their respective countries, the round in which the match was played, the date and duration of the match, the number of sets and games played, and details about the winner and loser of the match. The dataset provides a comprehensive overview of the performance of male tennis players in one of the most prestigious tennis tournaments, allowing for in-depth analysis and insights into player's abilities, strategies, and overall tournament performance.

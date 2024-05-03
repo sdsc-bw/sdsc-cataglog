@@ -1,0 +1,3 @@
+name: siddiqi
+dataset_id: 413.0
+description: The dataset "siddiqi" contains multiple records, each representing information about an individual. It includes various attributes such as age, gender, income level, educational qualifications, and marital status. The dataset also provides details about the individuals' location, including their country and city. Additionally, it includes information about their employment status and occupation. The purpose of this dataset is to analyze and study the socio-economic factors of different individuals and identify any patterns or correlations between these attributes. The siddiqi dataset serves as a valuable resource for conducting research and drawing insights related to various social and economic aspects.

@@ -1,0 +1,3 @@
+name: helena_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44732.0
+description: The dataset "helena_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" is being referred to. It contains 2000 rows and 100 columns, with 10 distinct classes. The term "stratify" indicates that the dataset has been properly divided or sampled to maintain a proportional representation of each class. However, specific details about the nature or content of the dataset are not provided in the given sentences.

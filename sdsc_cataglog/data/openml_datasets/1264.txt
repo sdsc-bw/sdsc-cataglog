@@ -1,0 +1,3 @@
+name: QSAR-TID-10871
+dataset_id: 3240.0
+description: The dataset QSAR-TID-10871 consists of 960 chemical compounds, each represented by 828 molecular descriptors. These descriptors are structural and physicochemical properties of the compounds that can be used to predict their bioactivity against a specific target. The dataset also includes two variables: "IC50" which represents the half maximal inhibitory concentration, and "class" which indicates the bioactivity level (active or inactive) against the target. The dataset was created to develop a predictive model for the bioactivity of the compounds using the molecular descriptors. The data is publicly available and can be used for various purposes in the field of chemoinformatics and drug discovery.

@@ -1,0 +1,3 @@
+name: QSAR-TID-11691
+dataset_id: 3342.0
+description: The QSAR-TID-11691 dataset contains information about the biological activity of a group of compounds. It includes 1,169 instances, each characterized by 2D and 3D molecular descriptors and the biological activity response. The data was collected and curated using the MACCS fingerprint software, and the corresponding activity was determined experimentally. The compounds in the dataset have potential applications in drug discovery and pharmacology research. The dataset allows researchers to explore the relationship between the molecular features of the compounds and their biological activity, which can contribute to the development of new drugs and understanding of molecular interactions.

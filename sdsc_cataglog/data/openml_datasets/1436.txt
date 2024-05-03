@@ -1,0 +1,3 @@
+name: QSAR-TID-10648
+dataset_id: 3416.0
+description: The QSAR-TID-10648 dataset contains information on the biological activities of compounds. It consists of 6,048 instances and 102 descriptors. The dataset is provided to evaluate the performance of machine learning algorithms in predicting the biological activity of compounds. Various chemical properties are included as descriptors, such as molecular weight, connectivity indices, and lipophilicity. The dataset has been divided into a training set and a test set. The goal is to develop a model that can accurately predict the biological activity of compounds based on their chemical features, ultimately aiding in drug discovery and development.

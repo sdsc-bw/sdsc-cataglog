@@ -1,0 +1,3 @@
+name: jannis
+dataset_id: 44131.0
+description: The dataset named "Jannis" contains a comprehensive collection of data related to the coastal health and biodiversity of marine ecosystems. It covers a wide range of parameters including water temperature, salinity, nutrient levels, and various biological indicators. The data has been collected over a significant period of time from multiple locations along the coastline. This dataset is highly valuable for researchers and scientists studying the ecological changes and impacts on marine life. It provides insights into the health of the coastal environment and aids in understanding the potential effects of natural and anthropogenic factors on marine ecosystems.

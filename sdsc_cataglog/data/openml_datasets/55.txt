@@ -1,0 +1,3 @@
+name: CovPokElec
+dataset_id: 149.0
+description: The dataset "CovPokElec" provides information on COVID-19 cases, vaccination rates, and access to electricity in various countries. It includes data on the number of confirmed cases, deaths, and recoveries due to COVID-19. The dataset also contains information about the percentage of the population that has received vaccines. Additionally, it provides data on different indicators related to electricity access, such as the percentage of urban and rural populations with access to electricity. This dataset serves as a valuable resource for studying the relationship between COVID-19 impact, vaccination rates, and electricity access in different countries.

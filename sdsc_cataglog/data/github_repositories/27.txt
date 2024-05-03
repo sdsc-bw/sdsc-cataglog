@@ -1,0 +1,3 @@
+repo_name: deeplake
+link: https://github.com/activeloopai/deeplake
+description: Introducing Data 2.0, powered by Hub. The fastest way to store, access & manage datasets with version-control for PyTorch/TensorFlow. Works locally or on any cloud. Scalable data pipelines. What is Hub for? Features Getting Started Access public data. Fast. Train a model Create a local dataset Upload your dataset and access it from anywhere in 3 simple steps Documentation Tutorial Notebooks Use Cases Why Hub specifically? Community Examples README Badge Usage Tracking Disclaimers Acknowledgement.

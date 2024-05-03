@@ -1,0 +1,3 @@
+name: Sundown-and-Sunup-Data-(2010-2020)
+dataset_id: 43511.0
+description: The Sundown-and-Sunup-Data- (2010-2020) dataset provides information about sunset and sunrise timings from the years 2010 to 2020. It likely includes details such as the exact time when the sun sets or rises in various locations around the world. This dataset can be valuable for researchers, astronomers, weather forecasters, and individuals interested in studying daylight patterns over the past decade. It allows for analysis of trends, changes in daylight duration, and other related factors. The dataset's extensive time range and global coverage ensures a wide range of applications and insights.

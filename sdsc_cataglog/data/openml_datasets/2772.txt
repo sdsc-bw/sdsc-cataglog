@@ -1,0 +1,3 @@
+name: Premier_League_matches
+dataset_id: 42197.0
+description: The dataset Premier_League_matches contains information about matches played in the Premier League. It includes various details such as the date, location, team names, and the scores of each match. The dataset is comprehensive, covering matches played over multiple seasons. It provides insights into the performance of different teams and players over time. The dataset is regularly updated to include the latest matches played in the Premier League. It can be used for various analytical purposes, including predicting match outcomes, analyzing team performance trends, and studying individual player statistics.

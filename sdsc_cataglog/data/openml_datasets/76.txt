@@ -1,0 +1,3 @@
+name: wisconsin
+dataset_id: 191.0
+description: The Wisconsin dataset consists of data related to breast cancer. It contains information about various clinical and pathological characteristics of patients, along with their diagnosis status as benign or malignant. The dataset includes input variables such as radius, texture, perimeter, area, smoothness, compactness, concavity, symmetry, and fractal dimension computed from digitized images of a fine needle aspirate (FNA) of a breast mass. The target variable is the diagnosis status, providing an indication of the presence or absence of breast cancer. This dataset is often used for classification tasks and evaluating the effectiveness of machine learning algorithms in diagnosing breast cancer.

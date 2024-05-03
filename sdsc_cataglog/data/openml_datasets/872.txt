@@ -1,0 +1,3 @@
+name: OVA_Prostate
+dataset_id: 1146.0
+description: The dataset OVA_Prostate is focused on prostate cancer and contains information about patients who received treatment for it. It consists of 1019 samples with 323 features. The dataset includes various clinical, genetic, and demographic factors that can potentially affect the disease outcome. Some features include age, PSA level, Gleason score, tumor stage, and treatment information. This dataset aims to provide valuable insights into the factors that contribute to the prognosis and treatment success of prostate cancer. It can be beneficial for researchers and medical professionals in understanding the disease better and potentially developing more effective treatment strategies.

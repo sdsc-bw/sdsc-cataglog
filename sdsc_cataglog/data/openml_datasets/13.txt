@@ -1,0 +1,3 @@
+name: breast-w
+dataset_id: 15.0
+description: The breast-w dataset is a collection of breast cancer patient data consisting of 569 instances, each with 30 attributes. These attributes include various measurements related to the size, shape, and texture of cell nuclei seen in breast mass samples. Class labels are also provided, categorizing instances as either malignant or benign. The data was gathered from fine-needle aspirates of breast masses and is commonly used for classification tasks to predict breast cancer diagnosis. Due to its comprehensive nature and consistent use in research, the breast-w dataset has been widely adopted for machine learning and pattern recognition experiments focused on breast cancer detection.

@@ -1,0 +1,3 @@
+name: QSAR-TID-30029
+dataset_id: 3718.0
+description: The dataset QSAR-TID-30029 consists of chemical compounds and their corresponding inhibitory activity against thyroid hormone (TID-1) receptors measured in vitro. It contains a total of 862 chemical descriptors and 304 compounds with their respective inhibitory activity values. The dataset was used to develop models for predicting the inhibitory activity using various machine learning algorithms. The aim of the dataset is to aid in the understanding and prediction of potential endocrine disruptors that may affect thyroid hormone receptors. The dataset is publicly available and can be used for research purposes in the field of toxicology and drug discovery.

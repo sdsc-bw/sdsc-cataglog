@@ -1,0 +1,3 @@
+name: FOREX_eursgd-hour-High
+dataset_id: 41893.0
+description: The dataset named FOREX_eursgd-hour-High contains information about hourly high values of the EUR/SGD FOREX currency pair. The dataset comprises statistical records of high prices observed for each hour. The high prices reflect the maximum value reached during that hour for the currency pair EUR/SGD. The dataset can provide insights into the fluctuations and trends in the exchange rate between the Euro and Singapore Dollar throughout various hours. Analyzing this data may be useful for traders and analysts who are interested in monitoring and predicting price movements in the EUR/SGD FOREX market.

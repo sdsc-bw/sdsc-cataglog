@@ -1,0 +1,3 @@
+name: bank-marketing
+dataset_id: 44117.0
+description: The bank-marketing dataset comprises information related to direct marketing campaigns of a Portuguese banking institution. This dataset has 41,188 instances and 20 attributes, including features like age, job, marital status, education, housing, loan status, contact type, and previous campaign outcomes. The dataset is primarily used to study whether a client will subscribe to a term deposit or not. The target variable is binary (yes/no) and is imbalanced, with the majority of instances being non-subscribers (88.7%). Additional information about the dataset includes missing data errors, imbalanced class distributions, and potentially noisy data, which poses challenges in creating accurate predictive models.

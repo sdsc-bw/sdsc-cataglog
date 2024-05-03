@@ -1,0 +1,3 @@
+name: w4a
+dataset_id: 1584.0
+description: The dataset w4a is a collection of records that contains information related to the Web For All (W4A) conference. It includes data about the conference organizers, papers submitted, authors, and the review process. The dataset also includes information about the program committee members, their affiliations, and their role in the conference. Additionally, it contains statistics on the number of submitted papers, accepted papers, and the overall acceptance rate of the conference. The dataset is used for analyzing and understanding trends in web accessibility research and the effectiveness of the conference organization.

@@ -1,0 +1,3 @@
+name: qsfsr1
+dataset_id: 426.0
+description: The dataset qsfsr1 contains information on the QuickStats database for a sample of farms in the state of Queensland, Australia. The dataset includes variables related to farm characteristics, including farm size, type of farming activity, and land usage. It also provides details on the farmer's demographic characteristics, such as age, gender, and education level. Moreover, the dataset encompasses data on business aspects, such as farm income, expenses, and debt levels. The information contained in qsfsr1 is valuable for assessing the agricultural landscape in Queensland, understanding the characteristics of farmers, and analyzing the economic aspects of farming operations in the region.

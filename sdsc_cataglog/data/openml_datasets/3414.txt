@@ -1,0 +1,3 @@
+name: Stock-Information
+dataset_id: 43488.0
+description: The dataset Stock-Information contains information about the stock market. It includes data on various aspects related to stocks, such as stock prices, trading volumes, and changes in stock prices over time. The dataset is comprehensive, covering a wide range of companies and stock market indices. It also provides data at different time intervals, allowing for analysis at various levels of granularity, from daily to monthly. The dataset is valuable for investors, financial analysts, and researchers as it enables them to study stock market trends, analyze performance, and make informed investment decisions.

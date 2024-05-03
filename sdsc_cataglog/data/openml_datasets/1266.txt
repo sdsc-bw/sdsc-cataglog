@@ -1,0 +1,3 @@
+name: QSAR-TID-11558
+dataset_id: 3242.0
+description: The dataset QSAR-TID-11558 is a resource that contains information on the quantitative structure-activity relationships (QSAR) of chemical compounds. The dataset consists of 3,139 instances, each representing a different compound. The compounds are described using 828 molecular descriptors, which provide information on the structure and properties of the molecules. The target variable of the dataset is the biological activity of the compounds, specifically their half-life values. The dataset is used for predicting and analyzing the relationship between the molecular descriptors and the half-life values of the compounds, aiding in the understanding and development of potential pharmaceutical applications.

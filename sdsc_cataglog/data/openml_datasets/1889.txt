@@ -1,0 +1,3 @@
+name: QSAR-TID-11290
+dataset_id: 3874.0
+description: The dataset QSAR-TID-11290 consists of 1053 chemical compounds and their biological activities. It includes 112 categorical and 102 numerical features, as well as the pIC50 value as the target variable. The compounds were synthesized with the aim of determining their inhibitory activity against a specific enzyme. The categorical features provide information on the structure and properties of the compounds, such as molecular weight, lipophilicity, hydrogen bond count, and rotatable bonds. The numerical features represent the presence or absence of specific functional groups. This dataset can be useful for the development and evaluation of predictive models for compound activity prediction.

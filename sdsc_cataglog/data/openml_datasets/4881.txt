@@ -1,0 +1,3 @@
+name: link_9
+dataset_id: 45239.0
+description: The dataset link_9 contains information about a wide range of topics. It includes data on various factors affecting education, such as school enrollment rates, teacher-to-student ratios, and literacy rates. Additionally, it provides information on healthcare, including immunization rates and access to healthcare facilities. The dataset also covers environmental factors, such as air and water pollution levels. Moreover, it includes data on economic indicators like GDP per capita and unemployment rates. The dataset link_9 provides a comprehensive overview of various aspects of society, allowing for detailed analysis and research on the interplay of these factors.

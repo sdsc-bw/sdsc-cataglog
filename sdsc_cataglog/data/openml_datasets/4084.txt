@@ -1,0 +1,3 @@
+name: anneal
+dataset_id: 44261.0
+description: The anneal dataset is widely used in the field of machine learning and is available for public use. It consists of 898 samples, each having 39 features. The features include a mix of categorical and numerical data, making it suitable for various types of analysis. The main objective of this dataset is to classify the samples into two classes, representing whether a specific type of annealing process was successful or not. However, it is worth noting that the dataset contains missing values, which require appropriate handling before conducting any analysis. Overall, the anneal dataset serves as a valuable resource for researchers and practitioners in the field of machine learning.

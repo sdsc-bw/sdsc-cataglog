@@ -1,0 +1,3 @@
+name: QSAR-TID-17074
+dataset_id: 3720.0
+description: The dataset QSAR-TID-17074 contains 740 chemical compounds with their corresponding molecular properties. These properties are classified into 4 target variables, namely DILI (drug induction of liver injury), ID (intrinsic hepatic clearance), LogKOA (octanol/air partition coefficient), and LogBCF (bioconcentration factor). The dataset is useful for researching the relationship between the molecular properties of chemical compounds and their potential effects on liver injury, hepatic clearance, partition coefficient, and bioconcentration. It can aid in developing models and algorithms that predict the behavior and effects of chemical compounds on various physiological processes.

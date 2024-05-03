@@ -1,0 +1,3 @@
+name: diabetes
+dataset_id: 42608.0
+description: The dataset "Diabetes" consists of medical records of patients with diabetes. It includes various features such as age, gender, body mass index (BMI), blood pressure, skin thickness, insulin levels, and glucose levels. The dataset aims to predict whether a person has diabetes or not based on these attributes. The dataset consists of 768 observations and 9 variables. It is widely used for exploring various machine learning algorithms and predictive modeling. The dataset lacks missing values but may require further preprocessing and feature engineering for optimal analysis. It serves as a useful resource for researchers and data analysts working in the field of diabetes prediction and classification.

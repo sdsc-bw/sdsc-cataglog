@@ -1,0 +1,3 @@
+name: scpf
+dataset_id: 41555.0
+description: The SCPF dataset is a collection of data points regarding the Scottish Charitable Incorporated Organisations (SCIOs). It provides information on these organizations' annual accounts, trusteeship, activities, and contact details. The dataset consists of multiple data tables, each containing different aspects of SCIOs' operations, such as financial data and charity classification. These tables can be linked using unique identifiers to gain a comprehensive view of an SCIO's information. Overall, the SCPF dataset aims to offer a comprehensive and standardized resource for analyzing and understanding SCIOs in Scotland.

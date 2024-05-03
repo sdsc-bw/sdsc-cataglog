@@ -1,0 +1,3 @@
+name: black_friday
+dataset_id: 44042.0
+description: The black_friday dataset contains information about sales transactions that occurred during a Black Friday event. It includes details such as customer demographics (age, gender, occupation), product information (category, price, quantity), and store data (city, type, size). The dataset consists of several million rows and is presented in a structured format. It is often used for analyzing consumer behavior, understanding shopping trends, and predicting sales patterns. The black_friday dataset offers valuable insights into the dynamics of Black Friday sales, making it a valuable resource for retailers, marketers, and researchers in the field of consumer analytics.

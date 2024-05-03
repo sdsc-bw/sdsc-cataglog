@@ -1,0 +1,3 @@
+name: Harry-Potter-fanfiction-data
+dataset_id: 43544.0
+description: The dataset "Harry-Potter-fanfiction-data" is a compilation of text-based fanfiction stories inspired by the Harry Potter series. It contains around 100,000 individual stories written by fans. Each story is categorized based on various attributes such as genre, rating, length, and completion status. The dataset also includes additional metadata like the story's title, author, summary, and publication date. The stories are written in English and cover a range of themes and plotlines within the Harry Potter universe. This dataset provides a valuable resource for analyzing fanfiction trends, exploring storytelling techniques, and understanding the creativity and diversity of Harry Potter fandom.

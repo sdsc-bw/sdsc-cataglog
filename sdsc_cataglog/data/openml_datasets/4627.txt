@@ -1,0 +1,3 @@
+name: solar_flare
+dataset_id: 44966.0
+description: The solar_flare dataset contains information about a variety of solar flares. It consists of 1,367 observations and 12 attributes. Each observation represents a different flare event and contains information such as the flare's classification, duration, starting and ending times, brightness, and more. The dataset includes a mix of numeric and categorical data. Some attributes have missing values, which are denoted by a question mark. The dataset can be accessed for research and analysis purposes, providing valuable insights into solar flares and their characteristics.

@@ -1,0 +1,3 @@
+name: alarm_6
+dataset_id: 45115.0
+description: The dataset alarm_6 consists of 1,936 observations and 88 features. The dataset represents recorded data about alarm systems in commercial buildings. It includes various information such as sensor readings, time stamps, and alarm status. The dataset has missing values, with 6.45% of the data being incomplete. The features in the dataset have heterogeneous formats, including numerical and categorical variables. There are also some variables that have high cardinality. The dataset presents an opportunity for analysis and modeling to improve understanding of alarm systems' behavior and potentially identify patterns or anomalies.

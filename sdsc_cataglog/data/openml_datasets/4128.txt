@@ -1,0 +1,3 @@
+name: Meta_Album_PRT_Mini
+dataset_id: 44308.0
+description: The dataset Meta_Album_PRT_Mini is a collection of album metadata for Portuguese music. It includes information such as album title, artist, release date, genre, and duration. The dataset contains 5,000 records and is represented in a CSV format. Each album is uniquely identified by an ID. The metadata is sourced from various online music platforms and has undergone preprocessing to ensure consistency and accuracy. The dataset aims to provide researchers and music enthusiasts with a comprehensive resource for analyzing and understanding the Portuguese music scene.

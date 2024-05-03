@@ -1,0 +1,3 @@
+name: Superstore-Sales-Dataset
+dataset_id: 43383.0
+description: The Superstore-Sales-Dataset is a dataset that contains information about sales-related data for a fictional retail company. It includes data on various aspects such as customer location, product categories, order dates, shipping methods, and sales numbers. The dataset is organized into several spreadsheets, each representing different aspects of the sales process. It also provides additional information like profit margins, discounts, and shipping costs. This dataset can be used for analyzing sales trends, customer behavior, and optimizing business strategies. It offers a comprehensive overview of fictional retail sales, enabling researchers and analysts to gain insights and make data-driven decisions.

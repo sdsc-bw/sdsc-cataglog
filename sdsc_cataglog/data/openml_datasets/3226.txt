@@ -1,0 +1,3 @@
+name: wine
+dataset_id: 43259.0
+description: The wine dataset contains information about different varieties of wines. It includes a total of 13 features, such as alcohol content, acidity levels, and color intensity. The dataset comprises a total of 178 instances, which represent different samples of wines. Each sample is labeled with one of three possible classes, indicating the type of wine it belongs to. The dataset does not have any missing values or outliers. Its purpose is to analyze and predict the class of a given wine based on its features. This dataset serves as a useful resource for learning and practicing classification and data analysis techniques related to wines.

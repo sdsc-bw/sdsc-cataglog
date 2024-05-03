@@ -1,0 +1,3 @@
+name: Higgs_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44420.0
+description: The dataset Higgs_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True has 2000 rows, 10 classes, and 100 columns. It is designed to be stratified, ensuring a proportional representation of each class. This dataset is useful for training machine learning models, as it provides a moderate amount of data along with a significant number of features. The presence of multiple classes allows for the development of models capable of handling complex classification tasks. Overall, this dataset can serve as a valuable resource for researchers and practitioners in the field of machine learning.

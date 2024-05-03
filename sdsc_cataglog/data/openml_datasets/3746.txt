@@ -1,0 +1,3 @@
+name: Top-100-2020-Cryptocurrency-Daily-Market-Price
+dataset_id: 43824.0
+description: The dataset "Top-100-2020-Cryptocurrency-Daily-Market-Price" offers information on the daily market prices of the top 100 cryptocurrencies in the year 2020. It provides extensive data on various cryptocurrencies, including Bitcoin, Ethereum, Ripple, and many more. The dataset includes details such as the opening and closing prices, highest and lowest prices, trading volume, and market capitalization. The information is collected regularly throughout the year, enabling analysis of trends, patterns, and fluctuations in the cryptocurrency market. With this dataset, researchers and analysts can gain valuable insights into the performance and behavior of major cryptocurrencies during 2020.

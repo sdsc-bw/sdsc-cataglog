@@ -1,0 +1,3 @@
+name: FOREX_eurusd-minute-High
+dataset_id: 41845.0
+description: The dataset FOREX_eurusd-minute-High contains high-frequency minute-level data on the EUR/USD currency pair in the foreign exchange (Forex) market. It includes the highest price reached during each minute of trading. The dataset appears to focus solely on this specific currency pair and provides information on the price movements over time. It is likely valuable for conducting detailed analysis of price patterns and trends in the EUR/USD market. The minute-level granularity allows for examining short-term fluctuations and potentially identifying intra-day trading opportunities.

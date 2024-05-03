@@ -1,0 +1,3 @@
+name: Olivetti_Faces
+dataset_id: 41083.0
+description: The Olivetti_Faces dataset consists of grayscale images of 40 individuals, with each person's face captured from multiple angles, lighting conditions, and facial expressions. It includes a total of 400 images, with 10 images per person. The dataset aims to provide a comprehensive and diverse collection of face images for research and development purposes. The images have a low resolution of 64x64 pixels, making it suitable for tasks such as face recognition, face detection, and facial expression analysis. The dataset is widely used in the field of computer vision and machine learning for various applications related to facial recognition and analysis.

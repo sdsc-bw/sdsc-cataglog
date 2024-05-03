@@ -1,0 +1,3 @@
+name: QSAR-TID-12276
+dataset_id: 3040.0
+description: The QSAR-TID-12276 dataset is a collection of 12276 instances with 1024 attributes. It consists of both biological and chemical compounds, with a focus on their ability to bind with certain protein targets. The compounds are represented by their molecular fingerprints, which provide information about their structural properties. The dataset is typically used for training and evaluating machine learning models, with the aim of predicting the activity of these compounds against the given protein targets. QSAR-TID-12276 offers a valuable resource for researchers in drug discovery and computational chemistry, enabling the development of new compounds with specific binding capabilities.

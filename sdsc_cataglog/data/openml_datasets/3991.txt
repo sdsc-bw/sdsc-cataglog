@@ -1,0 +1,3 @@
+name: Higgs
+dataset_id: 44129.0
+description: The Higgs dataset contains data from the Large Hadron Collider (LHC) experiment that aimed to discover the Higgs boson particle, a fundamental particle in particle physics. It consists of a total of 28 features, including various measurements and derived quantities. The dataset size is substantial, consisting of about 11 million samples, each labelled as either signal (Higgs boson) or background (non-Higgs boson). The dataset is typically used for binary classification tasks, where the objective is to predict whether a given sample contains a Higgs boson or not. The dataset has been widely used for training and evaluating machine learning models in high energy physics.

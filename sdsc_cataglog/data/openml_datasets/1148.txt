@@ -1,0 +1,3 @@
+name: QSAR-TID-30010
+dataset_id: 3124.0
+description: The dataset QSAR-TID-30010 contains information on 105 organic molecules and their corresponding toxicity levels towards carp fish. The dataset includes 289 numerical descriptors that represent the structural properties of the molecules. These descriptors are derived from the molecular structure, constitution, and quantum chemical calculations. The toxicity values range from 0.09 to 6.49, with a mean value of 2.43 and a standard deviation of 1.44. The dataset aims to investigate the relationship between the molecular descriptors and the toxicity levels of the molecules, potentially leading to the development of predictive models for toxicity assessment.

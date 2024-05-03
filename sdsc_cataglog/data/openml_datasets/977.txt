@@ -1,0 +1,3 @@
+name: skin-segmentation
+dataset_id: 1502.0
+description: The "skin-segmentation" dataset contains pixel-wise labeled images that help in identifying and segmenting the skin from images of people. The dataset provides valuable information for tasks like face detection, gesture recognition, and human activity recognition. It consists of 245,057 image pixels with their corresponding labels, where the label represents whether the pixel belongs to the skin or background region. The dataset exhibits different variations in terms of backgrounds, lighting conditions, poses, and ethnicities. It is a rich and diverse resource for researchers and developers working on computer vision and image processing algorithms targeting skin-related applications.

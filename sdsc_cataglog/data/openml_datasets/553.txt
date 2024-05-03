@@ -1,0 +1,3 @@
+name: fri_c0_100_10
+dataset_id: 808.0
+description: The dataset fri_c0_100_10 consists of 100 objects with 10 attributes and a class label attribute. Each attribute represents a specific characteristic of the objects. This dataset is likely related to the FRI framework, which stands for Fast Random Intersection (FRI). FRI is a method for the efficient retrieval of information from large datasets. The dataset may be used for testing and evaluating the performance of FRI algorithms. It is crucial to understand the attributes and their impact on the class label to analyze and interpret the dataset accurately.

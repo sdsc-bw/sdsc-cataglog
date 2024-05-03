@@ -1,0 +1,3 @@
+name: art_daily_small_noise2
+dataset_id: 43056.0
+description: The dataset "art_daily_small_noise2" is used for time series analysis. It consists of 14,402 data points, each representing a time step of 10 minutes. The data captures the energy usage of an artwork installation over a period of one year. The goal of analyzing this dataset is to study the patterns and fluctuations in energy consumption over time. The dataset is considered to be noisy, meaning it may contain irregularities or unexpected spikes in energy usage. These irregularities make it interesting for researchers to understand and detect abnormal behavior or anomalies in the energy consumption patterns.

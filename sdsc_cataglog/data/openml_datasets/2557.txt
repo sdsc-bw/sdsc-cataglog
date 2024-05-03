@@ -1,0 +1,3 @@
+name: FOREX_audnzd-minute-High
+dataset_id: 41822.0
+description: The dataset "FOREX_audnzd-minute-High" contains high values of the AUD/NZD exchange rate at minute intervals. It is likely to feature historical data from foreign exchange markets, specifically focusing on the AUD/NZD currency pair. The dataset could provide insights into the volatility and trends of this exchange rate over time, allowing analysts to analyze the high points and potential patterns. By observing this minute-by-minute high data, market participants can make informed decisions based on the prevailing currency exchange dynamics between the Australian Dollar and the New Zealand Dollar.

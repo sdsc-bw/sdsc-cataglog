@@ -1,0 +1,3 @@
+name: analcatdata_lawsuit
+dataset_id: 450.0
+description: The dataset analcatdata_lawsuit contains 410 rows and 15 columns. It consists of information related to a lawsuit, where each row represents a specific case. The dataset includes various variables such as age, gender, marital status, occupation, education, income, and more. It also includes the dependent variable, litigation, which indicates whether the case resulted in litigation or not. The dataset is useful for analyzing factors that might influence the outcome of a lawsuit. However, further details about the specific values and range of variables are not provided in the given information.

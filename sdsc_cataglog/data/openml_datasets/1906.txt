@@ -1,0 +1,3 @@
+name: QSAR-TID-10351
+dataset_id: 3891.0
+description: The QSAR-TID-10351 dataset contains information about a series of chemical compounds and their ability to inhibit human immunodeficiency virus type 1 (HIV-1) integrase. It comprises 123 compounds, each with 11 molecular descriptors. The dataset was generated using a quantitative structure-activity relationship (QSAR) approach to predict the HIV-1 integrase inhibition activity of these compounds. The activities of the compounds were experimentally determined using in-vitro assays. The dataset serves as a valuable resource for researchers interested in studying the relationship between molecular properties and the inhibition of HIV-1 integrase, potentially aiding in the design of new antiviral drugs.

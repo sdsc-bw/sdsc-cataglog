@@ -1,0 +1,3 @@
+name: S2
+dataset_id: 42111.0
+description: The dataset S2 is a comprehensive collection of images captured by the Sentinel-2 satellite, providing valuable data for Earth observation and land management. It offers multi-spectral imagery with 13 different bands, including visible and infrared, enabling the study of vegetation, urban development, water bodies, and more. The images have a high spatial resolution of 10 meters, allowing for detailed analysis. The dataset covers a large area, offering a global coverage with frequent revisits. S2 provides free and open access to its data, contributing to various applications like climate monitoring, disaster management, and agricultural practices.

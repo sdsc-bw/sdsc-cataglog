@@ -1,0 +1,3 @@
+name: autos
+dataset_id: 45080.0
+description: The dataset "autos" contains information on used cars listed on eBay in Germany. It comprises 50,000 rows and 20 columns, representing various attributes of each car listing. The dataset includes details such as the brand, model, year, price, and mileage of the car, as well as other features like the fuel type, transmission, and registration status. It also provides additional information like the seller type, offer type, number of pictures available, and the postal code of the location. The dataset is reasonably clean, but some outliers and missing data may be present.

@@ -1,0 +1,3 @@
+name: Intersectional-Bias-Assessment-(Training-Data)
+dataset_id: 44202.0
+description: The dataset Intersectional-Bias-Assessment-(Training-Data) aims to address bias in machine learning systems by training models to recognize and mitigate intersectional biases. It is derived from common text classification benchmarks and consists of sentence pairs where the primary and contrast sentences have been swapped to assess the presence of bias. Each sentence pair is labeled as "entailment" or "contradiction" based on whether the primary sentence entails or contradicts the contrast sentence. The dataset provides a valuable resource for researchers and developers to improve fairness and mitigate biases in natural language processing models.

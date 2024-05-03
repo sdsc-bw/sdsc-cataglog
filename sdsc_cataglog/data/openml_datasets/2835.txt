@@ -1,0 +1,3 @@
+name: hate_det3
+dataset_id: 42408.0
+description: The dataset hate_det3 is a collection of annotated Twitter data containing hate speech and offensive language. It consists of 9,000 tweets that have been labeled by human annotators to identify hateful content. It contains tweets in different languages, including English, Spanish, French, and Italian. The dataset provides information about the source of the tweet, such as the username and display name of the author, as well as details about the tweet's engagement, including the number of retweets, likes, and replies. The dataset aims to support research on hate speech detection and analysis, particularly on social media platforms.

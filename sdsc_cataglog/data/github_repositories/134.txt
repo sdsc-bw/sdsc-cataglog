@@ -1,0 +1,3 @@
+repo_name: genie
+link: https://github.com/Netflix/genie
+description: "Genie is a federated Big Data orchestration and execution engine developed by Netflix. Genie is designed to sit at the boundary of these two worlds, and simplify the lives of people on either side. A data scientist can “rub the magic lamp” and just say “Genie, run query ‘Q’. using engine SparkSQL against production data”. Genie takes care of all the nitty-gritty details. It dynamically assembles the necessary binaries and configurations, execute the job, monitors it, notifies the user of its completion, and makes the output data available for immediate and future use."

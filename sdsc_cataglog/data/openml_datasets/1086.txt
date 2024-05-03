@@ -1,0 +1,3 @@
+name: QSAR-TID-10781
+dataset_id: 3062.0
+description: The dataset QSAR-TID-10781 comprises the physicochemical properties and biological activities of chemical compounds. It consists of 2875 instances and 3 attributes. The attributes include the compound's chemical structure, its biological activity, and a binarized indicator. The biological activity is measured as the effective concentration required to inhibit 50% of a biochemical process. The binarized indicator represents whether a compound is active or not based on its effective concentration value. The dataset is used in bioinformatics research to develop quantitative structure-activity relationship models, which help predict the biological activity of new chemical compounds.

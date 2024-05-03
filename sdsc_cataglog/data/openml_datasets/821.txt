@@ -1,0 +1,3 @@
+name: SMSA
+dataset_id: 1091.0
+description: The dataset SMSA contains information about Short Message Service (SMS) messages, specifically spam and ham messages. It includes a total of 5,574 SMS messages, out of which approximately 86% are ham (non-spam) and the remaining 14% are spam. The dataset has been previously preprocessed for research purposes, removing any identifying information or content that could be offensive or harmful. The goal of this dataset is to aid in the development of models for spam detection and classification, as well as exploring different natural language processing techniques related to text mining and analysis.

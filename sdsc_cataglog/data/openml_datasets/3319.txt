@@ -1,0 +1,3 @@
+name: The-Estonia-Disaster-Passenger-List
+dataset_id: 43389.0
+description: The dataset named "The-Estonia-Disaster-Passenger-List" contains information about the passengers who were on board the MS Estonia ferry during its ill-fated voyage in September 1994. The dataset includes details such as the passengers' names, ages, genders, and nationalities. It also provides information about whether the passengers survived or perished in the disaster. The MS Estonia ferry sank in the Baltic Sea, resulting in one of the worst maritime disasters in European history. The dataset aims to provide a comprehensive record of the individuals involved in the tragedy and their fate.

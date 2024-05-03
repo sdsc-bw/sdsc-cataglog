@@ -1,0 +1,3 @@
+name: volcanoes-a1
+dataset_id: 1527.0
+description: The dataset "volcanoes-a1" contains important information about volcanic activities. It provides details about various volcanoes, including their location, types, and eruption history. The dataset also includes specific attributes like the number of fatalities, injuries, and the economic impact caused by each volcanic event. It further provides insights into the severity of eruptions by offering information on the Volcanic Explosivity Index (VEI). The dataset offers a comprehensive overview of volcanic activities and their consequences worldwide, making it a valuable resource for researchers, scientists, and policymakers studying volcanic hazards and risk management.

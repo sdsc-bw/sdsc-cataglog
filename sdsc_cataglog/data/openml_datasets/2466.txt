@@ -1,0 +1,3 @@
+name: FOREX_eursek-day-High
+dataset_id: 41731.0
+description: The dataset FOREX_eursek-day-High contains information regarding the daily high prices of the FOREX (foreign exchange) currency pair EUR/SEK. The dataset likely includes a time series of daily high prices over a certain period. The information may be useful for analyzing trends, volatility, and potential trading opportunities in the EUR/SEK market. Traders and analysts can extract insights from this dataset to make informed decisions, such as identifying support or resistance levels, analyzing price patterns, or assessing market sentiment. The dataset provides a comprehensive view of the daily high prices, allowing users to observe and study price movements and fluctuations in the EUR/SEK currency pair.

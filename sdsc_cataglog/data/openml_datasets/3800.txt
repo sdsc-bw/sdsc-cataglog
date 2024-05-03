@@ -1,0 +1,3 @@
+name: amazon_employee_access
+dataset_id: 43900.0
+description: The dataset "amazon_employee_access" contains information about the level of access granted to Amazon employees. It consists of various attributes, including the employee's ID, resource, and whether or not they were granted access to that resource. The dataset aims to analyze the access patterns of employees and identify any potential improvements or security risks. It does not contain any personally identifiable information. The dataset is primarily used to study employee access behavior and enhance security measures within the Amazon organization.

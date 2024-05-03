@@ -1,0 +1,3 @@
+name: autoUniv-au1-1000
+dataset_id: 1547.0
+description: The autoUniv-au1-1000 dataset comprises information collected from 1000 students for research on university admissions. It includes 14 attributes such as high school grades, aptitude test scores, socio-economic status, and university outcomes. The dataset offers insights into determining factors that influence student admissions, scholarships, and success rates in universities. The data enables researchers to analyze patterns and correlations to develop strategies and policies for university admissions and student support programs. With its comprehensive and varied attributes, the autoUniv-au1-1000 dataset provides a valuable resource for examining and predicting factors influencing university outcomes.

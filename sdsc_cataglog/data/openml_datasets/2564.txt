@@ -1,0 +1,3 @@
+name: FOREX_nzdusd-day-Close
+dataset_id: 41829.0
+description: The dataset called FOREX_nzdusd-day-Close contains information about the closing prices of the NZD/USD currency pair on a daily basis. It is likely to be collected from foreign exchange markets and can be used for analyzing trends and patterns in the exchange rate between the New Zealand dollar (NZD) and the United States dollar (USD). The dataset covers a time frame that is not specified, but it is inferred that it includes multiple days. The closing prices are crucial indicators for investors and traders in the forex market to make informed decisions regarding their trading strategies.

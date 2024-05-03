@@ -1,0 +1,3 @@
+name: QSAR-TID-10695
+dataset_id: 4064.0
+description: The dataset QSAR-TID-10695 contains information on the biological activity of various molecules. It consists of 164 compounds, divided into two classes - active and inactive. Each compound is described by 529 molecular descriptors, including topological, electronic, and geometrical features. The aim of this dataset is to predict the activity of new compounds based on these descriptors. QSAR-TID-10695 is useful for developing models in drug discovery and related fields, enabling the identification of potential active compounds before extensive experimental testing. The dataset is publicly available and can be used to train machine learning algorithms for prediction tasks.

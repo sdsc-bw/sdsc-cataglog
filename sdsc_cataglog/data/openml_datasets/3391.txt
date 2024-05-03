@@ -1,0 +1,3 @@
+name: UFC-Fights-(2010---2020)-with-Betting-Odds
+dataset_id: 43464.0
+description: The dataset UFC-Fights-(2010---2020)-with-Betting-Odds is focused on UFC fights from 2010 to 2020 and contains information on the fight outcomes and associated betting odds. It encompasses details like the date and location of the fight, the fighters' names and respective nationalities, their weight classes, and the fight results. Additionally, the dataset includes the odds for different types of bets placed on each fight, such as moneyline, over/under, and round betting odds. This comprehensive dataset enables analysis and insights into the world of UFC fights, their outcomes, and the corresponding betting trends over the given decade.

@@ -1,0 +1,3 @@
+name: 17StudentTimeManagement
+dataset_id: 43204.0
+description: The dataset 17StudentTimeManagement contains information about the time management habits of 17 students. Each student's data includes the average number of hours spent studying per day, the number of hours spent working part-time, the number of hours spent on personal activities, and the number of hours spent sleeping per day. The dataset aims to provide insights into how students allocate their time and whether their time management habits affect their academic performance. The data is collected through self-reporting using a mobile app and is anonymized to ensure privacy. The dataset can be used for various research purposes related to student time management and academic success.

@@ -1,0 +1,3 @@
+name: FOREX_audjpy-minute-High
+dataset_id: 41770.0
+description: The dataset FOREX_audjpy-minute-High contains minute-level data related to the currency pair AUD/JPY in the forex market. It includes information about the highest price reached by this pair during each minute. The dataset likely consists of a time series, with each data point representing a specific minute and its corresponding high price. This dataset can be useful for analyzing the price movements and trends of the AUD/JPY currency pair on a minute-by-minute basis. It can provide insights into the volatility and potential trading opportunities in this particular forex market.

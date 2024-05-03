@@ -1,0 +1,3 @@
+name: QSAR-TID-11113
+dataset_id: 3593.0
+description: The dataset QSAR-TID-11113 is a compilation of chemicals used for quantitative structure-activity relationship (QSAR) studies. It includes molecular descriptors, experimental activity values, and identifiers for the compounds. The dataset was derived from the PubChem database and prepared for QSAR modeling. The chemical compounds in the dataset have been associated with anticancer activity, making this dataset particularly valuable for studying the relationship between molecular properties and anticancer effects. This dataset can be used for developing predictive models and conducting research in drug discovery and design.

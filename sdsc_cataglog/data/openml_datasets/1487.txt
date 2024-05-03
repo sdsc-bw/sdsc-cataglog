@@ -1,0 +1,3 @@
+name: QSAR-TID-102770
+dataset_id: 3469.0
+description: The QSAR-TID-102770 dataset contains information about the biological activity and molecular properties of a set of compounds. It consists of a total of 908 compounds, with each compound labeled as either active or inactive based on their activity against a specific biological target. The dataset also includes various molecular descriptors, such as physicochemical and topological properties, which provide additional information about the compounds. The goal of this dataset is to develop predictive models that can accurately classify compounds as either active or inactive based on their molecular properties, thus aiding in the discovery of potential drug candidates.

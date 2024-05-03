@@ -1,0 +1,3 @@
+repo_name: keras-vis
+link: https://github.com/raghakot/keras-vis
+description: Keras Visualization Toolkit (keras-vis) is a high-level toolkit for visualizing and debugging trained Keras neural net models. It offers various supported visualizations, including Conv filter visualization, Dense layer visualization, and Attention Maps. The toolkit is compatible with both Theano and TensorFlow backends and supports N-dimensional image inputs. It also generalizes all visualizations as energy minimization problems with a clean, extendable interface. The library requires Keras >2.0 and various examples of the supported visualizations can be found in the examples folder.

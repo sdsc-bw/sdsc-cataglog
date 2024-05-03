@@ -1,0 +1,3 @@
+name: pendigits
+dataset_id: 1019.0
+description: The dataset "pendigits" consists of handwritten digits from zero to nine, collected from 44 individuals. Each digit is represented as a sequence of 8 continuous attributes, representing the x and y coordinates for the pen position. The data is preprocessed and has 10 class labels representing the different digits. The dataset contains 7,200 instances, with each instance having 16 features: the 8 coordinates along with the corresponding pen-up and pen-down times for each point. This dataset is commonly used in pattern recognition and can be valuable for training machine learning algorithms for digit recognition tasks.

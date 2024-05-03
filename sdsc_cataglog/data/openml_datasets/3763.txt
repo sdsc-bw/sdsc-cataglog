@@ -1,0 +1,3 @@
+name: Turkish-Super-League-Matches-(1959-2021)
+dataset_id: 43841.0
+description: The dataset Turkish-Super-League-Matches- (1959-2021) contains comprehensive information about matches held in the Turkish Super League from 1959 to 2021. It includes various data points such as date, home and away teams, scores, and match statistics. The dataset also provides details about the season, including round, group, and playoff stages. Additional team-specific information, such as team names and team IDs, is available. This dataset offers a valuable resource for researchers, analysts, and football enthusiasts to delve into the history of the Turkish Super League and extract insights related to team performance, player statistics, and overall league trends.

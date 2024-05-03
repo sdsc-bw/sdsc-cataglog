@@ -1,0 +1,3 @@
+name: ipums_la_97-small
+dataset_id: 382.0
+description: The dataset ipums_la_97-small contains detailed information about individuals in Laos during the year 1997. It is a subset of a larger dataset called ipums_la_97 that focuses on a specific region in Laos. The dataset includes variables such as age, gender, marital status, education level, employment status, and occupation. It is representative of the population in the region and enables researchers to study various socio-economic aspects of Laotian society. However, due to privacy concerns, certain identifying information like names and addresses are not included. It provides a valuable resource for exploring and analyzing social and economic trends in Laos during the specified period.

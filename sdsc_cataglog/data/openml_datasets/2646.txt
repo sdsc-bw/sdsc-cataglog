@@ -1,0 +1,3 @@
+name: ilpd-numeric
+dataset_id: 41945.0
+description: The ilpd-numeric dataset consists of various attributes associated with liver patients, including age, gender, total bilirubin, direct bilirubin, alkaline phosphatase, and more. It was created to analyze liver disorders and assess the predictability of liver disease based on certain characteristics. The dataset contains 583 instances and 10 attributes, with no missing values. It has been widely used for research purposes in the medical field to develop models that can diagnose liver diseases accurately. The dataset is publicly available and was last updated in 2011, making it a valuable resource for studying liver-related disorders.

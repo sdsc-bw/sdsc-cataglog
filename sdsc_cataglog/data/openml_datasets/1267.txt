@@ -1,0 +1,3 @@
+name: QSAR-TID-193
+dataset_id: 3243.0
+description: The dataset QSAR-TID-193 contains information on 193 chemicals that have been tested for various biological activities. The dataset includes 5,731 molecular descriptors, which describe the structural, physical, and chemical properties of the chemicals. These descriptors are used to predict the biological activities of the chemicals. The dataset also provides information on the biological activity class of the chemicals, namely, whether they are active or inactive. This dataset is useful for developing quantitative structure-activity relationship (QSAR) models to predict the biological activities of chemicals based on their molecular descriptors.

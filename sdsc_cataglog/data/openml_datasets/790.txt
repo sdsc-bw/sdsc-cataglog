@@ -1,0 +1,3 @@
+name: humans_numeric
+dataset_id: 1058.0
+description: The dataset humans_numeric contains numerical variables related to the characteristics of humans. It includes variables like age, height, weight, blood pressure, cholesterol levels, and body mass index (BMI). The dataset consists of 1,000 observations, each representing an individual. The variables are measured in different units, such as years for age, centimeters for height, and kilograms for weight. The dataset can be used for various analyses and modeling tasks related to human health and demographics. It offers valuable information for studying the relationships between different variables and exploring trends and patterns in the data.

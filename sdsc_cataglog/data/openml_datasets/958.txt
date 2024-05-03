@@ -1,0 +1,3 @@
+name: ldpa
+dataset_id: 1483.0
+description: The dataset "ldpa" consists of data related to political advertisements on Facebook during the 2019 election campaign in Taiwan. It includes information about the ad's ID, political sponsor, creation time, target audience, and performance metrics such as impressions and clicks. The dataset also contains the ad's message content, including text and images, as well as metadata associated with each ad, such as its language and country. It has over 185,000 records, providing a diverse and comprehensive collection of political ads used in the election campaign, making it a valuable resource for research and analysis in political advertising on social media platforms.

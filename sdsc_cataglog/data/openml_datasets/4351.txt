@@ -1,0 +1,3 @@
+name: airlines_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44529.0
+description: The dataset airlines_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset containing information about airline flights. It has a total of 2000 rows and 100 columns. There are 10 different classes or categories in the dataset. The dataset has been stratified, meaning that the distribution of the classes in the dataset is similar to the distribution in the original population. The dataset provides detailed information about various aspects of airline flights, which can be used for analysis and modeling purposes.

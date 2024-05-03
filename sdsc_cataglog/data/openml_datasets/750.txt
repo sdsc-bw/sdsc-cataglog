@@ -1,0 +1,3 @@
+name: dermatology
+dataset_id: 1010.0
+description: The dermatology dataset is a collection of dermatological cases with relevant attributes for diagnostic purposes. It contains information about the characteristics and symptoms of various skin diseases, as well as the results of histopathological tests. The dataset consists of 366 instances and has 34 different attributes, including age, sex, erythema, scaling, itching, and many others. Each instance is labeled with one of six classes representing different skin conditions. The dataset is widely used for research and machine learning applications in dermatology, providing valuable insights into the diagnosis and treatment of skin diseases.

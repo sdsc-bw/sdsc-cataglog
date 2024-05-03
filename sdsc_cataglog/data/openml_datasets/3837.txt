@@ -1,0 +1,3 @@
+name: energy_efficiency
+dataset_id: 43962.0
+description: The dataset "energy_efficiency" contains information about the energy usage of buildings. It consists of eight input variables, including the relative compactness, surface area, wall area, roof area, overall height, orientation, glazing area, and glazing area distribution. The output variable is the heating load, representing the energy needed to heat the building. Additionally, the dataset includes a cooling load variable, representing the energy needed for cooling. The dataset consists of 768 instances and is utilized for regression analysis. It originates from the UCI Machine Learning Repository and can aid in the study of energy efficiency in buildings and the development of energy-saving techniques.

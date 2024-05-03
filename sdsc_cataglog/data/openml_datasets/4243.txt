@@ -1,0 +1,3 @@
+name: Higgs_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44421.0
+description: The dataset Higgs_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True contains a total of 2000 rows and 100 columns. It is stratified into 10 classes, implying that the distribution of classes in the dataset is balanced. The dataset is labeled with a target variable, which can take one of the 10 classes. The dataset is created with a seed value of 4, indicating that it is reproducible. This dataset can be used to perform various machine learning tasks or analyses, given its properties and characteristics outlined above.

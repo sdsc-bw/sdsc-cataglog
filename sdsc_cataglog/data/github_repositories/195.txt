@@ -1,0 +1,3 @@
+repo_name: trickster
+link: https://github.com/spring-epfl/trickster
+description: 

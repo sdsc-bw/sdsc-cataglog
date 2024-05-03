@@ -1,0 +1,3 @@
+name: QSAR-TID-278
+dataset_id: 3217.0
+description: The dataset QSAR-TID-278 contains information on the biological activity of various chemical compounds. It includes a total of 1,055 instances with 10 attributes, consisting of molecular descriptors and their corresponding target value. The target value represents the biological activity of the compounds, measured using a toxicity endpoint. The dataset aims to be used for quantitative structure-activity relationship (QSAR) modeling, which involves predicting the biological activity of new compounds based on their structural features. QSAR-TID-278 is publicly available and can be used for training and evaluating machine learning models in drug discovery and toxicity prediction applications.

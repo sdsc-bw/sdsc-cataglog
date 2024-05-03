@@ -1,0 +1,3 @@
+name: vehicle_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44553.0
+description: The dataset "vehicle_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True" contains information regarding vehicles, with a total of 2000 records. There are 10 different classes of vehicles included in the dataset, with each record having 100 columns of information. The dataset has been stratified to ensure representation of all classes of vehicles. Further details about the dataset, such as specific attributes, features, or labels, are not provided in the given information.

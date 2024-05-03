@@ -1,0 +1,3 @@
+name: rl_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44449.0
+description: The dataset rl_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns, with 10 different classes. It is stratified, meaning that the distribution of classes in the dataset is similar to the original population. The dataset is likely to have been generated using a random seed value of 1. The purpose of this dataset is not mentioned, but it can potentially be used for various machine learning or statistical analysis tasks. Further details about the data, such as the type of variables or the nature of the classes, are not provided in the given information.

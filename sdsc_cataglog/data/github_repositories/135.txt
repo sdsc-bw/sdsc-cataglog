@@ -1,0 +1,3 @@
+repo_name: gokart
+link: https://github.com/m3dev/gokart
+description: "Gokart solves reproducibility, task dependencies, constraints of good code, and ease of use for Machine Learning Pipeline. **All the functions above are created for constructing Machine Learning batches. Provides an excellent environment for reproducibility and team development.**"

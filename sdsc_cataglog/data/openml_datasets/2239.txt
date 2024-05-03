@@ -1,0 +1,3 @@
+name: corral
+dataset_id: 40669.0
+description: The dataset corral is a vast collection of datasets and projects contributed by thousands of contributors over several years. It is an open-source initiative that serves as a central repository for data resources. The corral offers various types of datasets, including structured data, time series data, unstructured data, and more. It also includes projects related to data analysis, machine learning, and visualization. The dataset corral prioritizes accessibility and ease of use, enabling researchers, students, and professionals to find and utilize relevant data for their work. The corral is constantly growing and evolving as new datasets and projects are added regularly.

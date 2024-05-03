@@ -1,0 +1,3 @@
+name: elevators
+dataset_id: 44134.0
+description: The dataset "elevators" contains information about the performance of elevators in a building with 20 floors. There are eight attributes associated with each elevator, including timestamp, elevator ID, floor, direction, and status. The data was collected over a period of 9 months, resulting in a total of 107,400 data points. The dataset aims to provide insights into elevator performance, such as frequency of breakdowns, average waiting time, and floor distribution. It can be used to analyze elevator usage patterns, identify areas for improvement, and optimize the performance and maintenance of elevators in the building.

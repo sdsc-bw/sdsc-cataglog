@@ -1,0 +1,3 @@
+name: QSAR-TID-10494
+dataset_id: 3401.0
+description: The dataset QSAR-TID-10494 contains information related to the toxicity of various chemicals. It consists of 4,106 instances and 543 variables. The chemicals in the dataset have diverse structures and undergo several different transformations. The toxicity of these chemicals is measured based on their half maximal inhibitory concentration (IC50) values. The dataset also includes attributes such as molecular descriptors, atomic composition, and quantitative structural properties. QSAR-TID-10494 is valuable for developing quantitative structure-activity relationship (QSAR) models and predicting the toxicity of new chemicals.

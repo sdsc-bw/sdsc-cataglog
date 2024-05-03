@@ -1,0 +1,3 @@
+name: FOREX_eurusd-hour-Close
+dataset_id: 41860.0
+description: The dataset "FOREX_eurusd-hour-Close" contains information about the closing prices of the EUR/USD currency pair on an hourly basis. It provides data that covers a significant span of time, enabling analysis of patterns and trends in the exchange rates between the euro and the US dollar. The dataset allows researchers and traders to analyze the historical performance of this currency pair, potentially identifying opportunities for trading strategies or gaining insights into the forex market. Overall, the dataset provides valuable information for those interested in understanding the dynamics and fluctuations of the EUR/USD exchange rate.

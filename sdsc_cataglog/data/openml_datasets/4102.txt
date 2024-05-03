@@ -1,0 +1,3 @@
+name: Meta_Album_BTS_Micro
+dataset_id: 44279.0
+description: The dataset Meta_Album_BTS_Micro contains information about the albums released by the South Korean boy band BTS. It provides details such as the album title, release date, tracklist, total length, and the album's position in music charts. The dataset includes songs from various albums, including their debut album "2 Cool 4 Skool" to their most recent releases. It also includes information about additional versions or special editions of the albums. The dataset is regularly updated with new releases and provides a comprehensive overview of BTS' discography, making it valuable for fans, researchers, and music enthusiasts.

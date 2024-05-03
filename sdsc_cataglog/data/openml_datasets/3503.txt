@@ -1,0 +1,3 @@
+name: Crimes-in-Los-angeles-from-2010
+dataset_id: 43579.0
+description: The dataset "Crimes-in-Los-angeles-from-2010" provides detailed information on criminal activities that took place in Los Angeles starting from 2010. It includes data such as location, time, and category of crimes reported, as well as additional attributes like the involvement of weapons or the presence of juvenile offenders. The dataset allows for comprehensive analysis and exploration of criminal incidents in different areas of Los Angeles over the years. It can be useful for researchers, law enforcement agencies, and policymakers to identify crime trends, potential hotspots, and devise strategies to improve public safety in the city.

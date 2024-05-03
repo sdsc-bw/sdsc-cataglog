@@ -1,0 +1,3 @@
+name: us_crime
+dataset_id: 315.0
+description: The dataset "us_crime" is a collection of crime-related data in the United States. It consists of information about various criminal activities reported across different states and regions. The dataset includes details such as the number of reported crimes, crime rates, and specific types of crimes like murder, robbery, and burglary. It also provides demographic information about the population, including age, race, and gender. The dataset covers a considerable time span, allowing for temporal analysis of crime patterns and trends. It offers researchers and analysts a comprehensive dataset to study crime rates and demographics in the United States over time.

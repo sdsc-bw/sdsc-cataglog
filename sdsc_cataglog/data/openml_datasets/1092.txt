@@ -1,0 +1,3 @@
+name: QSAR-TID-11024
+dataset_id: 3068.0
+description: QSAR-TID-11024 is a dataset containing information about the biological activity of 2839 chemical compounds. The data includes 1024 molecular descriptors, such as topological, geometric, and electrostatic properties. The compounds belong to two classes: active and inactive, with an imbalanced distribution of 15% active and 85% inactive compounds. This dataset aims to support the development of quantitative structure-activity relationship (QSAR) models for predicting compound activity. It is relevant for various applications in drug discovery and chemical toxicity assessment. However, it poses a challenge due to the imbalanced class distribution, requiring appropriate data preprocessing and evaluation techniques.

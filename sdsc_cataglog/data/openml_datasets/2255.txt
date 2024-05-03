@@ -1,0 +1,3 @@
+name: cars1
+dataset_id: 40700.0
+description: The dataset cars1 contains information about various car models such as weights, horsepower, and miles per gallon (mpg). It consists of 32 observations or rows with 11 variables or columns. The variables include attributes like car name, cylinders, displacement, acceleration, and model year. The dataset is commonly used for analyzing and understanding the relationship between different car attributes and their impact on fuel efficiency. Additionally, cars1 provides insights into the performance and characteristics of different car models, aiding in decision-making processes for car buyers or researchers in the automobile industry.

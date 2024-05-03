@@ -1,0 +1,3 @@
+name: QSAR-TID-100947
+dataset_id: 3826.0
+description: The dataset QSAR-TID-100947 is a collection of chemical compounds and their corresponding biological activity data. It consists of 4,069 compounds, each associated with a binary label indicating their activity as active or inactive. The compounds are described by 1,332 molecular descriptors, which are numerical values representing their structural and chemical properties. Additionally, the dataset contains 14 independent variables, including molecular weight and the number of hydrogen bond donors and acceptors. QSAR-TID-100947 aims to enable the development of machine learning models for predicting the biological activity of new chemical compounds based on their molecular descriptors.

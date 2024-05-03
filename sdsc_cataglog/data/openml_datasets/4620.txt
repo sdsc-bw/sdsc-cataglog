@@ -1,0 +1,3 @@
+name: concrete_compressive_strength
+dataset_id: 44959.0
+description: The dataset "concrete_compressive_strength" contains information on the compressive strength of concrete samples. It consists of 1,030 observations and eight input variables that include the amount of cement, blast furnace slag, fly ash, water, superplasticizer, coarse aggregate, fine aggregate, and age of the concrete. The target variable is the compressive strength measured in megapascals (MPa). The data was collected from 2013 to 2015 for research purposes. The dataset is commonly used in the field of construction to study the relationship between the composition of concrete and its compressive strength.

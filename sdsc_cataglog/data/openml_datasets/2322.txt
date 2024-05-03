@@ -1,0 +1,3 @@
+name: STL-10
+dataset_id: 41103.0
+description: STL-10 is a popular image recognition dataset consisting of 10 classes, each with 1000 labeled training images and 800 test images. It was derived from a larger dataset called ImageNet. The images in STL-10 are of size 96x96 pixels and contain various objects, scenes, and animals. This dataset serves as a benchmark for evaluating image classification algorithms, and it is frequently used in the field of deep learning. Additionally, STL-10 includes an unlabeled data set of 100,000 images that can be utilized for unsupervised learning tasks.

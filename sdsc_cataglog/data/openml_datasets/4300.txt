@@ -1,0 +1,3 @@
+name: amazon-commerce-reviews_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44478.0
+description: The dataset "amazon-commerce-reviews_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True" consists of 2000 rows and 100 columns. It has a total of 10 classes, indicating different categories or labels within the data. The dataset is stratified, meaning that the distribution of classes is maintained across the rows. It is likely a dataset containing reviews or feedback from customers on Amazon's commerce platform. The dataset provides a diverse range of reviews and feedback, allowing for analysis and insights across various categories and dimensions.

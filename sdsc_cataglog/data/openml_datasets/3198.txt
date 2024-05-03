@@ -1,0 +1,3 @@
+name: ALARM_dataset
+dataset_id: 43150.0
+description: The ALARM_dataset is a dataset created for evaluating alarm algorithms. It includes synthetic data representing a hospital ward with virtual patients. The dataset contains over 5000 records, each representing a 24-hour period of patient data. The data includes features such as vital signs, oxygen levels, and alarm events. The dataset is designed to mimic real-world scenarios in a hospital, where alarms are triggered when certain thresholds are breached or abnormal events occur. It aims to provide a realistic and reliable evaluation of alarm algorithms, allowing researchers to test and compare different methods of alarm detection and optimization.

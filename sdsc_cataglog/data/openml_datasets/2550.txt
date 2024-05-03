@@ -1,0 +1,3 @@
+name: FOREX_eurrub-day-Close
+dataset_id: 41815.0
+description: The dataset FOREX_eurrub-day-Close contains information on the daily closing rates of the EUR/RUB (Euro/Russian Ruble) currency pair in the foreign exchange market. The dataset includes data from an unspecified period, and the closing rates are recorded on a daily basis. The dataset is likely to provide insights into the exchange rate fluctuations between the Euro and the Russian Ruble over time. Analyzing this dataset may assist in understanding the dynamics and trends in the EUR/RUB exchange rate, which could be valuable for individuals or organizations involved in foreign currency trading or international financial transactions.

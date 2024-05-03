@@ -1,0 +1,3 @@
+name: visualizing_hamster
+dataset_id: 893.0
+description: The dataset "visualizing_hamster" is being described in the given sentences. It contains information about hamsters and their visual preferences. The data was collected through an experiment where hamsters were presented with various visual stimuli, and their reactions were recorded. The dataset includes multiple attributes such as the type of visual stimulus, the hamster's response, and the time it took for the reaction. The purpose of this dataset is to study and understand the visual preferences of hamsters. It can be used for further analysis and visualizations to gain insights into hamster behavior and preferences towards different visual stimuli.

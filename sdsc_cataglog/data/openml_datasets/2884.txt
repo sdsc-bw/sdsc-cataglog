@@ -1,0 +1,3 @@
+name: Test_3vectors_num_let
+dataset_id: 42491.0
+description: The dataset "Test_3vectors_num_let" consists of three vectors containing numerical and letter values. The first vector has numerical values ranging from 1 to 100. The second vector contains random letters from the English alphabet. The third vector is a combination of the first two vectors, where each element is a concatenation of a numerical value from the first vector and a letter from the second vector. The dataset is expected to have a total of 100 entries. Further analysis and exploration of the data may provide insights into patterns and relationships between the numerical and letter values within the dataset.

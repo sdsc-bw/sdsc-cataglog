@@ -1,0 +1,3 @@
+name: MiceProtein
+dataset_id: 40966.0
+description: The MiceProtein dataset is comprised of 1080 samples where each sample represents a specific mouse in a computer science research study. The study aimed to investigate the impact of protein expression changes on behavior and health. The dataset includes the expression levels of 77 proteins in different regions of the mouse brain. Additionally, it provides information about the mice's behavior, such as learning abilities and exploration preferences. Furthermore, the dataset contains data about various health issues experienced by the mice, including tumors and infections. This comprehensive dataset enables researchers to explore the relationships between protein expression, behavior, and health in mice.

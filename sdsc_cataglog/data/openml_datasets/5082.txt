@@ -1,0 +1,3 @@
+name: Weather
+dataset_id: 45623.0
+description: The dataset "Weather" provides information about various weather-related parameters collected for multiple years. It includes hourly measurements of temperature, humidity, wind speed, and atmospheric pressure. The data is collected from stations located worldwide and covers different time zones. The dataset aims to provide a comprehensive understanding of global weather patterns and trends. It also includes information on weather conditions, such as clear sky, rain, or snow, allowing for analysis of precipitation patterns. This dataset can be valuable for meteorological research, climate analysis, and weather forecasting, providing insights into past and present weather patterns worldwide.

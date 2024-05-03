@@ -1,0 +1,3 @@
+name: spambase
+dataset_id: 44.0
+description: The dataset called spambase is used for classifying emails as spam or non-spam. It consists of 4,601 rows and 57 attributes, which include word frequencies, character frequency, capital letter frequency, and other features. Out of the total dataset, 39.4% are spam emails. The dataset is pre-processed and cleaned, making it readily available for analysis. It has been widely used in machine learning research to develop models and algorithms for spam detection. The spambase dataset allows researchers to train and evaluate their models accurately, helping in the development of efficient spam filters and email management systems.

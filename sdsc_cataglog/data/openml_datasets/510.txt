@@ -1,0 +1,3 @@
+name: fri_c0_250_10
+dataset_id: 763.0
+description: The dataset fri_c0_250_10 contains labelled data for handwritten characters. It includes 250 samples from 10 different writers, resulting in a total of 2,500 image instances. Each image in the dataset has dimensions of 128x128 pixels and is stored in grayscale format. The labels for the characters are also provided, making it suitable for character recognition algorithms. The dataset is commonly used for research purposes in the field of pattern recognition and machine learning. It offers a diverse range of handwriting styles, improving the generalization capabilities of models trained on it.

@@ -1,0 +1,3 @@
+name: mlr_svm_rng
+dataset_id: 42456.0
+description: The dataset mlr_svm_rng is a multivariate dataset used in machine learning. It contains observations from a simulated dataset with four input variables and one output variable. The input variables are randomly generated from a uniform distribution. The output variable is determined by a support vector machine (SVM) algorithm using a random number generator. The dataset is useful for testing and evaluating SVM algorithms, as well as for exploring multivariate analysis techniques. It provides a controlled environment to examine the performance and behavior of SVM models in different scenarios. Overall, the mlr_svm_rng dataset serves as a valuable resource for studying machine learning algorithms and their applications.

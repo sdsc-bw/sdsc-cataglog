@@ -1,0 +1,3 @@
+name: 1DUltrasoundMuscleFatigueDataStudy1Of2
+dataset_id: 43075.0
+description: The dataset 1DUltrasoundMuscleFatigueDataStudy1Of2 is a collection of information obtained from ultrasound scans conducted during a study on muscle fatigue. It contains data from the first part of the study and is one of two datasets available. The dataset likely includes measurements such as muscle thickness, cross-sectional area, and echo intensity, which were taken at various time points during muscle fatigue experiments. This dataset provides valuable insights into the effects of fatigue on muscle structure and function. It can be utilized for further research and analysis in the field of muscle fatigue and related studies.

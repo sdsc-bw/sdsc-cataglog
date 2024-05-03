@@ -1,0 +1,3 @@
+name: frenchopen-women-2013
+dataset_id: 42968.0
+description: The dataset "frenchopen-women-2013" includes information about the women's singles tennis matches played during the 2013 French Open tournament. It consists of various attributes such as the players' names, their nationalities, the round of the match, the score, the duration, and the outcome of each match. It also provides details on the number of aces, double faults, winners, and unforced errors made by each player. The dataset allows for analysis and exploration of player performance, match outcomes, and other factors that contributed to the overall results of the tournament.

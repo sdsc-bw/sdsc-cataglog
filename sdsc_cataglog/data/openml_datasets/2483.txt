@@ -1,0 +1,3 @@
+name: FOREX_usddkk-minute-Close
+dataset_id: 41748.0
+description: The dataset FOREX_usddkk-minute-Close contains information on the minute-based closing prices for the USD/DKK currency pair in the Foreign Exchange (FOREX) market. It includes data points representing the exchange rate at the end of each minute. The dataset likely includes a significant amount of data due to the minute-by-minute nature of the prices. Researchers or traders can utilize this dataset to analyze the fluctuations and trends in the USD/DKK exchange rate at a fine-grained level. It provides insights into the various factors influencing the currency pair, allowing users to make informed decisions related to foreign exchange trading or conducting research in the field.

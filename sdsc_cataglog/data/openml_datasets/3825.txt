@@ -1,0 +1,3 @@
+name: electricity
+dataset_id: 43950.0
+description: The dataset "Electricity" contains information about electricity consumption and generation for various countries and regions. It includes data on total electricity consumption, generation from different sources, and the corresponding CO2 emissions. The dataset consists of several variables such as the year, country, region, electricity consumption per capita, electricity consumption by sector, and renewable energy generation. The data covers a wide range of years, from the early 1960s to the present. The dataset provides insights into the global trends and patterns in electricity consumption and generation, helping researchers and policymakers analyze energy usage and develop sustainable strategies for the future.

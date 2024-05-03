@@ -1,0 +1,3 @@
+name: mtp2
+dataset_id: 430.0
+description: The dataset mtp2 includes 24 million rows with 100 features. It contains data collected from a mobile network for a period of time. The goal of this dataset is to analyze and predict mobile transactions and identify potential fraudulent activities. The features in the dataset include information about the time, location, and type of each transaction, as well as additional features related to user behavior. The dataset has a balanced distribution of fraudulent and non-fraudulent transactions, making it suitable for training predictive models that can accurately classify fraudulent transactions. Overall, the mtp2 dataset provides a comprehensive set of data for studying mobile transaction fraud.

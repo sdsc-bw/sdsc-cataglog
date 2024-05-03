@@ -1,0 +1,3 @@
+name: QSAR-TID-102927
+dataset_id: 3715.0
+description: QSAR-TID-102927 is a dataset that consists of 1,187 chemical compounds with their respective activity values against a specific virus. The dataset provides information on molecular structures, physical properties, and chemical constituents of the compounds. Additionally, it includes data on human immunodeficiency virus (HIV) activity, experimentally measured in vitro. The dataset aims to facilitate the development of quantitative structure-activity relationship (QSAR) models to predict the anti-HIV activity of novel compounds. It can be used to explore the relationship between molecular properties and antiviral activity, aiding in the discovery of potential HIV inhibitors.

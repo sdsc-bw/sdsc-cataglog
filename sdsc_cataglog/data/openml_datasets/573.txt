@@ -1,0 +1,3 @@
+name: fri_c1_100_5
+dataset_id: 829.0
+description: The dataset fri_c1_100_5 contains information related to 100 examples with 5 features. Each example represents a benchmark problem, and the features represent various attributes or characteristics specific to that problem. The dataset is suitable for studying and analyzing classification algorithms or machine learning models. The dataset includes both continuous and integer-valued features, making it diverse and representative of real-world scenarios. It can be used to evaluate the performance of algorithms or models in terms of accuracy, precision, and recall. The dataset fri_c1_100_5 serves as a valuable resource for researchers or practitioners working in the field of machine learning and classification.

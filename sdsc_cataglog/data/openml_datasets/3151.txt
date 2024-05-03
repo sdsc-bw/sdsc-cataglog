@@ -1,0 +1,3 @@
+name: Diabetes
+dataset_id: 43063.0
+description: The dataset "Diabetes" contains several features related to diabetes, such as patient age, body mass index (BMI), blood pressure, and glucose levels. It also includes information about the number of pregnancies for female patients, diabetes pedigree function, and whether the patient has diabetes or not. The dataset aims to assist in the prediction of whether a patient has diabetes based on these features. It consists of 768 instances with known outcomes, wherein 268 patients have diabetes, while 500 do not. This dataset has been widely used for machine learning and statistical analysis to develop predictive models in the field of healthcare.

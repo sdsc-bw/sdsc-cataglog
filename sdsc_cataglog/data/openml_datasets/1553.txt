@@ -1,0 +1,3 @@
+name: QSAR-TID-10649
+dataset_id: 3537.0
+description: The QSAR-TID-10649 dataset is a collection of physicochemical and ADMET (Absorption, Distribution, Metabolism, Excretion, and Toxicity) data for a set of compounds. It includes information about molecule properties, such as molecular weight, solubility, and logP, as well as descriptors related to ADMET properties, including mutagenicity and carcinogenicity. The dataset was created for the development of quantitative structure-activity relationship (QSAR) models, which are mathematical models used to predict the activity or properties of compounds based on their structure. The dataset is publicly available and can be used for research in drug discovery, toxicology, and related fields.

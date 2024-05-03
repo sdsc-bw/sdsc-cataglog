@@ -1,0 +1,3 @@
+name: Meta_Album_PNU_Micro
+dataset_id: 44312.0
+description: The dataset Meta_Album_PNU_Micro is based on a study conducted at the Pohang University of Science and Technology. It contains information about microorganisms present in albumin samples. The dataset includes data on various features such as species, abundance, and composition of the microorganisms. The study aims to understand the microbial communities present in albumin samples and their possible associations with health conditions. This dataset provides valuable insights into the diversity and characteristics of microorganisms in albumin samples, potentially facilitating future research in this field and contributing to the understanding of microbial influences on health.

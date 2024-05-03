@@ -1,0 +1,3 @@
+name: mu284
+dataset_id: 880.0
+description: The dataset mu284 contains information related to atmospheric aerosol concentrations in a specific region over a certain period of time. It consists of measurements made by a mobile unit equipped with sensors capable of detecting various types of aerosols. The dataset includes parameters such as time, geographic coordinates, and concentration levels of different aerosol components. Additionally, it contains metadata like instrument model and calibration details. This dataset is of significant interest to researchers studying air quality, atmospheric composition, and aerosol behavior, as it provides valuable information for understanding aerosol dynamics and their impact on the environment and human health.

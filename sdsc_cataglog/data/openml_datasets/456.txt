@@ -1,0 +1,3 @@
+name: disclosure_x_bias
+dataset_id: 709.0
+description: The dataset disclosure_x_bias explores how natural language processing (NLP) models can exhibit biased behavior even when trained on large amounts of data. The dataset consists of 11,993 statements extracted from news articles, gathered for bias classification in NLP models. The statements are labeled with metrics like sentiment, credibility, relevance, and bias. The data was collected from various sources and includes controversial topics. The dataset aims to highlight the potential bias present in NLP models and assist in developing methods to address and mitigate these biases for more fair and unbiased AI systems.

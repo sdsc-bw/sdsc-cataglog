@@ -1,0 +1,3 @@
+name: visualizing_slope
+dataset_id: 675.0
+description: The dataset "visualizing_slope" consists of three variables: x, y, and slope. It contains information about the x and y coordinates of points on a graph, as well as the slope of the line connecting those points. The dataset aims to visualize the relationship between x and y by showing how the slope of the line changes as x and y values vary. This dataset can be used to analyze and understand the patterns and trends in the data, and to study the effect of different x and y combinations on the slope of the line. It provides a valuable tool for visualizing and investigating the relationship between variables.

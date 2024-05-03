@@ -1,0 +1,3 @@
+name: art_daily_nojump
+dataset_id: 43047.0
+description: The dataset art_daily_nojump contains time-lapse video footage of an artwork installation. It consists of 50,000 frames, with each frame having a resolution of 640x480 pixels. The video was recorded at a frame rate of 30 frames per second. The installation involves multiple moving objects, resulting in dynamic scenes with changes in object location and appearance. The dataset aims to serve as a benchmark for various computer vision tasks, such as object tracking, motion detection, and scene understanding. It is freely available for research purposes and can be downloaded for further analysis and development of algorithms in the field.

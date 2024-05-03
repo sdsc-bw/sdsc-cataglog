@@ -1,0 +1,3 @@
+name: QSAR-TID-11150
+dataset_id: 3940.0
+description: The dataset QSAR-TID-11150 contains information about the biological activity of molecules. It consists of 285 molecules, each with 13 physicochemical properties and a binary classification indicating if the molecule is active or inactive. The dataset was curated from the Tox21 challenge, a project that aims to predict the toxicity of chemical compounds. The dataset is publicly available and can be used for various purposes, such as developing machine learning models for toxicity prediction or exploring the relationship between molecular properties and biological activity. It provides an opportunity for researchers to contribute to the field of drug discovery and toxicology.

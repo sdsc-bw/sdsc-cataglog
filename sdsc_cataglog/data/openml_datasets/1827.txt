@@ -1,0 +1,3 @@
+name: QSAR-TID-10885
+dataset_id: 3811.0
+description: The QSAR-TID-10885 dataset contains information about the bioactivity properties of a set of compounds. The dataset consists of 4,478 compounds and 11 molecular descriptors. The molecular descriptors provide information about the chemical structure and properties of the compounds. The bioactivity properties, represented by the activity outcome column, indicate the effectiveness of each compound in a specific biological activity. The dataset is publicly available and can be used for various purposes like predicting the bioactivity of compounds or developing quantitative structure-activity relationship (QSAR) models. The dataset can be valuable for researchers working in drug discovery and chemical biology.

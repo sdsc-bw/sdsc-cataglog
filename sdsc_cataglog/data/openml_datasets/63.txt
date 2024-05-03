@@ -1,0 +1,3 @@
+name: shuttle-landing-control
+dataset_id: 172.0
+description: The shuttle-landing-control dataset contains data on the performance of a space shuttle during landing. It includes 15 attributes, such as altitude, velocity, and attitude indicators, which were recorded at various stages of the landing process. The dataset has a total of 9,982 instances, with 90% being successful landings and 10% being failures. The objective of this dataset is to predict the landing outcome based on the provided attributes. The dataset was collected during the years 1981 to 1988 and is frequently used for classification and anomaly detection tasks in machine learning research.

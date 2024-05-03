@@ -1,0 +1,3 @@
+name: qsar-biodeg_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44601.0
+description: The dataset "qsar-biodeg_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True" contains information on the biodegradability of chemical compounds. It has 2000 rows and 100 columns, with 10 different classes. The dataset has been stratified to ensure a balanced representation of each class. The information within this dataset is useful for analyzing the factors that influence biodegradability and exploring the relationships between different chemical compounds. With its diverse range of compounds and carefully balanced classes, this dataset provides a valuable resource for studying the biodegradation process.

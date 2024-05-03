@@ -1,0 +1,3 @@
+name: elevators
+dataset_id: 216.0
+description: The dataset "elevators" contains data related to the operation of elevators. It includes information about different aspects such as the identification of each elevator, its manufacturer, its capacity, and the speed at which it operates. The dataset also includes details about the building in which each elevator is located, including the building's address, the number of floors, and the type of building (e.g., residential or commercial). This dataset can be valuable for analyzing elevator performance, maintenance schedules, and improving efficiency in building management.

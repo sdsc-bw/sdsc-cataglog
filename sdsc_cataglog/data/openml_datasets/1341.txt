@@ -1,0 +1,3 @@
+name: QSAR-TID-72
+dataset_id: 3318.0
+description: The dataset QSAR-TID-72 contains information on the toxicity of various chemicals. It includes 72 compounds and their corresponding toxicity values represented as LD50 (the dose at which 50% of test animals die). The chemicals have a wide range of properties, including molecular descriptors and molecular properties. The dataset aims to predict the toxicity of new chemicals based on their attributes, aiding in the identification of potentially harmful substances. QSAR-TID-72 is valuable for researchers and organizations working in drug development, toxicology, and chemical safety assessment. Understanding the dataset can contribute to the development of more effective and safer chemical products.

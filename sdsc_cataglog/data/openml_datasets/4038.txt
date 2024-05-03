@@ -1,0 +1,3 @@
+name: PCAM
+dataset_id: 44196.0
+description: The dataset PCAM is a collection of images related to the task of cancer metastasis detection in lymph node histopathology. It contains over 320,000 96x96 color images, divided into 220,025 training images and 57,458 testing images. These images were obtained from 433 patients, with each patient having multiple images. The dataset is labeled as either positive for cancer metastasis or negative, providing valuable information for building machine learning models. It aims to facilitate the development of algorithms that can accurately detect cancer metastasis, improving diagnosis and patient outcomes in the field of pathology.

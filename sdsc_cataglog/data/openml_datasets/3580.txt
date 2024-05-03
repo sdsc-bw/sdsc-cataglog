@@ -1,0 +1,3 @@
+name: Football---Expected-Goals-Match-Statistics
+dataset_id: 43655.0
+description: The dataset "Football---Expected-Goals-Match-Statistics" provides match statistics related to expected goals in football matches. It includes data regarding different variables such as the home and away teams, match and date details, and various statistics like expected goals, shot and goal counts, shot accuracy, possession, and performance metrics. The dataset allows for in-depth analysis and insights into the expected goal predictions made by various models and systems. It offers researchers and football enthusiasts an opportunity to study and compare the accuracy of these predictions, thus contributing to a better understanding of the role of expected goals in the game of football.

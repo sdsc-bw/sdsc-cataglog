@@ -1,0 +1,3 @@
+name: munin_10
+dataset_id: 45273.0
+description: The dataset munin_10 consists of various data attributes related to the Munin UAV platform. It includes information like time, altitude, velocity, position, wind speed, and angular velocity of the UAV. The dataset consists of 4,223 instances and 12 different attributes. The time attribute represents the time at which the data is recorded, while altitude, velocity, and position represent the corresponding measurements. Wind speed and angular velocity are also recorded to understand their effect on the UAV's behavior. This dataset provides valuable insights into the Munin UAV platform's performance and can be used for further analysis and research in UAV-related fields.

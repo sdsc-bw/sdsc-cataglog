@@ -1,0 +1,3 @@
+name: QSAR-TID-11005
+dataset_id: 3550.0
+description: The dataset QSAR-TID-11005 contains 2693 molecular structures, which were divided into two groups based on the biological activity as active and inactive compounds. The data includes various attributes such as names, molecular descriptors, thermal descriptors, and conformational and charge descriptors, along with the target variable indicating the biological activity. The dataset aims to develop models for predicting the activity of molecules based on these descriptors. It is relevant for drug discovery and pharmaceutical research, as it can provide insights into the relationship between the molecular structure and activity.

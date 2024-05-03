@@ -1,0 +1,3 @@
+name: SWD
+dataset_id: 1028.0
+description: The dataset SWD is a collection of samples taken from the Tohoku coastline in Japan, after the 2011 earthquake and tsunami. It includes sediment grain size data, along with various physical and chemical characteristics of the sediments. The dataset aims to provide a comprehensive understanding of the sediment dynamics and processes occurring in the area affected by the natural disaster. It contains measurements from multiple locations along the coastline, allowing researchers to analyze spatial variations in sediment composition and properties. Consequently, the SWD dataset is valuable for studying post-disaster coastal changes, sediment transport, and other related research areas.

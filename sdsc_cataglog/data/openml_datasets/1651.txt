@@ -1,0 +1,3 @@
+name: QSAR-TID-105654
+dataset_id: 3634.0
+description: The dataset QSAR-TID-105654 consists of 105,654 different molecules with their respective qualitative and quantitative responses. It was developed to identify compounds' ability to bind to specific proteins and was used in chemoinformatics studies. The dataset includes 4,028 predictor variables representing different molecular descriptors. The qualitative response indicates the capability of a compound to inhibit or activate a particular protein, while the quantitative response represents the binding affinity of the compound to the protein. This dataset is valuable for developing predictive models and studying the interaction between compounds and proteins.

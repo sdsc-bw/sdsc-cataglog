@@ -1,0 +1,3 @@
+name: sarcos
+dataset_id: 43873.0
+description: The dataset "sarcos" is a popular benchmark dataset for machine learning algorithms in robotics. It comprises 44,484 instances, each represented by 21 attributes. The goal of the dataset is to predict the torque required for controlling a certain robot arm. The attributes include the positions, velocities, torques, and vibrations of different joints in the arm. This dataset is often used for regression tasks as it allows researchers to test and compare the performance of various algorithms in predicting the torque accurately. It has been widely employed to study advanced control strategies and model-based learning in robotics.

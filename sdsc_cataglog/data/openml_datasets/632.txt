@@ -1,0 +1,3 @@
+name: sleuth_case1202
+dataset_id: 891.0
+description: The dataset sleuth_case1202 is a collection of evidence related to a cybercrime investigation. It includes various types of data such as emails, chat logs, browsing history, and file transfers. The dataset contains information from multiple individuals involved in the case, including suspects and potential victims. It also includes timestamps and IP addresses, allowing for analysis of the sequence of events and possible connections between the parties involved. The dataset offers a comprehensive view of the digital activities of these individuals and can be used to reconstruct the timeline of events, understand the communication patterns, and potentially identify the culprits behind the cybercrime.

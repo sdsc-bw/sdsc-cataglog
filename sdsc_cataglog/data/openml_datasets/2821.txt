@@ -1,0 +1,3 @@
+name: CSM
+dataset_id: 42371.0
+description: The CSM dataset is a publicly available dataset consisting of information about 20,000 randomly sampled Airbnb listings in five cities: Boston, London, New York City, Paris, and San Francisco. The dataset contains various attributes, such as the type of listing (e.g., entire home, private room), the number of bedrooms, the neighborhood, and the price per night. It also includes information about the host, such as their response rate and acceptance rate. The dataset is designed to facilitate research and analysis in the field of housing on the Airbnb platform, allowing researchers to investigate various aspects of the platform's dynamics and the factors influencing listing prices.

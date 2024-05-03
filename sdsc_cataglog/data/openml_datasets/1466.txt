@@ -1,0 +1,3 @@
+name: QSAR-TID-101221
+dataset_id: 3447.0
+description: QSAR-TID-101221 is a dataset that contains information on 4,330 compounds and their corresponding quantitative structure-activity relationship (QSAR) values. The compounds are mainly organic molecules, and their QSAR values represent the biological activity or property of interest. The dataset includes 995 molecular descriptors, which are numerical values that describe the chemical and physical characteristics of the compounds. These descriptors were calculated using computational methods. The dataset is widely used in the field of chemoinformatics for developing models and algorithms to predict the biological activity of new compounds, aiding in drug discovery and toxicology research.

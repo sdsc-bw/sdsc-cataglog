@@ -1,0 +1,3 @@
+name: Chaos_detection_in_Duffing_system
+dataset_id: 42202.0
+description: The dataset "Chaos_detection_in_Duffing_system" contains data related to the detection of chaos in the Duffing system. The Duffing system is a mathematical model that describes a damped and driven oscillator with non-linear dynamics. The dataset provides information about the input parameters and the corresponding time series of the Duffing system. It includes features such as the forcing amplitude, the forcing frequency, the damping coefficient, and the displacement of the oscillator. The dataset aims to aid in the prediction and identification of chaos in the Duffing system, which has applications in various fields like physics and engineering.

@@ -1,0 +1,3 @@
+name: QSAR-TID-30024
+dataset_id: 3151.0
+description: The QSAR-TID-30024 dataset contains information about the toxicity of certain compounds. The dataset contains 30024 samples, each with 50 features. The compounds are categorized into two groups: "active" and "inactive", based on their toxicity. The dataset's purpose is to develop a model that can accurately predict the toxicity of compounds. The data is provided in a CSV file format and includes both numerical and categorical variables. The dataset can be useful for researchers and scientists working in fields related to drug discovery and toxicology, as it can aid in the development of new compounds with reduced toxicity levels.

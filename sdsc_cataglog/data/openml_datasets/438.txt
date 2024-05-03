@@ -1,0 +1,3 @@
+name: visualizing_galaxy
+dataset_id: 690.0
+description: The visualizing_galaxy dataset is a comprehensive collection of astronomical data related to galaxy visualization. It includes various attributes such as galaxy type, shape, size, and distance. The dataset provides information about the visual features of galaxies, allowing researchers and astronomers to analyze and explore their characteristics. It also includes data on multi-spectral observations, allowing for a better understanding of galaxy structures and composition. The dataset is relevant for researchers working in the field of astronomy and astrophysics, as well as for data visualization enthusiasts who wish to explore and study galaxies through visual representations.

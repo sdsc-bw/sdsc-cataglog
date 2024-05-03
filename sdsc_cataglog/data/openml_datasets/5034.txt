@@ -1,0 +1,3 @@
+name: HotpotQA_distractor
+dataset_id: 45573.0
+description: The dataset HotpotQA_distractor consists of question-answer pairs, where each question has a supporting document and multiple distractor documents. The supporting document is the source of information to answer the question, while the distractor documents are not relevant. It aims to provide a challenging and realistic scenario for question answering by including distractors that may be misleading or confusing. The dataset includes various question types and covers a wide range of topics. It can be used to train and evaluate models for question answering tasks, especially for semantic retrieval and multi-hop reasoning.

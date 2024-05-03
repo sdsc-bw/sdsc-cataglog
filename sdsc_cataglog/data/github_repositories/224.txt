@@ -1,0 +1,3 @@
+repo_name: TonY
+link: https://github.com/tony-framework/TonY
+description: TonY is a framework to natively run deep learning jobs on Apache Hadoop. It currently supports TensorFlow, PyTorch, MXNet, and Horovod. TonY enables running either single node or distributed training as a Hadoop application. This native connector, together with other TonY features, aims to run machine learning jobs reliably and flexibly.

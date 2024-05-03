@@ -1,0 +1,3 @@
+repo_name: ivory
+link: https://github.com/antony-a1/ivory
+description: '_ivory_ defines a specification for how to store feature data and provides a.set of tools for querying it. It does not provide any tooling for producing.feature data in the first place. All ivory commands run as MapReduce jobs so.it assumed that feature data is maintained on HDFS.'

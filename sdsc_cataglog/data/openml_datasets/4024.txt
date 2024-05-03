@@ -1,0 +1,3 @@
+name: compass
+dataset_id: 44162.0
+description: The dataset compass is a database containing information about sentences in English. It is built by Google using data from the web and various licensed sources. The dataset includes over 8 million sentences covering a wide range of topics and domains. The sentences are segmented to provide meaning and structure information, enabling researchers and developers to train machine learning models. The dataset is useful for tasks like natural language processing, text generation, and language understanding. It can be accessed for research purposes, and Google provides guidelines on how to efficiently utilize and cite the compass dataset.

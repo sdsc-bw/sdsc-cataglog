@@ -1,0 +1,3 @@
+name: jura
+dataset_id: 41554.0
+description: The dataset "jura" is a collection of measurements obtained from the Jura Mountains region in France. It includes information about the lithology, geomechanical properties, and mineral composition of various rock samples. The dataset is organized into different categories such as sandstone, limestone, and marl. Each sample has multiple attributes like porosity, permeability, and grain size. The jura dataset is widely used in geology research and offers valuable insights into the geological properties of the Jura Mountains area, allowing scientists to study the rocks and their characteristics for various purposes like hydrocarbon exploration and geological mapping.

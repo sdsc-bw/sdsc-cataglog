@@ -1,0 +1,3 @@
+name: Meta_Album_ACT_410_Micro
+dataset_id: 44271.0
+description: The dataset "Meta_Album_ACT_410_Micro" consists of information about albums, specifically concerning their title, release year, artist, and genre. It contains 410 records, with each record representing a different album. The dataset has been curated and prepared for analysis. It is likely that this dataset will be used for studying album-related trends, patterns, and characteristics. It could potentially be utilized for various purposes within the field of music, such as genre classification, artist or album popularity analysis, or discovering trends in album releases over time.

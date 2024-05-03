@@ -1,0 +1,3 @@
+name: heart-h
+dataset_id: 963.0
+description: The heart-h dataset contains medical data from 303 patients with various cardiovascular conditions. It includes 14 attributes such as age, sex, cholesterol levels, and blood pressure. The target variable is divided into five categories indicating the presence or absence of heart disease. The dataset aims to explore the relationship between these attributes and the presence of heart disease using machine learning algorithms. It is utilized to develop predictive models that can assist in diagnosing heart conditions based on patient information. The heart-h dataset is commonly used for research and analysis in the field of cardiology.

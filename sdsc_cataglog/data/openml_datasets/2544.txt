@@ -1,0 +1,3 @@
+name: FOREX_audusd-minute-High
+dataset_id: 41809.0
+description: The dataset "FOREX_audusd-minute-High" contains information about the high prices of AUD/USD currency pair on a minute-by-minute basis. It provides data related to the maximum exchange rate reached between the Australian dollar (AUD) and the United States dollar (USD) during each minute. The dataset may include data from various time periods, representing fluctuations in the currency pair's high prices over time. It is a valuable resource for analyzing the AUD/USD currency pair's volatility and identifying trends or patterns in their exchange rates. Researchers and analysts can use this dataset to study the dynamics of these two currencies and make informed decisions regarding currency trading.

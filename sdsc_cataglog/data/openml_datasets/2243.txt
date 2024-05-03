@@ -1,0 +1,3 @@
+name: led24
+dataset_id: 40677.0
+description: The dataset led24 consists of 24 samples related to LED light emission. Each sample contains 2 attributes: the voltage applied to the LED and the corresponding light intensity measured in lumens. The dataset aims to analyze the relationship between these attributes to understand how voltage affects light emission. The dataset is in a tabular format, with each sample occupying a row and the attributes located in separate columns. It is suitable for regression analysis and can be utilized to develop models that predict light intensity based on the voltage input. The dataset is publicly available and can be used for various research purposes.

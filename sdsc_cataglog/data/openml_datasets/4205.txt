@@ -1,0 +1,3 @@
+name: pol_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44386.0
+description: The dataset named pol_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows and consists of 10 classes and 100 columns. It has been stratified to ensure a representative distribution of data points among the classes. The purpose of this dataset is not specified, but it can be assumed to be used for classification or clustering tasks. Additional information such as the nature of the data, variables, or specific features are not provided.

@@ -1,0 +1,3 @@
+name: autoUniv-au6-400
+dataset_id: 1551.0
+description: The dataset autoUniv-au6-400 contains information about Australian universities. It consists of 400 instances and 7 attributes. The attributes include name, state, gender ratio (percentage of male students), SAT (Scholastic Aptitude Test) average score, acceptance rate, expenditure per student, and alumni employment rate. The dataset provides insights into various aspects of universities in Australia, such as their location, gender distribution, academic performance, admissions standards, financial resources, and employment outcomes. This dataset can be utilized for various research or analysis purposes related to Australian universities and their associated factors.

@@ -1,0 +1,3 @@
+name: QSAR-TID-101505
+dataset_id: 3102.0
+description: The dataset QSAR-TID-101505 consists of 11 molecular descriptors and a binary outcome variable indicating the toxicity of certain chemical compounds. It was created for predicting the toxicological effects of compounds on various biological targets. The compounds were tested using standard biological assays, and their molecular descriptors, such as lipophilicity and topological indices, were quantified. The dataset includes 1473 compounds, and the toxicity information was reported as positive (toxic) or negative (non-toxic). QSAR models can be developed using this dataset to predict the toxicity of new chemical compounds based on their molecular characteristics.

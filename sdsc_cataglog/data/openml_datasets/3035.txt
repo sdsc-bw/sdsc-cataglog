@@ -1,0 +1,3 @@
+name: danish_pronunciation
+dataset_id: 42781.0
+description: The dataset "danish_pronunciation" is a collection of recordings that contains Danish words pronounced by native speakers. It aims to provide a resource for researchers and language learners interested in studying the pronunciation of Danish. The dataset consists of words from various categories including numbers, colors, animals, and common verbs. Each word is pronounced by multiple speakers, resulting in a diverse range of pronunciations. The dataset is available in a downloadable format and includes corresponding transcriptions for each word. It is hoped that this dataset will contribute to a better understanding and analysis of Danish pronunciation patterns.

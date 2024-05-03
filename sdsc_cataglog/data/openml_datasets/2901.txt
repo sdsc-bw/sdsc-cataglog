@@ -1,0 +1,3 @@
+name: Test_vectors_notrans_posneg
+dataset_id: 42548.0
+description: The dataset "Test_vectors_notrans_posneg" contains data that is related to positive and negative sentiments. It includes test vectors, which are vectors representing individual test instances. These instances are associated with various aspects, such as the text of the review, the overall sentiment of the review, and the sentiment scores assigned to different aspects. The dataset provides a valuable resource for sentiment analysis tasks, allowing researchers to evaluate and improve their models.

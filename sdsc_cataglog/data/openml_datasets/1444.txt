@@ -1,0 +1,3 @@
+name: QSAR-TID-10728
+dataset_id: 3424.0
+description: The dataset QSAR-TID-10728 contains information about the toxic effects of different compounds on human cells. It consists of 10,728 chemical compounds with their corresponding molecular descriptors. These descriptors provide information about the chemical structure and properties of the compounds. The dataset also includes the toxicity values of the compounds, which were measured using an experimental assay. The goal of this dataset is to develop models that can predict the toxicity of new compounds based on their molecular descriptors. This dataset is useful for researchers working in the field of drug discovery and toxicity prediction.

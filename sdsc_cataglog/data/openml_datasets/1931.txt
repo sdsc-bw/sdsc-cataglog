@@ -1,0 +1,3 @@
+name: QSAR-TID-30001
+dataset_id: 3916.0
+description: The QSAR-TID-30001 dataset is a collection of molecular descriptors for 30001 compounds. These descriptors are derived from the chemical structures of the compounds and are used to predict their toxicity levels. The dataset contains 55 features, including physicochemical properties and topological descriptors. It also includes a target variable representing the toxicity class of each compound. The dataset is highly imbalanced, with the majority of compounds falling into the non-toxic class. The QSAR-TID-30001 dataset is commonly used in machine learning and predictive modeling tasks to develop toxicity prediction models.

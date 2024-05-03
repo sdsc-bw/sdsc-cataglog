@@ -1,0 +1,3 @@
+name: fri_c3_500_10
+dataset_id: 646.0
+description: The dataset fri_c3_500_10 refers to a collection of records that contains 500 instances with 10 attributes. It is classified as a relatively small dataset, suitable for testing and experimentation purposes. The dataset consists of real-valued attributes, and it represents a classification problem. It is named after the 'FRI' algorithm, which stands for Feature Relevance Identification. The dataset serves as a benchmark for evaluating machine learning algorithms and assessing their performance in the area of feature selection and classification. Its properties make it an ideal choice for researchers and practitioners in the field.

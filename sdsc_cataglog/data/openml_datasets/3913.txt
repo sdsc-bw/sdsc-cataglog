@@ -1,0 +1,3 @@
+name: yprop_4_1
+dataset_id: 44039.0
+description: The dataset yprop_4_1 represents information about youth population in a specific region. It includes several variables such as age, gender, education level, employment status, and income. The data is collected from a survey conducted among a large sample of young people. The dataset contains information on both urban and rural youth. It provides insights into the challenges and opportunities faced by the youth population in terms of education, employment, and income. The dataset can be analyzed to understand the trends, patterns, and issues related to the youth in the region, aiding in policy-making and planning targeted interventions.

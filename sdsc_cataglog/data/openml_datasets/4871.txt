@@ -1,0 +1,3 @@
+name: diabetes_10
+dataset_id: 45229.0
+description: The diabetes_10 dataset contains information on ten potential diagnostic measurements for diabetes. The dataset consists of numerical values representing variables like age, BMI, blood pressure, and glucose concentration. Each of the variables has been scaled to have a mean of 0 and a standard deviation of 1. The dataset also includes an outcome variable labeled "diabetes," which indicates whether a patient has been diagnosed with the disease or not. With 768 instances, this dataset has been widely used by researchers for diabetes-related studies and machine learning tasks.

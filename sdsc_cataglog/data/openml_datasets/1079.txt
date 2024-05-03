@@ -1,0 +1,3 @@
+name: QSAR-TID-17035
+dataset_id: 3055.0
+description: The QSAR-TID-17035 dataset contains information on 5,352 compounds with known activities against the human adenovirus type 5. The dataset includes various molecular descriptors such as constitutional, topological, electrostatic, and quantum-chemical properties. It also provides the experimental activity values for the compounds, measured as IC50 values (half maximal inhibitory concentration). The dataset was created to develop quantitative structure-activity relationship (QSAR) models to predict the antiviral activity of compounds against adenovirus type 5. It can be used by researchers to develop new drugs or explore the relationship between molecular properties and antiviral activity.

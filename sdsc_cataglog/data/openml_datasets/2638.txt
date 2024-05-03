@@ -1,0 +1,3 @@
+name: CPMP-2015-runtime-regression
+dataset_id: 41928.0
+description: The dataset CPMP-2015-runtime-regression is a collection of data that focuses on the runtime of the Constraint-Based Multi-Component Placement (CPMP) algorithm used in designing multi-component systems. It contains information such as the number of components in a system, the number of interaction constraints, and the runtime required by the CPMP algorithm to solve the problem. The dataset was created by generating random instances of the CPMP problem and executing the algorithm on each instance, recording the runtime. It aims to provide a benchmark for evaluating and comparing the performance of different algorithms in solving the CPMP problem.

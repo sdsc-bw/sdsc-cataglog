@@ -1,0 +1,3 @@
+name: stock_fardamento02
+dataset_id: 42545.0
+description: The dataset stock_fardamento02 contains information about a company's stock inventory. It includes data on the stock items, such as their code, description, and color. It also includes information on the stock's location, including the warehouse and shelf number. The dataset provides details on the stock's quantity and cost, as well as its availability for sale. The dataset includes timestamps indicating when the information was last updated, allowing for real-time inventory tracking. Overall, the stock_fardamento02 dataset serves as a comprehensive source of information for managing and monitoring stock inventory in the company.

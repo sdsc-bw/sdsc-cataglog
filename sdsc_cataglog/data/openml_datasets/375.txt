@@ -1,0 +1,5 @@
+name: fri_c0_100_5
+dataset_id: 624.0
+description: The dataset "fri_c0_100_5" is being referred to in the mentioned sentences. While the sentences are not provided, the following key points summarize the dataset: 
+
+The fri_c0_100_5 dataset appears to be focused on a specific task or research area. It consists of a collection of data, potentially organized in a tabular format, that contains information related to the specified task. The dataset's name implies that it has 100 records or samples, and each sample might consist of five attributes or features. It can be inferred that this dataset is valuable for conducting experiments, analysis, or modelling within the given domain, allowing researchers to explore patterns, relationships, and potential insights from the data.

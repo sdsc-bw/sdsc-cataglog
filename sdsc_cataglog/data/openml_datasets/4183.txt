@@ -1,0 +1,3 @@
+name: california_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44364.0
+description: The dataset called california_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True has 2000 rows and 100 columns. It contains information about 10 classes covering various categories. The dataset follows a stratified True distribution, meaning it maintains the proportion of classes from the original population. This dataset can be used for various analytical purposes and can provide insights into the relationships between different categories. It offers a reasonably sized sample with a diverse range of classes, allowing researchers to conduct meaningful analysis and draw conclusions based on the data.

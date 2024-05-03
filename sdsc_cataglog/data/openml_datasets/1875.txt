@@ -1,0 +1,3 @@
+name: QSAR-TID-10283
+dataset_id: 3860.0
+description: The dataset QSAR-TID-10283 contains information about molecular structures and toxicity values of various chemical compounds. It consists of 372 instances, with each instance having 41 attributes including 40 molecular descriptors and a binary toxicity label. The molecular descriptors provide details about the chemical properties and structural features of the compounds, while the toxicity label indicates whether a compound is toxic or non-toxic. The dataset is relevant for researchers and professionals in the field of drug discovery, as it can aid in predicting and understanding the toxicity of chemical compounds and developing safer drugs.

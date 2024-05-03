@@ -1,0 +1,3 @@
+name: My-Clash-Royale-Ladder-Battles
+dataset_id: 43585.0
+description: The dataset "My-Clash-Royale-Ladder-Battles" contains information about a player's battles on the ladder in the popular mobile game Clash Royale. It includes details such as the player's trophies, the number of victories, defeats, and draws, the cards used in each battle, and the outcome of each battle. The dataset also provides information about the player's level, clan, and arena. With this dataset, players can analyze their performance, identify trends, and make strategic improvements to their gameplay. It can also be used for research and analysis purposes to understand player behavior and game dynamics in Clash Royale.

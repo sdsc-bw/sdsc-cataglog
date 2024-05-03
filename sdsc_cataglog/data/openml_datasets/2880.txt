@@ -1,0 +1,3 @@
+name: hate_news4
+dataset_id: 42486.0
+description: The dataset hate_news4 contains information about news articles and their respective labels, categorizing them as either hate speech or non-hate speech. The dataset is primarily composed of news articles from various sources, including websites, blogs, and social media platforms. Each article is labeled based on its content, with hate speech articles consisting of expressions promoting violence, discrimination, or hostility towards a particular group or individual. The dataset also provides additional features such as the source URL, the article's publication date, and the username of the author. The goal of this dataset is to aid in the analysis and identification of hate speech in news articles.

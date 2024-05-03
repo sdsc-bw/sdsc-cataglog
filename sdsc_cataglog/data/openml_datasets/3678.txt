@@ -1,0 +1,3 @@
+name: Tesla-Stock-Price
+dataset_id: 43755.0
+description: The dataset Tesla-Stock-Price contains information about the stock prices of Tesla, an electric vehicle and clean energy company. It includes data from previous years and is frequently updated with new information. The dataset provides details such as the date, opening and closing prices, highest and lowest prices, and trading volume of Tesla stocks. It allows researchers, investors, and analysts to study the historic trends, patterns, and performance of Tesla's stock over time. This dataset is valuable for analyzing the financial health of the company, making investment decisions, and conducting market research in the electric vehicle industry.

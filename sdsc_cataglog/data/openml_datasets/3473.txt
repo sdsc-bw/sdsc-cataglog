@@ -1,0 +1,3 @@
+name: Pokemon-(Generation-1---Generation-8)
+dataset_id: 43549.0
+description: The dataset Pokemon- (Generation-1---Generation-8) contains information about all the Pokémon species from the first to the eighth generation. It includes details about their abilities, types, base stats, and more. The dataset provides an extensive collection of 1,124 Pokémon, each with its unique characteristics and attributes. It is a comprehensive resource for studying and analyzing the various Pokémon throughout the generations. Researchers and enthusiasts can utilize this dataset to explore trends, correlations, and patterns within the Pokémon universe and gain insights into the evolution and diversity of these creatures across different generations.

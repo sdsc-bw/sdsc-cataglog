@@ -1,0 +1,3 @@
+name: FOREX_audjpy-day-High
+dataset_id: 41882.0
+description: The dataset named "FOREX_audjpy-day-High" is used to record the daily high prices of the currency pair AUD/JPY in the foreign exchange (FOREX) market. It contains information related to the highest trading price reached for this currency pair on a daily basis. The dataset likely consists of multiple records, each representing a different trading day. This data could be utilized to analyze the volatility, trends, and potential trading opportunities in the AUD/JPY market. By examining the daily high prices, traders and analysts can gain insights into the strength, momentum, and potential resistance levels of this currency pair.

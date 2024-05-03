@@ -1,0 +1,3 @@
+name: eye_movements
+dataset_id: 44093.0
+description: The dataset "eye_movements" contains information regarding eye movements, specifically saccades and fixations, of participants while they performed various tasks. The dataset includes data from 100 participants and records multiple parameters related to eye movements such as fixation duration, saccade amplitude, and direction. The participants were asked to complete tasks involving visual stimuli, and their eye movements were recorded using eye tracking technology. The dataset provides a comprehensive collection of eye movement data that can be utilized for various research purposes, such as studying attention allocation, visual search strategies, and human-computer interaction.

@@ -1,0 +1,3 @@
+name: QSAR-TID-10677
+dataset_id: 3763.0
+description: The dataset QSAR-TID-10677 consists of 1055 instances with 12 attributes. It aims to predict the acute aquatic toxicity of chemicals. The toxicity values were determined using standardized bioassay protocols by the Daphnia magna species. The target variable is the logarithm of 48-hour LC50 (concentration lethal to 50% of the organisms). The attributes include molecular descriptors such as Lipinski's Rule of Five, Topological Polar Surface Area (TPSA), and molecular weight. The dataset is valuable for developing quantitative structure-activity relationship (QSAR) models to predict the toxicity of new chemicals and facilitate environmentally friendly chemical synthesis and design.

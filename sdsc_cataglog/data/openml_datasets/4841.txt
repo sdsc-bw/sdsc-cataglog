@@ -1,0 +1,3 @@
+name: win95pts_2
+dataset_id: 45199.0
+description: The dataset win95pts_2 contains information about the performance of various computer systems running on the Windows 95 operating system. It includes 209 observations with 8 variables that describe different aspects of the systems' performance. These variables include the time taken in milliseconds for a test to complete, the type of processor used, the amount of RAM, the size of the hard disk, the graphics capability, the cache size, and the number of megabytes on the system bus. The dataset seems to provide a comprehensive overview of system performance metrics, allowing for further analysis and comparison of different computer systems.

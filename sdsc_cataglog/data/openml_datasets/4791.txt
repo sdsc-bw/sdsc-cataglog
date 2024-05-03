@@ -1,0 +1,3 @@
+name: insurance_7
+dataset_id: 45149.0
+description: The dataset insurance_7 contains information related to insurance claims. It includes attributes such as age, sex, bmi, children, smoker status, region, and charges. The dataset consists of 1,338 rows and 8 columns. It aims to analyze factors influencing insurance charges. The attributes provide valuable insights into the relationships between age, sex, bmi, and other factors with insurance charges. This dataset can be utilized for various analyses and predictive modeling in the insurance industry.

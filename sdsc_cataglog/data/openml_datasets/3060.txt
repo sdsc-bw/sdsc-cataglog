@@ -1,0 +1,3 @@
+name: acp-lung-cancer
+dataset_id: 42893.0
+description: The ACP-Lung-Cancer dataset is a collection of clinical, pathology, and demographic information for patients diagnosed with lung cancer. It contains data on various aspects such as patient age, gender, race, smoking history, tumor characteristics, treatment methods, survival rates, and disease progression. The dataset aims to provide a comprehensive understanding of lung cancer, its risk factors, and the impact of different treatment options. It is publicly available and can be used for research, analysis, and developing strategies for lung cancer prevention and management. The dataset seeks to contribute to improving the diagnosis, treatment, and outcomes for lung cancer patients.

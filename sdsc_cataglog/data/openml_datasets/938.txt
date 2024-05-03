@@ -1,0 +1,3 @@
+name: banana
+dataset_id: 1460.0
+description: The dataset "banana" contains information about different types of bananas. It includes attributes such as length, diameter, and color of bananas, as well as the class they belong to (1 for ripe, 0 for unripe). The dataset is a part of the UCI Machine Learning Repository and consists of 530 observations. Each observation is described by 2 attributes and classified into one of the two classes mentioned earlier. The dataset can be used for various machine learning tasks such as classification, clustering, and predicting banana ripeness based on the given attributes.

@@ -1,0 +1,3 @@
+name: IEEE80211aa-GATS
+dataset_id: 43190.0
+description: The dataset IEEE80211aa-GATS is intended for the performance evaluation of quality of service (QoS) provisioning mechanisms in wireless local area networks (WLANs). It is based on the IEEE 802.11aa amendment and consists of various scenarios with different network conditions. The dataset was simulated using the NS-3 network simulator, and it includes both control and experimental groups. The performance metrics collected in the dataset include throughput, packet loss ratio, delay, and queue occupancy. It aims to provide researchers and developers with a realistic and comprehensive dataset for QoS evaluation in WLANs using IEEE 802.11aa.

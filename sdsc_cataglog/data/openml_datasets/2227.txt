@@ -1,0 +1,3 @@
+name: GAMETES_Epistasis_2-Way_1000atts_0.4H_EDM-1_EDM-1_1
+dataset_id: 40645.0
+description: The dataset GAMETES_Epistasis_2-Way_1000atts_0.4H_EDM-1_EDM-1_1 consists of 1,000 artificial datasets generated to study the effects of genetic interactions on disease susceptibility. Each dataset contains 1,000 instances (rows) and 1000 attributes (columns) representing genetic markers and their corresponding values. It focuses on two-way epistasis, which refers to the interaction between pairs of genetic markers. The data is generated with a 40% heritability rate and follows the Epistasis-Data Model 1 (EDM-1) for both case and control individuals. The dataset is aimed at exploring machine learning methods for detecting and understanding epistatic interactions in genetic data.

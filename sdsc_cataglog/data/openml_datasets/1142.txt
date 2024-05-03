@@ -1,0 +1,3 @@
+name: QSAR-TID-17084
+dataset_id: 3118.0
+description: The dataset QSAR-TID-17084 contains information on the bioactivity of compounds against HIV-1 protease. It includes molecular descriptors for each compound such as topological, physicochemical, electronic, and spatial values. The dataset comprises 1752 compounds, out of which 13.5% are active against HIV-1 protease, while the rest are inactive. The compounds are categorized into 3 classes based on their activity level. The objective of the dataset is to develop models that can predict the bioactivity of compounds against HIV-1 protease based on their molecular descriptors.

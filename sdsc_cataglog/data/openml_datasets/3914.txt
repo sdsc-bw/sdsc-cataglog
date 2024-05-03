@@ -1,0 +1,3 @@
+name: analcatdata_supreme
+dataset_id: 44040.0
+description: The dataset analcatdata_supreme consists of 30 instances and 5 attributes. It is a binary classification dataset used for predicting the "Supreme" class attribute. The dataset was generated to test the performance of classification algorithms. The attribute "Cost" represents the cost of the item, while the attribute "Use" indicates the number of times the item has been used. The "Divorce" attribute signifies the number of divorces the individual has experienced, and the "Switch" attribute represents the number of switches performed via a switchboard. Overall, this dataset provides a small-sized, synthetic dataset to evaluate classification algorithms.

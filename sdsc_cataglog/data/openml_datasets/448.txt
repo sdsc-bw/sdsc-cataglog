@@ -1,0 +1,3 @@
+name: chscase_whale
+dataset_id: 700.0
+description: The dataset "chscase_whale" is focusing on the study of humpback whales in the Central and Southern California coastal areas. It contains information collected from 539 whales between 2005 and 2016. The dataset includes various details like the identification of individual whales, their sex, age, and reproductive status. It also covers the geographical location of the sightings, the date and time of the observations, and the type of observation made (individual sighting, social group, etc.). This dataset aims to contribute to the understanding of humpback whale behavior, population dynamics, and their ecological impact on the region's coastal ecosystems.

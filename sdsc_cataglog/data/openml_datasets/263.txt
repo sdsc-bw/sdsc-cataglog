@@ -1,0 +1,3 @@
+name: nflpass
+dataset_id: 508.0
+description: The dataset called "nflpass" is focused on NFL (National Football League) players and their passing statistics. It includes various variables related to passing attempts and completions, interceptions, touchdowns, yards, completion percentage, and passer rating. The dataset covers multiple seasons and includes data on hundreds of quarterbacks. It offers detailed information on each player's performance in passing, allowing for analysis and comparison. The dataset provides a comprehensive look at quarterbacks' effectiveness and contribution to their respective teams' passing game, thus being beneficial for statistical analysis, understanding trends, and predicting player performance.

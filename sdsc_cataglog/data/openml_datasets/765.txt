@@ -1,0 +1,3 @@
+name: analcatdata_germangss
+dataset_id: 1025.0
+description: The dataset analcatdata_germangss contains information about German credit applicants. The dataset includes 1,000 instances, each with 20 attributes. It provides insight into the characteristics and behavior of applicants and can be used for credit risk assessment and analysis. The attributes include features like age, sex, income, employment duration, and loan history. The dataset is valuable for examining patterns, predicting creditworthiness, and developing credit scoring models. Notably, this dataset originates from the UCI Machine Learning Repository and is widely utilized by researchers and practitioners in the field of credit risk analysis and financial modeling.

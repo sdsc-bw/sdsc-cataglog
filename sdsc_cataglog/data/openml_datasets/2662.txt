@@ -1,0 +1,3 @@
+name: semeion
+dataset_id: 41973.0
+description: The dataset semeion consists of handwritten digits that have been scanned and pre-processed. Each digit is represented as a 16x16 binary image. The dataset contains 1,593 instances, with each instance having 256 attributes. These attributes represent the gray levels (0-16) of each pixel in the binary image. The dataset is divided into two files: semeion.data and semeion.names. The semeion.data file contains the instances themselves, while the semeion.names file provides information about the attributes. The dataset is commonly used for pattern recognition and classification tasks, particularly for recognizing handwritten digits.

@@ -1,0 +1,3 @@
+name: analcatdata_bondrate
+dataset_id: 998.0
+description: The dataset analcatdata_bondrate contains information about bond rates. The dataset has 60 instances and 5 attributes. The attributes include the annual percentage rate (APR) of the bond, the debt ratio, the bond rating, and the pre-tax return on sales. The bond rates range from 5.5% to 10.5%. The data was collected over a period of time and is stored in a CSV file. This dataset can be used for various purposes such as analyzing the relationship between bond rates and the other attributes, predicting bond rates based on the given attributes, or identifying any patterns or trends in the data.

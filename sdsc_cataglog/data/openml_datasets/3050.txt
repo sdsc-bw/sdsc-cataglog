@@ -1,0 +1,3 @@
+name: SCADI
+dataset_id: 42877.0
+description: SCADI is a rich dataset that contains various types of information related to Scandinavian historical and archaeological sites. It includes data on 2,869 sites from Norway, Sweden, Denmark, and Iceland. The dataset covers diverse aspects such as site types, chronology, and geographical locations. It also contains metadata on excavations, radiocarbon dates, and finds. SCADI is an important resource for researchers and scholars studying Scandinavian history, archaeology, and cultural heritage. It offers valuable insights into the past societies and their activities within the region, aiding in the understanding and preservation of the Scandinavian heritage.

@@ -1,0 +1,3 @@
+name: Meta_Album_FNG_Mini
+dataset_id: 44302.0
+description: The dataset Meta_Album_FNG_Mini is a collection of audio albums. It consists of 10 audio recordings from various artists, genres, and time periods. The dataset includes information such as album title, artist name, genre, release date, and duration. Each album has multiple tracks, with their names and durations also provided. The dataset is designed for research purposes in the field of music analysis, including studying album attributes and analyzing audio features. It provides a small but diverse sample of albums to support different types of analyses and experiments.

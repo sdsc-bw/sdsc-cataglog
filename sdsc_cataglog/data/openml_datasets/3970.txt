@@ -1,0 +1,3 @@
+name: credit-g
+dataset_id: 44096.0
+description: The dataset "credit-g" contains information about credit card applications. It consists of 1,506 observations and 15 attributes. The attributes include age, sex, income, education, and marital status, among others. Each observation is labeled as either a good credit application or a bad credit application. The dataset has some missing values that were replaced with "?". The goal of this dataset is to determine the correlation between the attributes and the final credit application label. The dataset is represented in a .csv file format and is widely used for analyzing credit scoring models and machine learning tasks.

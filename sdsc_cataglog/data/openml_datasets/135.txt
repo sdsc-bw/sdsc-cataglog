@@ -1,0 +1,3 @@
+name: hayes-roth
+dataset_id: 329.0
+description: The dataset "hayes-roth" contains information about the classification of individuals into three distinct categories (persons 1, 2, and 3). It consists of a total of 132 instances and three attributes. The first attribute is "name" which represents the individuals' names, while the second attribute is "occupation" which indicates their respective occupations. The third attribute, "hobby," represents the individuals' hobbies. The dataset provides detailed information on each individual's class, name, occupation, and hobby. It serves as a resource for classification tasks and analysis of patterns or trends among individuals based on these attributes.

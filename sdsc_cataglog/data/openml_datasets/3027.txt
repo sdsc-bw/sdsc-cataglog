@@ -1,0 +1,3 @@
+name: kits-subset
+dataset_id: 42764.0
+description: The dataset kits-subset is a collection of image data that includes various types of kits used in different contexts, such as first aid kits, sewing kits, and toolkits, among others. It consists of high-resolution images captured from different angles to provide a comprehensive view of the kits. This dataset aims to enable research in object recognition, pose estimation, and scene understanding. It is annotated with bounding boxes that outline the kits' locations within the images. The kits-subset dataset can be utilized for training and evaluating machine learning models for applications related to object detection and understanding kits in real-world scenarios.

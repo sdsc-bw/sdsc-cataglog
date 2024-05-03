@@ -1,0 +1,3 @@
+name: analcatdata_impeach
+dataset_id: 501.0
+description: The dataset analcatdata_impeach contains information about 107 Congress members and whether they voted for or against the impeachment of President Bill Clinton. The dataset includes variables such as party affiliation, state, district number, gender, and voting outcome. It can be used for analyzing patterns and trends in Congress members' voting decisions regarding impeachment. The dataset also provides insights into the political landscape and the factors that influenced Congress members' positions on this significant event in American politics. Researchers can utilize this dataset to better understand the dynamics and complexities of impeachment proceedings and political decision-making.

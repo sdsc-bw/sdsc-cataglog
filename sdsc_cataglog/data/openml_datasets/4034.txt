@@ -1,0 +1,3 @@
+name: Diabetes(scikit-learn)
+dataset_id: 44192.0
+description: The Diabetes dataset, available in scikit-learn, contains data related to the progression of diabetes in patients. It consists of 442 instances with 10 input features, such as age, body mass index, blood pressure, and six blood serum measurements. The target variable, called "disease progression," is a quantitative measure indicating the year-to-year progression of the disease. This dataset is often used to develop regression models and predict the disease progression based on the input features. It offers a valuable resource for researchers and practitioners to understand the factors influencing diabetes and develop effective interventions.

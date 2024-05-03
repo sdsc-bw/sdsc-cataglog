@@ -1,0 +1,3 @@
+name: QSAR-TID-90
+dataset_id: 3315.0
+description: The dataset QSAR-TID-90, available on the UCI Machine Learning Repository, comprises properties of 91 organic molecules. It was collected to investigate Quantitative Structure-Activity Relationships (QSAR). These relationships explain the relationship between the chemical structure of compounds and their biological activity. The dataset contains 8 input features, representing different molecular descriptors, such as molecular weight and atomic composition. The output variable is the toxicity level of the molecule. The dataset serves as a benchmark to develop models for biological activity prediction. QSAR-TID-90 has been widely used in the field of computational chemistry and pharmacology.

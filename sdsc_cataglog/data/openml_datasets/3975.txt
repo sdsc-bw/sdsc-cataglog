@@ -1,0 +1,3 @@
+name: pol
+dataset_id: 44113.0
+description: The dataset "pol" contains information related to politics. It consists of several variables such as party, gender, and general attitude towards political issues. Each observation in the dataset represents a respondent. The dataset also includes the responses of participants to various questions regarding political opinions, ideologies, and affiliations. Additionally, it includes information about voting behavior, party identification, and political engagement. The dataset provides a comprehensive and detailed snapshot of political opinions and characteristics of a sample population, which could be beneficial for analyzing political trends and understanding voting patterns in a specific region or country.

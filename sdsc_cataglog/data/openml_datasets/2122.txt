@@ -1,0 +1,3 @@
+name: QSAR-TID-17107
+dataset_id: 4108.0
+description: The dataset QSAR-TID-17107 contains information about the biological activity of a set of chemical compounds. The data consists of 1,710 records, each representing a different compound, and 11 columns representing various molecular descriptors and the activity value. The molecular descriptors include factors such as the number of hydrogen bond donors and acceptors, molecular weight, and topological surface area. The activity value is a measure of the compound's effectiveness against a specific biological target. The dataset aims to aid in the development of quantitative structure-activity relationship (QSAR) models and the prediction of a compound's activity based on its molecular features.

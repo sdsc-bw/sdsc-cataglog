@@ -1,0 +1,3 @@
+name: ionosphere
+dataset_id: 59.0
+description: The ionosphere dataset consists of 351 instances with 34 attributes. It was derived from radar measurements that detect changes of the ionosphere using signals transmitted by the Sondrestrom Radar in Greenland. The aim of the dataset is to classify radar returns as either "good" or "bad". The target attribute consists of two classes: "b" for bad radar returns that indicate the presence of some sort of change in the ionosphere, and "g" for good radar returns that indicate the absence of significant changes. The dataset has been used extensively for testing several classification algorithms and machine learning techniques.

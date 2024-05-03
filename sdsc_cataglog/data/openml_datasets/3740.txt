@@ -1,0 +1,3 @@
+name: Buenos-Aires-Airbnb-Data
+dataset_id: 43818.0
+description: The Buenos-Aires-Airbnb-Data dataset contains information about Airbnb listings in Buenos Aires, Argentina. The dataset is in CSV format and comprises approximately 44,000 rows and 16 columns. It includes details such as the listing ID, host ID, host name, neighborhood, property type, room type, price, minimum nights, and availability. The dataset also provides information on host listings counts, host response rates, and reviews of the listings. It serves as a valuable resource for researchers, analysts, and those interested in studying the Airbnb market and tourism in Buenos Aires.

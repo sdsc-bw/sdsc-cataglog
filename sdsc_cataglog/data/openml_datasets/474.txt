@@ -1,0 +1,3 @@
+name: 2dplanes
+dataset_id: 727.0
+description: The dataset 2dplanes consists of 16,000 samples, each comprising a vector of 48 numerical features. The samples represent flattened images of handwritten digits. The digits range from 0 to 9, and there are 1,600 samples per digit. The dataset was generated from a larger dataset called Pen-Based Recognition of Handwritten Digits, where the 2D digit images were converted into 2D plane representations. The dataset aims at helping to tackle the challenge of handwritten digit recognition and has been used in various classification and machine learning tasks.

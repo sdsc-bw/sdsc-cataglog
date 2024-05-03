@@ -1,0 +1,3 @@
+name: QSAR-TID-30045
+dataset_id: 3199.0
+description: The QSAR-TID-30045 dataset contains information on the biological activity of chemical compounds against a specific target. It includes 350 compounds along with their molecular descriptors and the measured activity values. The goal of this dataset is to predict the biological activity of new compounds based on their molecular properties. The dataset has been extensively used for developing and testing quantitative structure-activity relationship (QSAR) models. High-quality and balanced data distribution makes it suitable for both regression and classification tasks. It also provides an opportunity for feature selection and model comparison within the field of drug discovery and development.

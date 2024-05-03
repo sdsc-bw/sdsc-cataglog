@@ -1,0 +1,3 @@
+name: QSAR-TID-11043
+dataset_id: 3130.0
+description: The dataset QSAR-TID-11043 contains information on 860 molecules and their corresponding binding affinities to a specific protein. The molecules are represented by a set of numerical descriptors, including molecular weight, surface area, and number of hydrogen bond donors. The binding affinities are measured experimentally using a fluorescence-based assay. The dataset was created to develop a quantitative structure-activity relationship (QSAR) model to predict the binding affinities of new molecules to the protein. This dataset is useful for researchers working in drug discovery and computational chemistry, as it provides a valuable tool for investigating protein-ligand interactions and designing potential drugs.

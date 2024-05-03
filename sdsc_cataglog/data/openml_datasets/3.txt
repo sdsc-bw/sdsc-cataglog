@@ -1,0 +1,3 @@
+name: arrhythmia
+dataset_id: 5.0
+description: The dataset arrhythmia contains a collection of medical data related to arrhythmia, a condition characterized by abnormal heart rhythms. It consists of 279 attributes, including demographic information, symptoms, and electrocardiogram (ECG) readings of patients. The dataset is highly imbalanced, with only around 45% of the instances classified as arrhythmia cases. It also contains missing values, making the data preprocessing step critical before any analysis. The objective of the dataset is to aid in the development of algorithms for arrhythmia detection and classification, contributing to improved medical diagnosis and treatment of this condition.

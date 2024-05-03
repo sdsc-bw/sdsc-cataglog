@@ -1,0 +1,3 @@
+name: analcatdata_runshoes
+dataset_id: 842.0
+description: The dataset "analcatdata_runshoes" is related to the running shoe industry and contains various attributes and categories. It consists of 84 entries and 12 variables. The variables include information about the brand, type, and price of the shoes, as well as customer ratings and satisfaction levels. Some additional variables provide details about the store and location from which the shoes were purchased. The dataset aims to provide insights into customer preferences, buying patterns, and satisfaction levels in the running shoe market. It can be utilized in analyzing market trends, making marketing decisions, and understanding consumer behavior within the industry.

@@ -1,0 +1,3 @@
+name: rabe_266
+dataset_id: 663.0
+description: The dataset "rabe_266" contains information about radio acoustic bird-ecology monitoring data. It includes measurements of bird flight calls recorded at night using remote sensing techniques. The data is collected using radar and acoustic sensors to study the behavior and movement patterns of birds during migration. The dataset provides information on the species, location, time, and other characteristics of the recorded flight calls. The main purpose of this dataset is to understand bird migration patterns and their ecological significance. This dataset is useful for researchers studying bird behavior, migration, and ecology.

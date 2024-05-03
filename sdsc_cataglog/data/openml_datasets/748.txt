@@ -1,0 +1,3 @@
+name: analcatdata_reviewer
+dataset_id: 1008.0
+description: The dataset analcatdata_reviewer contains information about anonymous reviewers who have provided their feedback on various products. It consists of 14 features, including the reviewer's demographic information such as age, gender, and occupation. The dataset also includes details about the product being reviewed, like the type and the price range. Additionally, it provides ratings given by the reviewers for different aspects of the product, such as its quality, price, and overall satisfaction. With 100 instances, this dataset serves as a valuable resource for analyzing reviewer preferences, evaluating product performance, and studying the relationship between demographics and consumer feedback.

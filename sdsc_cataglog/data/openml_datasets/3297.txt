@@ -1,0 +1,3 @@
+name: COVID-19-Indonesia-Dataset
+dataset_id: 43367.0
+description: The COVID-19-Indonesia-Dataset is a collection of data related to the COVID-19 outbreak in Indonesia. It contains information about confirmed cases, deaths, recoveries, and testing. The dataset includes data from various sources such as the Ministry of Health, local government agencies, and news reports. It is regularly updated to provide the latest information on the ongoing pandemic. The dataset provides insights into the spread and impact of the virus in Indonesia, allowing researchers and analysts to study patterns and trends. It is a valuable resource for anyone interested in understanding the COVID-19 situation in Indonesia.

@@ -1,0 +1,3 @@
+name: CreditCardSubset
+dataset_id: 4154.0
+description: The CreditCardSubset dataset contains information about credit card transactions. It consists of 30 features and 284,807 records. The dataset is highly imbalanced with a fraudulent transaction rate of only 0.17%. The features in the dataset are a result of a PCA transformation due to privacy concerns, except for the 'Time' and 'Amount' features which have not been modified. The 'Time' feature represents the seconds elapsed between transactions, while the 'Amount' feature denotes the transaction amount. The dataset aims to provide a realistic representation of credit card transactions for fraud detection research and evaluation of machine learning algorithms.

@@ -1,0 +1,3 @@
+name: League-of-Legends-SOLO-Q-Ranked-Games
+dataset_id: 43496.0
+description: The dataset "League-of-Legends-SOLO-Q-Ranked-Games" includes information about over 50,000 ranked games played in the popular online game League of Legends. The games were played in the solo queue mode, where players compete individually. The dataset contains various features to analyze, such as the duration of the games, the champions chosen by each player, the summoner spells used, and the overall outcome. Additionally, the dataset provides details about the gold earned, damage dealt, wards placed, and other in-game statistics. These data points allow for extensive analysis of gameplay patterns, strategies, and performance metrics in solo queue ranked matches of League of Legends.

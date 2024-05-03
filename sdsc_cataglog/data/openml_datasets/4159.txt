@@ -1,0 +1,3 @@
+name: Meta_Album_INS_Extended
+dataset_id: 44340.0
+description: Meta_Album_INS_Extended is a dataset containing information about various albums. It comprises 50,000 album entries and encompasses details like album title, release date, genre, artist, and album cover image. The dataset includes albums from a wide range of genres, including rock, pop, jazz, hip-hop, and classical. Each entry also includes additional attributes like the number of tracks, album duration, and language. The dataset is relevant for research, analyzing music trends, recommendation systems, and building music-related applications. It provides a comprehensive collection of album information that can be utilized for a variety of purposes in the field of music.

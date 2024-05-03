@@ -1,0 +1,3 @@
+name: FOREX_usdchf-day-Close
+dataset_id: 41858.0
+description: The dataset FOREX_usdchf-day-Close contains daily closing prices of USD/CHF currency pair in the foreign exchange market. The dataset consists of various data points, including the date of the closing price and the corresponding price value. It is likely to have been collected over a certain period of time to track the performance and fluctuations of the USD/CHF exchange rate. This dataset can be utilized to analyze trends, patterns, and movements in the USD/CHF exchange rate, and to help make informed decisions regarding trading and investment strategies in the forex market.

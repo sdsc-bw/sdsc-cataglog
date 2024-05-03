@@ -1,0 +1,3 @@
+name: Phen
+dataset_id: 412.0
+description: The dataset Phen is composed of patient data from the electronic health records of two hospitals in France. It contains information on patient demographics, diagnoses, medications, and laboratory results. The dataset was collected for research purposes and includes data from over 500,000 patients spanning a 10-year period. It is publicly available and has been anonymized to protect patient privacy. Researchers can use this dataset to study various health conditions and assess the effectiveness of different treatments. Phen provides a valuable resource for healthcare research and decision-making.

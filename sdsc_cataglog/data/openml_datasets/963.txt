@@ -1,0 +1,3 @@
+name: parkinsons
+dataset_id: 1488.0
+description: The dataset called "parkinsons" contains information about individuals with Parkinson's disease. It consists of 5,875 instances and 22 attributes, including age, gender, status, and various measurements related to voice and speech. The target attribute is "status" which indicates the presence or absence of the disease. The dataset is available on the UCI Machine Learning Repository for research purposes. It can be utilized to explore patterns and build predictive models to identify Parkinson's disease based on the provided attributes. The dataset aims to contribute to the advancement of diagnosis and treatment strategies for individuals affected by Parkinson's disease.

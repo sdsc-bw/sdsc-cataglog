@@ -1,0 +1,3 @@
+name: Urban-Dictionary-Terms
+dataset_id: 43731.0
+description: The Urban-Dictionary-Terms dataset is a collection of user-generated definitions and explanations for various slang words and phrases commonly used in urban culture. It contains over 14 million entries contributed by members of the online community since 1999. The dataset features information on the word, its definition, and the number of upvotes and downvotes it has received. Each entry may also include example sentences and tags that classify the term. The dataset is intended for linguistic analysis, cultural studies, and research on language evolution. It provides a comprehensive resource for studying urban slang and the dynamics of language usage within different communities.

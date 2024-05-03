@@ -1,0 +1,3 @@
+name: pathfinder_6
+dataset_id: 45247.0
+description: The dataset pathfinder_6 contains high-quality images and semantic segmentation annotations. It contains diverse scenes and objects that pose challenges for various computer vision tasks. The images were captured in real-world environments, ensuring the dataset's authenticity and applicability in real-world scenarios. The dataset includes detailed annotations with pixel-level labeling for each object in the images. These annotations make it suitable for tasks like object detection, instance segmentation, and object recognition. pathfinder_6 provides a comprehensive and diverse dataset that can be used for training and evaluating computer vision algorithms and models.

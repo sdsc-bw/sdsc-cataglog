@@ -1,0 +1,3 @@
+name: sleuth_case1102
+dataset_id: 836.0
+description: The dataset sleuth_case1102 contains information about a case. It includes details of phone calls made by a suspect, such as the date and time, duration of the call, and the number dialed. The calls are further categorized into three types: incoming, outgoing, and missed. The dataset also provides the location where the call was made from. Additionally, it contains data about the suspect's text messages, including the date and time sent, the message content, and the phone number involved. The dataset can be explored to analyze the suspect's phone activities and gain insights into the case.

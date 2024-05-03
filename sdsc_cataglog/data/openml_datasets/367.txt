@@ -1,0 +1,3 @@
+name: fri_c4_500_50
+dataset_id: 616.0
+description: The dataset "fri_c4_500_50" is a collection of 500 50-dimensional synthetic patterns. Each pattern is labeled with one out of four classes. The dataset is commonly used for classification and pattern recognition tasks in machine learning research. It provides a balanced distribution of classes and contains random noise, making it suitable for evaluating the performance of classification algorithms in realistic scenarios. The dataset has been widely used in various studies comparing different classification algorithms and techniques. It serves as a benchmark for evaluating the effectiveness and efficiency of new models and algorithms in the field of pattern recognition.

@@ -1,0 +1,3 @@
+name: FOREX_eurcad-day-High
+dataset_id: 41725.0
+description: The dataset, FOREX_eurcad-day-High, contains information about the daily highs of the EUR/CAD exchange rate in the foreign exchange (FOREX) market. It is a comprehensive collection of data that shows the highest price reached by the currency pair on each trading day. The dataset provides valuable insights into the volatility and performance of the EUR/CAD pair over a specific period. Traders and analysts can analyze this data to identify trends, patterns, and potential trading opportunities. Access to this dataset allows for a deeper understanding of the market dynamics and assists in making informed decisions.

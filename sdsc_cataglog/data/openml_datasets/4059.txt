@@ -1,0 +1,3 @@
+name: UCI_churn
+dataset_id: 44232.0
+description: The dataset UCI_churn is related to customer churn in the telecommunications industry. It contains information about customer attributes, such as account length, area code, and number of customer service calls. The main target variable of the dataset is the churn rate, which indicates whether a customer has terminated their telecommunications service or not. The dataset also includes features such as international plan, voice mail plan, and total day minutes used. It contains a total of 3,333 instances and 20 variables. The dataset is often used for predicting customer churn and analyzing factors that contribute to customer turnover in the telecommunications industry.

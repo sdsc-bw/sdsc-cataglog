@@ -1,0 +1,3 @@
+name: Reliance-Stock-DataJul-2019---Jul-2020
+dataset_id: 43567.0
+description: The dataset "Reliance-Stock-DataJul-2019---Jul-2020" contains information regarding the stock prices and trading activities of Reliance Industries Ltd. from July 2019 to July 2020. The dataset likely includes data on the opening and closing prices of Reliance stocks, along with daily high and low prices, trading volumes, and possibly other relevant financial indicators. This dataset is valuable for analyzing the performance and trends of Reliance stock during this period, aiding in making informed investment decisions or conducting research on Reliance Industries.

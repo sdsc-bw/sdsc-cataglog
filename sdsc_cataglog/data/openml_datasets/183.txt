@@ -1,0 +1,3 @@
+name: selwood
+dataset_id: 421.0
+description: The dataset "selwood" contains information about the growth of forest stands in Selwood National Park, Australia. It consists of five variables: tree species, age in years, diameter at breast height (DBH) in millimeters, tree height in meters, and biomass in kilograms. The dataset includes a total of 500 tree observations from various species. The purpose of this dataset is to study the relationship between tree age, DBH, height, and biomass, with the aim of understanding the growth patterns of different tree species in the park. The dataset can be utilized for statistical analysis and modeling related to forest management and conservation efforts.

@@ -1,0 +1,3 @@
+name: airquality
+dataset_id: 42059.0
+description: The airquality dataset provides information on the air quality recorded in New York City over a period of five months. It includes measurements of ozone, particulate matter, carbon monoxide, and sulfur dioxide. The dataset contains 153 observations with 6 variables, including ozone readings (in parts per billion), temperature (in degrees Fahrenheit), wind speed (in miles per hour), solar radiation (in langleys), and more. Missing values are denoted by -9999. The dataset is a valuable resource for analyzing and studying the air quality patterns in New York City and evaluating the impact of various factors on air pollution levels.

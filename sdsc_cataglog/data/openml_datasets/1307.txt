@@ -1,0 +1,3 @@
+name: QSAR-TID-101348
+dataset_id: 3283.0
+description: The dataset QSAR-TID-101348 includes information about the binding affinity of various compounds to a target protein. The dataset contains 3113 compounds and 1024 features, including physicochemical properties and topological indices. The data was collected using synthetic chemistry and bioassays. The target protein is associated with a certain disease, making the dataset potentially useful for drug discovery and designing new pharmaceuticals. The dataset is publicly available and can be downloaded for further analysis and research purposes.

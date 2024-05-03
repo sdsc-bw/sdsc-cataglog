@@ -1,0 +1,3 @@
+name: glass
+dataset_id: 41.0
+description: The glass dataset is used in machine learning and pattern recognition studies. It comprises 214 instances with 9 attributes, which describe various types of glass. The target variable differentiates the glass types into one of seven categories. The attributes include the refractive index, the sodium oxide content, the magnesium oxide content, the aluminum oxide content, the silicon oxide content, the potassium oxide content, the calcium oxide content, the barium oxide content, and the iron oxide content. This dataset is commonly used for classification tasks, and researchers have developed prediction models based on its attributes to identify the type of glass accurately.

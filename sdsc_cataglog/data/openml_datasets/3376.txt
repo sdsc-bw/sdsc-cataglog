@@ -1,0 +1,3 @@
+name: Trump-Tweets
+dataset_id: 43449.0
+description: The Trump-Tweets dataset contains a collection of tweets made by former US President Donald Trump during his time in office from May 2009 to January 2021. The dataset includes over 50,000 tweets, with each tweet being associated with various attributes such as the tweet's unique identifier, the date and time it was created, the text content, and the number of retweets and favorites it received. The dataset provides a valuable resource for analyzing and understanding Trump's communication style, sentiment, and topics of interest throughout his presidency. It also allows for the exploration of patterns and trends in his online messaging.

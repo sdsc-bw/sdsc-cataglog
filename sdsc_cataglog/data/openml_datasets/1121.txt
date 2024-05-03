@@ -1,0 +1,3 @@
+name: QSAR-TID-20174
+dataset_id: 3097.0
+description: The QSAR-TID-20174 dataset is a collection of chemical compounds used for predicting their aquatic toxicity. The dataset comprises 28 attributes including molecular descriptors, molecular fingerprints, and other features describing the compounds. The values of these attributes are numerical and represent various chemical properties. The toxicity of the compounds is measured as LC50 (a concentration causing the death of 50% of tested organisms) and EC50 (a concentration inhibiting a specific biological function by 50%). The dataset is useful for developing predictive models and studying the relationship between molecular structure and aquatic toxicity.

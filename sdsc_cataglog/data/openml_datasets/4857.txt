@@ -1,0 +1,3 @@
+name: andes_8
+dataset_id: 45216.0
+description: The dataset called andes_8 contains information about eight species of South American Andean birds. The data includes details about the birds' scientific names, common names, and conservation status. The dataset's variables also include the birds' abundance, occupancy, and detection probabilities. It was collected during field surveys conducted at multiple sites in Venezuela and Colombia between 2001 and 2003. The dataset encompasses a total of 6,609 records, with each record representing a unique bird species at a specific site. The dataset provides valuable information on the distribution and population dynamics of these Andean bird species.

@@ -1,0 +1,3 @@
+name: QSAR-TID-11192
+dataset_id: 3693.0
+description: The dataset QSAR-TID-11192 consists of 868 molecules with 5 features each, including the experimental toxicity recorded as a continuous variable ranging from 0 to 9. A quantitative structure-activity relationship (QSAR) model is a mathematical representation used to predict the activity or property of a compound based on its chemical structure. In this dataset, the features were generated using DRAGON software, which calculates molecular descriptors related to the compound's structure. The dataset can be used to develop and evaluate QSAR models for predicting toxicity levels of chemical compounds, aiding in the design of safer substances.

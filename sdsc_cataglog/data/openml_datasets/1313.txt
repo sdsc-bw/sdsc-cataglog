@@ -1,0 +1,3 @@
+name: QSAR-TID-101299
+dataset_id: 3289.0
+description: The dataset QSAR-TID-101299 is composed of 80 compounds with known chemical structures. It was created for the purpose of developing and evaluating quantitative structure-activity relationship (QSAR) models. The dataset contains 4,296 chemical descriptors, which are numerical representations of various molecular properties. The target variable in this dataset is the toxic endpoint for each compound, measured in LD50 values. LD50 is the dose at which 50% of the tested organisms die. The dataset aims to enable the development of models that can predict the toxicity of new chemical compounds based on their structural properties, facilitating the screening of potential drug candidates for safety.

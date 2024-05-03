@@ -1,0 +1,3 @@
+name: FOREX_eurnok-day-Close
+dataset_id: 41812.0
+description: The FOREX_eurnok-day-Close dataset contains information on the daily closing rates of the exchange rate between the Euro and the Norwegian Krone (eurnok). The dataset is updated regularly and provides historical data which can be used for various analytical purposes. It includes information such as the date and the corresponding closing rate of the exchange rate. This dataset is valuable for researchers, analysts, and traders who are interested in studying the historical performance of the Euro against the Norwegian Krone and identifying patterns or trends in the exchange rate fluctuations over time.

@@ -1,0 +1,3 @@
+name: christine_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44685.0
+description: The dataset christine_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns. It has 10 classes and is stratified, meaning that the distribution of classes within the dataset is representative of their prevalence in the overall population. The dataset is likely used for classification tasks and can be used to test and evaluate machine learning algorithms. The specific details about the data, such as the types of variables and their ranges, are not provided. However, the dataset's structure suggests that it is well-suited for training and validating classification models.

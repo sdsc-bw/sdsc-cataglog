@@ -1,0 +1,3 @@
+name: us_crime
+dataset_id: 42730.0
+description: The dataset us_crime provides information about crime rates in the United States from 1960 to 2014. It contains 24 columns of data, including attributes such as year, population, violent crime rate, property crime rate, and murder rate. The dataset also includes rates for different types of crimes such as robbery, burglary, and vehicle theft. There are over 55,000 observations in the dataset, covering all 50 states and the District of Columbia. The data is obtained from the Uniform Crime Reporting (UCR) Program of the Federal Bureau of Investigation (FBI) and allows for detailed analysis of crime trends and patterns in the United States over the past five decades.

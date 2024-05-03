@@ -1,0 +1,3 @@
+name: mfeat-morphological
+dataset_id: 962.0
+description: The dataset mfeat-morphological includes various morphological measurements of handwritten digits. It consists of six different classes, with each class representing a digit from 0 to 9. The measurements include several features like the length, thickness, and number of black pixels in each digit. There are a total of 2000 samples in the dataset, with 200 samples for each digit class. This dataset is commonly used in pattern recognition and machine learning research to train and test algorithms for digit recognition. It provides valuable insights into the morphological characteristics of handwritten digits, aiding in the development of accurate recognition models.

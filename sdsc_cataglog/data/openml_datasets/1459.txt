@@ -1,0 +1,3 @@
+name: QSAR-TID-100912
+dataset_id: 3439.0
+description: The dataset QSAR-TID-100912 is a collection of chemical compounds with their respective quantitative structure-activity relationship (QSAR) values. It contains information on 290 compounds and 775 molecular descriptors. The descriptors include various properties such as size, shape, energy, and reactivity of the compounds. Each compound is labeled with the toxicity index value, which indicates their level of toxicity. The dataset aims to assist in developing and improving models to predict the toxicity of new chemical compounds based on their structure. QSAR-TID-100912 is widely used in toxicology research and machine learning algorithms to understand the relationship between chemical structure and toxicity.

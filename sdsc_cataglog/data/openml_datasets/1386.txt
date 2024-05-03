@@ -1,0 +1,3 @@
+name: QSAR-TID-19905
+dataset_id: 3363.0
+description: The QSAR-TID-19905 dataset contains information on 19905 compounds and their corresponding toxicity activities. It includes various molecular descriptors, such as 2D-molecular structures and topological indices. The dataset also provides toxicity activity values classified into three classes: active, inconclusive, and inactive. These values were obtained through various experimental assays, and the dataset aims to serve as a valuable resource for the development of predictive models for toxicity assessment. The dataset is freely available and can be utilized for machine learning and data mining purposes in the field of chemoinformatics and drug discovery research.

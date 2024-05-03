@@ -1,0 +1,3 @@
+name: Palmer-Penguins-Dataset-Alternative-Iris-Dataset
+dataset_id: 43347.0
+description: The Palmer-Penguins-Dataset-Alternative-Iris-Dataset is a popular dataset that is freely available and widely used for machine learning and data analysis tasks. It contains various attributes of penguins such as their species, bill length, body mass, and flipper length. This dataset is an alternative to the well-known Iris dataset and provides additional information about penguins. The dataset has been cleaned and prepared, making it suitable for use in various statistical and machine learning models. It is a valuable resource for researchers, students, and data enthusiasts interested in studying penguin characteristics and conducting insightful data analysis.

@@ -1,0 +1,3 @@
+name: garrat
+dataset_id: 437.0
+description: The dataset "garrat" is a collection of economic and financial data regarding the United Kingdom. It contains information related to GDP, inflation, interest rates, exchange rates, and other macroeconomic variables. The dataset covers a period from 1980 to 2019, offering a long-term overview of the UK economy. It is frequently used in economic research and analysis to understand trends, make forecasts, and study the impact of various factors on the economy. The "garrat" dataset is considered a reliable and comprehensive source of economic data for studying the UK's economic performance and conducting in-depth analyses.

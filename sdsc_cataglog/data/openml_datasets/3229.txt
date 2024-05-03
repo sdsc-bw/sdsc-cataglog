@@ -1,0 +1,3 @@
+name: Graph_Inference_Dataset
+dataset_id: 43278.0
+description: The Graph_Inference_Dataset is a dataset that has been created to support the task of graph inference. It contains information about various graphs, including their nodes, edges, and attributes. Each graph in the dataset has a ground truth graph, which represents the true relationships between nodes. The dataset is designed to assist in developing and evaluating models that can accurately infer the structure of a graph given a partial or noisy input. The dataset includes a training set, a validation set, and a test set, with each set containing a different number of graphs and their corresponding ground truth graphs.

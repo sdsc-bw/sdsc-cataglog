@@ -1,0 +1,3 @@
+name: cjs
+dataset_id: 23380.0
+description: The dataset cjs contains information about the California Job Satisfaction (CJS) survey, which aimed to assess job satisfaction levels in the state of California. The survey was conducted on a sample of 1000 respondents from various job sectors, including finance, healthcare, and technology. The dataset includes variables such as age, gender, income, education level, job sector, and job satisfaction score. The data is collected through an online questionnaire and is organized in a spreadsheet format. The dataset serves as a valuable resource for analyzing factors influencing job satisfaction and understanding the overall job satisfaction landscape in California.

@@ -1,0 +1,3 @@
+name: dow-jones-index
+dataset_id: 43038.0
+description: The dow-jones-index dataset contains information about the daily closing values of the Dow Jones Industrial Average (DJIA) from 1885 to 2021. It includes details such as the date, open, high, low, close, volume, and adjusted close prices. The DJIA is a stock market index that tracks the performance of 30 large publicly traded companies in the United States. This dataset is useful for analyzing the historical trends and patterns of the stock market, identifying market cycles, and making predictions or forecasting future stock market movements. It can also provide insights into the overall economic health and investor sentiment.

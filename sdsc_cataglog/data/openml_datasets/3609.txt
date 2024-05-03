@@ -1,0 +1,3 @@
+name: COVID-19-Stats-and-Mobility-Trends
+dataset_id: 43684.0
+description: The dataset COVID-19-Stats-and-Mobility-Trends provides information on the COVID-19 pandemic and its impact on mobility trends across various countries. It includes daily statistics on COVID-19 cases, deaths, and recoveries, along with data on testing and hospitalizations. The dataset also includes mobility indices that indicate the changes in movement patterns and visits to different places like parks, workplaces, and grocery stores. The data is sourced from different reliable sources like government reports, health agencies, and mobility data providers. It can be used to analyze and understand the relationship between COVID-19 and changes in human mobility during the pandemic.

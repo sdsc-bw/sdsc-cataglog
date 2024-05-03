@@ -1,0 +1,3 @@
+name: vineyard
+dataset_id: 192.0
+description: The dataset "vineyard" consists of a comprehensive collection of data related to vineyards. It includes information about different vineyard locations, grape varieties, soil types, climate conditions, and grape yield. The dataset provides detailed records of the grape harvest, including factors such as the number of grapes harvested, sugar levels, acidity levels, and grape quality. It also includes data about the use of pesticides, fertilizers, and irrigation in vineyards. The dataset aims to provide researchers, grape growers, and wine producers with valuable insights into the factors that influence vineyard productivity and grape quality.

@@ -1,0 +1,3 @@
+name: QSAR-TID-11536
+dataset_id: 3761.0
+description: The dataset QSAR-TID-11536 contains information about the inhibitory activity of a set of compounds on the growth of tuberculosis bacteria. It consists of 802 molecules and 165 molecular descriptors, such as logP, MR, and polarizability. The target variable is given as biological activity with values ranging from 0 to 100. The dataset is balanced with approximately half of the compounds classified as active and the rest as inactive. It is suitable for building quantitative structure-activity relationship (QSAR) models to predict the inhibitory activity of compounds against tuberculosis bacteria, thus aiding in drug discovery and development for treating tuberculosis.

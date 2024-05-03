@@ -1,0 +1,3 @@
+name: diabetes_0
+dataset_id: 45219.0
+description: The dataset diabetes_0 contains information about patients with diabetes. It includes details such as age, sex, body mass index (BMI), average blood pressure, and six different blood serum measurements. The dataset has a total of 442 instances and 10 attributes. It is commonly used for classification and regression analyses related to diabetes research. The target variable is a quantitative measure of disease progression one year after the baseline, which is represented by a numerical value. Thus, this dataset provides researchers with a valuable resource to study and understand various aspects of diabetes and how they relate to disease progression.

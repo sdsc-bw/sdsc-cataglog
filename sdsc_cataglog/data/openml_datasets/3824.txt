@@ -1,0 +1,3 @@
+name: rl
+dataset_id: 43949.0
+description: The dataset rl is a collection of data that focuses on the field of reinforcement learning (RL). It consists of various game environments where agents interact with the environment to learn and improve their decision-making skills. The dataset provides a diverse range of RL tasks such as playing Atari games, solving Rubik's Cube, and navigating in complex environments. It includes both expert demonstrations and the agents' interaction data, allowing researchers to analyze and train RL models effectively. Additionally, the dataset offers benchmark tasks for evaluating the performance of different RL algorithms. Overall, the rl dataset serves as a valuable resource for studying and advancing RL techniques.

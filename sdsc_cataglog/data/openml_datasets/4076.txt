@@ -1,0 +1,3 @@
+name: Meta_Album_PLT_NET_Micro
+dataset_id: 44249.0
+description: The dataset Meta_Album_PLT_NET_Micro contains information about albums in the music industry. It includes factors like the album title, artist name, release date, and duration. The dataset also provides details regarding the album's performance, such as the number of streams, song count, and peak chart position. Additionally, it features information about the album's genre, label, and the availability of explicit content. It is a comprehensive dataset that encompasses various aspects of albums, including their attributes and performance metrics, making it useful for analysis and research in the music industry.

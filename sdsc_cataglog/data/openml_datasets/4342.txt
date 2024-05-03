@@ -1,0 +1,3 @@
+name: fabert_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44520.0
+description: The dataset "fabert_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2,000 rows and 100 columns. It is categorized into 10 different classes. The dataset has been stratified, meaning that it has been divided into subsets to ensure each class is represented proportionally. The dataset likely contains various types of data, such as numerical or categorical values, that are spread across the 100 columns. Its purpose and specific contents are not mentioned, but it can be assumed that it is designed for analysis or machine learning tasks involving classification or prediction.

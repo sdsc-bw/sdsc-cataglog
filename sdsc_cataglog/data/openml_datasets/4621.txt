@@ -1,0 +1,3 @@
+name: energy_efficiency
+dataset_id: 44960.0
+description: The dataset "energy_efficiency" consists of eight factors that contribute to the prediction of energy efficiency for building design. These factors include relative compactness, surface area, wall area, roof area, overall height, orientation, glazing area, and glazing area distribution. Energy efficiency is measured in two ways: heating load and cooling load. Heating load represents the amount of energy required to heat a building, while cooling load represents the energy needed to cool a building. The dataset also includes a target variable that combines both heating and cooling loads. This dataset can be utilized to analyze and develop models for predicting the energy efficiency of different building designs.

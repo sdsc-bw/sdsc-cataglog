@@ -1,0 +1,3 @@
+name: fri_c0_250_25
+dataset_id: 653.0
+description: The dataset fri_c0_250_25 contains information about 250 movies with 25 attributes. The attributes may include movie title, director, cast, genre, release date, runtime, and rating. The dataset is categorically labeled with each movie falling into one of five different genres. The dataset includes a variety of movie genres, such as action, romance, horror, comedy, and documentary. It provides a comprehensive range of information about each movie, allowing for detailed analysis and exploration. The dataset is suitable for researchers, data analysts, and movie enthusiasts interested in studying and understanding various aspects of different movies.

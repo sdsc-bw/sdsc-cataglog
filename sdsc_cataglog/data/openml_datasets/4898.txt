@@ -1,0 +1,3 @@
+name: pigs_4
+dataset_id: 45256.0
+description: The dataset pigs_4 contains information about a group of pigs. It includes data on various factors such as age, weight, feed consumption, and daily gain. The dataset also provides information on the pigs' behavior, such as aggression and social interaction. In addition, it includes data on their reproductive traits, such as the number of piglets born alive and the litter size. The pigs_4 dataset seems to be comprehensive and covers a wide range of variables related to the pigs' physiology, behavior, and reproduction. It could be useful for studying various aspects of pig farming and animal behavior.

@@ -1,0 +1,3 @@
+name: The-Office-Dataset
+dataset_id: 43441.0
+description: The Office-Dataset is a comprehensive dataset containing information about the American TV show "The Office". It includes data about the show's episodes, characters, script lines, and various other attributes. The dataset contains detailed information about each episode, such as the title, season, and episode number, as well as a summary and airdate. It also includes information about the show's characters, their unique identification numbers, names, and roles. The dataset is designed to offer valuable insights into the show, making it a valuable resource for researchers, enthusiasts, and anyone interested in analyzing or studying "The Office".

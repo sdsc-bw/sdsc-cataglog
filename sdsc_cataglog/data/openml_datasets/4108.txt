@@ -1,0 +1,3 @@
+name: Meta_Album_BRD_Mini
+dataset_id: 44285.0
+description: The dataset Meta_Album_BRD_Mini focuses on 100 mini albums that constitute a subset of a larger album collection. Each mini album in the dataset contains multiple samples, which are measurements taken from a biological experiment. The dataset provides information about the identity of each mini album, its corresponding parent album, and the cell line used in the experiment. Additionally, it includes metadata about the experimental design, such as the time point and treatment conditions. Overall, Meta_Album_BRD_Mini is a comprehensive dataset that offers insights into the biological samples and experimental factors associated with mini albums in a larger album collection.

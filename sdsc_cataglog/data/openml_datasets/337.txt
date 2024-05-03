@@ -1,0 +1,3 @@
+name: fri_c3_1000_25
+dataset_id: 586.0
+description: The dataset fri_c3_1000_25 contains 1000 instances of 25 features each. It is a representation of relational data where each instance belongs to one of three classes. The dataset was generated using the FRI framework. The features are real-valued and represent measurements from different physical processes. The classes are unbalanced, with class 1 having 450 instances, class 2 having 450 instances, and class 3 having 100 instances. The dataset is commonly used for classification tasks and has been utilized in various research studies.

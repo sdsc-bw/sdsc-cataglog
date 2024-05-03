@@ -1,0 +1,3 @@
+name: Reading_Hydro_upstream
+dataset_id: 44214.0
+description: The dataset Reading_Hydro_upstream contains information related to hydrological data from the upstream area of the Reading Hydrological Station. It includes several variables such as temperature, precipitation, water level, and streamflow measurements. The dataset covers a period of several years and provides data at hourly intervals. The data has been collected and recorded by automated instruments, ensuring accuracy and consistency. This dataset is crucial for studying the hydrological patterns and characteristics of the upstream area, which have significant implications for managing water resources, flood forecasting, and understanding the overall hydrological system in the region.

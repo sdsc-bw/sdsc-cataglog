@@ -1,0 +1,3 @@
+name: QSAR-TID-38
+dataset_id: 3606.0
+description: The QSAR-TID-38 dataset is a collection of chemical compounds with their corresponding biological activity against cancer cells. It consists of 38 compounds with 3D molecular descriptors and their IC50 values, representing the concentration required to inhibit cell growth. The dataset was created to develop quantitative structure-activity relationship (QSAR) models to predict the biological activity of new compounds. The goal is to find patterns and relationships between the molecular features and the anticancer activity. This dataset is valuable for researchers working on drug discovery and the development of new cancer treatments.

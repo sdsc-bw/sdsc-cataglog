@@ -1,0 +1,3 @@
+name: electricity_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44433.0
+description: The dataset electricity_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns. It has been stratified into 10 classes. The dataset is related to electricity, although the specific details are not provided. The dataset seems to have been created for the purpose of analyzing or studying electricity-related data. However, without further information, it is challenging to provide a detailed summary of the dataset and the specific insights it may offer.

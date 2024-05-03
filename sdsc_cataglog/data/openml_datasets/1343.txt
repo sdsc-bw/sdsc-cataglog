@@ -1,0 +1,3 @@
+name: QSAR-TID-186
+dataset_id: 3320.0
+description: The dataset QSAR-TID-186 contains information on competitive binding affinity values of chemical compounds towards the estrogen receptor alpha (ERα). It consists of 186 compounds and 8 descriptors/chemical properties, including molecular weight and hydrophobicity. The dataset is primarily used for developing quantitative structure-activity relationship (QSAR) models to predict the binding affinity of new compounds to ERα. The data was collected from the literature and experimental measurements. The dataset is widely used in the field of cheminformatics and drug discovery to better understand and predict the interaction of chemical compounds with ERα.

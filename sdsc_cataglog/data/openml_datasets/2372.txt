@@ -1,0 +1,3 @@
+name: edm
+dataset_id: 41477.0
+description: The dataset EDM contains information and statistics related to Electronic Dance Music (EDM) events and festivals. It includes details like event name, location, date, number of attendees, and artist performance data. The dataset consists of around 13,000 records, covering various EDM events globally. It provides insights into the popularity and growth of EDM as a genre and its impact on different regions. The dataset can be useful for studying trends and patterns in EDM event attendance and artist preferences. It can also assist event organizers, marketers, and researchers in making informed decisions and understanding the EDM industry better.

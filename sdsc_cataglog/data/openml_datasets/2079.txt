@@ -1,0 +1,3 @@
+name: QSAR-TID-100907
+dataset_id: 4065.0
+description: The QSAR-TID-100907 dataset is a collection of 1055 chemical compounds with measured toxicological properties. The compounds, which belong to the class of arylpiperazinyl-benzamides, were assessed for their ability to inhibit a certain enzyme. The dataset contains 419 molecular descriptors of the compounds, including topological, geometrical, and electronic properties. The target variable in this dataset is the inhibitory concentration 50% (IC50), indicating the concentration at which each compound inhibits the enzyme by 50%. The dataset was created to facilitate research on quantitative structure-activity relationship (QSAR) modeling and to aid in the development of new enzyme inhibitors for therapeutic purposes.

@@ -1,0 +1,3 @@
+name: pbc
+dataset_id: 200.0
+description: The dataset pbc, or the Primary Biliary Cirrhosis (PBC) of the Liver Data, is a collection of information about a clinical trial conducted on 418 patients with PBC. The data consists of 18 variables, including demographic characteristics, laboratory measurements, and clinical outcomes. The primary aim of the trial was to study the effects of two treatments, D-penicillamine and placebo, on the survival of patients with PBC. The dataset also includes information on how the patients were randomized into treatment groups and the duration of the trial. This dataset provides an opportunity to analyze the factors associated with the progression and survival of PBC patients.

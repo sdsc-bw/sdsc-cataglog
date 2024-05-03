@@ -1,0 +1,3 @@
+repo_name: butterfree
+link: https://github.com/quintoandar/butterfree
+description: Butterfree is a tool for building feature stores. Transform your raw data into beautiful features. This library supports Python version 3.7+ and is meant to provide tools for building ETL pipelines for Feature Stores using Apache Spark. The library is centered on the following concepts: To understand the main concepts of Feature Store modeling and library main features, you can check Butterfree's Documentation, which is hosted by Read the Docs. To learn how to use Butterfree in practice, see Butterfree's notebook examples.

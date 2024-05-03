@@ -1,0 +1,3 @@
+name: GTSRB-HOG03
+dataset_id: 41989.0
+description: GTSRB-HOG03 is a dataset that consists of images captured from a German traffic sign recognition benchmark. The dataset contains 9,843 images of traffic signs, divided into 43 different classes. The images were captured under various weather conditions and at different times of the day. Each image is stored in the .ppm format and has a resolution of 30x30 pixels. GTSRB-HOG03 is commonly used to develop and evaluate machine learning algorithms for traffic sign recognition tasks.

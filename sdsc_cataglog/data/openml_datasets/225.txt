@@ -1,0 +1,3 @@
+name: analcatdata_cyyoung8092
+dataset_id: 465.0
+description: The dataset named "analcatdata_cyyoung8092" contains information about the academic performance of students. It includes 40 observations (rows) and 4 variables (columns). The first variable is a categorical variable indicating the number of siblings a student has, ranging from 1 to 8. The second variable is the student's gender, either male or female. The third variable represents the student's academic standing, categorized as either lower, regular, or upper. The final variable denotes the student's GPA, measured on a continuous scale. Overall, this dataset provides insights into the factors that may influence a student's academic performance, such as their gender, number of siblings, and academic standing.

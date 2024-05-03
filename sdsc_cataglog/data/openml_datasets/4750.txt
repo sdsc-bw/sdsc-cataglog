@@ -1,0 +1,3 @@
+name: DutchTwitterDataset
+dataset_id: 45108.0
+description: The DutchTwitterDataset is a collection of Dutch tweets used for various tasks in natural language processing and sentiment analysis. It consists of over 30 million tweets collected between 2014 and 2015, with a focus on Dutch users. The dataset includes information such as the tweet's text, the user's profile, and metadata like the location and timestamp. It has been pre-processed to remove spam, retweets, and non-Dutch tweets. The DutchTwitterDataset has been widely used in research to analyze sentiment and for other tasks like gender prediction, topic detection, and emotion classification in Dutch tweets.

@@ -1,0 +1,3 @@
+name: soybean
+dataset_id: 1023.0
+description: The soybean dataset is a collection of information regarding various attributes of soybean plants. It includes 683 instances, each representing a soybean plant sample with 35 different attributes, such as seed size, seed color, leaf size, leaf color, and other morphological characteristics. The dataset is categorized into four different classes, representing different types of soybean diseases: diaporthe-stem-canker, charcoal-rot, rhizoctonia-root-rot, and healthy. The dataset provides valuable information for the classification of soybean diseases and aids in understanding the relationship between the attributes of soybean plants and their disease status.

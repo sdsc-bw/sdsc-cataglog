@@ -1,0 +1,3 @@
+name: mom
+dataset_id: 41669.0
+description: "mom" is a dataset that contains information about the physical activity of mothers during pregnancy and after childbirth. The dataset includes variables such as the duration and intensity of physical activity, the type of activity performed, the time spent sedentary, and the total steps taken per day. It also contains demographic information like age, education level, and marital status, as well as the participants' weight, height, and body mass index (BMI). This dataset can be used to analyze the impact of physical activity on maternal health and to develop interventions to promote healthy behaviors in expectant and postpartum mothers.

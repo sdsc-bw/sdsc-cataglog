@@ -1,0 +1,3 @@
+name: guillermo_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44749.0
+description: The dataset "guillermo_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True" consists of 2000 rows and 100 columns, with 10 different classes. It is stratified, meaning that the distribution of classes is preserved in the dataset. The dataset is likely created by Guillermo, with a seed value of 1. It can be assumed that the dataset has been generated for use in machine learning or statistical analysis purposes, possibly for classification tasks with multiple classes. The dataset contains a sufficient number of samples to handle various analytical approaches, making it suitable for training and testing machine learning models.

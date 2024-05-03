@@ -1,0 +1,3 @@
+name: ibm-employee-performance
+dataset_id: 43905.0
+description: The dataset "ibm-employee-performance" contains information on employee performance at IBM. It includes data on various factors such as job satisfaction, work environment, performance ratings, promotions, and educational background. The dataset contains details on both current and former employees. This dataset can be used to analyze patterns and trends in employee performance and identify factors that contribute to high or low performance. It can also be used to develop models for predicting employee performance and understanding the impact of different variables on performance outcomes. Overall, the dataset provides valuable insights into the factors influencing employee performance in the context of IBM.

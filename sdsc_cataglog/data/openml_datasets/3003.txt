@@ -1,0 +1,3 @@
+name: medical_charges
+dataset_id: 42720.0
+description: The dataset medical_charges contains information on medical charges for different patients. It includes various attributes such as age, sex, body mass index (BMI), number of children, smoker status, region, and medical charges. The dataset aims to explore factors that may contribute to higher medical charges. It provides insights into the relationship between these attributes and the cost of medical treatment. Medical charges for patients who smoke and have a higher BMI tend to be higher. Additionally, the dataset allows for analyzing how age, sex, and number of children impact medical charges, as well as how different regions may influence healthcare expenses.

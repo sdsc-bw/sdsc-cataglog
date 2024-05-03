@@ -1,0 +1,3 @@
+name: parity5_plus_5
+dataset_id: 40706.0
+description: The dataset "parity5_plus_5" contains information related to binary numbers with five bits. It includes records with equal numbers of "0s" and "1s," ensuring a balanced distribution. The dataset comprises a total of 10,000 records, with each record consisting of five binary digits and a target variable indicating whether the number of "1s" is odd or even. The dataset aims to explore binary classification tasks, where the goal is to predict the parity (odd or even) of the binary number based on the five bits provided. This data is valuable for training and evaluating machine learning algorithms designed for binary classification problems.

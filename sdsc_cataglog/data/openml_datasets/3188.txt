@@ -1,0 +1,3 @@
+name: ACSIncome
+dataset_id: 43136.0
+description: The ACSIncome dataset contains information on average household income and the number of households from the American Community Survey (ACS). The data provides estimates for various geographical areas, including states, counties, and cities. It includes income statistics for different demographic groups such as income brackets, race, and age. The dataset allows researchers to analyze income disparities and trends across different regions and populations in the United States. It is a valuable resource for studying socioeconomic conditions, income inequality, and making informed decisions related to economic policies and planning.

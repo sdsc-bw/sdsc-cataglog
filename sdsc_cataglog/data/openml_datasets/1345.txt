@@ -1,0 +1,3 @@
+name: QSAR-TID-101338
+dataset_id: 3322.0
+description: The dataset QSAR-TID-101338 is comprised of 1128 chemical compounds with 365 numerical descriptors, which were derived from the 2D molecular structure of each compound. The descriptors were calculated using the DRAGON software, producing a high-dimensional representation of each compound. The objective of this dataset is to predict the half-life of the compounds in rats with the help of the numerical descriptors. The dataset provides valuable information for researchers interested in developing quantitative structure-activity relationship (QSAR) models for predicting the biological properties of chemical compounds. The dataset includes both training and test subsets to facilitate model building and evaluation.

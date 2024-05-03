@@ -1,0 +1,3 @@
+name: codrnaNorm
+dataset_id: 1241.0
+description: The dataset codrnaNorm is a collection of gene expression data for different types of cod fish tissues. It consists of RNA-seq data obtained from multiple samples, which have been normalized using various techniques to account for differences in library size and composition. The data includes information about genes and their corresponding expression levels in different tissues, such as muscle, liver, and brain. This dataset is valuable for understanding the molecular mechanisms and functional differences in gene expression across different cod fish tissues. It can also be used for comparative analysis with other fish species or to investigate gene expression changes in response to environmental factors or diseases.

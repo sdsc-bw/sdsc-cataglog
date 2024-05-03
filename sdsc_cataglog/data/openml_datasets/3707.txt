@@ -1,0 +1,3 @@
+name: IMDb-Ratings
+dataset_id: 43784.0
+description: IMDb-Ratings is a dataset that contains movie ratings collected from the internet database IMDb. The dataset includes ratings from various movies, along with other related information such as the number of votes and the director's name. It consists of 9 columns including movie_id, vote_average, vote_count, popularity, and budget. The dataset has a total of 44,617 rows, covering a wide range of movies from different genres and time periods. The data can be utilized for analyzing movie ratings, understanding viewer preferences, and conducting statistical and data mining research on the topic of movies and ratings.

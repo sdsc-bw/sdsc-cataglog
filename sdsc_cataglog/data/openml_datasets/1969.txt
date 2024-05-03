@@ -1,0 +1,3 @@
+name: QSAR-TID-12406
+dataset_id: 3955.0
+description: The QSAR-TID-12406 dataset is a compilation of quantitative structure-activity relationships (QSAR) data for a set of molecules. It contains information about the chemical structures of the molecules as well as their corresponding biological activities. The dataset is primarily focused on predicting the ability of the molecules to inhibit the formation of biofilms, which are associated with a range of diseases. It includes both experimental and theoretical data, making it valuable for studying and developing new drugs or treatments. The dataset has been curated and preprocessed to ensure data quality and is available for public use.

@@ -1,0 +1,3 @@
+name: features-and-price-of-computer-components
+dataset_id: 43836.0
+description: The dataset "features-and-price-of-computer-components" contains information about computer components and their respective prices. The dataset includes various features of these components, such as the brand, model, specifications, and performance indicators. Additionally, it provides details about the retail price of each component. This dataset can be used for analyzing the relationship between the features of computer components and their prices, allowing for insights into the pricing strategy of computer component manufacturers. It is a valuable resource for researchers, analysts, and businesses in the computer hardware industry to make informed decisions and develop pricing models.

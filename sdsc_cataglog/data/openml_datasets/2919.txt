@@ -1,0 +1,3 @@
+name: Santander_transaction_value
+dataset_id: 42572.0
+description: The dataset "Santander_transaction_value" contains information about the transaction values of customers with the Santander bank. It includes around 200,000 rows and 200 columns, which consist of various numerical features. The dataset has been anonymized, meaning that the column names and values have been masked to protect privacy. The target variable is not specified in the description, but it can be assumed that it relates to transaction value. This dataset is useful for analyzing and predicting transaction values using machine learning models or statistical techniques.

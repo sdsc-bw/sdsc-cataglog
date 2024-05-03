@@ -1,0 +1,3 @@
+name: QSAR-TID-10679
+dataset_id: 3724.0
+description: The QSAR-TID-10679 dataset contains information about chemical compounds and their potential toxic effects on aquatic organisms. The dataset includes 10679 instances or observations, each with 17 input features and one output variable. The input features represent different molecular descriptors of the chemical compounds, such as steric, electrostatic, and hydrophobic properties. The output variable indicates the toxicity level of the compounds towards aquatic organisms, ranging from highly toxic to non-toxic. This dataset is commonly used in research on quantitative structure-activity relationship (QSAR) modeling to predict the toxicity of chemicals and identify potential environmentally hazardous compounds.

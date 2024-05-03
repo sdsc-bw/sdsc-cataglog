@@ -1,0 +1,3 @@
+name: page-blocks
+dataset_id: 1021.0
+description: The dataset page-blocks consists of a collection of handwritten characters, isolated and segmented from 50 newspaper pages. Each character image is normalized to fit into a rectangle of 20x20 pixels. The dataset includes attributes such as the height, width, and on-x location of each character. There are seven classes in this dataset, representing different characters like letters, numbers, and other symbols. The dataset contains a total of 5473 instances, out of which 5100 instances are used for training and 373 for testing. Each instance is labeled with its corresponding class. This dataset can be used for various character recognition and classification tasks.

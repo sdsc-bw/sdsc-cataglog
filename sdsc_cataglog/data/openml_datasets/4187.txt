@@ -1,0 +1,3 @@
+name: wine_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44368.0
+description: The dataset named wine_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True is a wine dataset with 2000 rows, 10 classes, and 100 columns. The dataset is stratified, meaning that the class proportions are maintained in the dataset to ensure representativeness. It is likely a multi-class classification problem, where the goal is to classify wines into one of the ten classes. The dataset's features could include various properties of the wines, such as acidity, sugar content, and alcohol percentage. With the dataset's properties, it can be used for training and evaluating machine learning models to predict the class labels of new wines based on their features.

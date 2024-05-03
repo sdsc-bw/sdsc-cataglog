@@ -1,0 +1,3 @@
+name: Updated-Wine-Enthusiast-Reviews
+dataset_id: 43600.0
+description: The dataset Updated-Wine-Enthusiast-Reviews contains information about various wine reviews from Wine Enthusiast magazine. It consists of over 150,000 reviews, with each review including details such as a unique numerical identification, the wine's title, its designation (variety, country, and region), the reviewer's name, the wine's price, its rating on a scale of 1 to 100, a description of the wine, and additional information like the winery, the taster's Twitter handle, and the date of the review. This dataset provides extensive information for analysis and insights into wine reviews, including the characteristics, ratings, and reviews of different wines.

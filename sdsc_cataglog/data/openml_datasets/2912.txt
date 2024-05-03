@@ -1,0 +1,3 @@
+name: medical_charges_nominal
+dataset_id: 42559.0
+description: The medical_charges_nominal dataset contains information about medical charges for patients. It includes attributes such as age, sex, body mass index (BMI), children, smoker status, region, and charges. This dataset is nominal, meaning the attributes are categorical and not ordered. It consists of 1,338 instances and 7 attributes. The age attribute ranges from 18 to 64, BMI from 15.96 to 53.13, and charges from $1,121.87 to $63,770.43. The dataset is useful for analyzing factors that affect medical charges, such as age, BMI, smoking habits, and region. However, further exploration is needed to understand correlations and trends within the dataset.

@@ -1,0 +1,3 @@
+name: PhishingWebsites_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44673.0
+description: The dataset PhishingWebsites_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True contains information about phishing websites. It has 2000 rows and 100 columns, with 10 different classes of websites. The dataset is stratified, meaning that it is representative of the overall distribution of classes in the population. Each row in the dataset represents a unique website, and the columns contain various features or attributes of the websites. This dataset can be used for machine learning or statistical analysis to develop models that can detect and classify phishing websites based on the provided features.

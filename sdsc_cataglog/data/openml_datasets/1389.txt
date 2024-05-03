@@ -1,0 +1,3 @@
+name: QSAR-TID-10190
+dataset_id: 3366.0
+description: The dataset QSAR-TID-10190 is a collection of chemical compounds and their corresponding values for quantitative structure-activity relationships (QSAR). It consists of 4,100 molecules, each characterized by 41 molecular descriptors. The compounds are classified into two activity classes: active and inactive. This dataset is used for the development of prediction models to determine the activity of new compounds. It is derived from the PubChem database and provides valuable information for drug discovery and development.  Overall, QSAR-TID-10190 is a comprehensive dataset that aids in studying chemical compounds and their properties.

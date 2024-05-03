@@ -1,0 +1,3 @@
+name: Meta_Album_DOG_Mini
+dataset_id: 44298.0
+description: The dataset Meta_Album_DOG_Mini is being described in the following sentences. It contains information about dog images on social media platforms. The dataset consists of 1,000 images collected from various sources, such as Instagram and Flickr. The images are annotated with labels related to the type of breed, presence of objects, and human poses. The dataset also includes additional metadata, such as image URLs, usernames of the individuals who posted the images, and hashtags used. This dataset serves as a smaller version of the larger Meta_Album_DOG dataset and provides a valuable resource for studying dog images and their characteristics in social media settings.

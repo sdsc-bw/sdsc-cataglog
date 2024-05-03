@@ -1,0 +1,3 @@
+name: Istanbul-Airbnb-Dataset
+dataset_id: 43688.0
+description: The Istanbul-Airbnb-Dataset is a comprehensive dataset consisting of information about Airbnb listings in Istanbul, Turkey. It includes data from November 2019, covering areas such as price, location, review scores, amenities, host details, and more. The dataset consists of 20,000 records and provides a valuable resource for analyzing the short-term rental market in Istanbul. It can be used for various purposes, such as predicting rental prices, understanding customer preferences, and identifying trends in the Airbnb market. The dataset is publicly available and can be accessed for research and analysis purposes.

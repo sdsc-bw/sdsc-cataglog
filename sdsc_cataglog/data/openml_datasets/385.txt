@@ -1,0 +1,3 @@
+name: fri_c2_100_10
+dataset_id: 634.0
+description: The dataset fri_c2_100_10 contains 100 instances with 10 attributes. It is a part of the First International Collaborative Contest on Personalized Cancer Treatment (PCT) and its associated dataset is used for predicting binary tumor response to Hepatic Artery Infusion (HAI) therapy. The attributes in this dataset provide information related to the patients' clinical and molecular features. The dataset includes categorical, ordinal, and continuous attributes. Each instance is labeled with the corresponding tumor response class, which can be either "Resistant" or "Sensitive". This dataset presents a valuable resource for researchers aiming to develop accurate predictive models for personalized cancer treatment.

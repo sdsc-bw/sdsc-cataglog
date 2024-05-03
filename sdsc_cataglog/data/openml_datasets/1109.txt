@@ -1,0 +1,3 @@
+name: QSAR-TID-10250
+dataset_id: 3085.0
+description: The dataset QSAR-TID-10250 is related to the prediction of toxicity in chemical substances. It contains information on the molecular structures and various physicochemical properties of 10250 compounds. These compounds were evaluated for their toxicity against bacteria called Escherichia coli. The dataset includes 47 attributes, including molecular weight, octanol-water partition coefficient, and hydrogen bond donor count. The toxicity was measured through minimal inhibitory concentration (MIC) values. The dataset aims to facilitate the development of QSAR (Quantitative Structure-Activity Relationship) models to predict the toxicity of new chemical compounds and assist in drug design and discovery processes.

@@ -1,0 +1,3 @@
+name: CNS
+dataset_id: 45086.0
+description: The dataset CNS is a comprehensive collection of neural signals obtained from brain recordings in non-human primates. It encompasses data from various experimental tasks, representing a wide range of neural processes. The dataset includes information regarding both single-unit and multi-unit activity, electrocorticography (ECoG), and local field potentials (LFPs). It covers diverse brain regions, such as the prefrontal cortex, parietal cortex, and motor cortex. CNS provides researchers with valuable insights into the neural mechanisms underlying cognitive processes and motor control. Due to its breadth and depth, the dataset CNS has become a crucial resource for studying and understanding brain function.

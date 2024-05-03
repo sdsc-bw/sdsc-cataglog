@@ -1,0 +1,3 @@
+repo_name: AdvBox
+link: https://github.com/advboxes/AdvBox
+description: "Advbox Family is a series of AI model security tools set of Baidu Open.Source,including the generation, detection and protection of adversarial.examples, as well as attack and defense cases for different AI applications. Advbox Family support Python 3.*. A Lightweight Adv SDK For PaddlePaddle to generate adversarial examples. Adversarialbox is a toolbox to generate adversarial examples that fool neural.networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can.benchmark the robustness of machine learning models.Advbox give a command line.tool to generate adversarial examples with Zero-Coding. It is inspired and.based on FoolBox v1."

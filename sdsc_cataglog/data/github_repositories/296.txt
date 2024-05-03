@@ -1,0 +1,3 @@
+repo_name: casme
+link: https://github.com/kondiz/casme
+description: This repository contains the code originally forked from the ImageNet training in PyTorch that is modified to present the performance of classifier-agnostic saliency map extraction, a practical algorithm to train a classifier-agnostic saliency mapping by simultaneously training a classifier and a saliency mapping. The method was proposed by Konrad Żołna, Krzysztof J. Geras and Kyunghyun Cho.

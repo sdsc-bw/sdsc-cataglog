@@ -1,0 +1,3 @@
+name: alarm_2
+dataset_id: 45111.0
+description: The dataset alarm_2 consists of records from 1900 to 1992, with each record having 37 attributes. It was created to develop a predictive model for alarms in a system. The dataset covers scenarios like failures, malfunctions, and maintenance activities. The attributes include information about the alarm, its priority, cause, and response requirements. The dataset is highly imbalanced, with normal alarms being the majority class. The dataset aims to assist in alarm prediction and response optimization by providing historical data on alarm incidents.

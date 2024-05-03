@@ -1,0 +1,3 @@
+name: BurkittLymphoma
+dataset_id: 1084.0
+description: The BurkittLymphoma dataset contains genetic information of lymphoma tumors from patients diagnosed with Burkitt lymphoma, a type of non-Hodgkin's lymphoma. The dataset comprises gene expression profiles of cancer cells, measured using microarray technology, and clinical information such as age, sex, and survival status. The genetic data includes measurements of thousands of genes, allowing researchers to explore the molecular characteristics and potential biomarkers associated with Burkitt lymphoma. This dataset provides insights into the biology and molecular mechanisms underlying this aggressive cancer, aiding in the development of targeted therapies and improved patient outcomes.

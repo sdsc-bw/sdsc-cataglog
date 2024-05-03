@@ -1,0 +1,3 @@
+repo_name: go-featureprocessing
+link: https://github.com/nikolaydubina/go-featureprocessing
+description: go-featureprocessing is a fast and simple sklearn-like feature processing library for Go. It offers high performance on typical use cases, with processing times of around 100ns for a single sample. The library includes a transformer that can be serialized and de-serialized by standard Go routines, making it easy to read, update, and integrate with other tools. Additionally, go-featureprocessing offers a reflection-based version as an alternative to the go:gencode version, although this version comes with added overhead that becomes noticeable for structs with a lot of fields. For more information, including benchmarks and profiling data, see the documentation.

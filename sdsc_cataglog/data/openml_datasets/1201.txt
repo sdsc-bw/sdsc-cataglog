@@ -1,0 +1,3 @@
+name: QSAR-TID-103063
+dataset_id: 3177.0
+description: The dataset QSAR-TID-103063 consists of information on chemical compounds and their corresponding biological activities. It includes 410 compounds with known activity values against a specific molecular target. The dataset provides various features, such as molecular descriptors and chemical properties, that can be used to predict the biological activity of compounds. The objective of this dataset is to develop a quantitative structure-activity relationship (QSAR) model to accurately predict compound activity. It serves as a valuable resource for researchers and scientists involved in drug discovery and designing new molecules with desired biological effects.

@@ -1,0 +1,3 @@
+repo_name: TensorRT
+link: https://github.com/NVIDIA/TensorRT
+description: TensorRT is an open source software component of NVIDIA that includes sources for TensorRT plugins and parsers (Caffe and ONNX), as well as sample applications demonstrating usage and capabilities of the TensorRT platform. To build the TensorRT-OSS components, you will first need to download the TensorRT GA build (optional if using TensorRT container) and generate the TensorRT-OSS build container, which can be configured for building TensorRT OSS out-of-the-box. After setting up the build environment, you can generate Makefiles or VS project (Windows) and build.

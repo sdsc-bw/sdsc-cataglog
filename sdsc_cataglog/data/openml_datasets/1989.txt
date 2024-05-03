@@ -1,0 +1,3 @@
+name: QSAR-TID-11126
+dataset_id: 3975.0
+description: The dataset QSAR-TID-11126 contains information about the biological activity of chemical compounds. It includes 1055 compounds, each represented by 41 molecular descriptors and a binary activity value indicating whether the compound is active or inactive against a specific biological target. The dataset was produced using a regression model that assigned quantitative value to the activity. The regression model achieved an accuracy of 73.3% in correctly predicting the activity of compounds. This dataset can be used for various machine learning tasks such as classification and regression to develop predictive models for chemical activity.

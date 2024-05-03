@@ -1,0 +1,3 @@
+name: anneal
+dataset_id: 44263.0
+description: The dataset "anneal" contains 898 instances, each with 38 different attributes. The dataset is related to the prediction of the yield of a particular steel alloy. The attributes include various factors like the chemical composition, processing method, and the thickness of the steel. The dataset has been preprocessed to remove missing values and to ensure consistency in attribute formats. The dataset also contains class labels indicating whether the steel alloy has high or low yield strength. The "anneal" dataset serves as a useful resource for research and analysis in the field of material science and metallurgy, aiding in the prediction and optimization of steel alloy properties.

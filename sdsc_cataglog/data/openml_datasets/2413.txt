@@ -1,0 +1,3 @@
+name: atp7d
+dataset_id: 41551.0
+description: The dataset ATP7D focuses on a specific gene called ATP7D, which is associated with a disease called Menkes disease. This disease is characterized by impaired copper transport and metabolism. The dataset provides information on the expression levels of ATP7D in different tissues, as well as its variations in healthy individuals and patients with Menkes disease. It includes data from multiple experiments and technologies, such as microarray and RNA sequencing. The dataset aims to offer a comprehensive understanding of the expression patterns and regulation of ATP7D, facilitating further research and potential therapeutic approaches for Menkes disease.

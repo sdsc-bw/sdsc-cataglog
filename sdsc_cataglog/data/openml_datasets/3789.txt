@@ -1,0 +1,3 @@
+name: law-school-admission-bianry
+dataset_id: 43889.0
+description: The dataset "law-school-admission-bianry" contains information on the admission status of law school applicants. It includes various attributes such as undergraduate GPA, Law School Admission Test (LSAT) scores, and the admission decision (Admitted/Not Admitted). The dataset comprises 21,638 instances and 4 features. The primary goal of the dataset is to predict the likelihood of admission based on the available attributes. By training machine learning models on this dataset, researchers can gain insights into the relationship between the applicant's academic performance and their admission status, ultimately aiding in the decision-making process for law school admissions.

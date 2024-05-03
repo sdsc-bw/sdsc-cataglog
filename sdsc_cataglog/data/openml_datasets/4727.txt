@@ -1,0 +1,3 @@
+name: 9_Tumors
+dataset_id: 45083.0
+description: The dataset "9_Tumors" consists of 9 different types of tumor samples. Each sample includes various features such as gene expression levels, protein expression levels, and clinical information. The dataset is mainly focused on understanding the molecular characteristics of tumors, as well as their potential correlation with clinical outcomes. It is collected from patient samples with different tumor types, including breast, lung, and prostate cancer. The dataset is widely used for research purposes in the field of cancer biology and oncology. It provides valuable insights into tumor heterogeneity and enables the development of predictive models and personalized treatment approaches.

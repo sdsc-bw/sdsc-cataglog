@@ -1,0 +1,3 @@
+name: QSAR-TID-10918
+dataset_id: 3197.0
+description: The dataset QSAR-TID-10918 is a collection of numerical and categorical descriptors of chemical compounds. It includes 9,937 instances, each with 203 descriptors. The compounds are classified into three classes: active, moderately active, and inactive. The dataset was obtained from the PubChem BioAssay database and is relevant for QSAR studies. The descriptors cover various aspects of the compounds, including molecular structure, shape, and electrochemical properties. This dataset serves as a valuable resource for researchers in drug discovery and chemical informatics to develop predictive models and understand the relationship between molecular properties and biological activity.

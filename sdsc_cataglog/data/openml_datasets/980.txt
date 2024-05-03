@@ -1,0 +1,3 @@
+name: thoracic-surgery
+dataset_id: 1506.0
+description: The "thoracic-surgery" dataset contains information about patients who have undergone thoracic surgery. It includes 470 instances with 17 features, including the patients' age, forced vital capacity (FVC), performance status, etc. The dataset also includes the patients' survival status, with a value of 1 representing the patient has survived for at least one year, and 2 indicating the patient has survived less than one year. The aim of this dataset is to predict the survival status of patients based on the given features. This dataset can be useful for researchers and medical professionals in understanding the factors influencing the survival of thoracic surgery patients.

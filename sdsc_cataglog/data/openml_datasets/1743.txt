@@ -1,0 +1,3 @@
+name: QSAR-TID-30046
+dataset_id: 3726.0
+description: QSAR-TID-30046 is a dataset consisting of 30046 chemical compounds with their respective quantitative structure-activity relationship (QSAR) values. The dataset was generated to aid in the development of models for predicting the biological activity of new chemical compounds. It contains various features including molecular descriptors, chemical properties, and biological activities. QSAR-TID-30046 can be used for training and evaluating machine learning models and algorithms, as well as for exploring relationships between chemical structures and their activities. The dataset is publicly available and can be accessed for research and application purposes in the field of drug discovery and design.

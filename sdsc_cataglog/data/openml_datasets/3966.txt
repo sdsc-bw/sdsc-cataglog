@@ -1,0 +1,3 @@
+name: Higgs
+dataset_id: 44092.0
+description: The Higgs dataset is derived from an experiment at the Large Hadron Collider, where physicists sought evidence of the Higgs boson. It contains 28 features, including 21 high-level kinematic properties, measured in simulated particle collisions. The dataset provides labeled observations of the Higgs boson signal, while the background observations correspond to known physics processes that mimic the signal. The goal is to distinguish the two classes and determine the presence or absence of the Higgs boson. The dataset was used for binary classification tasks in machine learning and has been widely analyzed to develop models for predicting the Higgs boson's existence.

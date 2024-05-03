@@ -1,0 +1,3 @@
+name: Grasping-Dataset
+dataset_id: 43708.0
+description: The Grasping-Dataset is a large-scale dataset that contains various object grasps and related data. It consists of over 11000 grasp attempts on 238 common objects, captured from a depth sensor. The dataset includes both successful and failed grasps, allowing for a comprehensive analysis of grasp success rates. Each grasp attempt is annotated with important information such as object labels, grasp pose, and depth images. The dataset aims to provide valuable insights into the challenging task of robotic grasping and support advancements in robotic manipulation and learning-based approaches. It can be used for training and evaluating grasping algorithms and developing robust robotic systems.

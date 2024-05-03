@@ -1,0 +1,3 @@
+name: FOREX_gbpusd-minute-Close
+dataset_id: 41795.0
+description: The dataset FOREX_gbpusd-minute-Close contains minute-level close prices for the GBP/USD currency pair in the foreign exchange market. It includes historical data, and each entry corresponds to a specific minute. The dataset provides details about the closing prices during these minutes, indicating the value at which the market closed for that particular minute. The dataset is particularly relevant for traders and analysts who wish to study the GBP/USD pair's price movements in fine-grained detail. This data can be used to analyze trends, identify patterns, and develop trading strategies based on minute-level fluctuations in the GBP/USD exchange rate.

@@ -1,0 +1,3 @@
+name: premier_league_matches_2014_2015
+dataset_id: 42195.0
+description: The dataset premier_league_matches_2014_2015 contains information about football matches in the English Premier League during the 2014-2015 season. It is a comprehensive dataset that includes details such as the date and time of each match, the teams involved, the scoreline, and the stadium. Additionally, it provides information about the referees and their respective nationalities for each game. This dataset is valuable for conducting various analyses related to the Premier League, such as team performance, goal statistics, and referee biases. It allows researchers and football enthusiasts to gain insights into the outcomes and trends of matches during that particular season.

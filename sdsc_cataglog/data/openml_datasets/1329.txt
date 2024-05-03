@@ -1,0 +1,3 @@
+name: QSAR-TID-134
+dataset_id: 3305.0
+description: The dataset QSAR-TID-134, available on the OpenML platform, contains information about the toxicity of chemical compounds. It consists of 1527 instances and 1026 attributes. The toxicity values of these compounds were obtained through a lab experiment, and the attributes provide information about their structural properties and molecular descriptors. The dataset aims to explore the relationship between the structural features of chemical compounds and their toxicity levels. It is often used for developing predictive models to determine the toxicity of unknown compounds based on their structural properties.

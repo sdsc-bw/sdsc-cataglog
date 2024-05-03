@@ -1,0 +1,3 @@
+name: Spotify---All-Time-Top-2000s-Mega-Dataset
+dataset_id: 43386.0
+description: The Spotify All-Time-Top-2000s-Mega-Dataset is a collection of data consisting of the most popular songs from the 2000s on the Spotify streaming platform. The dataset contains information on various aspects of each song, such as the artist, song title, genre, danceability, energy, key, loudness, and tempo. The dataset also includes the popularity and year of release for each song. It is a comprehensive resource for analyzing and understanding the musical trends and preferences during the 2000s, making it valuable for researchers, music enthusiasts, and data scientists.

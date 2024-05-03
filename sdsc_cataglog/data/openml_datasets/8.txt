@@ -1,0 +1,3 @@
+name: lymph
+dataset_id: 10.0
+description: The dataset "lymph" contains information about patients with suspected lymphomas. It consists of 148 instances and 19 attributes. The data was collected through medical examinations and laboratory tests. The attributes provide details related to patient age, gender, specific blood test results, and information about the size and location of the lymph nodes. The dataset is publicly available and primarily used for classification tasks to identify the presence or absence of lymphoma based on the provided features. This dataset can be valuable for researchers and healthcare professionals studying lymphomas and developing diagnostic models.

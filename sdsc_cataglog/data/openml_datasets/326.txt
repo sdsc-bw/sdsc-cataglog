@@ -1,0 +1,3 @@
+name: kdd_coil_4
+dataset_id: 575.0
+description: The dataset kdd_coil_4 is widely used for studying and evaluating algorithms related to pattern recognition and classification tasks. It contains a total of 982 examples, each represented by a feature vector of 85 attributes. The dataset is specifically useful for coil type defect classification in high-frequency data, making it suitable for research in non-destructive testing. The dataset provides detailed information on each defect, such as its location and other characteristics. Due to its rich and diverse nature, kdd_coil_4 has become a popular choice among researchers and practitioners working in the field of machine learning and data analysis.

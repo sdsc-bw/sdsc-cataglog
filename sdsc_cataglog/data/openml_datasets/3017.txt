@@ -1,0 +1,3 @@
+name: open_payments
+dataset_id: 42738.0
+description: The dataset open_payments includes data on financial relationships between healthcare providers and pharmaceutical companies. It provides information on payments made by drug and medical device companies to physicians, teaching hospitals, and other healthcare providers. The dataset includes details about the nature of the payment, such as consulting fees, research grants, and gifts, as well as the name and location of the recipient. The data is public and aims to promote transparency and accountability in the healthcare industry. It allows researchers, regulators, and the public to analyze potential conflicts of interest and influence on medical decision-making.

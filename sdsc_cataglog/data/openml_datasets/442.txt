@@ -1,0 +1,3 @@
+name: diggle_table_a2
+dataset_id: 694.0
+description: The dataset diggle_table_a2 contains information about various plants. It consists of 899 observations with 20 variables. The variables include details such as the plant's species, year of measurement, location, and various measurements related to the plant's size and growth. Each observation represents a different plant. The dataset provides a comprehensive collection of data points that can be used to analyze and study the characteristics and behavior of these plants over time. The variables in the dataset allow researchers to explore relationships between different factors and draw conclusions about the plant species in question.

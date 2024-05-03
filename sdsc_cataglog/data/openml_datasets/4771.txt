@@ -1,0 +1,3 @@
+name: barley_9
+dataset_id: 45129.0
+description: The barley_9 dataset contains information on the yields of different varieties of barley grown in different locations and years. It consists of nine independent variables, including the variety of barley, nitrogen content, and the location and year of cultivation. The dependent variable is the yield of barley. The dataset was collected to study the effects of various factors on barley yield and to explore the potential for predicting yields based on these variables. It is a small dataset with 120 observations, making it suitable for exploratory data analysis and regression modeling.

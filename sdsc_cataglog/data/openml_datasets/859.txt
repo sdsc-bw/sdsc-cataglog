@@ -1,0 +1,3 @@
+name: AP_Endometrium_Colon
+dataset_id: 1133.0
+description: The dataset AP_Endometrium_Colon contains information about endometrial and colon cancer. It includes gene expression data from patients with these cancers, which can provide insights into the molecular mechanisms underlying their development and progression. The dataset also includes clinical information about the patients, such as their age, gender, and survival status. Researchers can utilize this dataset to investigate the genetic and clinical factors associated with endometrial and colon cancer, potentially leading to the discovery of biomarkers or therapeutic targets. Overall, this dataset can contribute to a better understanding and management of these types of cancer.

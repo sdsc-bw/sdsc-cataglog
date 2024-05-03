@@ -1,0 +1,3 @@
+name: chscase_whale
+dataset_id: 939.0
+description: The dataset called chscase_whale contains information about whale sightings reported by members of the community in Cape Cod, Massachusetts. The data is collected by the Center for Coastal Studies and includes details such as the species of whale, the location and date of the sighting, and the number of individuals observed. The dataset aims to provide valuable information for researchers studying whale populations and their behavior. It allows for the analysis of trends in whale sightings over time and helps identify areas of high whale activity. The data is publicly available and can be used for various purposes related to marine mammal conservation and research.

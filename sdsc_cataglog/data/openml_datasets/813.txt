@@ -1,0 +1,3 @@
+name: mouseType
+dataset_id: 1083.0
+description: The mouseType dataset consists of information about the behavior of 60 mice during a study. It includes 10 variables describing different aspects of the mice's behavior such as age, weight, gender, and genotype. The dataset also contains data on the mice's neurobehavioral responses to different stimuli, including scores for different tasks and exploratory behavior. The mice were divided into two groups: control and treated with a drug. The dataset provides researchers with a comprehensive overview of the mice's behavior and allows for analysis of the effects of the drug on their neurobehavioral responses.

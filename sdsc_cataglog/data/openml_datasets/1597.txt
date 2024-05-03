@@ -1,0 +1,3 @@
+name: QSAR-TID-10004
+dataset_id: 3582.0
+description: The QSAR-TID-10004 dataset contains information on the toxicity of various compounds. It includes data on molecular descriptors, such as chemical structure and properties, as well as the corresponding experimental toxicity values. The toxicity values were obtained using various bioassay systems. The dataset aims to facilitate the development of predictive models for estimating toxicity based on the molecular descriptors. It is specifically designed for the task of quantitative structure-activity relationship (QSAR) modeling. The dataset is publicly available and can be used for research and analysis in the field of toxicology and drug discovery.

@@ -1,0 +1,3 @@
+name: cpu_small
+dataset_id: 562.0
+description: The dataset cpu_small contains information about various processors such as their vendor, model name, measured speed, and the number of sockets they have. It includes data from 30 different processors. Each entry in the dataset also includes the amount of RAM and the price of the processor. The dataset provides a comprehensive overview of different CPU models, allowing for analysis and comparison of their characteristics. The dataset's small size may limit its applicability for extensive analysis but can still serve as a valuable resource for initial exploration and basic insights into processor features and pricing.

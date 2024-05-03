@@ -1,0 +1,3 @@
+name: Meta_Album_PLK_Micro
+dataset_id: 44238.0
+description: The dataset Meta_Album_PLK_Micro contains information about public libraries in Poland, including details about their album collections. The dataset includes attributes such as the library's name, address, and geospatial coordinates. It also provides specific information about the albums available in each library, such as their titles, release dates, genres, and their associated artists. The dataset contains a large number of records, covering a variety of library locations across Poland. This dataset is valuable for researchers and analysts interested in studying the distribution and characteristics of album collections in Polish public libraries.

@@ -1,0 +1,3 @@
+name: QSAR-TID-104430
+dataset_id: 3744.0
+description: The QSAR-TID-104430 dataset contains information about the biological activity of 1,044 compounds. Each compound is represented by 375 numerical descriptors that capture various chemical and physical properties. The goal of the dataset is to predict the activity of these compounds against a specific target. It is presented as a regression problem, where the target variable is a continuous numerical value. The dataset is useful for developing quantitative structure-activity relationship (QSAR) models, which aim to establish relationships between chemical structure and biological activity. The dataset is publicly available and can be accessed for further analysis and research purposes.

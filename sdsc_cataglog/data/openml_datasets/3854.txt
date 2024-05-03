@@ -1,0 +1,3 @@
+name: california
+dataset_id: 43979.0
+description: The dataset "california" contains information about various aspects of California's housing market. It provides detailed data on variables such as the median house value, median income, population, and other socio-economic attributes of different districts in the state. The dataset has a total of 20,640 entries, with each entry representing a different district. The primary purpose of this dataset is to explore the relationships between these variables and analyze patterns and trends in California's housing market. Researchers can use this dataset to conduct various analyses and develop predictive models related to the housing market in California.

@@ -1,0 +1,3 @@
+name: fri_c2_1000_5
+dataset_id: 599.0
+description: The dataset fri_c2_1000_5 contains 1000 instances and 5 attributes. It is primarily used for classification tasks. Each instance represents a person and includes attributes such as age, education, income, marital status, and occupation. The dataset aims to predict the class attribute, which indicates whether the person is in a low or high income bracket. It is relevant for studying socioeconomic patterns and determining factors contributing to income disparities. The dataset is widely used in machine learning research and serves as a benchmark for developing classification algorithms.

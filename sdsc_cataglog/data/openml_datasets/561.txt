@@ -1,0 +1,3 @@
+name: diggle_table_a1
+dataset_id: 817.0
+description: The dataset, diggle_table_a1, consists of observations made on a group of individuals over a period of time. It includes information about the individual's age, gender, body weight, and blood pressure. The dataset also includes measurements for other variables such as heart rate, blood sugar levels, and cholesterol levels. The data is organized in a tabular format, with each row representing an individual and each column representing a specific variable. This dataset is commonly used for statistical analysis and modeling to study the relationships between the variables and make predictions about the health and well-being of the individuals.

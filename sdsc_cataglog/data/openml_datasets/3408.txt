@@ -1,0 +1,3 @@
+name: 2019-Ironman-World-Championship-Results
+dataset_id: 43482.0
+description: The dataset 2019-Ironman-World-Championship-Results contains information about the Ironman World Championship held in 2019. It includes various details such as race results, athlete information, and split times in different segments of the race. The dataset features over 2,400 observations and encompasses both male and female participants. The variables in this dataset provide insights on the participants' ages, nationalities, overall ranks, and splits in swimming, cycling, and running. With its comprehensive information, the dataset enables analysis and comparison of athletes' performances, highlighting their strengths and areas for improvement in this prestigious endurance event.

@@ -1,0 +1,3 @@
+name: QSAR-TID-12895
+dataset_id: 3281.0
+description: The dataset QSAR-TID-12895 contains information about the biological activity of compounds. It consists of 8,285 different compounds, each characterized by 8 molecular features. The dataset was curated to assess the effectiveness of quantitative structure-activity relationship (QSAR) models in predicting the activity of these compounds. The aim is to develop models that can accurately predict the biological activity of new compounds based on their molecular features. The dataset can be used to analyze and train QSAR models, allowing researchers to explore relationships between molecular features and biological activity, ultimately aiding in drug discovery and design processes.

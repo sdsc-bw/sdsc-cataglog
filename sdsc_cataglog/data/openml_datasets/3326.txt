@@ -1,0 +1,3 @@
+name: Shark-Tank-Pitches
+dataset_id: 43396.0
+description: The dataset Shark-Tank-Pitches provides information about the entrepreneurs and companies that have pitched their ideas on the popular TV show "Shark Tank." The dataset includes details such as the product or service being pitched, the entrepreneurs' background, the sharks' investments and deals made, and the outcome of each pitch. It also contains information on the outcome of the pitch, such as whether a deal was made or rejected. The dataset aims to provide insights into the types of ideas and entrepreneurs that have been successful on the show and to analyze the trends and patterns of pitches over time.

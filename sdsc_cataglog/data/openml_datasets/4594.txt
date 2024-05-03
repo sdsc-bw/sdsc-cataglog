@@ -1,0 +1,3 @@
+name: sf-police-incidents_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44773.0
+description: The dataset "sf-police-incidents_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns, with a seed value of 0. The dataset is stratified, meaning that the distribution of classes is preserved. There are 10 different classes in the dataset. The details of the classes or the nature of the dataset is not mentioned. It is unclear what type of incidents the dataset represents or what the columns represent. The dataset is presumably related to police incidents in San Francisco, but more information is required for a comprehensive understanding.

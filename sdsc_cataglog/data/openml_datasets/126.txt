@@ -1,0 +1,3 @@
+name: puma32H
+dataset_id: 308.0
+description: The dataset puma32H is a collection of information related to the 32-bit version of the PUMA program. It consists of 8192 rows and several columns representing different variables. The dataset is suitable for different types of analysis, such as regression or classification tasks. It contains both numerical and categorical data, with missing values present in some columns. The purpose of this dataset is to provide researchers and analysts with a robust and comprehensive dataset for experimentation and modeling purposes. The dataset is curated and maintained regularly to ensure data accuracy and reliability for various statistical analyses.

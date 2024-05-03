@@ -1,0 +1,3 @@
+name: FOREX_eurjpy-day-Close
+dataset_id: 41754.0
+description: The dataset FOREX_eurjpy-day-Close pertains to daily closing prices of the currency pair EUR/JPY in the foreign exchange market. It contains a range of values representing the final prices at which the Euro (EUR) is exchanged for the Japanese Yen (JPY) on each trading day. The dataset is likely to include information such as date, closing price, and possibly other variables. It allows analysis of the historical trends, patterns, and fluctuations in the EUR/JPY exchange rate, providing insights for traders and researchers in the forex market.

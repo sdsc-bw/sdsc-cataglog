@@ -1,0 +1,3 @@
+name: Meta_Album_TEX_Extended
+dataset_id: 44322.0
+description: The dataset Meta_Album_TEX_Extended focuses on extended information about music albums. It provides details such as album titles, artists, release dates, genres, record labels, and album formats. It also includes additional data such as song lengths, composers, lyrics, and album ratings. The dataset contains a comprehensive collection of 8,000 albums, covering various genres and artists from different time periods. It can be used for music research, analytics, and recommendation systems. The dataset is comprehensive and provides extensive information about albums and songs, making it valuable for various music-related applications.

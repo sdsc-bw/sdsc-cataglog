@@ -1,0 +1,3 @@
+repo_name: cupy
+link: https://github.com/cupy/cupy
+description: CuPy is a NumPy/SciPy-compatible array library for GPU-accelerated computing with Python. CuPy acts as a drop-in replacement to run existing NumPy/SciPy code on NVIDIA CUDA or AMD ROCm platforms. CuPy also provides access to low-level CUDA features such as RawKernels, Streams, and even CUDA Runtime APIs directly. Binary packages are available for Linux and Windows on PyPI and Conda-Forge. CuPy is being developed and maintained by Preferred Networks and community contributors.

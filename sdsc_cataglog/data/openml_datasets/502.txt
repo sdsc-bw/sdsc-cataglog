@@ -1,0 +1,3 @@
+name: sleuth_ex1605
+dataset_id: 755.0
+description: The dataset sleuth_ex1605 consists of air quality data obtained from two different monitoring stations. The data was collected over a period of one year and includes measurements such as ozone concentration, wind speed, temperature, and solar radiation. The purpose of this dataset is to analyze and compare the air quality at two different locations. The dataset also includes information on the location of the monitoring stations, which are situated in an urban and a rural area respectively. This dataset can be used to study the variations in air quality between urban and rural areas and how factors like temperature and solar radiation can influence air pollution levels.

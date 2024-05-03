@@ -1,0 +1,3 @@
+name: higgs
+dataset_id: 23512.0
+description: The Higgs dataset is a collection of particle collision events, specifically those events that were simulated in the quest to discover the elusive Higgs boson. It includes information about the properties and characteristics of these events, such as the energy measurements, momentum, and angles of the detected particles. The dataset is extensive, containing millions of examples, making it a valuable resource for studying particle physics and machine learning. It has been widely used in research to develop models and algorithms to identify and distinguish Higgs boson events from background noise, furthering our understanding of fundamental particles and the nature of the universe.

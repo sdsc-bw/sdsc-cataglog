@@ -1,0 +1,3 @@
+name: disclosure_x_noise
+dataset_id: 704.0
+description: The dataset "disclosure_x_noise" consists of financial data collected over multiple quarters from various organizations. It includes information on revenue, expenses, and other financial metrics. The data has been anonymized to protect the privacy of the organizations. Additionally, noise has been added to the dataset to ensure confidentiality. The purpose of this dataset is to provide a realistic representation of financial data while respecting the privacy of the organizations involved. It can be used for various purposes such as statistical analysis and prediction modeling, keeping in mind the need for appropriate normalization and noise handling.

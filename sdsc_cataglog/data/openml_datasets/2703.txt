@@ -1,0 +1,3 @@
+name: airquality
+dataset_id: 42058.0
+description: The dataset "airquality" contains information about daily air quality measurements from May to September 1973 in New York City. It consists of five variables: Ozone, Solar.R, Wind, Temp, and Month, representing the ozone levels, solar radiation, wind speed, temperature, and month of the measurements, respectively. The dataset has 153 observations with missing values. The ozone variable has 37 missing values, while the Solar.R variable has 7 missing values. The dataset is commonly used for analyzing air pollution patterns and predicting ozone levels based on other factors like temperature and wind speed.

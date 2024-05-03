@@ -1,0 +1,3 @@
+name: space_ga
+dataset_id: 507.0
+description: The space_ga dataset is a collection of data related to the exploration and study of outer space. It comprises information about galaxies, stars, planets, asteroids, and other celestial bodies. The dataset includes details such as their positions, compositions, distances from Earth, and various other physical attributes. Additionally, it contains measurements of cosmic radiation, gravitational forces, and other phenomena occurring in space. The space_ga dataset is widely used in scientific research and is valuable for studying the universe, understanding celestial objects' behaviors, and advancing astronomical knowledge.

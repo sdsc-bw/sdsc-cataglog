@@ -1,0 +1,3 @@
+name: elevators
+dataset_id: 846.0
+description: The dataset "elevators" contains information about elevator usage in a building. It includes attributes such as the date, time, floor, direction, and elevator ID. The dataset spans a certain period, providing insights into patterns and trends in elevator usage. The data can be utilized to analyze traffic flows, identify peak usage hours, and optimize elevator operations. It enables understanding of how elevator demand varies across different floors and time intervals, helping to inform decision-making related to elevator maintenance, capacity, and efficiency enhancements. The elevators dataset offers valuable insights for building managers and engineers seeking to enhance elevator performance and user experience.

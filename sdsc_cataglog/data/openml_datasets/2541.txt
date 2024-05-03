@@ -1,0 +1,3 @@
+name: FOREX_audjpy-hour-Close
+dataset_id: 41806.0
+description: The dataset FOREX_audjpy-hour-Close contains hourly closing prices of the AUD/JPY currency pair in the foreign exchange (FOREX) market. The dataset provides information on the exchange rates between the Australian Dollar (AUD) and Japanese Yen (JPY) for consecutive hourly intervals. The closing prices represent the final price at the end of each hour and can reflect changes in market sentiment and trading activity. This dataset is valuable for analyzing the AUD/JPY exchange rate dynamics, identifying patterns, and making informed trading decisions based on historical price movements.

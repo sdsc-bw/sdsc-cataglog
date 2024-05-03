@@ -1,0 +1,3 @@
+name: QSAR-TID-12983
+dataset_id: 4019.0
+description: The QSAR-TID-12983 dataset is a collection of chemical compounds and their associated biological activity values. It consists of 1344 instances, each described by 590 molecular descriptors. The dataset is divided into two sets: a training set with 907 instances and a test set with 437 instances. The biological activity values range from 0.923 to 5.231. The dataset is used to develop quantitative structure-activity relationship (QSAR) models to predict the biological activity of new compounds based on their molecular descriptors. The dataset is publicly available and has been widely used in QSAR research.

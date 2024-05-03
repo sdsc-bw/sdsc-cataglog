@@ -1,0 +1,3 @@
+name: QSAR-TID-235
+dataset_id: 3215.0
+description: The dataset QSAR-TID-235 consists of 235 chemical compounds with 21 features, where each compound is represented by a binary value indicating its toxicity. The compounds are divided into two categories: active compounds and inactive compounds. The features include molecular descriptors and constitutional descriptors. The dataset can be used to develop models for predicting the toxicity of chemical compounds based on their features. Additionally, it can be used for feature selection and dimensionality reduction tasks. The dataset is publicly available and can aid in the development of predictive models for toxicological applications.

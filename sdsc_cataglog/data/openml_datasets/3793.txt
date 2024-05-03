@@ -1,0 +1,3 @@
+name: ibm-employee-attrition
+dataset_id: 43893.0
+description: The dataset "ibm-employee-attrition" contains information about employee attrition at IBM. It consists of 1,470 entries and 35 variables. The variables include employee-related features such as age, gender, job role, relationship status, education level, and years at the company, as well as employment-related features like monthly income, distance from home, job satisfaction, work-life balance, and performance rating. The dataset aims to uncover patterns and factors contributing to employee attrition at IBM. It is a valuable resource for statistical analysis and predictive modeling to identify potential solutions for employee retention and engagement strategies.

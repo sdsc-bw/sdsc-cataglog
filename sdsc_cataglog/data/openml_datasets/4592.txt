@@ -1,0 +1,3 @@
+name: okcupid-stem_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44771.0
+description: The dataset "okcupid-stem_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 100 columns and 2000 rows. It has been stratified into 10 classes. The dataset is likely related to the online dating platform, OkCupid, as it bears the platform's name. The purpose of the dataset is not specified. However, by providing a stratified dataset, it suggests that the dataset could be used for machine learning or data analysis tasks. It is also indicated that the dataset has been seeded with the number 3, but the significance of this information is unclear. Overall, it seems to be a medium-sized dataset suitable for classification or clustering tasks.

@@ -1,0 +1,3 @@
+name: parkinson-speech-uci
+dataset_id: 42176.0
+description: The dataset parkinson-speech-uci is a collection of speech recordings from individuals with Parkinson's disease (PD) and healthy individuals. It consists of 756 speech signal samples, where 48 features are extracted from each sample. These features include measures of various vocal attributes such as pitch, intensity, speech quality, and phonation. The dataset aims to support research on PD detection and classification. It can serve as valuable input for machine learning algorithms to develop models that can distinguish between PD patients and healthy individuals based on their speech characteristics.

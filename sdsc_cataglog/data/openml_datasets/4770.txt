@@ -1,0 +1,3 @@
+name: barley_8
+dataset_id: 45128.0
+description: The dataset "barley_8" contains information about the yields of barley crops across 12 different varieties, grown in 10 different locations over several years. Each entry in the dataset includes details like the variety name, the location where it was grown, the year of cultivation, and the yield in bushels per acre. The dataset aims to explore the impact of variety, location, and year on barley yield. This dataset allows researchers to analyze the performance of different varieties in different locations and over time, providing insights into factors that affect barley production.

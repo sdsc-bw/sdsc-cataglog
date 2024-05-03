@@ -1,0 +1,3 @@
+name: QSAR-TID-11589
+dataset_id: 3797.0
+description: The dataset QSAR-TID-11589 contains information on 486 compounds with a binary classification target variable related to mutagenicity assessment. The data is derived from a previous investigation and includes 7 molecular descriptors extracted from the chemical compounds. The descriptors are associated with properties such as the presence of certain substructures and electronic properties. Class labels indicating mutagenic or non-mutagenic effects are assigned to each compound based on laboratory experiments. The dataset is aimed at facilitating the development and evaluation of machine learning models for predicting the mutagenicity of chemical compounds using their molecular properties.

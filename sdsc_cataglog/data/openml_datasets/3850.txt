@@ -1,0 +1,3 @@
+name: Higgs
+dataset_id: 43975.0
+description: The Higgs dataset is a collection of experimental measurements from the Large Hadron Collider, specifically designed to study the Higgs boson. It contains features that were extracted from simulated events that include both background and Higgs boson signal. The data consists of 21 attributes, including momentum, angles, and energy, providing information about the particles produced in particle collisions. This dataset is extensively used in machine learning tasks to distinguish between signal and background events, aiming to identify the existence of the Higgs boson. It serves as a valuable resource for physicists and researchers working in particle physics and related fields.

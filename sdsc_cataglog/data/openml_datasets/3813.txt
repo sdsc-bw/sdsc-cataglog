@@ -1,0 +1,3 @@
+name: ames_housing
+dataset_id: 43926.0
+description: The ames_housing dataset contains information about residential properties in Ames, Iowa. It includes 2930 observations with 82 variables, providing comprehensive details about various features of the houses. The dataset was collected by the Assessor's Office for property assessment purposes. It covers a wide range of information, such as the size of the lot, overall quality of the property, number of bedrooms and bathrooms, and details about the utilities and building type. This dataset is often used for predicting house prices or exploring factors that influence property values.

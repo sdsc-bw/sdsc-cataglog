@@ -1,0 +1,3 @@
+name: MiamiHousing2016
+dataset_id: 44005.0
+description: The MiamiHousing2016 dataset contains information about housing prices in Miami from 2016. It includes details such as the location, size, and condition of the properties, along with their respective prices at the time. The dataset also captures additional features like the number of bedrooms and bathrooms, the type of property (apartment, house, etc.), and the distance to essential amenities like schools and hospitals. This dataset is valuable for analyzing housing trends and making informed decisions regarding property investments in Miami.

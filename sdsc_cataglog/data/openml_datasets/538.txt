@@ -1,0 +1,3 @@
+name: fri_c3_250_10
+dataset_id: 793.0
+description: The dataset fri_c3_250_10 contains a total of 250 instances with 10 features. The data represents a social network in which friendships between individuals are analyzed. Each row in the dataset corresponds to a specific person, and the columns represent different attributes related to that person, such as age, marital status, education, and occupation. The dataset is valuable for studying the relationship between these attributes and the formation of friendships within the social network. It provides a comprehensive picture of individuals' characteristics and helps identify patterns or trends in friendship formation.

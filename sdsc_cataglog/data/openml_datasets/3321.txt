@@ -1,0 +1,3 @@
+name: Ethereum-Cryptocurrency-Historical-Dataset
+dataset_id: 43391.0
+description: The Ethereum-Cryptocurrency-Historical-Dataset is a comprehensive dataset that contains historical data related to the Ethereum cryptocurrency. It includes information about various aspects such as price, volume, market cap, and trading data. The dataset is extensive and covers a wide range of time periods, allowing users to analyze trends and patterns over a considerable timeframe. It is useful for researchers, analysts, and traders who are interested in studying the dynamics of the Ethereum market. The dataset is regularly updated, ensuring that users have access to the most recent data.

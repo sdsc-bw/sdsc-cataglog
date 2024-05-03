@@ -1,0 +1,3 @@
+name: volcanoes-b5
+dataset_id: 1535.0
+description: The dataset volcanoes-b5 is a comprehensive collection of information about volcanoes worldwide. The dataset contains data on various parameters such as volcano names, geographic coordinates, and elevation. It provides detailed information about the type of volcano, including its activity status, eruption style, and associated hazards. The dataset also includes information about past eruptions, eruption dates, and volcanic materials expelled. Furthermore, it includes spatial data for the volcano boundaries and hazard zones, allowing for precise analysis and modeling. Overall, the dataset volcanoes-b5 serves as a valuable resource for studying and understanding volcanoes to better assess and mitigate associated risks.

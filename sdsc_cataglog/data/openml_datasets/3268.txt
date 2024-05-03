@@ -1,0 +1,3 @@
+name: Energy-Efficiency-Dataset
+dataset_id: 43338.0
+description: The Energy-Efficiency-Dataset is a collection of data focusing on the energy efficiency of buildings. It includes information on eight Building Energy Performance (BEP) features, such as the relative compactness, surface area, wall area, roof area, overall height, orientation, glazing area, and glazing area distribution. There are also two output values, heating load and cooling load, representing the energy required for heating and cooling. The dataset aims to help understand the factors influencing energy efficiency in buildings and explore potential improvements. It can be used in various research areas, including building design and energy-saving strategies.

@@ -1,0 +1,3 @@
+name: bridges
+dataset_id: 328.0
+description: The dataset "Bridges" contains information about bridges across the United States. It includes various attributes such as location, type of bridge, material used, year built, and condition. The data provides detailed information about each bridge, including its length, number of lanes, and whether it is open or closed for traffic. Additionally, the dataset provides a rating for each bridge's structural sufficiency. The dataset is valuable for researchers, engineers, and policymakers interested in understanding the condition and characteristics of bridges across the country. It can aid in assessing the need for repairs, maintenance, and future infrastructure planning.

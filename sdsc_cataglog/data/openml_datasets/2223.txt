@@ -1,0 +1,3 @@
+name: slashdot
+dataset_id: 40596.0
+description: The dataset "slashdot" is a collection of social network interactions from the technology-focused news website Slashdot. It consists of over 77,000 user accounts and records interactions such as friend connections and ratings given to different topics of interest. The dataset also includes timestamps indicating when the interactions occurred. It provides valuable insights into the social dynamics and user behavior within the Slashdot community. Researchers have used this dataset to analyze friendship dynamics, predict future user ratings, and explore the influence of user characteristics on network connectivity. Its availability has contributed to advancements in social network analysis and recommendation systems.

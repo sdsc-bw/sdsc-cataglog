@@ -1,0 +1,3 @@
+repo_name: spaCy
+link: https://github.com/explosion/spaCy
+description: spaCy is a library for advanced Natural Language Processing in Python and Cython. It features neural network models for tagging, parsing, named entity recognition, text classification and more, and currently supports tokenization and training for 70+ languages. Additionally, it includes pretrained pipelines, a production-ready training system, and easy model packaging, deployment, and workflow management. Lastly, spaCy is commercial open-source software, released under the MIT license. For more information, see the documentation and the facts, figures, and benchmarks.

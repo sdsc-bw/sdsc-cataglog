@@ -1,0 +1,3 @@
+name: chatfield_4
+dataset_id: 695.0
+description: The dataset chatfield_4 contains time series data for global monthly temperature anomalies recorded from 1850 to 1979. The temperatures are measured in degrees Celsius and represent deviations from the average temperature during the period 1961-1990. The dataset consists of 130 years worth of monthly anomaly values and includes missing data for some months. The goal of this dataset is to analyze and understand long-term temperature changes and patterns on a global scale. It can be used for research on climate change, climate modeling, and studying the impact of natural and human factors on global temperatures.

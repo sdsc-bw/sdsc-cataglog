@@ -1,0 +1,3 @@
+name: AP_Breast_Ovary
+dataset_id: 1165.0
+description: The AP_Breast_Ovary dataset, developed by Altera Pars, contains gene expression data for breast and ovarian tissues. This dataset includes information about different types of breast and ovarian cancers as well as normal tissues. The data is obtained from various studies and provides valuable insights into the genetic characteristics of these tissues. It includes information about gene expression levels, genetic alterations, and clinical annotations. The dataset is designed to assist researchers in studying breast and ovarian cancers, understanding their molecular features, and potentially developing new diagnostic or treatment strategies.

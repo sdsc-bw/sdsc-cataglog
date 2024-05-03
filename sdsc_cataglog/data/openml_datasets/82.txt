@@ -1,0 +1,3 @@
+name: cpu_act
+dataset_id: 197.0
+description: The dataset cpu_act is a collection of data related to central processing unit (CPU) activities. The dataset contains information about the behavior and performance of CPUs under various conditions. It includes data on the utilization of CPU resources, such as the percentage of time they are idle, the average response time, and the number of instructions executed. This dataset is valuable for studying CPU performance, identifying patterns and anomalies, and optimizing CPU utilization. It can be used by researchers and practitioners in the field of computer science and computer systems to better understand and improve CPU efficiency and effectiveness.

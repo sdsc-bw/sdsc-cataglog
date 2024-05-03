@@ -1,0 +1,3 @@
+name: Higgs_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44417.0
+description: The dataset Higgs_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True has 2000 rows and 100 columns. It consists of 10 classes. The data is stratified, meaning that it is divided into homogeneous groups before sampling. Additional information about the dataset, such as its source or purpose, is not provided in the given sentences.

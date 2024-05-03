@@ -1,0 +1,3 @@
+name: pm10
+dataset_id: 522.0
+description: The PM10 dataset features data related to the levels of particulate matter with a diameter of 10 micrometers or less in the air. The dataset includes measurements collected from various locations over a specific period. The data may provide information on the concentration of PM10 in different environments, such as urban, industrial or residential areas. Factors such as weather conditions, geographical location, and human activities can influence the PM10 levels. Researchers and policymakers can utilize this dataset to analyze air quality, assess the impact of pollution, and develop strategies to improve air quality standards to protect public health and the environment.

@@ -1,0 +1,3 @@
+name: water_6
+dataset_id: 45170.0
+description: The dataset water_6 consists of various records related to the quality of water. It contains information such as the water source, the location, the level of pollutants present in the water, and the dates of sampling. The dataset seems to be comprehensive and covers a wide range of water sources, including rivers, lakes, and wells. It also includes data on the chemical composition and temperature of the water. The dataset could be valuable for studying and analyzing the quality of different water sources and identifying any potential issues or trends in water pollution.

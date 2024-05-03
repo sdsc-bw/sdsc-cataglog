@@ -1,0 +1,3 @@
+name: poker
+dataset_id: 354.0
+description: The poker dataset comprises information collected from online poker games, including details on players' actions, betting behavior, and final outcomes. It includes data from various types of poker games, such as Texas Hold'em and Omaha. The dataset provides insights into players' strategies, decision-making processes, and overall performance. It also offers an opportunity to analyze patterns and trends in poker gameplay, helping researchers and enthusiasts understand the dynamics of the game. Given the comprehensive nature of the dataset, it can be utilized for machine learning, data mining, and statistical analysis applications in the field of poker research and game theory.

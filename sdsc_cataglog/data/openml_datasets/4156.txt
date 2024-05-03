@@ -1,0 +1,3 @@
+name: Meta_Album_PLT_DOC_Extended
+dataset_id: 44336.0
+description: The dataset Meta_Album_PLT_DOC_Extended includes extensive information on album sales and popularity. It contains data on album sales revenue, the number of physical and digital copies sold, streaming statistics, and social media engagement. The dataset also includes information about the artist, such as their genre and previous albums. It covers a wide range of music genres from various artists. Additionally, the dataset provides detailed information about the songs on each album, including their duration, tempo, and energy level. Overall, Meta_Album_PLT_DOC_Extended offers comprehensive insights into album performance and music trends.

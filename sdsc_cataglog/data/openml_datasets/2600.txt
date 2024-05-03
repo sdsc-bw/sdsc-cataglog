@@ -1,0 +1,3 @@
+name: FOREX_audsgd-hour-High
+dataset_id: 41865.0
+description: The dataset FOREX_audsgd-hour-High contains hourly high prices for the AUD/SGD forex currency pair. This dataset includes historical data reflecting the highest price reached within each hour of trading. It provides valuable information for analyzing and understanding the volatility and trends of AUD/SGD pair. Traders and analysts can use this dataset to identify potential trading opportunities, evaluate the impact of economic events, and develop trading strategies. The dataset helps in recognizing patterns and making informed decisions based on historical price movements. It is crucial for those interested in the AUD/SGD forex market to analyze this dataset for comprehensive market insights.

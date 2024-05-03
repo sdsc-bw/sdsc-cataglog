@@ -1,0 +1,3 @@
+name: QSAR-TID-10294
+dataset_id: 4102.0
+description: The QSAR-TID-10294 dataset consists of 258 compounds with known bioactivity values against the Bromodomain test target. The values are given as IC50 (half maximal inhibitory concentration) in nM. The dataset includes molecular properties such as atomic numbers, connectivity indices, topological indices, and hydrophobic, electronic and steric properties. It also provides information on the compounds' molecular structures and their physicochemical properties, such as molecular weight, melting point, and logP. The dataset was created for developing and evaluating QSAR (Quantitative Structure-Activity Relationship) models to predict bioactivity against the Bromodomain target.

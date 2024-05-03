@@ -1,0 +1,3 @@
+name: adult-test
+dataset_id: 45051.0
+description: The adult-test dataset contains data pertaining to individuals from the United States. It comprises various attributes such as age, work, education, marital status, occupation, relationship, race, gender, capital gain, capital loss, hours worked per week, and native country. The dataset is often used for classification tasks, such as predicting the income level of an individual based on these attributes. The goal is to determine whether a person's annual income exceeds $50,000 or not. This dataset is frequently employed in machine learning and data mining research to explore various algorithms and techniques for classification and prediction.

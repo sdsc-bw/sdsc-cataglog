@@ -1,0 +1,3 @@
+name: seattlecrime6
+dataset_id: 45043.0
+description: The dataset "seattlecrime6" contains information on reported crimes in Seattle, Washington from 2008 to 2018. It includes various attributes, such as the type of crime, date and time of occurrence, location, and associated arrest records. The dataset is structured and organized, allowing for easy analysis and exploration. It provides valuable insights into crime patterns and trends in the city over a ten-year period. Researchers, analysts, and law enforcement agencies can utilize this dataset to understand crime distribution, identify hotspots, and develop strategies for crime prevention and reduction in Seattle.

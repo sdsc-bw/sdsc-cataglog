@@ -1,0 +1,3 @@
+name: Higgs
+dataset_id: 45570.0
+description: The Higgs dataset is a collection of data that was obtained during the search for the Higgs boson particle. It contains information about experimental observations such as particle collision events, their properties, and their outcomes. The dataset is comprised of over 11 million instances with 28 features that include attributes like energy, momentum, angle, and measured particle properties. It includes additional metadata regarding the experiment setup, as well as the classification label indicating whether a specific event matches the Higgs boson hypothesis or not. The dataset serves as a valuable resource for researchers studying particle physics and machine learning techniques.

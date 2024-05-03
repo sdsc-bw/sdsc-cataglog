@@ -1,0 +1,3 @@
+name: wine
+dataset_id: 973.0
+description: The wine dataset provides information about different attributes and qualities of red and white wines, such as acidity levels, alcohol content, pH values, and more. It consists of a total of 6497 instances and contains 12 attributes including quality, fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, and alcohol. The quality attribute represents the rating of the wine on a scale ranging from 0 to 10, with higher values indicating better quality. This dataset is commonly used in data analysis and machine learning tasks to predict wine quality based on its attributes.

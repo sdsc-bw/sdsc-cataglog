@@ -1,0 +1,3 @@
+name: Goodreads-Computer-Books
+dataset_id: 43785.0
+description: The dataset "Goodreads-Computer-Books" contains information about computer books available on the Goodreads website. It includes data on approximately 11,000 books, with details such as book title, authors, average rating, number of ratings, number of reviews, and publication year. The dataset also provides information about book genres/tags and book publishers. Additionally, it contains the number of editions available for each book and the format (e.g., paperback, Kindle) for these editions. This dataset can be useful for analyzing trends in computer book ratings, identifying popular authors or publishers, and studying the preferences of Goodreads users regarding computer books.

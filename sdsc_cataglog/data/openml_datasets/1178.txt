@@ -1,0 +1,3 @@
+name: QSAR-TID-101448
+dataset_id: 3154.0
+description: The dataset QSAR-TID-101448 contains information related to the biological activity of a set of chemical compounds against a specific target. It includes 829 instances, each with nine numerical attributes representing different features of the compounds. The objective is to predict the activity of a given compound using machine learning techniques. The dataset has been used in a study to develop quantitative structure-activity relationship (QSAR) models for drug discovery. It can be a valuable resource for researchers and scientists working on developing new drugs and understanding their biological activity.

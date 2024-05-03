@@ -1,0 +1,3 @@
+name: Tweets-about-distance-learning
+dataset_id: 43847.0
+description: The dataset "Tweets-about-distance-learning" contains information related to tweets discussing distance learning. It includes various attributes such as the tweet ID, user ID, username, tweet text, hashtags, number of retweets and favorites, and the language of the tweet. The dataset covers tweets in multiple languages, particularly English, Spanish, and Portuguese, and was collected during a specific time frame. It provides valuable insights into the discussions and opinions surrounding distance learning on social media platforms, allowing researchers and analysts to study this particular topic in detail.

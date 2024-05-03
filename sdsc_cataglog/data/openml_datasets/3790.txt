@@ -1,0 +1,3 @@
+name: law-school-admission-bianry
+dataset_id: 43890.0
+description: The dataset "law-school-admission-binary" consists of information used for predicting admissions into law schools. It includes attributes such as LSAT score, undergraduate GPA, and admission outcome (accepted or rejected). The data was collected from a sample of law school applicants and comprises 1,000 instances. The LSAT scores range from 120 to 180, while the GPAs range from 2.26 to 4.00. The dataset is structured with 18 columns, where the target variable is labeled "admit". This dataset is ideal for exploring and developing predictive models to understand the factors that influence law school admissions.

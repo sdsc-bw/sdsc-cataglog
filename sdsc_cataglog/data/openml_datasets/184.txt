@@ -1,0 +1,3 @@
+name: topo_2_1
+dataset_id: 422.0
+description: The dataset topo_2_1 contains topographic information of an area. It consists of various attributes such as elevation, slope, aspect, and curvature. The elevation attribute represents the height of the land surface, while the slope attribute describes the steepness of the terrain. The aspect attribute specifies the compass direction that the slope faces. The curvature attribute indicates the shape of the land surface, such as whether it is convex or concave. This dataset is likely used for analyzing and understanding the topography of a specific region, which can be valuable for various fields such as geology, environmental science, and land planning.

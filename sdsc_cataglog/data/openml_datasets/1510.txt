@@ -1,0 +1,3 @@
+name: QSAR-TID-101361
+dataset_id: 3493.0
+description: The dataset QSAR-TID-101361 contains information on the biological activity of various molecules. It consists of 105 compounds and 16 attributes. The biological activity of these compounds was measured using an in vitro assay for the inhibition of the enzyme acetylcholinesterase, which is associated with Alzheimer's disease. The dataset includes features such as molecular properties, topological indices, and quantum chemical descriptors. The objective is to develop a model to predict the biological activity of molecules based on these features. The dataset is useful for researchers working on drug discovery and in the field of chemoinformatics.

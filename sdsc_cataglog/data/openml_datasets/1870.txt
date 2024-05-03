@@ -1,0 +1,3 @@
+name: QSAR-TID-237
+dataset_id: 3855.0
+description: The dataset QSAR-TID-237 contains 4827 structurally diverse compounds. These compounds have been tested for their ability to inhibit the thrombin enzyme, which is important in blood clotting. The dataset provides information on various molecular descriptors, such as hydrophobicity and topological indices, as well as the biological activity of the compounds. The goal is to build a predictive model that can accurately predict the biological activity of new compounds based on their structural features. The dataset is useful for researchers in drug discovery and design, as well as those interested in the development of thrombin inhibitors.

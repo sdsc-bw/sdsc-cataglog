@@ -1,0 +1,3 @@
+name: Official-World-Golf-Ranking-Data
+dataset_id: 43833.0
+description: The Official-World-Golf-Ranking-Data dataset provides information about the rankings of professional golf players worldwide. It includes data such as the player's name, country, and ranking points for different weeks. The dataset contains multiple files, each representing a specific year's rankings. The rankings are determined using a complex algorithm that takes into account the player's performance and the significance of the tournaments they participate in. The dataset is regularly updated to reflect the latest rankings. It provides valuable insights into the top players in the world of golf and their performance over time.

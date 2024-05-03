@@ -1,0 +1,3 @@
+name: FOREX_audsgd-day-High
+dataset_id: 41756.0
+description: The dataset FOREX_audsgd-day-High contains information about the daily high value of the AUD/SGD currency pair. It likely includes data for multiple days, with each entry representing the highest exchange rate reached during that day. The dataset is related to the foreign exchange (FOREX) market and specifically focuses on the AUD/SGD currency pair, which represents the Australian dollar and the Singapore dollar. The dataset could be used to track the volatility and performance of this currency pair over time, providing insights for traders and analysts in the foreign exchange market.

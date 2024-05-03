@@ -1,0 +1,3 @@
+name: cars
+dataset_id: 967.0
+description: The dataset "cars" contains information about various car models, their specifications, and characteristics. It includes details on car brands, such as Ford, Toyota, and Honda, as well as their respective models. The dataset provides insights like engine size, horsepower, weight, fuel efficiency, and acceleration for each car. It also includes information on the number of cylinders and the year the car was manufactured. This dataset allows for analysis of car performance, comparison between different models, and exploration of trends in car specifications over time. It serves as a valuable resource for researchers, car enthusiasts, and anyone interested in studying the automotive industry.

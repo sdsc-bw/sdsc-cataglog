@@ -1,0 +1,3 @@
+name: elevators
+dataset_id: 44009.0
+description: The dataset "elevators" contains information about the operations and performance of elevator systems in a building. It provides various features such as timestamp, date, time, floor, direction, and other parameters related to the elevator's operation. The dataset aims to capture the behavior of elevators under different scenarios, including peak and non-peak hours. It is collected for research purposes and can be utilized to analyze elevator efficiency, identify patterns, optimize elevator algorithms, and improve overall elevator management in a building.

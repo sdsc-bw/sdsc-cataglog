@@ -1,0 +1,3 @@
+name: volcanoes-e3
+dataset_id: 1544.0
+description: The dataset volcanoes-e3 provides information about different volcanoes worldwide. It contains data about the volcano's name, country, region, location coordinates (latitude and longitude), and elevation. It also includes details such as the volcano's type, activity status, and the last recorded eruption. The dataset gives users a comprehensive understanding of volcanoes around the world, allowing them to compare and analyze various volcanic characteristics. With this information, researchers, geologists, and individuals interested in volcanoes can use the dataset to study volcanic patterns and phenomena, assess volcanic risk, and make informed decisions related to volcanic activity and mitigation strategies.

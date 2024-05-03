@@ -1,0 +1,3 @@
+name: FOREX_gbpusd-minute-High
+dataset_id: 41749.0
+description: The dataset FOREX_gbpusd-minute-High involves minute-level high price data for the GBP/USD currency pair in the foreign exchange market. It contains information on the highest price reached during each minute of trading. The dataset provides a detailed representation of price movements within each minute, which can be valuable for analyzing market trends and making trading decisions. The data is specific to the GBP/USD pair, which is one of the most actively traded currency pairs globally. Traders and analysts can use this dataset to enhance their understanding of price dynamics and develop strategies for trading GBP/USD.

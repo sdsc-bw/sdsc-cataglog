@@ -1,0 +1,3 @@
+name: telco-customer-churn
+dataset_id: 45568.0
+description: The dataset telco-customer-churn contains information regarding customers of a telecommunications company and their churn behavior. It includes variables such as customer demographics, services subscribed to, contract details, payment information, and churn status. The dataset consists of 7043 records and 21 columns. The main objective is to predict customer churn based on the given features. The data is useful for businesses to understand the factors that contribute to customer churn and to develop strategies to retain customers.

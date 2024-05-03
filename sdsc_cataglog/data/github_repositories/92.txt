@@ -1,0 +1,3 @@
+repo_name: faas
+link: https://github.com/openfaas/faas
+description: OpenFaaS® makes it easy for developers to deploy event-driven functions and microservices to Kubernetes without repetitive, boiler-plate coding. Package your code or an existing binary in an OCI-compatible image to get a highly scalable endpoint with auto-scaling and metrics.

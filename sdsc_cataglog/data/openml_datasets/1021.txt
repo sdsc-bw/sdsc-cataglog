@@ -1,0 +1,3 @@
+name: autoUniv-au6-750
+dataset_id: 1549.0
+description: AutoUniv-au6-750 is a dataset that consists of academic performance-related attributes from a university. The dataset includes 750 instances and 11 attributes. It contains data on academic parameters like external score, scholarship availability, study time, number of past failures, and other personal information of students like age, gender, educational background, and family background. The dataset aims to provide valuable insights into the factors affecting academic performance in higher education.

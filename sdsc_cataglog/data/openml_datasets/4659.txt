@@ -1,0 +1,3 @@
+name: jannis
+dataset_id: 45015.0
+description: The dataset Jannis is a collection of data related to a clinical study conducted on patients with a specific medical condition. It includes information such as demographic data, medical history, and treatment details. The dataset is comprehensive and contains records of patients from diverse backgrounds, allowing for a broader understanding of the condition and its effects. It is highly organized, making it easy to extract specific information for research and analysis purposes. Jannis is a valuable resource for researchers, physicians, and healthcare professionals who can utilize the dataset to gain insights into the condition's causes, progression, and treatment outcomes.

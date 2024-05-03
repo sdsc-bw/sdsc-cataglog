@@ -1,0 +1,3 @@
+name: treepipit
+dataset_id: 40505.0
+description: The treepipit dataset is an extensive collection of information about the behavior and characteristics of treepipits, a type of bird. It was gathered through tracking devices that were attached to individual birds. The data includes details such as their locations, flight patterns, and stopover sites during migration. Additionally, the dataset provides insights into their breeding behavior, including nest locations and clutch size. The dataset also documents the survival rates of treepipits, shedding light on factors that impact their mortality. It is a valuable resource for studying the ecology, migration patterns, and conservation of treepipits and other avian species.

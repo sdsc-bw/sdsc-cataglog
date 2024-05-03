@@ -1,0 +1,3 @@
+name: eye_movements
+dataset_id: 44034.0
+description: The dataset "eye_movements" contains information about eye movements recorded from participants. It includes data from eye-tracking devices that capture the position of the eyes over time. The dataset contains various variables such as fixation duration, fixation count, saccade length, and pupil size. It also includes additional information, such as participant ID and task type, which can be useful for analysis. The dataset aims to provide insights into how eye movements are influenced by different factors and can be used for research in psychology, neuroscience, and human-computer interaction.

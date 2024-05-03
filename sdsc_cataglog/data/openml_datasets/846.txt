@@ -1,0 +1,3 @@
+name: MagicTelescope
+dataset_id: 1120.0
+description: The MagicTelescope dataset is a collection of data that consists of 19,020 instances with 11 attributes. The dataset represents information about the measurements of a specific type of particle known as a gamma ray. Each instance contains data such as the particle's energy, the angle at which it was detected, and various statistical properties of the particle's arrival time. The dataset aims to classify the particles into two classes: gamma or background. The data has been provided for research purposes and can be used to develop machine learning models for particle classification and analysis.

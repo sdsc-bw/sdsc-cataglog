@@ -1,0 +1,3 @@
+name: volcanoes-a2
+dataset_id: 1528.0
+description: The dataset "volcanoes-a2" contains information about volcanic eruptions and related events in the United States. It includes data such as eruption year, volcano name, elevation, type of volcano, activity status, and the last known eruption. The dataset has 1,384 entries, providing a comprehensive overview of volcanic activities across the country. It also provides the latitude and longitude coordinates of each volcano, enabling mapping and spatial analysis. With this dataset, researchers and geologists can study and analyze volcanic patterns, track historical eruptions, and assess volcanic risk in different regions of the United States.

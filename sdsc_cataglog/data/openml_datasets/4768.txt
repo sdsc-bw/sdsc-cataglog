@@ -1,0 +1,3 @@
+name: barley_6
+dataset_id: 45126.0
+description: The barley_6 dataset contains information about the growth of six different barley varieties. The data includes measurements such as yield, nitrogen content, and variety. The dataset contains a total of 120 observations. Each variety was grown in multiple plots and each plot received different amounts of nitrogen fertilizer. The measurements were taken over three different years. The purpose of the dataset is to analyze the effects of nitrogen fertilizer on barley growth, as well as to compare the growth of different barley varieties.

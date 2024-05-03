@@ -1,0 +1,3 @@
+name: AI4I2020
+dataset_id: 42890.0
+description: The dataset AI4I2020 contains manufacturing process data with various process parameters collected over a period of time. It consists of 59,640 rows and 14 columns, including features like timestamp, ambient temperature, process temperature, rotational speed, torque, tool wear, etc. The data represents a simulated real-world scenario where anomalies occur due to tool wearing. The dataset is provided to develop predictive models or perform anomaly detection. It aims to encourage research in the field of artificial intelligence and industry 4.0 by offering a realistic manufacturing dataset.

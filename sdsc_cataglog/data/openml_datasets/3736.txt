@@ -1,0 +1,3 @@
+name: Dubai-Properties---Apartments
+dataset_id: 43814.0
+description: The dataset "Dubai-Properties---Apartments" provides information about various apartments available for rent or sale in Dubai. It includes data points such as the apartment's location, size, property type (e.g., studio, one-bedroom, etc.), the number of bedrooms, and bathrooms. Additionally, the dataset provides details on amenities available in the apartments like parking, swimming pool, gym, etc. The dataset allows users to filter and sort the properties based on different criteria and facilitates comparison between apartments. It aims to assist individuals interested in finding suitable apartments in Dubai by offering a comprehensive and organized collection of relevant data.

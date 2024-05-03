@@ -1,0 +1,3 @@
+name: RB_Leipzig_18_19
+dataset_id: 42564.0
+description: The dataset RB_Leipzig_18_19 contains information and statistics about the football team RB Leipzig's performance during the 2018-2019 season. It provides detailed data on various aspects such as matches, players, goals, assists, and bookings. The dataset also includes information on the team's performance in different competitions like the Bundesliga and the DFB-Pokal. It provides insights into individual player performances as well as overall team statistics. It is a rich resource for analyzing RB Leipzig's performance during the specified season and can be used for various sports analytics purposes.

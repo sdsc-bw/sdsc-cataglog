@@ -1,0 +1,3 @@
+name: FOREX_eurrub-hour-High
+dataset_id: 41805.0
+description: The dataset FOREX_eurrub-hour-High is a collection of hourly high values for the EUR-RUB (Euro-Russian Ruble) forex trading pair. It is likely derived from the foreign exchange market and provides information on the highest price reached for each hour. The dataset may be useful in analyzing trends and patterns in the EUR-RUB trading pair, such as identifying periods of price volatility or significant price increases. With the hourly granularity, traders and researchers can gain more detailed insights into the market dynamics and make informed trading decisions.

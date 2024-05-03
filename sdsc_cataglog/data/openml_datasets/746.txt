@@ -1,0 +1,3 @@
+name: lymph
+dataset_id: 1006.0
+description: The lymph dataset consists of 148 observations and nine numerical attributes. The attributes provide information about patients with lymphomas and their survival status. The dataset is made up of various features, including patient age, serum levels of LDH (lactic dehydrogenase), and a number of other chemical substances. The aim of this dataset is to analyze survival status based on these attributes. The dataset is relatively small but provides valuable information for analysis regarding lymphomas and patient outcomes.

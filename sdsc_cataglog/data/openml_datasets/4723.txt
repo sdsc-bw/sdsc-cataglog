@@ -1,0 +1,3 @@
+name: road-safety
+dataset_id: 45079.0
+description: The road-safety dataset contains information about traffic accidents in the United Kingdom. It includes details such as the severity of the accident, road conditions, vehicle types involved, and the number of casualties. The dataset covers a period of several years and is updated regularly. It is used by researchers, policymakers, and road safety organizations to analyze trends and identify areas for improvement in road safety measures. The dataset provides valuable insights into factors that contribute to accidents, allowing stakeholders to develop targeted strategies and interventions to reduce road traffic injuries and fatalities.

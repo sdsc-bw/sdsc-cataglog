@@ -1,0 +1,3 @@
+name: QSAR-TID-103452
+dataset_id: 3226.0
+description: The QSAR-TID-103452 dataset is comprised of information on the toxicity of different compounds. It contains 103452 instances where each instance is described by 574 molecular descriptors that provide details about the chemical properties of the compound. The toxicity of each compound is represented by a binary outcome, indicating whether it is toxic or non-toxic. The dataset is highly imbalanced, with a majority of compounds being non-toxic. The objective is to develop a model that can accurately predict the toxicity of compounds based on their molecular descriptors.

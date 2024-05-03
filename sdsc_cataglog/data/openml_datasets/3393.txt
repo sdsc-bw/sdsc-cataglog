@@ -1,0 +1,3 @@
+name: Bank-Note-Authentication-UCI
+dataset_id: 43466.0
+description: The dataset Bank-Note-Authentication-UCI is publicly available and widely used for classification tasks. It contains data on authentic and forged banknotes, where each instance consists of four numerical attributes: variance, skewness, curtosis, and entropy. The target variable indicates whether the banknote is genuine or fake. This dataset is small, with only 1,372 instances, but it is balanced, with nearly an equal number of authentic and forged banknotes. Its availability and the balanced distribution of classes make it a suitable choice for training and evaluating machine learning algorithms for banknote authentication.

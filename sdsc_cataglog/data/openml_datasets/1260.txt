@@ -1,0 +1,3 @@
+name: QSAR-TID-12506
+dataset_id: 3236.0
+description: The dataset QSAR-TID-12506 contains information on the inhibition of acetylcholinesterase (AChE) by chemical compounds. It consists of 306 compounds which were tested for their inhibitory activity against AChE. The dataset includes 5 structural descriptors and the inhibitory activity value for each compound. The objective of this dataset is to develop a predictive model that can accurately predict the inhibitory activity of unseen compounds. The dataset can be used for QSAR modeling and machine learning applications to aid in the discovery and design of new compounds with desired inhibitory activity against AChE.

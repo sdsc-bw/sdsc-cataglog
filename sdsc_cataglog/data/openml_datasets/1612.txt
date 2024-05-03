@@ -1,0 +1,3 @@
+name: QSAR-TID-143
+dataset_id: 3597.0
+description: QSAR-TID-143 is a dataset that consists of 1054 chemical compounds with binary labels indicating their mutagenicity. The compounds have a set of 41 molecular descriptors that characterize their various physical and chemical properties. The primary aim of this dataset is to predict the mutagenicity of chemical compounds using machine learning algorithms. The dataset includes a mix of aliphatic and aromatic compounds, as well as structures with diverse chemical functionalities. QSAR-TID-143 is a valuable resource for researchers working on mutagenicity prediction, drug discovery, and chemical toxicology, providing a comprehensive set of molecular descriptors and mutagenicity labels.

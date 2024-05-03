@@ -1,0 +1,3 @@
+name: 26InternationalstudentsinChina-Province
+dataset_id: 43208.0
+description: The dataset "26InternationalstudentsinChina-Province" consists of information about international students studying in China. It includes data on students from 26 different countries and their respective provinces in China. The dataset provides details on the number of international students in each province, their gender distribution, and the academic level they are enrolled in. The dataset aims to highlight the diversity of international students in China and their distribution across different provinces. It can be used to analyze trends in international education and understand the preferences of international students when choosing their study destination within China.

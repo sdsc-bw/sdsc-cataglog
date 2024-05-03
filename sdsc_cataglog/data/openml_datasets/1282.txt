@@ -1,0 +1,3 @@
+name: QSAR-TID-10628
+dataset_id: 3258.0
+description: The dataset QSAR-TID-10628 is a collection of 336 compounds with potential anti-HIV activity. It contains various molecular descriptors and their corresponding bioactivity values, which indicate the compounds' effectiveness in inhibiting the HIV virus. The dataset has 6 input features and a single output feature, with the input features representing different physiochemical properties of the compounds. QSAR modeling can be performed on this dataset to predict the bioactivity of new compounds and aid in the discovery of potential anti-HIV drugs.

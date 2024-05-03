@@ -1,0 +1,3 @@
+name: sleep
+dataset_id: 739.0
+description: The dataset "sleep" contains information related to sleep patterns of individuals. It includes various variables such as age, gender, sleep duration, sleep efficiency, and sleep quality. The dataset consists of observations from a diverse sample of individuals, which allows for analysis of different sleep patterns across age groups and genders. Additionally, the dataset provides information on factors that may affect sleep, such as chronic diseases, body mass index (BMI), and alcohol consumption. The dataset contains a large number of observations, making it suitable for statistical analysis and modeling. Overall, the "sleep" dataset offers valuable information to explore and understand sleep patterns and related factors.

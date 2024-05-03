@@ -1,0 +1,3 @@
+name: heart-statlog
+dataset_id: 53.0
+description: The heart-statlog dataset contains 270 instances with 13 attributes, including both categorical and numerical data. It was created to predict the presence or absence of heart disease in patients based on the given attributes. The target attribute has two classes: 'absence' and 'presence' of heart disease. The dataset includes important risk factors such as cholesterol levels, resting blood pressure, and maximum heart rate achieved during exercise. The dataset aims to provide valuable insights for medical professionals and researchers to understand the correlation between these attributes and heart disease, ultimately helping in early diagnosis and prevention of heart-related disorders.

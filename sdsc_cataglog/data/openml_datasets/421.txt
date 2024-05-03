@@ -1,0 +1,3 @@
+name: chscase_census3
+dataset_id: 672.0
+description: The dataset chscase_census3 contains information about the United States population from the Census Bureau's American Community Survey. It includes variables such as age, race, education, income, and employment for various regions in the country. The dataset is part of the CHSCASE study, which focuses on health and social disparities. It covers a wide range of population demographics and allows researchers to analyze and understand patterns related to socio-economic factors. The dataset is a valuable resource for studying disparities in health outcomes and identifying areas for targeted interventions and policy decisions to improve equity in the United States.

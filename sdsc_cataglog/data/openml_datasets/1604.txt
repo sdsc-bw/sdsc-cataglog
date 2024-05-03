@@ -1,0 +1,3 @@
+name: QSAR-TID-100186
+dataset_id: 3589.0
+description: The dataset QSAR-TID-100186 is small, with only 45 instances and five attributes. It is used for quantitative structure-activity relationship (QSAR) analysis in drug discovery. The attributes include features related to the molecular structure of chemicals, such as the polarizability, hydrophobicity, and connectivity indices. The target variable is the logarithm of the octanol-water partition coefficient (logP) which measures the solubility of a compound in water. This dataset is frequently used in machine learning and chemoinformatics research to develop models that can predict the logP value of new chemical compounds based on their structural features.

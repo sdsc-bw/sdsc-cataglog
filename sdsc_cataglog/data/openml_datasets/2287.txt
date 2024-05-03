@@ -1,0 +1,3 @@
+name: car
+dataset_id: 40975.0
+description: The dataset "car" provides information about various attributes of cars, such as their price, maintenance costs, number of doors, capacity, safety rating, and overall acceptance. It consists of 1,726 instances and six attributes. These attributes are divided into four categorical variables (buying, maintenance, doors, and persons) and two ordinal variables (lug_boot and safety). The dataset includes different buying options, ranging from very low to very high, and also various safety ratings, from low to high. This dataset serves as a useful resource for analyzing and predicting car acceptability based on different attributes in order to make informed decisions about purchasing, maintenance, and safety.

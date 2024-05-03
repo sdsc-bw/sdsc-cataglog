@@ -1,0 +1,3 @@
+name: fri_c3_250_5
+dataset_id: 744.0
+description: The dataset fri_c3_250_5 consists of 250 examples. Each example has 5 attributes, making a total of 1250 data points. The dataset is derived from the FriC3 benchmark database. It includes various factors such as biological, physical, and chemical attributes. The dataset is relevant for research and analysis in fields like environmental sciences, agriculture, and biology. It provides a comprehensive set of information to study and understand the relationships between different attributes and their impact on the overall system. Overall, the fri_c3_250_5 dataset offers valuable insights into complex systems and their underlying attributes.

@@ -1,0 +1,3 @@
+name: flags
+dataset_id: 285.0
+description: The dataset flags are indicators or labels used to represent certain features or characteristics of data. Flags apply to different contexts, such as marking data values as valid or invalid, indicating missing data, or identifying specific conditions or events. Flags help in data analysis, organization, and decision-making processes by providing information about the quality, relevance, or special attributes of the data. They can be utilized in various domains, such as finance, healthcare, and scientific research. Flags contribute to data integrity and assist in data filtering, quality control, and data interpretation, ultimately enhancing the reliability and usability of the dataset.

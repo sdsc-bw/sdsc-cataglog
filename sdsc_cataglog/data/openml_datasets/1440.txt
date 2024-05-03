@@ -1,0 +1,3 @@
+name: QSAR-TID-100069
+dataset_id: 3420.0
+description: The dataset QSAR-TID-100069 consists of physicochemical properties (descriptors) of 1055 chemical compounds. These descriptors provide information about the molecular structure, bonding patterns, and other properties. The compounds in the dataset have been tested for their toxicity to aquatic organisms, specifically on a species called Pimephales promelas (fathead minnow). The toxicity is measured as the parameter of effective concentration at which 50% of the organisms are affected (EC50). The goal of this dataset is to understand the relationship between the physicochemical properties of the compounds and their toxicity to help in predicting toxicity of new compounds without conducting actual tests.

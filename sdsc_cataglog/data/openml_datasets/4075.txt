@@ -1,0 +1,3 @@
+name: Meta_Album_INS_2_Micro
+dataset_id: 44248.0
+description: The dataset Meta_Album_INS_2_Micro contains information about microorganisms found in a specific album. It provides details about the microorganism's genus, species, strain, and the environment from which it was isolated. The dataset also includes information about the album, such as the artist, title, release year, and genre. Additionally, it contains data on the type of media the microorganism was isolated from, including vinyl, cassette, CD, or digital. The dataset offers a comprehensive collection of microorganisms found in albums, connecting music and microbiology by exploring the microbial world within music media, enhancing the understanding of album ecosystems.

@@ -1,0 +1,3 @@
+name: SPECT
+dataset_id: 336.0
+description: The SPECT dataset is comprised of medical diagnostic data from single-photon emission computed tomography (SPECT) exams. It contains 267 instances, with each instance consisting of 22 attributes that characterize key features of the patient's condition. The dataset was created by a medical expert and intended for binary classification tasks. It aims to determine whether a patient has normal (class 1) or abnormal (class 2) heart condition based on the SPECT data. The dataset has been widely used for developing machine learning algorithms and evaluating their performance in medical diagnosis.

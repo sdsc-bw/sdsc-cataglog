@@ -1,0 +1,3 @@
+name: IEEE80211aa-GATS
+dataset_id: 43252.0
+description: The dataset IEEE80211aa-GATS contains data related to the IEEE 802.11aa amendment, which aims to improve the Quality of Service (QoS) delivered by Wi-Fi networks. The dataset focuses on the GATS (Group-oriented Acknowledgment Traffic Service) aspect of the amendment. It includes information about different network scenarios and parameters that affect the performance of Wi-Fi networks, such as the number of clients, traffic types, and transmission rates. The dataset allows researchers to evaluate and compare different mechanisms and algorithms for QoS enhancements in Wi-Fi networks. It is valuable for studying the performance and limitations of the IEEE 802.11aa amendment in real-world scenarios.

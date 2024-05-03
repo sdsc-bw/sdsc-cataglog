@@ -1,0 +1,3 @@
+name: Klaverjas2018
+dataset_id: 41228.0
+description: Klaverjas2018 is a dataset that provides information on the card game Klaverjas. It contains various details related to the game, such as the number of times different combinations occur during play. The dataset includes data from a large number of matches played by different players. It also includes information about the individual players, such as their success rates and rankings. Additionally, the dataset offers insights into the strategies adopted by players by providing information on the percentage of time they win or lose in specific game situations. Overall, the Klaverjas2018 dataset offers a comprehensive view of the game, its players, and their gameplay patterns.

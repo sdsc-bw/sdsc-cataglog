@@ -1,0 +1,3 @@
+name: diamonds
+dataset_id: 44059.0
+description: The dataset diamonds contains information about various attributes of nearly 54,000 diamonds, including carat weight, cut quality, color grade, clarity grade, depth, table, price, and dimensions. It is commonly used in data analysis and machine learning tasks. The dataset also provides insights into the relationships between these attributes and how they affect the price of a diamond. The data is structured and organized, enabling easy access and analysis. The diamonds dataset is widely utilized in the field of data science for gaining a deeper understanding of diamond characteristics and predicting their values based on the given attributes.

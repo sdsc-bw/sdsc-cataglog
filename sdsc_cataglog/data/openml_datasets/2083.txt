@@ -1,0 +1,3 @@
+name: QSAR-TID-101180
+dataset_id: 4069.0
+description: The dataset QSAR-TID-101180 contains information on 1444 chemicals and their biological activities. The data includes both the structure of the chemicals and their corresponding activities against certain target proteins. The dataset also includes the standardized chemical descriptors, such as molecular weight and number of atoms, that can be used as input features for modeling the biological activity. The target proteins include enzymes and G-protein coupled receptors, which are important in drug discovery and development. This dataset can be useful for analyzing the structure-activity relationship of chemicals and developing predictive models for biological activity.

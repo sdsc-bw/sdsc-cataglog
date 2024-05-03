@@ -1,0 +1,3 @@
+name: pumadyn32nh
+dataset_id: 44981.0
+description: The dataset pumadyn32nh is a publicly available dataset that contains information about the performance of a prediction model based on a specific algorithm. It consists of 8192 samples, with each sample having 32 features. The features represent the inputs to the prediction model, which include both original features and derived features. The dataset also includes the target values, which are the predicted outputs of the algorithm. The dataset has been extensively studied in the literature, and has been used for various machine learning and prediction tasks. It provides a valuable resource for researchers and practitioners in the field.

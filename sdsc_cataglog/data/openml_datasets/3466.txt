@@ -1,0 +1,3 @@
+name: 7k-Books
+dataset_id: 43542.0
+description: The dataset 7k-Books contains detailed information about 7,000 books. Each book entry includes attributes such as the book's title, author, publication year, and genre. The dataset also provides additional data, such as the book's rating and popularity score, as well as the number of pages it contains. Moreover, it includes information about whether the book is a bestseller or a prize winner. Additionally, the dataset offers insights into the book's language, format, and the average rating given by readers. The 7k-Books dataset is a comprehensive resource for conducting analyses and research on a large collection of books.

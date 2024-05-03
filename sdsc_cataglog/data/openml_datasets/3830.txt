@@ -1,0 +1,3 @@
+name: poker
+dataset_id: 43955.0
+description: The poker dataset contains millions of hands of online poker games. It includes information about each hand, such as the cards dealt, the actions taken by the players, and the final outcome. The dataset also includes player-level information, such as their username, country, and stack size. This data can be used to analyze different poker strategies, evaluate player performance, and understand the dynamics of poker games. Overall, the poker dataset provides a comprehensive and detailed source of information for studying online poker and its various aspects.

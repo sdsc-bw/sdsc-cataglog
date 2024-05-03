@@ -1,0 +1,3 @@
+name: cmc
+dataset_id: 23.0
+description: The dataset cmc contains information about contraception methods used by married women in urban areas of Bangladesh. It is a classification problem with three possible classes: no use, long-term method, or short-term method. The dataset consists of 1,473 instances, each with nine attributes such as age, education, husband's education, and pregnancy status. The goal is to predict the contraceptive method based on these attributes. The dataset is widely used for research in the field of machine learning and has been employed in numerous studies to develop prediction models and evaluate their performance.

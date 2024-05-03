@@ -1,0 +1,3 @@
+name: Birds
+dataset_id: 43325.0
+description: The dataset "Birds" is a collection of information about various species of birds. It includes data on their characteristics, habitat, behavior, and geographical distribution. The dataset aims to provide a comprehensive overview of bird species and their diverse attributes. It includes information on both common and rare bird species, serving as a valuable resource for researchers, bird enthusiasts, and conservationists. The dataset may assist in studying bird populations, migration patterns, and overall bird biodiversity. Furthermore, it can aid in the identification and preservation of endangered bird species, as well as inform conservation efforts on a global scale.

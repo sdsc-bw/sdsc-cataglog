@@ -1,0 +1,3 @@
+name: diabetes_1
+dataset_id: 45220.0
+description: The dataset diabetes_1 contains information about patients with diabetes. It consists of 442 samples and 10 attributes. The target variable in this dataset is the quantitative measurement of a patient's disease progression one year after baseline. The other nine attributes include information about the patient's age, sex, body mass index (BMI), average blood pressure, six blood serum measurements, and a measure of diabetes pedigree. The dataset aims to explore the relationship between these attributes and the progression of diabetes, providing valuable insights for further analysis and prediction of the disease.

@@ -1,0 +1,3 @@
+name: cjs
+dataset_id: 1024.0
+description: The dataset CJS is a comprehensive collection of data related to the Canadian justice system. It includes information such as court cases, police-reported crime, and corrections statistics. The data covers various levels of the justice system, ranging from local to national levels, and provides detailed insights into crime rates, types of offences, characteristics of accused individuals, and court outcomes. The CJS dataset is valuable for researchers, policymakers, and the general public interested in studying and understanding the Canadian justice system. It allows for detailed analysis of crime trends, comparison between provinces and territories, and assessment of the effectiveness of the justice system in Canada.

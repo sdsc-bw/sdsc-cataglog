@@ -1,0 +1,3 @@
+name: FOREX_eurchf-minute-Close
+dataset_id: 41708.0
+description: The FOREX_eurchf-minute-Close dataset contains minute-by-minute closing prices of the EUR/CHF currency pair in the foreign exchange (FOREX) market. It provides information about the exchange rate between the Euro (EUR) and the Swiss Franc (CHF), capturing fluctuations over time. The dataset is measured in minutes and consists of a series of closing prices for the currency pair. This information can be valuable for traders and analysts in understanding the trend and volatility of the EUR/CHF exchange rate. It allows for detailed analysis of minute-to-minute movements and can help in making informed decisions in FOREX trading.

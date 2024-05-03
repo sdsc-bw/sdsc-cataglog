@@ -1,0 +1,3 @@
+name: sells
+dataset_id: 43176.0
+description: The dataset contains information about the sales of a certain product. It includes various factors such as the date and time of the sale, the quantity of the product sold, the price at which it was sold, and the location of the sale. Other important factors like the type of customer, whether they were new or returning, and any discounts or promotions applied are also recorded. The dataset aims to analyze the sales performance, identify trends, and evaluate the effectiveness of different marketing strategies. With this data, businesses can make informed decisions to maximize profitability and optimize their sales process.

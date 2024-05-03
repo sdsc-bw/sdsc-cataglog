@@ -1,0 +1,3 @@
+name: miami_housing
+dataset_id: 44983.0
+description: The dataset "miami_housing" provides information on housing prices in Miami, Florida. It includes data on various aspects such as location, size, and price of houses. The dataset contains a total of 10,000 records and 15 features. Some of the features include the number of bedrooms, bathrooms, parking spaces, and the presence of amenities like a pool or backyard. The dataset is intended to be used for analyzing housing trends, predicting prices, and making informed decisions about purchasing or renting properties in Miami. It provides a comprehensive overview of the housing market in the city.

@@ -1,0 +1,3 @@
+name: mildew_9
+dataset_id: 45162.0
+description: The dataset mildew_9 contains information about the growth of mildew on plants. It includes nine different attributes such as the presence of mildew, temperature, humidity, and cloud cover. The dataset has 1812 instances or rows of data. The target attribute is the class of mildew, indicating whether it is present or not. The dataset has missing values, indicated by the question mark symbol "?". The instances are randomly ordered, and there is no particular correlation between attributes. Overall, mildew_9 provides a comprehensive set of data for studying the factors influencing mildew growth on plants.

@@ -1,0 +1,3 @@
+name: QSAR-TID-12688
+dataset_id: 3256.0
+description: The dataset QSAR-TID-12688 contains information about chemical compounds and their biological activities against a certain target. It includes 12688 instances of data, each with 41 attributes. The target column represents the biological activity, classified as either active or inactive. The dataset provides details about molecular structure, such as atom and bond types, as well as important chemical properties like dipole moment, polarizability, and other descriptors. This dataset is useful for developing quantitative structure-activity relationship (QSAR) models to predict the biological activity of chemical compounds based on their structural features.

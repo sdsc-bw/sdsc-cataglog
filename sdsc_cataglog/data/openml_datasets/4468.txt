@@ -1,0 +1,3 @@
+name: kr-vs-kp_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44647.0
+description: The dataset kr-vs-kp_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True contains information about the results of a chess game between two players: White (represented as 'w') and Black (represented as 'b'). There are 2000 rows in the dataset, with 100 columns. The dataset is stratified, meaning that the proportions of White and Black wins are balanced. There are 10 classes in total, representing different game outcomes. The dataset provides valuable insights for analyzing the factors and strategies that lead to successful outcomes in chess games.

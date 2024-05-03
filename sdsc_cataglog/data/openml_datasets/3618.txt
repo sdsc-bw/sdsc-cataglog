@@ -1,0 +1,3 @@
+name: Smogon-6v6-Pokemon-Tiers
+dataset_id: 43694.0
+description: The dataset "Smogon-6v6-Pokemon-Tiers" contains information about the competitive tiers of Pokémon in the Smogon metagame format. It includes data on various Pokémon and the tier they belong to, ranging from lower to higher levels of competitiveness. Additionally, the dataset provides details about the usage statistics and win rates of these Pokémon in different tiers. The dataset is useful for trainers and players who want to have a deeper understanding of the Pokémon metagame and make informed decisions regarding team composition and strategy. It offers insights into the popularity and effectiveness of different Pokémon in competitive play, aiding in creating balanced and competitive teams.

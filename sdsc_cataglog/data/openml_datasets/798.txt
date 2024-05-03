@@ -1,0 +1,3 @@
+name: kc1-binary
+dataset_id: 1066.0
+description: The dataset kc1-binary contains software metrics data related to the code of various Java programs. It includes a total of 21,678 instances with 16 attributes. Each instance is labeled as either defective or non-defective. The dataset aims to predict software defects using various machine learning algorithms. The attributes include software metrics such as lines of code, cyclomatic complexity, and number of variables, among others. The dataset is useful for researchers and practitioners in the field of software engineering to analyze the relationship between software metrics and defects, and to develop models for defect prediction.

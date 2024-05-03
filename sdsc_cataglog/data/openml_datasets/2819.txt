@@ -1,0 +1,3 @@
+name: weather_izmir
+dataset_id: 42369.0
+description: The weather_izmir dataset provides information on the weather conditions in Izmir, Turkey. The data includes various factors such as temperature, humidity, wind speed, precipitation, and atmospheric pressure. It contains records for multiple time intervals, allowing for analysis and prediction of weather patterns in the region. The dataset is regularly updated and offers a comprehensive view of the climate in Izmir over a specific period. Researchers, weather enthusiasts, and professionals interested in studying or forecasting the weather in Izmir can utilize this dataset to gain insights and make informed decisions based on the provided weather information.

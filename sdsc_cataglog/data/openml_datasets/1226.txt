@@ -1,0 +1,3 @@
+name: QSAR-TID-10280
+dataset_id: 3202.0
+description: The dataset QSAR-TID-10280 contains information on the chemical compounds used in the production of biodegradable plastics. It comprises 1055 compounds, each with 110 different molecular descriptors used to quantify their chemical properties. These properties are known as quantitative structure-activity relationship (QSAR) descriptors and can be used to predict the biological activity of these compounds. The dataset also provides information on the biodegradation half-life of each compound, which indicates how long it takes for them to break down in a natural environment. This dataset can be used for research in developing more effective and environmentally friendly biodegradable plastics.

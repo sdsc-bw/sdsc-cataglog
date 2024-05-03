@@ -1,0 +1,3 @@
+name: socmob
+dataset_id: 934.0
+description: Socmob is a dataset that provides information on social mobility measures across the United States. It includes data on different variables that contribute to social mobility, such as income, education, and occupation. The dataset is comprehensive and covers a wide range of factors that affect social mobility, allowing researchers and policymakers to analyze and understand the key drivers of social mobility in different areas. Socmob offers valuable insights into the disparities and determinants of upward mobility in the US, which can help in formulating effective policies and interventions to reduce inequalities and promote social mobility for all.

@@ -1,0 +1,3 @@
+name: QSAR-TID-11242
+dataset_id: 3115.0
+description: The dataset QSAR-TID-11242 contains 252 molecular descriptors for a set of 1,475 chemicals, along with their corresponding EC50 values. These chemicals are related to environmental pollutants and their impact on aquatic organisms. This dataset aims to predict the toxicity of these chemicals based on their molecular descriptors. The molecular descriptors include properties such as connectivity indices, graph-based and topological indices, and electronic properties. The EC50 values represent the concentration at which 50% of the organism's population is affected. This dataset can be useful for predicting the potential ecological impact of environmental pollutants on aquatic ecosystems.

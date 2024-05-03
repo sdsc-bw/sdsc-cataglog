@@ -1,0 +1,3 @@
+name: Bike_Sharing_Demand
+dataset_id: 44063.0
+description: The dataset "Bike_Sharing_Demand" contains information about bike sharing services. The data was collected over a span of two years in two different cities. The dataset comprises information on various factors, including weather conditions, time of day, and day of the week. Other features of the dataset include the number of bikes rented and the corresponding number of registered and casual users. The aim of the dataset is to predict the bike rental demand based on these factors. This dataset provides valuable information for analyzing bike sharing services and understanding the factors affecting bike rental demand in different contexts.

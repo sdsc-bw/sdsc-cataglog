@@ -1,0 +1,3 @@
+name: QSAR-TID-12919
+dataset_id: 3708.0
+description: The dataset QSAR-TID-12919 is a collection of 4,389 compounds used for quantitative structure-activity relationship (QSAR) studies. The compounds belong to a diverse range of chemical classes and were curated for their potential pharmaceutical activity against various protein targets. Each compound is represented by 6,783 molecular descriptors, which are numerical values reflecting its structural and physicochemical properties. The dataset also includes binary activity values indicating whether a compound shows activity against the target protein. The QSAR-TID-12919 dataset serves as a valuable resource for developing QSAR models and exploring structure-activity relationships in drug design and discovery.

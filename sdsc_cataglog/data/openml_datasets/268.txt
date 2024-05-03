@@ -1,0 +1,3 @@
+name: arsenic-female-lung
+dataset_id: 513.0
+description: The dataset arsenic-female-lung contains information related to the presence of arsenic in the lungs of female individuals. The dataset consists of 112 observations and 6 variables. The variables include age, fiber consumption, arsenic intake, and lung arsenic concentration. This dataset was used to explore the association between the variables and determine any potential relationship between fiber consumption and lung arsenic concentration. The data were collected using a lung biopsy method and atomic absorption spectrometry. This dataset provides valuable information about the exposure to arsenic and its potential impact on lung health in female individuals.

@@ -1,0 +1,3 @@
+name: no2
+dataset_id: 886.0
+description: The dataset no2 contains information about the nitrogen dioxide (NO2) level measurements in different cities. It includes data from various monitoring stations in major urban areas worldwide. The dataset provides information on the average NO2 concentration levels over certain time periods, generally hourly or daily. It covers a wide range of geographical locations and spans multiple years. The data is useful for studying air pollution patterns, analyzing trends, and evaluating the impact of various factors on NO2 levels. This dataset can be utilized in various research studies, policy-making, and urban planning initiatives to address air quality concerns.

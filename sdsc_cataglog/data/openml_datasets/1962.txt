@@ -1,0 +1,3 @@
+name: QSAR-TID-100143
+dataset_id: 3948.0
+description: The dataset QSAR-TID-100143 consists of 71 different compounds, each with various molecular descriptors and their corresponding biological activity towards a specific target. The dataset includes features such as Lipinski's Rule of Five, connectivity indices, and topological indices, among others. The biological activity is measured using IC50 values, which represent the concentration of the compound that inhibits 50% of the target's activity. The dataset is utilized in the field of Quantitative Structure-Activity Relationship (QSAR) studies to analyze the relationship between the molecular structure of compounds and their biological activity, aiding in drug discovery and development.

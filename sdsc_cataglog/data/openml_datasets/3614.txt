@@ -1,0 +1,3 @@
+name: PC-Games-2020
+dataset_id: 43689.0
+description: The dataset PC-Games-2020 provides information about popular computer games released in 2020. It contains various attributes related to each game, such as title, developer, genre, release date, and positive and negative reviews. The dataset also includes information about the number of players, platforms supported, and whether the game is free or paid. Additionally, it provides details about the game's average playtime and the amount of time players spend in different game modes. This dataset offers valuable insights into the gaming industry and can be used for analysis, research, and understanding the trends in PC gaming in 2020.

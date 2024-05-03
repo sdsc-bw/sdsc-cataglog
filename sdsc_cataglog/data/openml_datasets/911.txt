@@ -1,0 +1,3 @@
+name: a4a
+dataset_id: 1425.0
+description: The dataset a4a contains information about individuals who are seeking employment on the dating website, "Are You Interested?" (AYI). This dataset includes demographic information such as age, ethnicity, height, and body type, as well as information about their preferences in a potential partner. The dataset also provides information about the individuals' occupation, education level, and income. It can be used to analyze the dating preferences and patterns of a specific demographic group, as well as to explore the relationship between people's attributes and their own preferences. The dataset a4a is valuable for researchers interested in understanding the matchmaking dynamics within online dating platforms.

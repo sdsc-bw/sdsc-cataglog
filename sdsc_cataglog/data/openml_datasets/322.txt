@@ -1,0 +1,3 @@
+name: kdd_coil_3
+dataset_id: 570.0
+description: The kdd_coil_3 dataset is a collection of data related to steel coil quality control. It includes measurements of eight different features, such as thickness, width, and length. The dataset consists of 67,622 instances and has been split into training and testing sets. Each instance is labeled as either 'positive' or 'negative' based on coil quality, with 'positive' indicating a good quality coil and 'negative' indicating a defective one. The dataset is commonly used for classification tasks and has been made available for public use. It provides an opportunity for researchers to develop and evaluate machine learning algorithms for steel quality assessment.

@@ -1,0 +1,3 @@
+name: Country_data
+dataset_id: 43739.0
+description: The dataset "Country_data" comprises information about various countries across the world. It includes attributes such as the country's name, population, area, coastline, highest point, and capital city. The dataset also provides numeric values for the country's GDP, inflation rate, literacy rate, and life expectancy. Additionally, it includes categorical variables like the country's region and climate. The dataset aims to capture a wide range of factors related to countries, enabling researchers to analyze and compare various aspects like economic performance, social indicators, and geographic features across different nations.

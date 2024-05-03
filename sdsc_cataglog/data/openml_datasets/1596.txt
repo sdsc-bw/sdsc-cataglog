@@ -1,0 +1,3 @@
+name: QSAR-TID-10580
+dataset_id: 3581.0
+description: QSAR-TID-10580 is a dataset that contains information about the biological activity of compounds against a specific target protein. The dataset consists of 10580 instances and 10 features, including molecular descriptors such as shape, charge, and hydrogen bond donor, among others. The target variable is represented by a continuous value that indicates the compound's biological activity. The dataset has been used for regression analysis and the development of quantitative structure-activity relationship (QSAR) models. It is publicly available and can be used for research and analysis in the fields of drug discovery and computational chemistry.

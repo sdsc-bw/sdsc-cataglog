@@ -1,0 +1,3 @@
+name: QSAR-TID-12738
+dataset_id: 3468.0
+description: The dataset QSAR-TID-12738 is a collection of chemical compounds with known biological activities. It contains information on 5,612 molecules and their corresponding activities against a specific target protein. The dataset includes features like molecular descriptors and chemical properties, which have been preprocessed for machine learning analysis. The molecules are classified based on their activity and are labeled as active or inactive. The dataset aims to enable the development of models for predicting the biological activity of similar compounds and aid in drug discovery research. It provides a valuable resource for researchers in the field of computational chemistry and pharmaceutical sciences.

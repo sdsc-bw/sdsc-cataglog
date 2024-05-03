@@ -1,0 +1,3 @@
+name: qsar-biodeg_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44598.0
+description: The dataset qsar-biodeg_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns. It is divided into 10 classes for classification purposes. There is a stratification technique used to ensure that the distribution of classes is balanced within the dataset. It contains information on the quantitative structure-activity relationship (QSAR) of chemical compounds and their biodegradability. The dataset is likely used for training and evaluating machine learning models to predict the biodegradability of chemical compounds based on their structural features.

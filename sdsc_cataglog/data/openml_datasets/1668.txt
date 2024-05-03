@@ -1,0 +1,3 @@
+name: QSAR-TID-11522
+dataset_id: 3651.0
+description: QSAR-TID-11522 is a dataset consisting of chemical compounds that were tested for their toxicity. It contains 1850 instances, each represented by 67 molecular descriptors. The compounds range from highly toxic to non-toxic. The descriptors include information about the molecular structure, atoms, and bonds. The dataset was compiled for quantitative structure-activity relationship (QSAR) modeling, which aims to predict the biological activity of compounds based on their structural features. It can be used for developing models to identify potential toxic compounds and prioritize their screening, helping in drug discovery and chemical safety assessment.

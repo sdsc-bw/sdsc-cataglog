@@ -1,0 +1,3 @@
+name: FOREX_audjpy-hour-High
+dataset_id: 41718.0
+description: The dataset FOREX_audjpy-hour-High provides information on the highest prices reached by the AUD/JPY currency pair on an hourly basis. It likely includes historical data that can be used for analysis and forecasting. The dataset may contain information such as the date and time of each hourly price high, as well as the specific price level reached. This data can be useful for traders and analysts who are interested in studying the AUD/JPY pair's behavior and identifying patterns or trends. The dataset's name suggests that it specifically focuses on the AUD/JPY currency pair and the high price values it has recorded over time.

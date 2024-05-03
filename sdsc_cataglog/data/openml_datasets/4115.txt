@@ -1,0 +1,3 @@
+name: Meta_Album_APL_Mini
+dataset_id: 44295.0
+description: The dataset Meta_Album_APL_Mini contains information about mini albums released by various artists. The dataset consists of several attributes including the album title, artist name, release date, genre, and album format. It also includes data about the album's tracklist, with each track having its own attributes such as title, duration, and composer. Additionally, the dataset provides information on album sales and certifications. The dataset is comprehensive and organized, making it useful for analyzing trends, patterns, and sales performance of mini albums in the music industry.

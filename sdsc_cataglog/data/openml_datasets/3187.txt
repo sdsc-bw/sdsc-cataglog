@@ -1,0 +1,3 @@
+name: car_info
+dataset_id: 43134.0
+description: The dataset car_info is a comprehensive collection of information about different cars. It contains details such as the manufacturer, model, year of production, fuel type, transmission type, and the number of doors. The dataset also includes information about the car's mileage, horsepower, torque, and acceleration. Additionally, it provides data on the car's price and the location of the seller. This dataset allows for easy comparison and analysis of various car features, facilitating decision-making for potential buyers. It offers a valuable resource for researchers, analysts, and car enthusiasts in understanding the characteristics and specifications of different vehicles.

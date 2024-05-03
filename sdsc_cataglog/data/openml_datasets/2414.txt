@@ -1,0 +1,3 @@
+name: edm
+dataset_id: 41552.0
+description: The dataset edm consists of behavioral and demographic data from students participating in an online educational program. It includes information such as the time spent on tasks, the number of correct answers, and demographic characteristics like age, gender, and educational background. The dataset aims to understand and improve student engagement and performance in online learning environments. It also provides insights into factors that contribute to student success, allowing researchers and educators to develop targeted interventions. The dataset is valuable for studying various aspects of educational data mining and can help improve the design and effectiveness of online educational platforms.

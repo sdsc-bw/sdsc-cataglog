@@ -1,0 +1,3 @@
+name: fri_c4_100_10
+dataset_id: 640.0
+description: The dataset fri_c4_100_10 contains compiled information on 100 individuals, consisting of their personal attributes and social connections. Each person is represented by 10 features, which may include age, gender, occupation, education level, and relationship status. Included are details of the person's friendship connections with other individuals in the dataset. The dataset is designed to explore various social science research questions, including the influence of social networks on behavior, preferences, and decision-making. It provides a valuable resource for studying the dynamics of interpersonal relationships within a community and their potential impact on individual and group-level outcomes.

@@ -1,0 +1,3 @@
+name: cholesterol
+dataset_id: 798.0
+description: The dataset on cholesterol provides information and statistics related to cholesterol levels in individuals. It includes data on various factors such as age, gender, body mass index (BMI), blood pressure, and smoking status. The dataset also consists of cholesterol measurements, including total cholesterol, LDL cholesterol (bad cholesterol), and HDL cholesterol (good cholesterol). Additionally, it contains information on medication usage and family history of high cholesterol. The dataset is useful for studying the relationship between cholesterol levels and various risk factors, as well as for developing strategies to prevent and manage high cholesterol.

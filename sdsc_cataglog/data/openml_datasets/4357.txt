@@ -1,0 +1,3 @@
+name: dionis_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44535.0
+description: The dataset dionis_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows and 100 columns. It has been stratified into 10 classes. The dataset is labeled with a seed value of 2, ensuring reproducibility. The purpose of stratification is to maintain proportionality among the classes, avoiding any bias during analysis. This dataset serves as a solid foundation for studying various aspects as the classes are well-distributed. Its large size and number of features make it suitable for exploring relationships, patterns, and conducting in-depth analyses.

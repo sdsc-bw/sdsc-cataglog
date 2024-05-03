@@ -1,0 +1,3 @@
+name: QSAR-TID-100817
+dataset_id: 3263.0
+description: The dataset QSAR-TID-100817 is composed of 163 observations and 8 attributes, designed for query answering systems in the field of cheminformatics. The objective is to predict the toxicity level of chemical compounds based on their structural features. The attributes include molecular descriptors related to energy levels, geometrical properties, and electronic effects. The toxicity values are graded into three classes: low, medium, and high. The dataset was generated using various computational methods and can be utilized for developing machine learning models to accurately classify and predict chemical toxicity. It serves as a valuable resource for research in drug discovery and chemical safety assessment.

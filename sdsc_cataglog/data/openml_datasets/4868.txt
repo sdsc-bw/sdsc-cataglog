@@ -1,0 +1,3 @@
+name: diabetes_7
+dataset_id: 45226.0
+description: The dataset diabetes_7 contains information related to diabetes patients, including their age, sex, body mass index (BMI), blood pressure, cholesterol levels, and other health parameters. It comprises 768 records and 9 attributes in total. The aim of this dataset is to predict whether or not a patient has diabetes based on their characteristics. The target attribute is binary, indicating the presence or absence of diabetes. The dataset has been widely used in machine learning and predictive modeling studies to develop accurate diabetes prediction models.

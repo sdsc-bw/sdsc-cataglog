@@ -1,0 +1,3 @@
+name: langLog
+dataset_id: 41469.0
+description: The language learning logfile dataset (langLog) consists of data collected from a language learning application used by multiple users. It includes various information such as user identification, timestamps, and actions performed by the user during their language learning sessions. The dataset contains different types of actions, including exercises completed, vocabulary learned, and tests taken. The data is labeled, allowing for analysis of user performance and progress over time. Researchers can use this dataset to study various aspects of language learning, including user behavior, learning patterns, and the effectiveness of different learning activities.

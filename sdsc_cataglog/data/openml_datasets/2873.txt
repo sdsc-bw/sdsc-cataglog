@@ -1,0 +1,3 @@
+name: hls4ml_lhc_jets_hlf
+dataset_id: 42468.0
+description: The dataset hls4ml_lhc_jets_hlf contains simulated high-level features (HLF) of jets produced at the Large Hadron Collider (LHC). It consists of a total of 21100 jet events, with each event containing 100 HLF variables. These variables include energy, momentum, mass, and angular information of the jets. The dataset is suitable for training machine learning models to classify jets into different categories, such as quark jets and gluon jets. It is provided in a CSV format and can be used to understand and study the properties of particle collisions in high-energy physics experiments.

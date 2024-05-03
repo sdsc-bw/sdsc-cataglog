@@ -1,0 +1,3 @@
+repo_name: tf-encrypted
+link: https://github.com/tf-encrypted/tf-encrypted
+description: TF Encrypted is a framework for encrypted machine learning in TensorFlow. It looks and feels like TensorFlow, taking advantage of the ease-of-use of the Keras API while enabling training and prediction over encrypted data via secure multi-party computation and homomorphic encryption. TF Encrypted aims to make privacy-preserving machine learning readily available, without requiring expertise in cryptography, distributed systems, or high performance computing. See below for more background material, explore the examples, or visit the documentation to learn more about how to use the library.

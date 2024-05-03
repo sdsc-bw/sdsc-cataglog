@@ -1,0 +1,3 @@
+name: QSAR-TID-20104
+dataset_id: 3158.0
+description: The dataset QSAR-TID-20104 is related to the prediction of the aquatic toxicity of various compounds towards the fathead minnow species. It consists of 8,554 compounds, each described by 41 molecular descriptors to facilitate the analysis. The dataset provides information about the chemical structure and properties of these compounds, such as their molecular weight, surface area, solubility, and electrical charge. The objective is to accurately predict the toxicity of these compounds towards the fathead minnow species based on their molecular characteristics. This dataset is intended to aid in the development of more effective and environmentally friendly chemicals.

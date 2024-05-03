@@ -1,0 +1,3 @@
+name: yeast_ml8
+dataset_id: 316.0
+description: The dataset yeast_ml8 is a collection of data related to the yeast protein localization problem. It contains various biological features that influence the localization of proteins in yeast. The dataset consists of 1,485 instances and eight attributes, representing various aspects of the proteins such as their amino acid composition and gene expression levels. The data is curated from various sources and has been preprocessed to remove irrelevant attributes and instances with missing values. It serves as a valuable resource for studying and developing computational algorithms for predicting protein localization in yeast.

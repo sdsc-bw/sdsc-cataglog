@@ -1,0 +1,3 @@
+name: wilt
+dataset_id: 40983.0
+description: The wilt dataset contains information about diseased and healthy plant leaves. It consists of 5,238 instances where 3,643 are healthy and 1,595 are diseased. Each instance comprises 5 numerical attributes that represent the average, standard deviation, variance, entropy and skewness of the leaf images. The dataset is provided in two versions, a raw one with all instances and an arff file with classes partially overlapping. It is suitable for classification tasks to differentiate between healthy and diseased plant leaves based on their attributes.

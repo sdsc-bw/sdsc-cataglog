@@ -1,0 +1,3 @@
+name: analcatdata_broadway
+dataset_id: 992.0
+description: The dataset "analcatdata_broadway" consists of information related to the Broadway theater industry. It includes 20 observations and 14 variables, which provide insights on various aspects of Broadway shows and their financial performance. The dataset includes variables such as the show's production budget, total ticket sales, and the number of performances. It also includes categorical variables such as the genre of the show, the type of theater it is performed in, and the targeted audience. This dataset serves as a valuable resource for studying and analyzing the financial dynamics of Broadway shows and understanding the factors that contribute to their success or failure.

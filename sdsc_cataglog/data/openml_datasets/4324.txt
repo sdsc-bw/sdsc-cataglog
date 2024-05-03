@@ -1,0 +1,3 @@
+name: credit-g_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44502.0
+description: The dataset "credit-g_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" has 2,000 rows and 100 columns. It includes information related to credit, with 10 different classes or categories. The dataset is stratified, meaning that the sampling process ensures proportional representation of each class. This dataset provides valuable information for credit-related analysis and prediction models.

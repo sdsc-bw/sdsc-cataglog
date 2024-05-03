@@ -1,0 +1,3 @@
+name: simulated_diamonds
+dataset_id: 45641.0
+description: The dataset "simulated_diamonds" is comprised of information related to simulated diamonds. It contains various attributes, including carat, cut, color, clarity, depth, table, price, and x, y, and z dimensions. The carat attribute represents the weight of the simulated diamond, while cut indicates the quality of the diamond's cut. Similarly, color and clarity signify the respective color and clarity grades of the diamonds. Depth and table depict measurements of the diamond's proportions, while price represents the price in US dollars. Lastly, the x, y, and z attributes show the length, width, and depth measurements of the diamonds.

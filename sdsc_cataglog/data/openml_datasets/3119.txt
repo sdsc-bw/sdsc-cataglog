@@ -1,0 +1,3 @@
+name: hungarian-chickenpox
+dataset_id: 42999.0
+description: The dataset "hungarian-chickenpox" consists of Chickenpox cases in Hungary between 2005 and 2015. It contains 464,280 rows and 17 columns, each representing different variables related to the disease. The dataset includes information on the week of the year, age group, sex, geographical region, and the number of cases reported. There are also columns for hospitalizations and deaths related to chickenpox. The data provides valuable insights into the prevalence and impact of chickenpox in Hungary over the 10-year period, allowing for analysis and modeling of the disease's trends and patterns.

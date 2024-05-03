@@ -1,0 +1,3 @@
+name: NYC-Housing-Data-2003-2019
+dataset_id: 43633.0
+description: The dataset NYC-Housing-Data-2003-2019 contains comprehensive information about housing sales in New York City during the years 2003 to 2019. It consists of various variables such as borough, neighborhood, building type, sale price, sale date, and other property-related attributes. The dataset offers valuable insights into the real estate market trends, property values, and sales patterns over this extensive period. By analyzing this dataset, researchers, analysts, or stakeholders can uncover trends, identify hotspots, make predictions, or assess the impact of certain factors on the housing market in New York City over these seventeen years.

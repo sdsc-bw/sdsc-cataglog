@@ -1,0 +1,3 @@
+name: mauna-loa-atmospheric-co2
+dataset_id: 41187.0
+description: The dataset "mauna-loa-atmospheric-co2" contains measurements of carbon dioxide levels in the atmosphere taken at the Mauna Loa Observatory in Hawaii. The data spans from 1958 to the present, making it one of the longest continuous records of atmospheric CO2. The measurements are collected using air samples obtained from an altitude of approximately 3,400 meters. The dataset provides the average monthly, seasonal, and annual CO2 concentrations, which are expressed in parts per million (ppm). It is widely used by scientists, researchers, and policymakers to study the long-term trends and impact of CO2 emissions on global climate change.

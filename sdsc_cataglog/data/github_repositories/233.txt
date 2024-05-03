@@ -1,0 +1,3 @@
+repo_name: kubeflow
+link: https://github.com/kubeflow/kubeflow
+description: Kubeflow is a cloud-native platform for machine learning operations, used for pipelines, training, and deployment. The official docs for Kubeflow can be found at kubeflow.org and the Kubeflow community is organized into working groups that focus on specific pieces of the ML platform. Please refer to the Community page for more information.

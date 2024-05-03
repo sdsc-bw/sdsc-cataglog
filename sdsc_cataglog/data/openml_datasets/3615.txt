@@ -1,0 +1,3 @@
+name: Electronic-Music-Features---201802-BeatportTop100
+dataset_id: 43690.0
+description: The dataset Electronic-Music-Features---201802-BeatportTop100 provides information on the top 100 electronic music tracks on Beatport in February 2018. The dataset contains various features of these tracks, including duration, tempo, loudness, key, and mode. It also provides details about the artists, labels, and genres of the tracks. The aim of this dataset is to analyze the characteristics of popular electronic music tracks from a professional database. This data can be used for music research, genre classification, and to gain insights into the trends and patterns of electronic music in the music industry.

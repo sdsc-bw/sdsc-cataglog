@@ -1,0 +1,3 @@
+name: QSAR-TID-10051
+dataset_id: 3089.0
+description: The dataset QSAR-TID-10051 contains information about the biological activity of molecules. It consists of 218 compounds and 1027 descriptors representing various chemical properties. The goal is to predict the biological activity of these molecules using quantitative structure-activity relationship (QSAR) models. The dataset includes a target variable indicating the biological activity, measured on a scale of 1 to 10. The data was obtained through experimental procedures and additional data preprocessing steps were performed. This dataset is suitable for researchers interested in developing QSAR models and exploring the relationship between chemical properties and biological activity.

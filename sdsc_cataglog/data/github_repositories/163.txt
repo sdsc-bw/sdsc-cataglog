@@ -1,0 +1,5 @@
+repo_name: streamlit
+link: https://github.com/streamlit/streamlit
+description: Welcome to Streamlit 👋!
+
+Streamlit is the fastest way to build and share data apps, letting you turn data scripts into shareable web apps in minutes, not weeks. It’s all Python, open-source, and free! With Streamlit, you can also automate any workflow, host and manage packages, find and fix vulnerabilities, create instant dev environments, write better code with AI, collaborate outside of code, fund open source developers, and read GitHub community articles. Streamlit makes it incredibly easy to build interactive apps with its simple and focused API, allowing you to build incredibly rich and powerful tools.

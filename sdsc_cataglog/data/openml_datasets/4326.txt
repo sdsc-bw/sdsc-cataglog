@@ -1,0 +1,3 @@
+name: steel-plates-fault_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44504.0
+description: The dataset "steel-plates-fault_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns. It is categorized into 10 classes. The dataset is stratified, meaning that the distribution of classes is proportional across different subsets. This dataset is related to steel plates and their faults. It likely includes various features and measurements of steel plates and their corresponding fault labels. The exact nature of the classes and features is not mentioned, but it can be inferred that the dataset is suitable for classification tasks and analyzing the fault patterns in steel plates.

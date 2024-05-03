@@ -1,0 +1,3 @@
+name: Xeno-Canto-Birds-from-India
+dataset_id: 43776.0
+description: The dataset Xeno-Canto-Birds-from-India comprises bird vocalizations collected by citizen scientists in India. It contains audio recordings of various bird species found in India, with additional information such as date, location, and the recordist responsible for the recording. The dataset has been compiled and made available by Xeno-Canto, a global community of birdwatchers. These audio recordings offer valuable insight into the biodiversity and bird population in India. Researchers and bird enthusiasts can utilize this dataset to study bird behavior, species distribution, and acoustic patterns, aiding conservation efforts and enhancing understanding of avian ecology in the Indian subcontinent.

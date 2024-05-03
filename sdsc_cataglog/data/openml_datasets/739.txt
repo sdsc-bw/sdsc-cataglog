@@ -1,0 +1,3 @@
+name: audiology
+dataset_id: 999.0
+description: The audiology dataset consists of 226 instances with 69 attributes. It was collected for the audiology department at the University of Pittsburgh to aid in the classification of patients based on their hearing abilities. The attributes include demographic information, pure-tone audiometry tests, and auditory brainstem response (ABR) tests. Other attributes capture the presence of certain symptoms related to hearing disorders. The dataset is categorized into seven classes, representing different types of hearing disorders. It is useful for developing machine learning models to classify patients into appropriate categories, thus enabling early diagnosis and treatment planning for individuals with hearing impairments.

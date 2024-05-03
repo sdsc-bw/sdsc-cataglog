@@ -1,0 +1,3 @@
+name: mildew_5
+dataset_id: 45158.0
+description: The dataset mildew_5 contains information about the severity of mildew in different plants. It consists of five different variables that include the year, the plant species, the region, the severity score, and the treatment applied. The dataset contains observations from multiple years and regions. The severity score represents the severity of mildew on a scale from 0 to 10, with higher scores indicating more severe mildew. The treatment variable indicates whether a specific treatment was applied to the plant. Overall, the dataset provides insights into the occurrence and severity of mildew in various plants over different regions and years.

@@ -1,0 +1,3 @@
+name: FOREX_eurdkk-minute-Close
+dataset_id: 41876.0
+description: The dataset FOREX_eurdkk-minute-Close provides information on the closing prices of the EUR/DKK currency pair at different time intervals. It likely includes minute-level data indicating the final price at the end of each minute. The dataset is most likely used for analyzing and studying the exchange rate movements between the Euro (EUR) and the Danish Krone (DKK). By observing the fluctuations in the closing prices over time, it could assist in identifying patterns, trends, and potential trading strategies in this particular currency pair. The dataset plays a significant role in providing valuable insights and informing decisions related to foreign exchange trading involving EUR and DKK.

@@ -1,0 +1,3 @@
+name: bank-marketing
+dataset_id: 44086.0
+description: The bank-marketing dataset contains information regarding direct marketing campaigns from a Portuguese banking institution. It has a total of 45211 instances and 20 features, including age, job, marital status, education, contact type, and previous campaign outcome. The dataset provides valuable insights into consumer behavior, allowing researchers to understand factors that influence the success of a marketing campaign. The target variable, "y", indicates whether a client subscribed to a term deposit. The dataset is often used in classification tasks to predict whether a client will subscribe to a term deposit in future campaigns, helping banks optimize their marketing strategies.

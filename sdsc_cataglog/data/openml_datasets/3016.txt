@@ -1,0 +1,3 @@
+name: fps-in-video-games
+dataset_id: 42737.0
+description: The "fps-in-video-games" dataset focuses on recording the frames per second (FPS) achieved in various video games. It includes data on FPS measurements obtained from different games and hardware configurations. The dataset aims to assist researchers and developers in analyzing and optimizing gaming performance on different systems. It provides information on games, device specifications, FPS measurements, and performance factors. The dataset contains multiple contributors' data, enabling a wide range of comparisons and evaluations. This dataset is valuable for analyzing game performance, conducting benchmark tests, and understanding the impact of different hardware configurations on FPS in video games.

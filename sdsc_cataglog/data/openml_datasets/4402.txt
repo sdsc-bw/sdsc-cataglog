@@ -1,0 +1,3 @@
+name: Diabetes130US_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44581.0
+description: The dataset "Diabetes130US_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2,000 rows and 100 columns, with a stratified distribution of 10 classes. It is related to diabetes and aims to classify patients into these classes. The dataset uses a seed value of 3, which ensures reproducibility. Each class contains an equal number of samples due to stratification. The dataset provides a comprehensive set of features related to diabetes patients, allowing for analysis and modeling of different aspects of the disease.

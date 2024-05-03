@@ -1,0 +1,3 @@
+name: mildew_1
+dataset_id: 45154.0
+description: The dataset mildew_1 contains information about the spread of mildew disease in different vineyards over a period of time. It consists of several variables such as Vineyard, Year, Location, Weather, and Mildew Incidence. The dataset aims to provide insights into the relationship between weather conditions and the occurrence of mildew disease. It also includes the severity of the disease based on a scale from 0 (no mildew) to 5 (severe mildew). The dataset is intended for analysis and research purposes to better understand and potentially address mildew outbreaks in vineyards.

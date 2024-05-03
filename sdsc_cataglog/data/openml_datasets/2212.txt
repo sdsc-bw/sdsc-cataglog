@@ -1,0 +1,3 @@
+name: BNG(segment)
+dataset_id: 40519.0
+description: The dataset BNG (segment) contains information about the segment networks of the British National Grid (BNG). It is a geographical coordinate reference system used in Great Britain for mapping and surveying purposes. The dataset provides details about the segments of the BNG, including their identification numbers, names, and geometry information. The geometry information in the dataset allows for accurate representation of the shape and position of each segment. The dataset is an essential resource for various applications, such as urban planning, infrastructure development, and geographic analysis in Great Britain.

@@ -1,0 +1,3 @@
+name: QSAR-TID-100850
+dataset_id: 3861.0
+description: The dataset QSAR-TID-100850 contains information on the biological activity of compounds and their molecular descriptors. It consists of 741 instances, with each instance having 400 molecular descriptors. The target variable in this dataset is a binary classification indicating whether a compound is active or inactive. The dataset is imbalanced, with 458 instances labeled as inactive and 283 as active. The molecular descriptors include geometric, topological, and electrostatic properties of the compounds. This dataset can be used for building models to predict the biological activity of compounds based on their molecular features, which can aid in drug discovery and development.

@@ -1,0 +1,3 @@
+name: diamonds
+dataset_id: 44979.0
+description: The dataset "diamonds" consists of 53,940 records with 11 attributes. It includes information about various characteristics of diamond prices, such as carat weight, cut quality, color, clarity, depth, table, dimensions, and the total cost of the diamond. The dataset also holds variables like x, y, and z, representing the length, width, and depth of the diamond, respectively. With this extensive dataset, researchers and data analysts can explore patterns, relationships, and trends among these attributes to understand the factors affecting the value of diamonds and potentially make predictions about future prices.

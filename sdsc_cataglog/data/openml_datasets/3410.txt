@@ -1,0 +1,3 @@
+name: Bus-Breakdown-and-Delays-NYC
+dataset_id: 43484.0
+description: The dataset "Bus-Breakdown-and-Delays-NYC" contains information about bus breakdowns and delays in New York City. It catalogues data on incidents involving the city's school buses, including details such as the date of the incident, bus company, bus route, reason for the breakdown or delay, and the time it occurred. The dataset serves as a resource for understanding and analyzing the reliability and efficiency of the school bus system in NYC. It can be used by researchers, policymakers, and transportation authorities to identify trends, patterns, and areas for improvement in order to optimize the city's bus services.

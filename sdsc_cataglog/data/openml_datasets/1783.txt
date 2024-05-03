@@ -1,0 +1,3 @@
+name: QSAR-TID-11626
+dataset_id: 3766.0
+description: The dataset QSAR-TID-11626 contains information on the cytotoxic activity of chemical compounds against leukemia cell lines. It consists of 5,960 records and 7 molecular descriptors. The descriptors include information about the chemical structure, such as atom types and bonds. The dataset has been used in a study to develop predictive models for cytotoxic activity. The goal of the study was to determine the relationship between the molecular structure and the cytotoxicity of the compounds. The dataset is freely available and can be used for further research and analysis in the field of drug discovery and development.

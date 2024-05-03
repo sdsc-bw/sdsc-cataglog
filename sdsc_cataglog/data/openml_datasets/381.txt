@@ -1,0 +1,3 @@
+name: fri_c2_100_50
+dataset_id: 630.0
+description: The dataset fri_c2_100_50 contains information regarding the social network of a group of 100 individuals over a specified period. It consists of 100 nodes representing individuals and 5,000 edges indicating the social connections between them. This dataset is an undirected graph with an average node degree of 100. The data captures various characteristics of the social network, such as friendship ties, interactions, and potential influence among the individuals. It serves as a valuable resource for studying social behavior, network dynamics, and analyzing the impact of social connections on individual actions and decisions.

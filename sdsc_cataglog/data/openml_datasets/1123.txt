@@ -1,0 +1,3 @@
+name: QSAR-TID-100479
+dataset_id: 3099.0
+description: The dataset QSAR-TID-100479 contains information about the biological activity of certain compounds. It consists of 1,055 instances, with each instance containing a set of features that describe various aspects of the compounds. The biological activities of the compounds are represented as a binary classification, with a value of 1 indicating active compounds and 0 indicating inactive ones. The dataset has a balanced distribution of both active and inactive compounds. The features include molecular descriptors, chemical structure, and other attributes. This dataset can be used for various tasks such as developing predictive models, analyzing chemical properties, and investigating structure-activity relationships.

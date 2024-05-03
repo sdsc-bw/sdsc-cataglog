@@ -1,0 +1,3 @@
+name: kc3
+dataset_id: 1065.0
+description: The dataset kc3 refers to a collection of software defect data used for evaluating defect prediction models. It consists of 2100 instances and includes various attributes such as churn, defects, and LOC_BLANK. The dataset aims to capture the characteristics of object-oriented systems and provide insights into software quality assurance. The dataset kc3 has been widely used in research studies to analyze defect prediction techniques and develop effective software quality management strategies.

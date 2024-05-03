@@ -1,0 +1,3 @@
+name: FOREX_audcad-minute-High
+dataset_id: 41802.0
+description: The dataset FOREX_audcad-minute-High contains minute-level data for the AUD/CAD currency pair. It provides information on the highest price reached during each minute of trading. The dataset likely includes a large number of records due to the minute-level granularity of the data. Users can analyze the trends and fluctuations in the AUD/CAD exchange rate by examining the highest price points reached within each minute. This dataset offers valuable insights for traders and researchers interested in studying the AUD/CAD forex market at a highly detailed level.

@@ -1,0 +1,3 @@
+name: tecator
+dataset_id: 851.0
+description: The dataset Tecator contains measurements of different properties of meat samples, such as the amount of water, protein, and fat present in them. The dataset was collected using near-infrared spectroscopy, a non-destructive and non-intrusive method. It consists of 215 samples, each with 100 different spectral measurements, ranging from 850 to 1050 nm. The dataset is commonly used in chemometrics research and serves as a benchmark for developing prediction models. Several regression models have been built using this dataset to estimate the protein content, which is of significant interest in the food industry for quality control purposes.

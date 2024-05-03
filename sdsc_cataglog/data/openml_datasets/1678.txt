@@ -1,0 +1,3 @@
+name: QSAR-TID-20137
+dataset_id: 3661.0
+description: The dataset QSAR-TID-20137 consists of chemical compounds with their corresponding toxicity values. The compounds were tested on rats for their potential toxicity effects, and the dataset includes 8,116 compounds. Each compound is represented by 1,000 molecular descriptors, including features like constitutional, topological, and quantum-chemical properties. The different toxicity values range from 0.0 (non-toxic) to 7.5 (highly toxic). The dataset can be used to build quantitative structure-activity relationship (QSAR) models to predict the toxicity of new chemical compounds, based on their molecular descriptors. Overall, QSAR-TID-20137 is a comprehensive dataset for toxicity prediction research.

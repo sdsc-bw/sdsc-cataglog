@@ -1,0 +1,3 @@
+name: SAT11-HAND-runtime-classification
+dataset_id: 41981.0
+description: The dataset SAT11-HAND-runtime-classification encompasses handwritten instances of the Boolean satisfiability problem, specifically focusing on runtime classification. It consists of 400 different benchmarks and their corresponding SAT solver runtime data. Each benchmark comes with 11 statistical features that were extracted from the solver runtime. The SAT solver used for generating the data is MiniSat. The dataset aims to aid researchers and practitioners in the development and evaluation of machine learning models for predicting the runtime of SAT solvers. The dataset is openly accessible and can be used for various purposes including benchmarking, classification, and regression tasks.

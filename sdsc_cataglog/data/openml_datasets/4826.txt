@@ -1,0 +1,3 @@
+name: hailfinder_9
+dataset_id: 45184.0
+description: The dataset hailfinder_9 contains information about hailstorms and hailpad observations. It includes data such as the location, time, and intensity of hailstorms. The dataset also provides details about the hailpad observations, including the size and shape of the hailstones. The hailpad observations are collected using a network of sensors placed throughout an area prone to hailstorms. The dataset can be used for analyzing hailstorm patterns, studying the impact of hail on infrastructure, and developing predictive models for hailstorms. It is a valuable resource for researchers, meteorologists, and insurance companies aiming to understand and mitigate the effects of hailstorms.

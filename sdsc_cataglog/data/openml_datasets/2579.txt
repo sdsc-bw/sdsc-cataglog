@@ -1,0 +1,3 @@
+name: FOREX_eurgbp-day-Close
+dataset_id: 41844.0
+description: The dataset FOREX_eurgbp-day-Close consists of daily closing prices for the EUR/GBP currency pair in the foreign exchange (FOREX) market. It provides information on the closing values of the exchange rate between the Euro (EUR) and British Pound (GBP). The dataset likely includes data for multiple days, allowing for the analysis of trends and fluctuations in the currency pair over time. This data can help traders, researchers, and analysts understand the historical performance of the EUR/GBP exchange rate and potentially make informed decisions when trading or forecasting movements in the market.

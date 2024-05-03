@@ -1,0 +1,3 @@
+name: wine_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44371.0
+description: The dataset wine_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True contains information on 2,000 rows and 100 columns. It is stratified into 10 different classes, indicating different types of wine. The seed value for this dataset is 4, which means that it can be reproduced. This dataset is expected to provide a wide range of information and insights about wine, making it valuable for research and analysis. It covers a considerable number of samples and features, giving researchers a comprehensive view of the wine industry.

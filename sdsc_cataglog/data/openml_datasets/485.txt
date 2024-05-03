@@ -1,0 +1,3 @@
+name: pharynx
+dataset_id: 738.0
+description: The dataset "pharynx" contains information about the pharynx, a muscular tube in the throat that serves as a pathway for food and air. It includes data on the anatomy, function, and disorders of the pharynx. The dataset contains measurements and observations from various sources and research studies, providing a comprehensive overview of the pharynx. The data covers aspects such as the structure, muscles involved, swallowing mechanism, and potential disorders like pharyngitis and dysphagia. It is a valuable resource for researchers, medical professionals, and anyone interested in understanding the complexities of the pharynx and related conditions.

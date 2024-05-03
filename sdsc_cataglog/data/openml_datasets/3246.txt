@@ -1,0 +1,3 @@
+name: Movies-on-Netflix,-Prime-Video,-Hulu-and-Disney
+dataset_id: 43309.0
+description: The dataset called Movies-on-Netflix, -Prime-Video, -Hulu-and-Disney contains information about movies available on streaming platforms like Netflix, Amazon Prime Video, Hulu, and Disney+. The dataset likely includes details such as movie titles, genres, release years, ratings, directors, and actors involved. The information could help researchers or enthusiasts explore movie trends, popularity, and availability across these streaming platforms. With this dataset, analysis can be conducted to compare the number of movies offered by each platform, genre preferences, average ratings, or to identify any overlapping content between platforms.

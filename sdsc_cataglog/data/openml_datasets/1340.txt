@@ -1,0 +1,3 @@
+name: QSAR-TID-100976
+dataset_id: 3317.0
+description: The dataset QSAR-TID-100976 consists of 166 chemical compounds, represented by 41 molecular descriptors related to their structures, as well as binary classification labels indicating their biological activity. The dataset aims to predict the biological activity of the compounds based on their molecular features. It was collected from the ToxCast database, which provides information on the toxicity of various chemical compounds. The descriptors include information about the atoms, bonds, and functional groups present in the compounds. This dataset can be used for developing and evaluating machine learning models to predict the biological activity of new chemical compounds.

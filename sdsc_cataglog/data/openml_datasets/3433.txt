@@ -1,0 +1,3 @@
+name: Anime-Data
+dataset_id: 43508.0
+description: The Anime-Data dataset is a comprehensive collection of information about anime series. It contains data on various attributes like titles, genres, episode count, average rating, popularity, and members. The dataset has over 12,000 entries and is available in CSV format. It includes anime from various countries, making it a diverse resource. The dataset is useful for analyzing trends in the anime industry, understanding audience preferences, and predicting future popularity of anime series. It can be utilized by researchers, enthusiasts, and industry professionals to gain insights into the world of anime and make informed decisions regarding content creation and distribution.

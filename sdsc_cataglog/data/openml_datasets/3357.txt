@@ -1,0 +1,3 @@
+name: CERN-Electron-Collision-Data
+dataset_id: 43429.0
+description: The CERN-Electron-Collision-Data is a dataset that provides information about electron collisions at the Large Hadron Collider (LHC) at CERN. The dataset includes measurements of different particle properties, such as energy, momentum, and charge, for each collision event. It also contains information about the experimental setup and the conditions surrounding the collisions. The data is organized in a tabular format, with each row representing a collision event and each column representing a different measurable property. The dataset is freely available for researchers and scientists to explore and analyze for further understandings in particle physics.

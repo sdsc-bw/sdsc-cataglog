@@ -1,0 +1,3 @@
+name: QSAR-TID-12703
+dataset_id: 3397.0
+description: The dataset QSAR-TID-12703 contains information about the biological activities of molecules against specific targets. The dataset includes 357 molecules and 1024 molecular descriptors, along with their corresponding biological activities. The molecular descriptors represent various chemical and structural properties of the molecules. The biological activities are measured as pIC50 values, which indicate the potency of a molecule in inhibiting a specific target. QSAR-TID-12703 is useful for developing quantitative structure-activity relationship (QSAR) models to predict the biological activity of new molecules against the same or similar targets.

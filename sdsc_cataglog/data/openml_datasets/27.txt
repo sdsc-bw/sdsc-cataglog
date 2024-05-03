@@ -1,0 +1,3 @@
+name: pendigits
+dataset_id: 32.0
+description: The pendigits dataset consists of 16 numerical attributes and a class attribute. It contains 7,200 examples of handwritten digits, where each digit is represented by a sequence of pen coordinates. There are 10 classes in total, representing digits from 0 to 9. The attributes capture various features of the pen strokes, such as the duration, direction, and relative ending position. The dataset aims to facilitate the recognition of handwritten digits through machine learning algorithms. It is widely used in pattern recognition research, specifically in areas such as handwriting recognition, classification, and clustering analysis.

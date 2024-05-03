@@ -1,0 +1,3 @@
+name: Click_prediction_small
+dataset_id: 1220.0
+description: The dataset Click_prediction_small is a collection of data that has been organized for analysis and prediction purposes. It contains a variety of information related to ads and their click rates on a digital platform. The dataset comprises features like ad identifiers, website identifiers, user information, and contextual information about the ads. This data can be used to study patterns and behaviors, analyze the effectiveness of ads, and develop predictive models for click rates. The dataset is relatively small in size, making it manageable for exploration and experimentation. Overall, Click_prediction_small offers valuable insights into digital advertising and click prediction.

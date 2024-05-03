@@ -1,0 +1,3 @@
+name: analcatdata_broadway
+dataset_id: 443.0
+description: The dataset analcatdata_broadway represents a collection of data related to the Broadway theater industry. It contains information about 106 Broadway shows, with variables including the number of performances, the total gross revenue, the number of theaters and weeks the show ran, and the average ticket price. There are also variables related to the play's genre, such as whether it is a drama or a musical. Additionally, the dataset includes demographic information about the audience, such as the average age, the percentage of female attendees, and the average household income. Overall, this dataset provides comprehensive insights into the Broadway theater industry and its audience.

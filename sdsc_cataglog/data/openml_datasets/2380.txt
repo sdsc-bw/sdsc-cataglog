@@ -1,0 +1,3 @@
+name: scpf
+dataset_id: 41487.0
+description: The scpf dataset is a large collection of public records related to police use of force incidents in the city of Chicago between 2004 and 2016. It contains detailed information about each incident, including the date, time, location, and outcome. The dataset includes data from various sources, such as police incident reports, media reports, and citizen complaints. It also provides information on the demographics of the individuals involved in the incidents, such as their race, age, and gender. The scpf dataset has been made available to the public to promote transparency and accountability in law enforcement practices.

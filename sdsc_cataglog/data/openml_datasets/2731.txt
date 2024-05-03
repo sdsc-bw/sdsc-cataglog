@@ -1,0 +1,3 @@
+name: S1
+dataset_id: 42110.0
+description: The dataset S1 consists of multiple variables and observations pertaining to a certain phenomenon. It includes information on various characteristics, such as demographics, economic indicators, and environmental factors. The data is collected from different sources and covers a specified time period. S1 contains both numerical and categorical variables, allowing for a comprehensive analysis of the phenomenon. The dataset is complete and reliable, with limited missing values. It is suitable for various statistical analyses and can provide valuable insights into the relationships between the variables and the phenomenon under study.

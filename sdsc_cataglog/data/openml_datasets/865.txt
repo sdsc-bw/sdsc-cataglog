@@ -1,0 +1,3 @@
+name: OVA_Omentum
+dataset_id: 1139.0
+description: The OVA_Omentum dataset is a collection of gene expression data from ovarian cancer patients with omental metastasis. It comprises RNA sequencing data from omental metastatic tumors derived from patients who had undergone omentectomy. The dataset also includes clinical information such as age, tumor grade, and histology. The aim of this dataset is to facilitate research on the molecular mechanisms and identification of therapeutic targets for omental metastasis in ovarian cancer. The dataset can aid in the development of predictive models, biomarkers, and novel therapeutic strategies for improving patient outcomes and prognosis.

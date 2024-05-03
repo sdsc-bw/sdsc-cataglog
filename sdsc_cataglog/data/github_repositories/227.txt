@@ -1,0 +1,3 @@
+repo_name: redisml
+link: https://github.com/RedisLabsModules/redisml
+description: RedisML is a Redis module that implements several machine learning models as Redis data types. The stored models are fully operational and support the prediction/evaluation process. RedisML is a turnkey solution for using trained models in a production environment. Load ML models from any platform, immediately ready to serve. RedisML is planned to be replaced by RedisAI, adding support for deep learning. RedisAI will provide a unified interface for tensor, scientific, deep learning, and other machine learning operations within Redis.

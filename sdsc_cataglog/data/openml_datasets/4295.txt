@@ -1,0 +1,3 @@
+name: KDDCup09_appetency_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44473.0
+description: The dataset named KDDCup09_appetency_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows and 100 columns. It has been stratified into 10 different classes. The purpose of this dataset is to predict customer appetency based on various attributes. It is a part of the KDD Cup 2009 competition. This dataset is one of the seeds of the larger dataset and serves as a representative sample. It provides researchers and data analysts an opportunity to explore and analyze customer behavior and preferences.

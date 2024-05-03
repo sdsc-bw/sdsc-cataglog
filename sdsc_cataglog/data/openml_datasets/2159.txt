@@ -1,0 +1,3 @@
+name: parkinsons-telemonitoring
+dataset_id: 4531.0
+description: The dataset "parkinsons-telemonitoring" consists of observations of voice recordings and motor symptoms from individuals with early-stage Parkinson's disease. The voice recordings were obtained from patients while they performed various tasks, such as pronouncing sustained vowels and reading a given text. Motor symptoms were evaluated using the Unified Parkinson's Disease Rating Scale (UPDRS) and the motor section of the MDS-UPDRS. The dataset also includes demographic information such as age and gender. This dataset provides valuable information for analyzing and developing telemonitoring systems for Parkinson's disease patients, which can help in monitoring the progression and management of the disease.

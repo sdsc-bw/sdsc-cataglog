@@ -1,0 +1,3 @@
+name: covertype_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44446.0
+description: The dataset covertype_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns with 10 different classes. The dataset is stratified, meaning that the class distribution is balanced. Each row in the dataset represents a specific cover type. The dataset is categorized according to 10 different cover types. The dataset is generated with seed 3, ensuring replicability. The dataset contains various features that describe each cover type. It provides a comprehensive and diverse set of data for analyzing and classifying different types of cover.

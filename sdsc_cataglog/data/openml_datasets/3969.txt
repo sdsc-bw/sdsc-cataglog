@@ -1,0 +1,3 @@
+name: spambase_reproduced
+dataset_id: 44095.0
+description: The dataset "spambase_reproduced" contains information about email messages, with a focus on identifying whether they are spam or not. This dataset is a reproduction of the original "Spambase" dataset, designed to be more accessible and easier to use. It consists of 58 attributes, including statistical measures of words and characters in the emails, as well as information about the frequency of certain words. The target variable is a binary classification, indicating whether an email is spam (1) or not (0). This dataset is commonly used for spam filtering and has been widely studied to develop effective classification models.

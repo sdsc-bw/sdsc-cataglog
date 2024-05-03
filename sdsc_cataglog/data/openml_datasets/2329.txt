@@ -1,0 +1,3 @@
+name: albert
+dataset_id: 41147.0
+description: The dataset ALBERT is a language model that is pre-trained on a vast amount of text data. It has been specifically designed to understand written text and perform various language-related tasks. ALBERT is a BERT-based model, which means it incorporates a bidirectional transformer architecture to capture the context of words and generate representations. It has been trained on a wide range of tasks, including sentence-level and document-level classification, question answering, and natural language inference. ALBERT achieves state-of-the-art performance on multiple benchmarks and outperforms other language models. It is widely used for tasks like text classification, information retrieval, and text generation.

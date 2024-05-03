@@ -1,0 +1,3 @@
+name: Candy-crush
+dataset_id: 43471.0
+description: The Candy Crush dataset contains information on players' behavior in the popular mobile game Candy Crush Saga. It includes data on players' actions, such as moves made, levels achieved, and scores obtained. The dataset also provides information on the length of gameplay sessions and the time taken to complete levels. Additionally, it includes demographics such as age, gender, and country of the players. The dataset aims to analyze and understand player engagement and behavior patterns in order to improve game design and user experience. It offers valuable insights into player preferences, strategies, and how different variables affect gameplay.

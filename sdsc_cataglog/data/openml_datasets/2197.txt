@@ -1,0 +1,3 @@
+name: thyroid-allbp
+dataset_id: 40474.0
+description: The dataset called "thyroid-allbp" is related to thyroid disease prediction. It consists of 21 attributes, including patient age, sex, and various blood pressure measurements. The dataset is divided into two sets: the training set with 4500 instances and the test set with 1500 instances. There are three classes in the dataset, indicating the presence of a specific type of thyroid disease. However, the distribution of classes is imbalanced, with the majority class being dominant. This dataset can be used to explore and analyze thyroid disease prediction models, considering the imbalanced nature of the classes.

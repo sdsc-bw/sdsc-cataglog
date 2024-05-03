@@ -1,0 +1,3 @@
+name: car
+dataset_id: 991.0
+description: The dataset "car" is a comprehensive collection of information about various car models. It includes attributes like the manufacturer, model, engine type, horsepower, fuel efficiency, and price. The dataset contains data from different car brands and provides details about their performance and features. It can be used for various analytical and research purposes, such as comparing car prices, analyzing the impact of fuel efficiency on sales, and identifying trends in the automotive industry. The dataset offers a rich and diverse set of information that can be valuable for car enthusiasts, researchers, and industry professionals alike.

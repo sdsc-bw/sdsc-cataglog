@@ -1,0 +1,3 @@
+name: leaf
+dataset_id: 1482.0
+description: The leaf dataset contains data of different plant species, with each species represented by its own set of leaf images. The dataset consists of 1,500 images, where 75 images are provided for each species. The images were captured under controlled conditions, ensuring that the same leaf is photographed multiple times in different positions and orientations. The dataset also includes additional information such as the shape, margin, and texture features extracted from each leaf image. The purpose of this dataset is to aid in plant species recognition and classification tasks using machine learning algorithms.

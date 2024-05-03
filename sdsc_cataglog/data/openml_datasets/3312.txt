@@ -1,0 +1,3 @@
+name: Drug-Classification
+dataset_id: 43382.0
+description: The Drug-Classification dataset contains information about different drugs and their classification into various classes. It has 5 attributes including ID, Name, Effectiveness, Side-effects, and Drug-class. The ID represents the unique identifier for each drug, while the Name indicates their respective names. The Effectiveness and Side-effects attributes provide information about the effectiveness and potential side effects of each drug. The Drug-class attribute categorizes the drugs into different classes based on their characteristics. Overall, this dataset helps in understanding and analyzing the relationships between drug attributes and their classification into different classes.

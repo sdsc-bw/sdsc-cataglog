@@ -1,0 +1,3 @@
+name: Red-Wine-Quality
+dataset_id: 43695.0
+description: The Red-Wine-Quality dataset consists of various chemical properties of red wine and their quality ratings. It contains 1599 observations with 11 variables. The variables include factors like fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, and alcohol. The quality rating ranges from 3 to 8, where higher values indicate better quality. The goal of this dataset is to predict the quality of red wine based on its chemical properties. The dataset is commonly used for classification and regression tasks, as well as for exploring the relationship between wine quality and its attributes.

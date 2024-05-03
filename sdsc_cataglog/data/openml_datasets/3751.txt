@@ -1,0 +1,3 @@
+name: Netflix-10-Year-Stock-Data-2002-2020
+dataset_id: 43829.0
+description: The dataset Netflix-10-Year-Stock-Data-2002-2020 contains information on Netflix's stock performance from 2002 to 2020. It includes details such as the date, opening and closing prices, highest and lowest prices, and trading volume. The dataset allows for the analysis of Netflix's stock trends, fluctuations, and overall performance over the past decade. It can be used by investors, researchers, and analysts to study the company's growth, historical patterns, and make informed decisions. The data provides valuable insights into the stock market dynamics and Netflix's position within the industry.

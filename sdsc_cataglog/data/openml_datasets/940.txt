@@ -1,0 +1,3 @@
+name: banknote-authentication
+dataset_id: 1462.0
+description: The banknote-authentication dataset consists of 1,372 samples of images acquired from genuine and counterfeit banknotes. It was created by extracting features from images that were transformed into binary form using ImageMagick software. Each sample has five input features known to be relevant for banknote authentication, including variance, skewness, curtosis, entropy, and class (genuine or counterfeit). The dataset is split into a training set with 1,100 samples and a testing set with 272 samples. The goal of this dataset is to classify banknotes as genuine or counterfeit based on their features, helping in the development of authentication methods.

@@ -1,0 +1,3 @@
+repo_name: ggplot2
+link: https://github.com/tidyverse/ggplot2
+description: ggplot2 is a system for declaratively creating graphics, based on The Grammar of Graphics. You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details. It is used by hundreds of thousands of people to make millions of plots and changes relatively little. To learn more about ggplot2, there are several good starting points including the Data Visualisation and Graphics for communication chapters in R for Data Science, an online course called Data Visualization in R With ggplot2, and a webinar called Plotting Anything with ggplot2. For further help, the RStudio community and Stack Overflow are both great resources.

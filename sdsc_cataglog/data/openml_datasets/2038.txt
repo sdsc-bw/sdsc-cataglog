@@ -1,0 +1,3 @@
+name: QSAR-TID-10142
+dataset_id: 4024.0
+description: The dataset QSAR-TID-10142 contains information about the toxic effects of chemical compounds on aquatic organisms. It includes molecular descriptors, such as molecular weight and solubility, as well as experimental results from bioassays measuring the compounds' toxicity towards different species. The dataset is used to develop a quantitative structure-activity relationship (QSAR) model to predict the toxic effects of new compounds. The data is publicly available and can be used by researchers to improve understanding of the relationships between molecular properties and aquatic toxicity, potentially leading to the discovery of safer chemical compounds.

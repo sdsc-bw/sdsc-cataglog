@@ -1,0 +1,3 @@
+name: digital-colposcopy-schiller
+dataset_id: 42992.0
+description: The dataset digital-colposcopy-schiller is related to the field of gynecology and specifically digital colposcopy, which is an imaging technique used to detect cervical lesions. It contains images of the cervix taken during colposcopy examinations, along with associated metadata such as patient age, histology results, and the presence or absence of Schiller's test. The dataset aims to aid in the development and evaluation of algorithms for automated cervical lesion detection and classification. It is publicly available and can be utilized for research and development purposes to improve the accuracy and efficiency of cervical cancer diagnosis and treatment.

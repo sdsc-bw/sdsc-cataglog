@@ -1,0 +1,3 @@
+name: FOREX_chfsgd-minute-Close
+dataset_id: 41880.0
+description: The dataset named FOREX_chfsgd-minute-Close pertains to the foreign exchange market (FOREX) between the currencies of Swiss franc (CHF) and Singapore dollar (SGD). It consists of minute-level data for the closing exchange rate between CHF and SGD. The dataset provides information on the fluctuations and trends of CHF to SGD exchange rates over time, enabling analysis and prediction of forex market movements. The data is valuable for investors, traders, and researchers seeking to understand CHF- SGD exchange rate dynamics and make informed decisions in forex trading.

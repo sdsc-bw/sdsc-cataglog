@@ -1,0 +1,3 @@
+name: Brazilian_houses_reproduced
+dataset_id: 44152.0
+description: The dataset Brazilian_houses_reproduced contains information on the sale price, location, and physical attributes of residential properties in Brazil. It includes details like the number of rooms, bathrooms, and parking spaces in the houses, as well as the area of the property. The dataset also provides information on the neighborhood's average income, average age of residents, and the number of schools in the area. Additionally, it includes the distance to various amenities such as supermarkets, shopping centers, and hospitals. This dataset aims to facilitate analysis and modeling of housing prices and aid in decision-making regarding real estate investments in Brazil.

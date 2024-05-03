@@ -1,0 +1,3 @@
+name: analcatdata_japansolvent
+dataset_id: 467.0
+description: The dataset analcatdata_japansolvent contains information related to Japanese solvent companies on various dimensions. There are 16 variables in total, including profitability, leverage, labor, and market share. The dataset consists of 63 instances and has been designed for analyzing and predicting financial distress among Japanese solvent firms. It includes both bankrupt and non-bankrupt companies, making it useful for studying bankruptcy prediction models. The data was collected from financial statements and annual reports from the period of 1980 to 2010. This dataset provides a comprehensive platform for conducting research on financial distress and bankruptcy among Japanese solvents.

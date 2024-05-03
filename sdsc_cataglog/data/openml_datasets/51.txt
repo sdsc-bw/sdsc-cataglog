@@ -1,0 +1,3 @@
+name: waveform-5000
+dataset_id: 60.0
+description: The dataset waveform-5000 is a supervised prediction dataset, consisting of 5,000 observations and 21 attributes. The dataset has been widely used in various research studies and data science projects. It includes instances of five different classes, with each class represented in roughly equal proportions. The attributes are numerical, ranging in values from -1 to 1, and are generally considered to be continuous. The dataset is well-balanced and suitable for training and evaluating machine learning models. It offers ample opportunities for exploration, analysis, and experimentation in the field of data science.

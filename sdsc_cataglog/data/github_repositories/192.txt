@@ -1,0 +1,3 @@
+repo_name: ENAS-Tensorflow
+link: https://github.com/mingukkang/ENAS-Tensorflow
+description: ENAS-Tensorflow is an implementation of Efficient Neural Architecture Search (ENAS) that can work in a Windows 10 environment and allows data augmentation using "n_aug_img". This repository contains information on how to run ENAS-Tensorflow and includes graphs and results of ENAS cells discovered in the micro search space for datasets such as MNIST, CIFAR10, and Welding Defects.

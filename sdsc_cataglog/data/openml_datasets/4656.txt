@@ -1,0 +1,3 @@
+name: fifa
+dataset_id: 45012.0
+description: The FIFA dataset contains information about players and teams in the popular FIFA video game series. It provides detailed attributes of over 18,000 players from different leagues worldwide. These attributes include player ratings, positions, nationality, age, height, weight, and skill set like dribbling, shooting, and passing. The dataset also includes team attributes such as team ratings, skills, and formation. It allows for various types of analysis, including player comparisons, team statistics, and performance evaluations. The FIFA dataset is widely used by gamers, sports analysts, and researchers to study player trends, develop strategies, and analyze gameplay dynamics.

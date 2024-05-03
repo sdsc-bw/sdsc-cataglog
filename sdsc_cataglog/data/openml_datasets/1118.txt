@@ -1,0 +1,3 @@
+name: QSAR-TID-101097
+dataset_id: 3094.0
+description: The QSAR-TID-101097 dataset contains information about the biological activity of compounds. It includes 110 compounds and 526 molecular descriptors, along with their corresponding activity values. The compounds have been categorized into three classes based on their activity: active, inactive, and inconclusive. The dataset aims to provide information that can be used to predict the biological activity of new compounds. The molecular descriptors cover various aspects of the compounds, including their structural, electronic, and topological properties. The dataset serves as a valuable resource for researchers working in the field of computational chemistry and drug discovery.

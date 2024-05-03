@@ -1,0 +1,3 @@
+name: QSAR-TID-12252
+dataset_id: 3142.0
+description: The dataset QSAR-TID-12252 consists of 436 compounds, with each compound having 1 target variable and 828 molecular descriptors. These descriptors represent the chemical properties and structures of the compounds. The target variable is a quantitative measure of the compounds' antitumor activity, specifically their ability to inhibit the growth of human breast cancer cells. The dataset aims to predict the antitumor activity of new compounds based on their molecular descriptors. The compounds in the dataset have been experimentally tested for their antitumor activity, and the dataset can be used for machine learning and QSAR modeling purposes.

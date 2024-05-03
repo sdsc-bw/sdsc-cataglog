@@ -1,0 +1,3 @@
+name: QSAR-TID-11141
+dataset_id: 3608.0
+description: The QSAR-TID-11141 dataset contains information on 977 organic compounds and their respective chemical structures. This dataset is specifically designed for the development and evaluation of Quantitative Structure-Activity Relationship (QSAR) models to predict the acute aquatic toxicity of chemicals. It includes 89 molecular descriptors, such as molecular weight, number of hydrogen bond donors/acceptors, and topological indices. The toxicity of each compound is measured in terms of the lethal concentration causing 50% mortality to the fish (LC50). The dataset aims to provide researchers with a valuable resource to develop models and discover new chemical compounds with reduced aquatic toxicity.

@@ -1,0 +1,3 @@
+name: water_5
+dataset_id: 45169.0
+description: The dataset water_5 contains information about water quality parameters measured in a particular location. It consists of five variables including monitoring station, date and time of measurement, water temperature, pH levels, and dissolved oxygen levels. The dataset provides a record of multiple measurements taken over a period of time. The information collected is vital for analyzing the quality of water and identifying any potential issues or changes. The dataset is useful for researchers, environmentalists, and policymakers who are concerned with monitoring and managing water resources. It provides valuable insights and helps in making informed decisions regarding water quality and conservation efforts.

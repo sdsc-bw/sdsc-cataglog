@@ -1,0 +1,3 @@
+name: QSAR-TID-20171
+dataset_id: 3503.0
+description: QSAR-TID-20171 is a dataset that consists of quantitative structure-activity relationship (QSAR) data for 141 compounds. It is used to predict the acute aquatic toxicity endpoint of these compounds. The dataset contains 8 molecular descriptors, such as logP and MW, representing various chemical properties of the compounds. The compounds are classified into three toxicity classes: highly toxic, moderately toxic, and non-toxic. The dataset is balanced, with approximately equal numbers of compounds in each class. It is useful for developing predictive models for toxicity assessment in environmental and pharmaceutical research.

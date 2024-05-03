@@ -1,0 +1,3 @@
+name: FOREX_eurjpy-hour-High
+dataset_id: 41777.0
+description: The dataset FOREX_eurjpy-hour-High contains information on the hourly high values for the EUR/JPY currency pair in FOREX trading. The dataset is focused on the exchange rate between the euro (EUR) and the Japanese yen (JPY) and provides hourly high values for this currency pair. It is likely to be useful for analyzing trends and patterns in the exchange rate over time. The dataset could be beneficial for traders and researchers interested in the EUR/JPY currency pair and its volatility in FOREX trading.

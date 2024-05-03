@@ -1,0 +1,3 @@
+name: Technical-Indicator-Backtest
+dataset_id: 43736.0
+description: The dataset "Technical-Indicator-Backtest" is a collection of financial data pertaining to the performance of technical indicators in backtesting scenarios. It contains various features such as the ticker symbol, date, and closing price of a stock, as well as the values of different technical indicators like Bollinger Bands, Moving Averages, and Relative Strength Index. The dataset also provides information on whether to take a long or short position based on the indicators. The data covers a wide range of stocks and a period of several years, making it a valuable resource for studying and analyzing the effectiveness of different technical indicators in predicting stock price movements.

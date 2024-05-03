@@ -1,0 +1,3 @@
+name: alarm_8
+dataset_id: 45117.0
+description: The dataset alarm_8 contains information regarding various alarms and their corresponding attributes. It includes 561 instances with 30 input features and 1 output feature. The inputs consist of data related to heart rate, respiratory rate, blood oxygen saturation, blood pressure, and other physiological measurements. The output feature represents the alarm status, indicating whether an alarm should be triggered or not. The dataset aims to assist in the development and evaluation of algorithms for alarm systems in healthcare settings. It aids in predicting alarms, optimizing alarm thresholds, and improving patient safety in critical care scenarios.

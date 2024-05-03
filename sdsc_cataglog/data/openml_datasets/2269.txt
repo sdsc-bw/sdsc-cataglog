@@ -1,0 +1,3 @@
+name: olympic-marathon-men
+dataset_id: 40729.0
+description: The dataset named "olympic-marathon-men" contains information about the men's marathon event in the Olympics. It provides details like the year, location, winning time, and the country of the gold medalist. The dataset includes information from different years and locations, spanning several decades. The goal of this dataset is to provide an overview of the performance of male marathon runners in the Olympics over time. It can be utilized for analysis, visualizations, and modeling to identify trends, patterns, and factors that influence marathon performance at the Olympic level.

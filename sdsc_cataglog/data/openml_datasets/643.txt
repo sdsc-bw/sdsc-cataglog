@@ -1,0 +1,3 @@
+name: sleuth_case2002
+dataset_id: 902.0
+description: The dataset "sleuth_case2002" contains data related to a cybercrime investigation case from the year 2002. It includes various pieces of information like IP addresses, timestamps, and email headers. The dataset is designed to aid investigators in examining the case and determining patterns or connections between different entities involved. It is a publicly available dataset and can be used for research purposes or training in forensic analysis. Overall, "sleuth_case2002" provides a valuable resource for understanding cybercrime investigations from the early 2000s and developing strategies to combat future cyber threats.

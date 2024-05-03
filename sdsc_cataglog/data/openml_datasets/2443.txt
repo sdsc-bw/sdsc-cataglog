@@ -1,0 +1,3 @@
+name: FOREX_usddkk-day-High
+dataset_id: 41707.0
+description: The dataset FOREX_usddkk-day-High provides information about the highest daily exchange rates between the US dollar (USD) and the Danish krone (DKK) in FOREX trading. It contains historical data reflecting daily fluctuations in exchange rates. The dataset is likely to be useful for analyzing trends, volatility, and potential trading opportunities in the USD/DKK currency pair. Researchers and traders can use this dataset to gain insights into the performance of the USD against the DKK over different time periods and identify high points in the exchange rate. Overall, this dataset offers valuable information for anyone interested in studying or investing in the USD/DKK forex market.

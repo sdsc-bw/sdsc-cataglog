@@ -1,0 +1,3 @@
+name: pc1
+dataset_id: 1068.0
+description: The dataset pc1 is a collection of data regarding personal computers. It contains information about various aspects of PC performance and hardware specifications. The dataset includes data on processor speed, memory capacity, hard drive size, and graphics card capabilities. Additionally, it includes information on the operating system used, the price of the PC, and the brand. The dataset provides a comprehensive overview of different PCs, allowing for analysis and comparison of their performance and features. It is a valuable resource for individuals or organizations looking to understand the specifications and performance of personal computers.

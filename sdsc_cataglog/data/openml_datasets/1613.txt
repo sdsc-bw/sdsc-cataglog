@@ -1,0 +1,3 @@
+name: QSAR-TID-10439
+dataset_id: 3598.0
+description: The dataset QSAR-TID-10439 contains information about the biological activity of chemical compounds. It has a total of 1085 instances and 41 descriptors. The target variable for this dataset is the IC50 value, which represents the concentration at which a compound inhibits 50% of an enzyme's activity. The descriptors provide information about the molecular structure of the compounds. The dataset aims to predict the IC50 value using regression analysis. It is available in CSV format and can be accessed from the QSAR-TID database, which is a repository for various QSAR datasets.

@@ -1,0 +1,3 @@
+name: Dota2-Games-Results-Data-Set
+dataset_id: 45563.0
+description: The Dota2-Games-Results-Data-Set is a comprehensive dataset that contains information about the results of over 50,000 matches played in the video game Dota 2. It provides a plethora of data, including game duration, game mode, player statistics, and the outcome of the matches. The dataset also features information about the hero picks and bans, allowing for analysis of hero popularity and strategies. Researchers and data analysts can utilize this dataset to gain insights about the game, such as identifying winning strategies, comparing player performances, and detecting patterns or trends in match outcomes.

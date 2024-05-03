@@ -1,0 +1,3 @@
+name: fri_c1_1000_50
+dataset_id: 583.0
+description: The dataset fri_c1_1000_50 consists of 1000 samples, each having 50 features. It represents a classification task and was generated using the FRI (Fast Random Instances) generator, which creates synthetic datasets with balanced classes. The dataset is designed to be challenging for classification algorithms. It provides a benchmark for evaluating the performance of classifiers and feature selection methods. The features are real-valued and normalized to have zero mean and unit variance. The class labels are randomly assigned with equal probability. The dataset is freely available for research purposes.

@@ -1,0 +1,3 @@
+name: QSAR-TID-125
+dataset_id: 3859.0
+description: The QSAR-TID-125 dataset is a collection of chemical compounds and their associated toxicity values. It contains 3751 compounds with known toxicity levels, and each compound is described by 41 molecular descriptors. The toxicity values range from 0.01 to 2.00, with higher values indicating higher toxicity. The dataset is useful for developing quantitative structure-activity relationship (QSAR) models to predict the toxicity of new chemical compounds. It can be obtained from the UCI Machine Learning Repository and has been widely used in the field of cheminformatics for toxicity prediction studies.

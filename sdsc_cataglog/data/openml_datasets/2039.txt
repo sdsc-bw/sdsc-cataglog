@@ -1,0 +1,3 @@
+name: QSAR-TID-11361
+dataset_id: 4025.0
+description: The dataset QSAR-TID-11361 consists of 1397 molecules, with each molecule having different molecular features and a binary class label indicating its biological activity. The features include a variety of physicochemical, topological, geometric, and electronic properties, along with molecular fingerprints. The dataset also includes the molecular structures in the SMILES format. The binary class label indicates whether the molecule is active or inactive against a specific target. QSAR models can be developed using this dataset for predicting the biological activity of unknown molecules. The dataset is publicly available for research purposes.

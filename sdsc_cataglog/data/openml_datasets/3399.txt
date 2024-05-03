@@ -1,0 +1,3 @@
+name: Hottest-Kaggle-Datasets
+dataset_id: 43473.0
+description: The dataset "Hottest-Kaggle-Datasets" consists of information on the most popular datasets available on Kaggle, a platform for data science and machine learning. It includes details on the dataset name, number of downloads, size, number of versions, and the number of kernels created using that dataset. The dataset has 24 columns, providing comprehensive information about each dataset. It also includes data on the number of votes and comments each dataset has received. The dataset is constantly updated to reflect the most recent trends in data science and provides valuable insights for researchers and data enthusiasts.

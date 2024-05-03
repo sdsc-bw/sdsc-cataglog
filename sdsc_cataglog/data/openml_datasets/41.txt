@@ -1,0 +1,3 @@
+name: heart-c
+dataset_id: 49.0
+description: The heart-c dataset contains medical information of patients with heart disease. It consists of 303 instances and 14 attributes, including age, sex, cholesterol level, blood pressure, and presence of heart disease. The dataset does not have any missing values. It has been used for classification tasks, such as predicting the presence of heart disease based on the given attributes. The aim is to analyze the dataset and derive insights to improve diagnosis and treatment of heart disease. The dataset is publicly available and can be accessed for further research purposes.

@@ -1,0 +1,3 @@
+name: LottoMaster-144
+dataset_id: 43067.0
+description: The dataset LottoMaster-144 contains information about lottery numbers drawn in a fictional game called LottoMaster. It consists of 144 entries, each representing a different draw. Each entry includes the date and time of the draw, as well as the six winning numbers. Additionally, the dataset provides data on the frequency of each number being drawn. The dataset appears to be organized and complete, offering comprehensive information on the winning numbers and their occurrence patterns. It can be utilized for data analysis, statistical modeling, and further exploration of lottery patterns.

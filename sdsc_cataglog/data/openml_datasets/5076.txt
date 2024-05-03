@@ -1,0 +1,3 @@
+name: SquareF
+dataset_id: 45617.0
+description: SquareF is a dataset containing information about publicly discussed IPOs filed with the U.S. Securities and Exchange Commission (SEC). The dataset includes data from 2004 to 2020, encompassing 3,575 IPO filings. It provides details such as the company's name, ticker symbol, filing date, industry, and filing status. Additionally, SquareF offers information on the company's financials, including revenues, net income, and equity, among others. The dataset is valuable for researchers, investors, and analysts interested in studying the IPO market and making informed decisions.

@@ -1,0 +1,3 @@
+name: Reading_Hydro_upstream
+dataset_id: 44218.0
+description: The dataset "Reading_Hydro_upstream" is a collection of data related to a hydrological project. It contains various types of information about the upstream conditions of a river. The dataset includes data about rainfall, water levels, flow rates, and water quality parameters such as temperature, pH, and conductivity. The data is collected at regular intervals, providing a longitudinal view of the upstream conditions over a specific time period. This dataset can be used for various hydrological studies, such as analyzing the impact of rainfall on water levels, assessing the water quality, and understanding the overall hydrological dynamics of the upstream area.

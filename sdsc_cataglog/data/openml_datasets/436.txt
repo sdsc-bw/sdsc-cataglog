@@ -1,0 +1,3 @@
+name: visualizing_soil
+dataset_id: 688.0
+description: The dataset "visualizing_soil" is a comprehensive collection of soil data pertaining to its composition, quality, and properties. It includes information on various soil types, such as clay, silt, and sand, as well as their percentages present in each sample. The dataset also provides data on soil fertility, pH levels, and organic matter content. Additionally, it encompasses soil moisture levels and temperature observations. The dataset has been prepared using advanced soil analysis techniques and provides valuable insights for researchers, farmers, and environmentalists to analyze and interpret soil characteristics for different applications, including agriculture, land management, and ecological research.

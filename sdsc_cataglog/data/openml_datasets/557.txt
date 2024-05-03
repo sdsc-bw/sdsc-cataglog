@@ -1,0 +1,3 @@
+name: fri_c3_1000_5
+dataset_id: 813.0
+description: The dataset fri_c3_1000_5 consists of five columns and 1,000 rows. It contains information related to friendships among a group of individuals. The first column represents the ID of each individual, while the second column indicates the popularity level of each person in their social circle. The third column shows the number of friends each individual has. The fourth column represents the average age of the friends of each person. Finally, the fifth column represents the gender of each individual. This dataset provides valuable insights into the dynamics of friendships within a social network and can be used for various analytical purposes.

@@ -1,0 +1,3 @@
+name: analcatdata_apnea2
+dataset_id: 765.0
+description: The dataset analcatdata_apnea2 contains information about individuals who have undergone a sleep apnea examination. The dataset consists of 20 variables, including demographic details such as age, sex, and body mass index (BMI). It also includes variables related to sleep apnea, such as the number of apnea per hour, severity, and oxygen saturation levels. The dataset provides insights into the relationship between various factors and the occurrence and severity of sleep apnea. This dataset is useful for researchers and healthcare professionals studying sleep apnea and its risk factors, as well as for developing predictive models for diagnosing and treating the condition.

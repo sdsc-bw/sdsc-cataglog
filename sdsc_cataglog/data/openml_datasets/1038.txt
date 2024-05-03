@@ -1,0 +1,3 @@
+name: poker-hand
+dataset_id: 1567.0
+description: The dataset called "poker-hand" contains 1,025,010 instances, each representing a hand in a Texas Hold'em poker game. Each hand is defined by five playing cards and classified into one of ten possible classes, representing the poker hand ranking. The dataset comprises numerical attributes that describe the cards' suit and rank, along with a binary class attribute indicating the hand's poker ranking. This dataset offers a unique opportunity to analyze and predict the poker hand ranking based on the given cards. It is particularly useful for machine learning and statistical analysis applications in the field of poker.

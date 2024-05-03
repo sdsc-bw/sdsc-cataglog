@@ -1,0 +1,3 @@
+name: USCrime
+dataset_id: 1089.0
+description: The USCrime dataset is a collection of crime rates for various offenses in the United States across multiple years. It consists of 11 variables, including the crime rate per capita, average household size, percentage of population living in urban areas, and the number of police officers per capita. The dataset covers 47 states and the District of Columbia, with varying numbers of observations per state. The variables provide insights into the criminality patterns and relationships with various social and economic factors. This dataset is commonly used for studying crime trends, modeling criminal behavior, and exploring the impact of law enforcement measures.

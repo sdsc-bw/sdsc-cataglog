@@ -1,0 +1,3 @@
+name: pasture
+dataset_id: 339.0
+description: The pasture dataset provides information about the quality and utilization patterns of pastures. It includes data on various parameters such as temperature, rainfall, soil moisture, and vegetation cover. The dataset covers a wide range of locations and time periods, allowing for in-depth analysis of pasture conditions across different regions and seasons. Detailed information about the type and species of plants, as well as the presence of any invasive or harmful species, is also included. This dataset can be used to monitor pasture health, make informed decisions regarding land management practices, and assess the impact of environmental factors on pasture productivity.

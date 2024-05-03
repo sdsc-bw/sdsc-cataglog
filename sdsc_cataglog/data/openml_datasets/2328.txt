@@ -1,0 +1,3 @@
+name: sylvine
+dataset_id: 41146.0
+description: The dataset "sylvine" is concerned with the mineral sylvine, also known as potassium chloride (KCl). It contains detailed information about various physical and chemical properties of this mineral, such as its crystal structure, density, refractive index, and melting point. Additionally, it includes data on the mineral's composition, elemental percentages, and potential impurities. The dataset provides comprehensive measurements and observations gathered through different analytical techniques. Researchers interested in the properties and characteristics of sylvine would find this dataset useful for their studies, as it offers a wide range of information that can aid in understanding and analyzing this mineral.

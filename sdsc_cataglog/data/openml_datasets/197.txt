@@ -1,0 +1,3 @@
+name: uehling
+dataset_id: 435.0
+description: The dataset "uehling" consists of information regarding the Democratic Primary Election held in Uehling, Nebraska. It contains 1000 observations and 12 variables, including the contestant, gender, age, education level, party affiliation, and vote count. The data was collected by surveying voters in Uehling on the day of the primary election. The dataset provides an insight into the demographic composition of the electorate and their voting patterns. It is a valuable resource for analyzing the factors that influence voter behavior in this specific election, such as age, education, gender, and party affiliation.

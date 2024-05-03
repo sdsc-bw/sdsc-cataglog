@@ -1,0 +1,3 @@
+name: colon-cancer
+dataset_id: 1432.0
+description: The colon-cancer dataset comprises information about individuals diagnosed with colon cancer, where each instance represents a patient. It includes various attributes such as age, gender, location of the tumor, histological grade, and number of positive lymph nodes. The dataset also specifies the presence or absence of four biological markers, namely K-ras, P53, APC, and TMN, which play a significant role in cancer progression. Additionally, it provides details about the type of operation performed, whether chemotherapy was administered, and the overall survival status of patients. With these attributes, the dataset aims to aid in analyzing and predicting colon cancer outcomes and treatment effectiveness.

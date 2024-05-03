@@ -1,0 +1,3 @@
+name: MPII-Human-Pose-Data
+dataset_id: 43810.0
+description: The MPII-Human-Pose-Data is a large-scale dataset consisting of annotated human pose data. It contains over 25,000 images, each annotated with multiple joints positions of the human body. The dataset covers a diverse range of activities, including sports, dancing, and daily life movements. The annotations include detailed information such as joint coordinates, occlusion labels, and pose labels. The dataset is commonly used for training and evaluating human pose estimation algorithms. It provides a valuable resource for researchers and developers in the field of computer vision and human activity recognition.

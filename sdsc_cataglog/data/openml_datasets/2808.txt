@@ -1,0 +1,3 @@
+name: UCI-student-performance-mat
+dataset_id: 42352.0
+description: The UCI-student-performance-mat dataset is a collection of data related to student performance in Portuguese secondary education. It includes attributes like student demographics, family background, study habits, and academic performance indicators. The dataset consists of two distinct subjects: math and Portuguese language. It contains records of 649 students from two Portuguese schools. The data aims to explore how different factors influence student performance, such as alcohol consumption, family support, and study time. It provides valuable insights into educational systems and can be used to analyze and predict student achievement and success.

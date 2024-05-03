@@ -1,0 +1,3 @@
+name: QSAR-TID-18013
+dataset_id: 3284.0
+description: The dataset QSAR-TID-18013 contains information on the biological activity of compounds related to trichloroethylene metabolites. It includes data about 574 compounds and their corresponding activities in terms of inhibition of metabolism and cytotoxicity. The dataset also provides details on molecular descriptors and other chemical properties of the compounds. The purpose of this dataset is to aid in the development of models for predicting toxicity and biological activity of new chemicals. This dataset can be valuable for researchers and scientists working in the field of drug development and chemical safety assessment.

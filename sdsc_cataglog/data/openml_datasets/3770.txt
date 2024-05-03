@@ -1,0 +1,3 @@
+name: NSE-Future-and-Options-Dataset-3M
+dataset_id: 43848.0
+description: The NSE-Future-and-Options-Dataset-3M is a comprehensive dataset that contains historical data of Future and Options contracts traded on the National Stock Exchange of India (NSE) for a period of 3 months. The dataset includes information on stock futures, index futures, stock options, and index options. It provides details such as the opening and closing prices, high and low prices, volume traded, and open interest. This dataset is valuable for investors, traders, and researchers who want to analyze and understand the trends, patterns, and liquidity of the NSE derivatives market.

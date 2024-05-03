@@ -1,0 +1,3 @@
+name: QSAR-TID-30035
+dataset_id: 3323.0
+description: The dataset QSAR-TID-30035 contains information about the toxicity of several compounds. It consists of 3,035 samples, each represented by 527 molecular descriptors. The target variable is the EC50 value, which represents the concentration needed to inhibit a specific biological activity by 50%. The compounds were divided into training and test sets based on the scaffold diversity and their chemical properties. The dataset provides valuable information for developing quantitative structure-activity relationship (QSAR) models and predicting the toxicity of similar compounds. It is a useful resource for researchers in the field of toxicology and drug development.

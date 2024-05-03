@@ -1,0 +1,3 @@
+name: QSAR-TID-11926
+dataset_id: 3780.0
+description: The dataset QSAR-TID-11926 contains information on the chemical compounds that are potential inhibitors of the enzyme dihydrofolate reductase (DHFR). These compounds have been investigated for their anti-malarial activity. There are a total of 392 instances in the dataset, each having 8 attributes including descriptors computed from the 2D molecular structure and experimental activity values. The target variable in this dataset is the logarithm of the inhibitory activity. The dataset provides an opportunity for researchers to explore the relationship between chemical structure and anti-malarial activity, ultimately aiding in the discovery of new drugs to combat malaria.

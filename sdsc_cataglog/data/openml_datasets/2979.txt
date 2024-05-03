@@ -1,0 +1,3 @@
+name: ricci_vs_destefano
+dataset_id: 42665.0
+description: The dataset "ricci_vs_destefano" refers to a lawsuit case involving the City of New Haven's civil service promotion exams. The city used written tests to determine promotions, but the exams disproportionately disqualified African American and Hispanic candidates. The dataset contains information on the scores and demographics of individuals who took the exams. It also includes variables such as race, gender, and whether the participants were promoted or not. The dataset is relevant for studying disparities and potential discrimination in employment practices, as it highlights the contentious issue of disparate impact and its implications for promotions in civil service.

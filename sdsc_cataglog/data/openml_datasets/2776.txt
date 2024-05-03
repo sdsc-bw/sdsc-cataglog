@@ -1,0 +1,3 @@
+name: sbilifeNSE
+dataset_id: 42201.0
+description: The dataset sbilifeNSE pertains to the stock prices of SBI Life Insurance Company on the National Stock Exchange (NSE). It contains a range of information, including the date, opening price, closing price, highest and lowest prices, and trading volume of the stock. The dataset covers a period of time, allowing for analysis and observation of trends, patterns, and fluctuations in the stock prices of SBI Life Insurance Company. This dataset can be valuable for conducting research, making investment decisions, and studying the performance of the company's stock over a specific timeframe on the NSE.

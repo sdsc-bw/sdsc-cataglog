@@ -1,0 +1,3 @@
+name: chscase_census4
+dataset_id: 907.0
+description: The dataset chscase_census4 contains information about various cases reported in the Child Support Hearing Register in Australia. It includes both administrative data obtained from the government and survey data collected from individuals involved in child support cases. The dataset covers various aspects such as demographics, income, employment, education, and relationships of the individuals involved. Additionally, it provides information about the types of cases, outcomes, and levels of child support payments. The dataset offers valuable insights into the factors affecting child support cases and can be utilized for research purposes in understanding the dynamics of child support in Australia.

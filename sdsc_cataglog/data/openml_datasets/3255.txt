@@ -1,0 +1,3 @@
+name: DiabetesDataset2019
+dataset_id: 43321.0
+description: The DiabetesDataset2019 is a dataset that contains various attributes related to diabetes patients. It consists of 768 instances and contains 8 input variables, such as age, BMI, and glucose level. These variables are utilized in predicting the onset of diabetes. The dataset also includes one output variable indicating whether a patient has diabetes or not. It is important to note that the dataset may have missing values, and thus proper preprocessing techniques, such as handling missing data, may be necessary before conducting any analysis or modeling.

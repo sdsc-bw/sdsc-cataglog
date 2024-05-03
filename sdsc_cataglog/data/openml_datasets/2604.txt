@@ -1,0 +1,3 @@
+name: FOREX_eursgd-minute-Close
+dataset_id: 41869.0
+description: The dataset FOREX_eursgd-minute-Close is focused on the minute-by-minute closing prices of the currency pair EUR/SGD in the foreign exchange market. It provides a detailed record of the closing prices for this specific currency pair, which can be used for various analyses and predictions. The dataset is likely to contain a significant amount of data points, as it covers the fluctuations in exchange rates over time. Researchers and traders interested in understanding the trends, patterns, and volatility of EUR/SGD can utilize this dataset to gain insights and make informed decisions based on the minute-by-minute fluctuations in the closing prices.

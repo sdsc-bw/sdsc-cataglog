@@ -1,0 +1,3 @@
+name: TVS_Loan_Default
+dataset_id: 43743.0
+description: The dataset TVS_Loan_Default provides information about borrowers who have taken loans from a TVS finance company. It includes attributes like age, monthly income, loan amount, loan period, loan installment, and whether the borrower has defaulted on the loan. The dataset consists of 111 records. The purpose of analyzing this dataset is to identify patterns and factors that may contribute to loan defaults.

@@ -1,0 +1,3 @@
+name: cleaned-Edge-IIoTset
+dataset_id: 45581.0
+description: The dataset called cleaned-Edge-IIoTset is an extensively cleaned dataset that focuses on the Industrial Internet of Things (IIoT) domain. It consists of various measurements captured from sensors deployed in a manufacturing plant. The data includes diverse features such as temperature, humidity, ambient light, vibration, and power consumption. This dataset aims to facilitate the development and evaluation of anomaly detection algorithms for IIoT systems. It has been thoroughly cleaned, ensuring the removal of outliers and missing values. The cleaned-Edge-IIoTset dataset is a valuable resource for researchers and practitioners working on anomaly detection and predictive maintenance in the IIoT field.

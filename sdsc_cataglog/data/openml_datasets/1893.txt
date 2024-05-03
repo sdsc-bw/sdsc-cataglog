@@ -1,0 +1,3 @@
+name: QSAR-TID-10026
+dataset_id: 3878.0
+description: The dataset QSAR-TID-10026 contains information related to the biological activity of chemical compounds. It consists of 1,222 compounds, each described by 527 molecular descriptors that help characterize their properties. The dataset also includes the corresponding activities of the compounds, which were measured as inhibitory concentration values (IC50) against a particular enzyme. The goal of this dataset is to develop quantitative structure-activity relationship (QSAR) models that can predict the inhibitory activity of new compounds. Such models can aid in drug discovery by identifying potential compounds with desired biological activities.

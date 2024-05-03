@@ -1,0 +1,3 @@
+name: QSAR-TID-11010
+dataset_id: 3929.0
+description: The dataset QSAR-TID-11010 contains 74 chemical compounds with their corresponding quantitative structure-activity relationship (QSAR) values. The compounds belong to a class of chemicals used as potential inhibitors of a particular enzyme. The QSAR values indicate the effectiveness of the compounds as inhibitors, with higher values indicating better inhibition. The dataset includes various molecular descriptors, such as 3D structures, 2D counts, and hybrid information. The dataset aims to facilitate the development of predictive models to identify effective inhibitors and further the understanding of the molecular properties impacting inhibition strength.

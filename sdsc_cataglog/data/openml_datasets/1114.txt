@@ -1,0 +1,3 @@
+name: QSAR-TID-10981
+dataset_id: 3090.0
+description: The dataset QSAR-TID-10981 contains information related to the toxicity of certain chemicals. It includes 828 compounds with their respective chemical structures and associated toxicity values. The data was obtained using computational models and experimental assays. The toxicity values range from 0.075 to 4.537, with an average of 1.321. The dataset is unique and valuable for various research purposes, such as predicting the potential toxicity of new chemicals and developing safer alternatives. It has been used in numerous studies to assess the toxicity of different compounds and aid in the development of safer chemicals.

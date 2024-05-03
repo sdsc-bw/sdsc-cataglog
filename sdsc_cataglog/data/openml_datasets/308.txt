@@ -1,0 +1,3 @@
+name: analcatdata_apnea2
+dataset_id: 556.0
+description: The dataset analcatdata_apnea2 contains information about patients with sleep apnea. The dataset consists of 20 variables and the data is from a study conducted at the Boston University School of Medicine. The variables include information about the age, gender, body position during sleep, heart rate, blood pressure, and oxygen saturation levels. The dataset also includes information about the duration and severity of sleep apnea events. This dataset can be useful for researchers studying sleep apnea and its impact on various physiological factors.  Overall, the analcatdata_apnea2 dataset provides valuable information for analyzing and understanding sleep apnea in patients.

@@ -1,0 +1,3 @@
+name: fri_c0_100_25
+dataset_id: 889.0
+description: The dataset fri_c0_100_25 contains records related to friendships between users on a social networking platform. It consists of 100 users connected through 25 friendship links. Each record includes information such as the user's unique identifier, the identifier of the friend they are connected to, and the timestamp of the friendship establishment. The dataset aims to provide insights into user interactions and the dynamics of friendships on the platform. This dataset can be utilized for various research purposes, including social network analysis, recommendation systems, and understanding user behavior and preferences within online communities.

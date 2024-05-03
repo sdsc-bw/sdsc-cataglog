@@ -1,0 +1,3 @@
+name: garments-worker-productivity
+dataset_id: 42989.0
+description: The dataset "garments-worker-productivity" consists of information about the productivity of workers in a garments factory. It includes various attributes such as individual worker ID, date and time of the record, total number of working hours, number of products produced, and worker rating. The data covers a period of 15 months, from January 2015 to March 2016. It is collected from a real factory and contains both numeric and categorical values. The dataset aims to analyze and understand the factors affecting worker productivity in the garments industry, ultimately leading to improved efficiency and performance in the factory.

@@ -1,0 +1,3 @@
+name: kc2
+dataset_id: 1063.0
+description: The dataset kc2 consists of 21 features and 522 instances that measure software defects in Java packages. It is commonly used in software defect prediction research. The features capture different aspects of the package, such as size, complexity, and method information. The instances are labeled with a binary value indicating whether the package possesses defects or not. The dataset has been preprocessed to remove missing values and normalize the attribute scales. It is often utilized to develop and evaluate machine learning models for software defect prediction, aiming to identify patterns and predict the presence of defects in software projects.

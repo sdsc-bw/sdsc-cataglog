@@ -1,0 +1,3 @@
+name: child_8
+dataset_id: 45139.0
+description: The dataset child_8 contains information related to eight children, including their gender, age, height, and weight. Each child's information is organized in separate rows, making it easy to analyze individually. The dataset also includes a column for a unique identifier, which can be used to accurately distinguish between the different children. Other variables provided in this dataset include the child's medication usage, their class in school, and their score on an achievement test. With this dataset, researchers can further investigate and uncover relationships between these variables for a comprehensive analysis of child-related characteristics.

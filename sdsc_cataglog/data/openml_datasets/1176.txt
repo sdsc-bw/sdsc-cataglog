@@ -1,0 +1,3 @@
+name: QSAR-TID-11908
+dataset_id: 3152.0
+description: QSAR-TID-11908 is a dataset containing details of 7 toxic organic compounds. The compounds belong to the group of triazoles which are commonly used in agricultural and medical applications. The dataset includes 117 molecular descriptors, which provide information about the physicochemical properties of the compounds. These descriptors are related to factors such as solubility, stability, and polarity. The goal of this dataset is to develop quantitative structure-activity relationship (QSAR) models to predict the toxicity of these compounds. This dataset can be valuable for researchers working on toxicity prediction in the field of drug discovery and environmental risk assessment.

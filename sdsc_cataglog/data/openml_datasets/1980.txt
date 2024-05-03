@@ -1,0 +1,3 @@
+name: QSAR-TID-10443
+dataset_id: 3966.0
+description: The dataset QSAR-TID-10443 contains information about the potency of compounds as inhibitors of the enzyme AmpC beta-lactamase. It includes 1667 compounds and their corresponding IC50 values, which represent the concentration required to inhibit the enzyme activity by 50%. The dataset also includes a variety of physicochemical descriptors for each compound, such as molecular weight, solubility, and hydrophobicity. The goal of this dataset is to develop a quantitative structure-activity relationship (QSAR) model that can accurately predict the potency of potential inhibitors based on their physicochemical properties. Various machine learning algorithms can be applied to analyze and predict the IC50 values.

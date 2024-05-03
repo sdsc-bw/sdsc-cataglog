@@ -1,0 +1,3 @@
+name: AP_Prostate_Kidney
+dataset_id: 1144.0
+description: The dataset AP_Prostate_Kidney focuses on prostate and kidney tissue samples obtained from different patients. It includes various features related to the samples, such as numerical and categorical attributes, as well as corresponding clinical outcomes. The data consists of 505 instances with 21 attributes, including patient age, prostate-specific antigen (PSA) level, tumor volume, and Gleason score, among others. The dataset aims to facilitate the analysis of these tissue samples to gain insights into the characteristics and potential predictors of prostate and kidney diseases. It can be used for machine learning algorithms, predictive modeling, and research studies in the field of urology.

@@ -1,0 +1,3 @@
+name: churn_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44660.0
+description: The dataset "churn_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns. It has been generated using a churn prediction model with 10 different classes. The dataset has been stratified, meaning the distribution of these classes is balanced. Each row in the dataset represents a unique observation, while each column represents a different feature. The dataset can be used for various machine learning tasks, such as classification or predictive modeling, where the goal is to predict customer churn based on the given features.

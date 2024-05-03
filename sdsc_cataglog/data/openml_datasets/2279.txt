@@ -1,0 +1,3 @@
+name: Devnagari-Script
+dataset_id: 40923.0
+description: The dataset Devnagari-Script is a collection of handwritten characters in the Devanagari script, used for languages like Hindi and Nepali. It contains over 92,000 labeled images of characters written by 46 different individuals. The characters in the dataset include vowels, consonants, numbers, and special symbols. Each image is of size 32x32 pixels and is in grayscale format. The dataset is split into training and testing sets with a ratio of 80:20. Various machine learning and image processing algorithms have been utilized to analyze and classify the characters. The dataset has been widely used for research purposes in the field of handwriting recognition and character classification.

@@ -1,0 +1,3 @@
+name: CD4
+dataset_id: 41542.0
+description: The CD4 dataset is a valuable resource for researchers in the field of immunology. It contains detailed information about CD4 cells, a type of white blood cell that plays a crucial role in the immune response of the human body. The dataset includes data from various studies and experiments, covering aspects such as CD4 cell counts, functions, and phenotypes. It also provides information about the impact of diseases, such as HIV/AIDS, on CD4 cells. The CD4 dataset is particularly useful for investigating the progression and treatment of immune-related disorders and has the potential to contribute to the development of new therapies and diagnostic tools.

@@ -1,0 +1,3 @@
+name: dionis_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44536.0
+description: The dataset dionis_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True has 2000 rows and 100 columns, with 10 classes. It has been stratified, meaning that the distribution of the classes in the dataset reflects the distribution in the population. This helps in maintaining the representation of each class in the dataset. The dataset seems to be created using the Dionis framework or method. The seed value for the dataset generation is 3. However, further details about the contents or purpose of the dataset are not provided in the given information.

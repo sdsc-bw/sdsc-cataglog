@@ -1,0 +1,3 @@
+name: QSAR-TID-10262
+dataset_id: 3430.0
+description: The dataset QSAR-TID-10262 contains information on 7,770 compounds. It was created for modeling mutagenic activity based on structural attributes. Each compound is described by 273 features and assigned a binary label indicating if it is mutagenic or non-mutagenic. The data was collected using a combination of experimental and computational methods. The dataset is balanced, with approximately 50% of compounds labeled as mutagenic. It is often used in the field of computational chemistry and machine learning for developing predictive models. The dataset can be accessed online and has been widely studied by researchers in the field.

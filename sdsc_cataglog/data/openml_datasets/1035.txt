@@ -1,0 +1,3 @@
+name: dbworld-subjects
+dataset_id: 1564.0
+description: The dataset dbworld-subjects contains information on academic researchers and scientists who have published papers in the field of databases. It includes their names, publication titles, affiliations, and email addresses. The dataset covers a wide range of subjects related to databases, including data mining, information retrieval, and data modeling. The data is collected from various sources, such as conferences and journals, and is publicly available for research purposes. The dataset can be used to analyze trends in database research, identify popular topics, and study the collaborations between researchers in the field.

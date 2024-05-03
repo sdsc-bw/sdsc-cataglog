@@ -1,0 +1,3 @@
+name: QSAR-TID-20105
+dataset_id: 4094.0
+description: QSAR-TID-20105 is a dataset used for predicting the acute aquatic toxicity of chemicals. It contains chemical descriptors of 7,326 chemical compounds along with their corresponding toxicity values. The dataset is acquired from the UCI Machine Learning Repository and is highly imbalanced, with most compounds being non-toxic. The goal of this dataset is to develop models and algorithms that can accurately predict the toxicity of chemicals based on their chemical descriptors. It can be utilized for research and development in the field of toxicology and chemical safety assessment.

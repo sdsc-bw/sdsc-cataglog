@@ -1,0 +1,3 @@
+name: AP_Omentum_Uterus
+dataset_id: 1124.0
+description: The dataset AP_Omentum_Uterus is about the identification and classification of omentum and uterine tissues in abdominal pelvic (AP) radiographic images. It contains images collected from a medical institution, involving both healthy and diseased individuals. The dataset provides annotations for region of interest (ROI) and class labels for omentum, uterus, and background areas. The dataset consists of a total of 200 images, including both AP view and their corresponding masks. It serves as a valuable resource for training and evaluating computer vision models to automate the identification and analysis of abdominal pelvic structures in medical imaging.

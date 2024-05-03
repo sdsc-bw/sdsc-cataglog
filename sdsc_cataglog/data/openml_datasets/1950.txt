@@ -1,0 +1,3 @@
+name: QSAR-TID-11766
+dataset_id: 3935.0
+description: The dataset QSAR-TID-11766 consists of 9,303 chemical compounds, each represented by 1024 molecular descriptors. The compounds are categorized into three classes based on their bioactivity levels: active, moderately active, or inactive. QSAR modeling can be performed using this dataset to predict the bioactivity levels of new compounds. The dataset has been used in several studies and published articles, showcasing its usefulness for drug discovery and development. However, the dataset also has limitations, such as the absence of compound structures and the imbalanced distribution of classes. Nonetheless, QSAR-TID-11766 remains valuable for research in drug design and computational chemistry.

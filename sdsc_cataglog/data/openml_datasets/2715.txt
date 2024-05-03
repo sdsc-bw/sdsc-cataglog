@@ -1,0 +1,3 @@
+name: federal_election
+dataset_id: 42080.0
+description: The dataset federal_election contains information about the results of federal elections. It includes data on various aspects such as the number of votes received by each political party, the electoral district in which the votes were cast, and the individual candidates running for office. The dataset also includes data on the demographics of the voters, such as the age, gender, and ethnicity of the individuals who cast their votes. This dataset is valuable for analyzing and understanding the electoral process, studying voting patterns, and identifying any potential correlation between demographics and electoral outcomes.

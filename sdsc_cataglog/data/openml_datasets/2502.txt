@@ -1,0 +1,3 @@
+name: FOREX_cadjpy-hour-Close
+dataset_id: 41767.0
+description: The dataset FOREX_cadjpy-hour-Close refers to a collection of data points related to the closing prices of the currency pair CAD/JPY in the foreign exchange market. The dataset focuses on hourly data and includes information about the closing prices for each hour. It is likely used by traders, analysts, and researchers to analyze trends, patterns, and historical performance of CAD/JPY currency pair. The dataset is valuable for conducting technical analysis, identifying potential trading opportunities, and gaining insights into the strength and volatility of the CAD/JPY exchange rate.

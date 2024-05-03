@@ -1,0 +1,3 @@
+name: rl
+dataset_id: 44037.0
+description: The dataset "rl" is a collection of JSON files that contains information about reinforcement learning tasks and their corresponding requester. The dataset focuses on tasks that involve agents interacting with an environment and learning to maximize rewards. Each task is associated with a unique ID and includes details like task description, environment details, and reward structure. Requesters can submit tasks to the dataset and specify various parameters for the reinforcement learning process. The dataset is available for public use and can be accessed through the OpenAI API, allowing developers and researchers to explore and analyze different RL scenarios.

@@ -1,0 +1,3 @@
+name: default_credit_card_p
+dataset_id: 42105.0
+description: The dataset "default_credit_card_p" contains information about credit card holders, specifically their demographic and financial attributes, as well as their credit payment behavior. It consists of 30,000 instances and 25 features. Some of the features include the customer's age, sex, education, and marriage status, as well as their payment status, bill amount, and default payment status for the previous six months. The dataset has been widely used for analyzing credit risk and default prediction models. It provides valuable insights into the factors influencing credit card default and is a useful resource for researchers and analysts in the financial industry.

@@ -1,0 +1,3 @@
+name: kick_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44761.0
+description: The dataset kick_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset with 2000 rows and 100 columns. It consists of 10 classes and uses stratification in its distribution. Stratification is a technique used to ensure an equal distribution of samples from each class in the dataset. The dataset is likely a collection of various features or attributes that are categorized into 10 different classes. It provides a balanced representation of each class, which can be beneficial for tasks such as classification or analysis.

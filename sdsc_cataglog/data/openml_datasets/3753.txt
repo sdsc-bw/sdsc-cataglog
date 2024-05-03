@@ -1,0 +1,3 @@
+name: Consumer-Price-Index
+dataset_id: 43831.0
+description: The Consumer Price Index (CPI) dataset is a compilation of prices for a wide range of goods and services, representing the average cost of living for consumers. The dataset contains information on price changes over time, allowing for the analysis of inflation and its impact on purchasing power. It includes price indexes for various categories such as food, housing, transportation, and medical care. The dataset is crucial for economists, policymakers, and businesses as it helps measure and track changes in consumer prices, which in turn can affect economic policies, investment decisions, and wage negotiations.

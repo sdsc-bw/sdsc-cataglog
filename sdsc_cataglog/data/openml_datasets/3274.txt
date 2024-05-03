@@ -1,0 +1,3 @@
+name: Corporate-Credit-Rating
+dataset_id: 43344.0
+description: The dataset Corporate-Credit-Rating contains information about the credit ratings of different companies. It includes a variety of attributes such as firm-specific financial ratios, industry-specific ratios, macroeconomic variables, and bond market information. The dataset consists of 1,668 observations and 30 variables. The credit ratings range from AAA to D, indicating high to low creditworthiness. The dataset also includes information on industry classification, country, year of observation, and other characteristics. These attributes provide insights into the factors that influence credit ratings and can be used for various analyses and predictions in the field of corporate finance.

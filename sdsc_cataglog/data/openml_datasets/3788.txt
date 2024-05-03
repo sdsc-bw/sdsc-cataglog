@@ -1,0 +1,3 @@
+name: communities-and-crime-binary
+dataset_id: 43888.0
+description: The dataset "communities-and-crime-binary" contains information about various communities in the United States and their crime rates. It consists of data collected from the 1990 US Census, as well as supplementary information from other sources. The dataset focuses on binary crime-related variables, such as the presence or absence of particular crimes in the community. It includes both social and economic attributes of the communities, such as demographics, education, income, and unemployment rates. The purpose of this dataset is to facilitate research and analysis on the relationship between these socio-economic factors and crime rates in communities.

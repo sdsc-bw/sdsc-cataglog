@@ -1,0 +1,3 @@
+name: QSAR-TID-12635
+dataset_id: 3674.0
+description: The dataset QSAR-TID-12635 contains information about the physicochemical properties and bioactivity of 12635 chemical compounds. The dataset includes 41 input parameters representing the molecular structure and properties of the compounds, such as hybridization ratio, molecular connectivity, topological and electrotopological indices. The bioactivity is represented by a continuous variable that measures the specific inhibitory activity against the target enzyme. The dataset is intended for use in developing predictive models to estimate the inhibitory activity of new compounds. It can be utilized by researchers involved in drug design and discovery to identify potential molecules for further investigation.

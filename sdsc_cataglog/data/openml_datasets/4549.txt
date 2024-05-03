@@ -1,0 +1,3 @@
+name: helena_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44728.0
+description: The dataset "helena_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows with 100 columns and 10 different classes. The dataset has been stratified, meaning that it has been divided into subsets in a way that maintains the same class distribution as the original dataset. This dataset likely represents a classification problem, where the goal is to assign each instance to the correct class. The provided information suggests that the dataset is well-balanced and could be used for training and evaluating classification models.

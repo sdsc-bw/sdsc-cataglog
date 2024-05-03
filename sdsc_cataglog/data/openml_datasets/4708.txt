@@ -1,0 +1,3 @@
+name: Insurance
+dataset_id: 45064.0
+description: The dataset "Insurance" focuses on the insurance industry and contains information about policyholders, claims, and other relevant details. It provides insights into customer demographics, premiums paid, policies purchased, and claim history. The dataset consists of multiple variables such as age, gender, marital status, BMI, smoking habits, number of children, region, charges, insurance coverage, and more. The data can be utilized to analyze patterns, risk factors, and predict potential claim amounts. This dataset can be used by insurance companies to enhance their risk assessment strategies, tailor policies to customer needs, and improve overall decision-making processes.

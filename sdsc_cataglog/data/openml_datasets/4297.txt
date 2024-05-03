@@ -1,0 +1,3 @@
+name: KDDCup09_appetency_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44475.0
+description: The dataset KDDCup09_appetency_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True contains information related to customer appetency. It consists of 2000 rows with 100 columns and is categorized into 10 classes. The dataset is stratified, meaning that the distribution of classes is maintained in the sample. This dataset is specifically designed for predictive modeling tasks and is sourced from the KDD Cup 2009 competition. It provides valuable data for analyzing and predicting customer appetency.

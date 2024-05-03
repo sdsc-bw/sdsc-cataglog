@@ -1,0 +1,3 @@
+name: Meta_Album_TEX_ALOT_Extended
+dataset_id: 44337.0
+description: The dataset Meta_Album_TEX_ALOT_Extended contains information about a collection of albums. It includes album title, artist name, release date, and genre. The dataset also includes additional information such as album length, number of tracks, and album cover image. It provides a detailed insight into each album, allowing for further analysis and research. The dataset's extended version offers more comprehensive data compared to its original version, making it a valuable resource for researchers, music enthusiasts, and professionals in the music industry. It can be utilized for various purposes, including genre analysis, artist evaluation, and recommendation systems.

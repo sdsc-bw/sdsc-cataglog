@@ -1,0 +1,3 @@
+name: Historical-Financials-Data-for-3000-stocks
+dataset_id: 43834.0
+description: The dataset, Historical-Financials-Data-for-3000-stocks, provides financial information and historical data for a total of 3000 stocks. The dataset includes various financial metrics such as revenue, earnings, and expenses, which are organized by company and time period. It encompasses a vast range of industries and sectors, allowing for comprehensive analysis of the stocks' performance over time. This dataset is valuable for researchers, investors, and analysts who are interested in studying the financial trends and patterns of various stocks. Access to such a wealth of information enables better decision-making and understanding of the stock market.

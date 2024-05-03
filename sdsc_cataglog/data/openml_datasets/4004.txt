@@ -1,0 +1,3 @@
+name: Bike_Sharing_Demand
+dataset_id: 44142.0
+description: The Bike_Sharing_Demand dataset contains information on the demand for bike sharing in a city. It includes various features such as weather conditions, time and date, and user activity. There are 17,379 instances in the dataset with 12 attributes. The target variable is the count of total rental bikes, and the dataset also provides information on the number of registered and casual users. The dataset aims to predict the bike rental count based on the given features. It can be utilized to understand the factors influencing bike sharing demand and develop models for predicting demand in similar scenarios.

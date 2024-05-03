@@ -1,0 +1,3 @@
+name: covertype
+dataset_id: 43965.0
+description: The covertype dataset is a collection of vegetation information from the Roosevelt National Forest in Colorado, designed for studying the prediction of forest cover types. It contains 581,012 instances, each with 54 attributes including elevation, slope, aspect, and soil type. The dataset is divided into training and test sets, with 70% assigned to the former and 30% to the latter. The primary task with this dataset is to predict the forest cover type from the provided attributes. It has been widely used in machine learning research and offers an opportunity to explore various classification algorithms and techniques.

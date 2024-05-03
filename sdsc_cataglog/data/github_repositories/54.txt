@@ -1,0 +1,3 @@
+repo_name: data-validation
+link: https://github.com/tensorflow/data-validation
+description: TF Data Validation is a library for exploring and validating machine learning data. To get started with TFDV, you can install it using the PyPI package or nightly packages. If you want to build TFDV from source, there are two methods: building with Docker or building from source. Before installing TFDV, you need to set up some prerequisites. TensorFlow, Apache Beam, and Apache Arrow are notable dependencies. For any questions, you can direct them to Stack Overflow using the tensorflow-data-validation tag.

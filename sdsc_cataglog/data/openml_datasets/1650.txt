@@ -1,0 +1,3 @@
+name: QSAR-TID-100452
+dataset_id: 3633.0
+description: QSAR-TID-100452 is a dataset that contains information about 405 compounds and their corresponding bioactivity values. The compounds belong to the class of tetrahydrobenzothiazole derivatives and have been assessed for their inhibitory activity against a specific target. The dataset includes various molecular descriptors such as hydrophobicity, molar refractivity, and a range of 2D and 3D properties. Additionally, the dataset provides the experimentally determined log of the concentration at which 50% inhibition occurs (IC50). This dataset can be utilized for quantitative structure-activity relationship (QSAR) modeling and analysis to predict the inhibitory activity of similar compounds against the target.

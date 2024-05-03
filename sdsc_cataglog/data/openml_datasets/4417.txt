@@ -1,0 +1,3 @@
+name: blood-transfusion-service-center_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44596.0
+description: The dataset named "blood-transfusion-service-center_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns. It is a stratified dataset with 10 classes. The seed used for the dataset creation is 3. The dataset is related to a blood transfusion service center, but specific details about the data columns, classes, and the target variable are not mentioned in the provided summary.

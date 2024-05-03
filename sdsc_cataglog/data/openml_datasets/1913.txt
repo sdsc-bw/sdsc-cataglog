@@ -1,0 +1,3 @@
+name: QSAR-TID-101014
+dataset_id: 3898.0
+description: QSAR-TID-101014 is a dataset that contains information about 1,044 compounds and their quantitative structure-activity relationship (QSAR) properties. The dataset provides details about the compounds' molecular structures and activities against a target. It includes various descriptors such as constitutional, geometric, and electronic properties of the molecules. Additionally, it contains measured and predicted activities for each compound. The dataset is available for public use and can be used for developing and evaluating QSAR models. It presents an opportunity for researchers to explore relationships between the molecular properties and activities, aiding in the development of new drugs and chemicals.

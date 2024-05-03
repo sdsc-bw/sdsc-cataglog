@@ -1,0 +1,3 @@
+name: TestTICTACTOE
+dataset_id: 42401.0
+description: The dataset TestTICTACTOE is used for analyzing and evaluating the performance of machine learning models on the game of Tic-Tac-Toe. It contains 958 instances and 10 attributes, including the board positions and the corresponding class labels indicating the outcome of the game. The aim is to predict whether the player who made the last move won or lost the game. The dataset is balanced, with approximately 65% of instances resulting in a loss. It serves as a reliable benchmark for testing the accuracy and effectiveness of various classification algorithms in predicting game outcomes and understanding the strategies employed by players in Tic-Tac-Toe.

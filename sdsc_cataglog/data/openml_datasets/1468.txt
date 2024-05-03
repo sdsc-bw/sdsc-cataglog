@@ -1,0 +1,3 @@
+name: QSAR-TID-176
+dataset_id: 3450.0
+description: The dataset QSAR-TID-176 is used for predicting the Ecotoxicological Indicators (EI50) of compounds. It consists of 176 chemical compounds with multiple structural, electrochemical, and thermodynamic properties. The dataset also includes the EI50 values, which are used as the target variables for regression analysis. The compounds were pre-selected to cover a wide range of chemical classes and EI50 values, making it suitable for developing quantitative structure-activity relationship (QSAR) models. The dataset is available for research purposes and can be used to develop predictive models for prioritizing the environmental impact of chemical compounds.

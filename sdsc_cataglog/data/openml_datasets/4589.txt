@@ -1,0 +1,3 @@
+name: okcupid-stem_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44768.0
+description: The dataset "okcupid-stem_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True" consists of 2000 rows or entries and has 100 columns or variables. It follows a stratified sampling method. The dataset focuses on the OkCupid dating platform and has 10 different classes or categories. Each row represents a user profile, while the columns represent various attributes or features of the profiles. The dataset likely contains information such as age, gender, location, interests, and other characteristics. With a relatively small size and stratified sampling, this dataset offers a representative sample of OkCupid users for analysis or modeling purposes.

@@ -1,0 +1,3 @@
+name: wine-quality-white
+dataset_id: 40498.0
+description: The dataset called "wine-quality-white" consists of data related to the quality of white wines. It contains information about various chemical properties and attributes of white wines, including acidity levels, residual sugar, pH value, alcohol content, and more. The dataset includes 4,898 instances and 12 attributes. Each instance represents a specific white wine, and each attribute provides numerical data about the wine's characteristics. The dataset aims to facilitate research and analysis of white wines, offering valuable insights into the factors that contribute to wine quality.

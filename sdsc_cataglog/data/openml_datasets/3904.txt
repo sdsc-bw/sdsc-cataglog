@@ -1,0 +1,3 @@
+name: california
+dataset_id: 44031.0
+description: The dataset "california" contains detailed information about housing prices, population, and other key factors in various regions of California. It provides insights into the state's real estate market and demographic trends. The dataset includes data on median house values, median household income, median age of residents, and the total number of households in each region. It also includes variables like average rooms per household, the total number of bedrooms, and the population per household. This dataset aims to help analysts and researchers understand the housing market dynamics and demographics of different regions in California.

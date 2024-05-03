@@ -1,0 +1,3 @@
+name: punch
+dataset_id: 42204.0
+description: The dataset punch is an open-source collection that aims to advance AI research in natural language processing capabilities. It consists of over 100,000 Wikipedia articles that have been manually annotated for multiple linguistic phenomena. The dataset covers a wide range of text categories such as news, scientific literature, and social media posts. It provides annotations for tasks like named entity recognition, part-of-speech tagging, semantic role labeling, and syntactic parsing. Punch has been designed to enable researchers to develop and evaluate models for various NLP tasks, fostering advancements in language understanding and generation technologies.

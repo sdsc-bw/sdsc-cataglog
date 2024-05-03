@@ -1,0 +1,3 @@
+name: California-Environmental-Conditions-Dataset
+dataset_id: 43606.0
+description: The California-Environmental-Conditions-Dataset is a comprehensive dataset that provides information about environmental conditions in California. This dataset includes data on various factors such as air quality, water quality, and climate conditions. It covers a wide range of geographic locations within California and includes data from different sources such as monitoring stations, satellites, and weather stations. The dataset is updated regularly and provides historical data as well. It is a valuable resource for researchers, policymakers, and anyone interested in understanding and analyzing environmental conditions in California.

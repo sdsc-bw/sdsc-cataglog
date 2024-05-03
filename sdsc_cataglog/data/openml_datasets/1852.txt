@@ -1,0 +1,3 @@
+name: QSAR-TID-12023
+dataset_id: 3837.0
+description: The dataset QSAR-TID-12023 contains 524 chemical compounds with information on their biological activity and structural characteristics. The goal of this dataset is to predict the biological activity of new chemical compounds based on their structural features. The compounds are classified into two classes, active and inactive, based on their activity against a specific biological target. The dataset provides 1024 molecular descriptors for each compound, which include information on factors like connectivity, aromaticity, and atom count. This dataset is useful for developing predictive models for drug design and discovery, and for studying the relationship between chemical structure and biological activity.

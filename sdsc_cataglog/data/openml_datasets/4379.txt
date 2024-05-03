@@ -1,0 +1,3 @@
+name: vehicle_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44557.0
+description: The dataset "vehicle_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True" contains information about vehicles. It has a total of 2000 rows or observations. The dataset has been divided into 10 different classes or categories. There are 100 columns or variables in the dataset. The data has been stratified, meaning that it has been divided evenly across the different classes. The dataset provides information on various aspects of vehicles, such as their make, model, year, features, etc. It is a comprehensive dataset that can be utilized for analyzing and studying vehicles in detail.

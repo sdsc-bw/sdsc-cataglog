@@ -1,0 +1,3 @@
+name: shill-bidding
+dataset_id: 42889.0
+description: The dataset shill-bidding contains information about online auctions suspected of being influenced by fraudulent shill bidding activity. It consists of 2.4 million bids from 146 auctions on a popular auction platform. Each bid has attributes such as bidder ID, auction ID, bid price, and bidder behavior features. Shill bidding refers to the act of deliberately placing fake bids to artificially inflate prices or drive genuine bidders away. The dataset aims to study and detect these fraudulent activities by analyzing bidder behavior and identifying patterns that can be used to classify shill bidders from genuine bidders.

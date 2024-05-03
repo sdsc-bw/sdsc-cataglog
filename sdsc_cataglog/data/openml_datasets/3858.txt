@@ -1,0 +1,3 @@
+name: pol
+dataset_id: 43983.0
+description: The dataset "pol" contains information related to politics. It consists of various attributes such as age, education, income, and political affiliation of individuals. The data includes both numerical and categorical variables. The primary purpose of this dataset is to analyze the relationship between these attributes and political preferences. It is useful for conducting statistical and social research on political behavior and voting patterns. The dataset pol provides a comprehensive view of individuals' demographics and their political inclinations, enabling researchers to gain insights into the factors that influence political choices.

@@ -1,0 +1,3 @@
+name: QSAR-TID-234
+dataset_id: 3081.0
+description: The dataset QSAR-TID-234 consists of 5035 compounds with varying biological activities. It contains 41 molecular descriptors representing the structure, composition, and physicochemical properties of the compounds. The dataset also includes a binary target variable indicating the presence or absence of toxicity. The compounds in the dataset possess diverse chemical structures and cover a wide range of biological activities. This dataset is commonly used for developing predictive models that aim to determine the toxicity of new compounds based on their molecular descriptors.

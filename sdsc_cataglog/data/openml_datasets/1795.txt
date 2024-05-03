@@ -1,0 +1,3 @@
+name: QSAR-TID-11336
+dataset_id: 3778.0
+description: The dataset QSAR-TID-11336 contains information on the biological activity of various compounds towards an enzyme target. It consists of 807 compounds and 10 molecular descriptors, which were calculated using the Dragon software. The aim of the dataset is to predict the biological activity of new compounds based on their molecular features. The compounds show either active or inactive behavior towards the target enzyme. The dataset can be used for developing machine learning models to predict the biological activity of compounds and aid in drug discovery efforts.

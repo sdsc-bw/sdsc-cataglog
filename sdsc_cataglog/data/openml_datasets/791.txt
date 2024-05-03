@@ -1,0 +1,3 @@
+name: ar1
+dataset_id: 1059.0
+description: The dataset ar1 contains information about the drought index in Australia from 1987 to 2017. It includes data from multiple surface meteorological stations across the country. The dataset's variables include the date, longitude, and latitude of each station, as well as the drought index values. The drought index is calculated based on monthly precipitation and the difference between potential and actual evapotranspiration. Some missing values are present in the dataset, which are denoted as NA. The ar1 dataset is publicly available and can be accessed for further analysis and research on drought patterns and trends in Australia.

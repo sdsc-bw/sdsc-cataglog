@@ -1,0 +1,3 @@
+name: ozone-level-8hr_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44551.0
+description: The dataset "ozone-level-8hr_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True" contains data on ozone levels. It has 2000 rows and 100 columns, with 10 unique classes. The dataset is stratified, meaning that it has been organized to ensure that each class is represented proportionally. The dataset provides information on the ozone levels over an 8-hour period, with each observation having 100 different features. This dataset can be used for various purposes, such as analyzing ozone trends or creating predictive models for ozone levels based on the given features.

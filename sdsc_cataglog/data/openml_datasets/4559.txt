@@ -1,0 +1,3 @@
+name: robert_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44738.0
+description: The dataset "robert_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns. It consists of 10 unique classes and has been stratified to ensure an equal distribution of each class in the dataset. The name "robert_seed_0" suggests that it was created with a specific seed value for reproducibility. This dataset is likely a machine learning dataset used for classification tasks, where the goal is to predict the class of a given instance based on the available features.

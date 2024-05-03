@@ -1,0 +1,3 @@
+name: QSAR-TID-10120
+dataset_id: 3527.0
+description: The dataset QSAR-TID-10120 consists of 3D molecular descriptors of various organic compounds. These descriptors provide information about the physical, chemical, and structural properties of the molecules. The dataset also includes the corresponding biological activity of each compound, represented by a binary value, indicating whether the compound is active or inactive against a specific target. The goal of this dataset is to explore the relationship between the molecular descriptors and biological activity, and to develop a predictive model for compound activity. This dataset is useful for researchers and scientists working in the field of drug discovery and molecular design.

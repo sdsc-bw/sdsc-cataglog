@@ -1,0 +1,3 @@
+name: usopen-women-2013
+dataset_id: 42967.0
+description: The dataset usopen-women-2013 contains information about the performance of women tennis players in the 2013 US Open tournament. It includes details such as the player's name, their country of origin, the round in which they competed, and the outcome of their match. Other attributes of this dataset include the duration of the match in minutes, the number of games played, and the number of aces and double faults made by each player. This dataset can be analyzed to gain insights into the performance of different players, their strengths and weaknesses, and the overall competitiveness of the tournament.

@@ -1,0 +1,3 @@
+name: QSAR-TID-103435
+dataset_id: 3803.0
+description: The QSAR-TID-103435 dataset is a collection of 26,534 compounds that have been tested and evaluated for their toxicity against rats. The dataset contains various molecular descriptors, such as electronic, constitutional and topological properties, which are important in predicting the potential toxicity of a compound. The aim of this dataset is to develop a quantitative structure-activity relationship (QSAR) model, which can predict the toxicity of a compound based on its molecular characteristics. This dataset can be useful for researchers and scientists working in the field of toxicology and drug discovery, as it provides valuable information for developing safer and more effective drugs.

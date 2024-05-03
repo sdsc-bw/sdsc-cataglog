@@ -1,0 +1,3 @@
+name: fri_c1_250_25
+dataset_id: 614.0
+description: The dataset fri_c1_250_25 is comprised of 250 transactions with 25 items each. It explores a wide range of industries, including retail, e-commerce, and service sectors. The data captures various aspects, such as customer IDs, transaction IDs, and the products purchased. The dataset is downloadable in CSV format, making it convenient for analysis. It offers a valuable resource for market research, inventory management, and recommendation systems. This dataset holds great potential for studying consumer behavior, identifying trends, and enhancing business strategies in multiple industries.

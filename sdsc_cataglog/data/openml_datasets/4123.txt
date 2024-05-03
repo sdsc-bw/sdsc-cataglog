@@ -1,0 +1,3 @@
+name: Meta_Album_PLT_DOC_Mini
+dataset_id: 44303.0
+description: The dataset Meta_Album_PLT_DOC_Mini is a collection of mini-versions of documents and images related to album covers. It contains various attributes such as album title, artist name, year of release, and genre. The dataset provides information about the structure of the documents, including the presence of text, images, and layouts. It also includes a subset of album covers. The dataset is useful for various tasks including content understanding, document summarization, and image recognition. Overall, Meta_Album_PLT_DOC_Mini serves as a resource for studying album covers and their associated documents in a smaller-scale setting.

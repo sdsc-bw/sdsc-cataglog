@@ -1,0 +1,3 @@
+name: S3
+dataset_id: 42112.0
+description: The dataset S3 contains data regarding physical and chemical properties of soil samples collected from various regions. It includes measurements like pH, moisture content, temperature, and nutrient levels in the soil. The dataset is designed for analyzing and predicting soil quality and fertility, as well as studying the impact of different factors on soil health. It consists of thousands of samples, each with several attributes, and is available in a format compatible with popular data analysis tools. Overall, the S3 dataset provides valuable information for researchers and scientists interested in the study of soil science and agriculture.

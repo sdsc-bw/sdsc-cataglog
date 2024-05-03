@@ -1,0 +1,3 @@
+name: Indian-Liver-Patient-Dataset
+dataset_id: 43759.0
+description: The Indian-Liver-Patient-Dataset is a collection of data related to patients with liver diseases in India. It includes records of 583 patients, consisting of 416 non-liver patients and 167 liver patients. The dataset contains 10 attributes or features, such as age, gender, total bilirubin level, direct bilirubin level, total proteins, albumin, etc., as well as an additional attribute indicating the patient's condition (non-liver or liver disease). The data was collected from a medical facility in India and can be used for various research purposes related to liver diseases, prediction models, or statistical analyses.

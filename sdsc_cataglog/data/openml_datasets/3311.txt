@@ -1,0 +1,3 @@
+name: Coursera-Course-Dataset
+dataset_id: 43381.0
+description: The Coursera-Course-Dataset is a publicly available dataset that contains information about courses offered on the Coursera platform. It includes details about each course, such as the course title, description, start date, and end date. Additionally, the dataset provides information about the instructors and universities affiliated with each course. The dataset is provided in a CSV file format and is regularly updated to include new courses. It is a valuable resource for researchers, educators, and learners interested in exploring and analyzing the vast array of courses available on Coursera.

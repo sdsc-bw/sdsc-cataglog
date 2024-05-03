@@ -1,0 +1,3 @@
+name: QSAR-TID-101276
+dataset_id: 4131.0
+description: The QSAR-TID-101276 dataset includes information on the biological activity of compounds in relation to their quantitative structure-activity relationships (QSAR). The dataset consists of 192 compounds and 828 molecular descriptors that describe the physicochemical properties of each compound. The biological activity is measured as an IC50 value, which represents the concentration needed to inhibit a particular biological process by 50%. The dataset also includes additional information, such as compound ID, chemical names, and experimental conditions. This dataset is useful for developing predictive models to estimate the biological activity of compounds based on their molecular descriptors.

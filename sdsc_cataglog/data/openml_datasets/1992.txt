@@ -1,0 +1,3 @@
+name: QSAR-TID-10472
+dataset_id: 3978.0
+description: The QSAR-TID-10472 dataset contains information about the toxicity of certain chemicals. It includes 1055 instances and 5746 descriptors. The attributes in this dataset are numeric, and the target variable is binary, indicating whether a chemical is toxic or not. The dataset has no missing values. The chemicals in the dataset were tested for their toxicity, and various molecular descriptors were measured to determine their correlation with toxicity. This dataset can be used to develop predictive models for toxicity using machine learning algorithms and to explore the relationship between chemical properties and toxicity.

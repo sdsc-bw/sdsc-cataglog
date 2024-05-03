@@ -1,0 +1,3 @@
+name: AP_Ovary_Kidney
+dataset_id: 1149.0
+description: The AP_Ovary_Kidney dataset is a collection of microscopic images of ovarian and kidney tissues. It contains images from various magnifications and staining techniques, allowing researchers to study these tissues in detail. The dataset includes annotations for various cell types present in the tissues, such as epithelial cells, stromal cells, and inflammatory cells. The images were captured using bright-field microscopy and are presented in RGB color format. The dataset is intended to aid in the development and evaluation of image analysis algorithms for detecting and classifying cells in ovarian and kidney tissues.

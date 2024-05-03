@@ -1,0 +1,3 @@
+name: QSAR-TID-12967
+dataset_id: 3251.0
+description: The QSAR-TID-12967 dataset is a collection of chemical compounds with their corresponding biological activities. It consists of 8,906 compounds, each characterized by 186 molecular descriptors. The compounds are divided into two classes: active and inactive based on their biological activities. The dataset is suitable for developing and evaluating quantitative structure-activity relationship (QSAR) models. It is publicly available and has been used in previous studies for machine learning-based predictions of biological activities. The dataset provides a valuable resource for researchers working in drug discovery, chemical biology, and computer-aided drug design.

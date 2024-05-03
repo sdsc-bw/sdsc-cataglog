@@ -1,0 +1,3 @@
+name: fri_c0_1000_10
+dataset_id: 845.0
+description: The dataset fri_c0_1000_10 consists of 1,000 instances with 10 input attributes and 1 target attribute. It is part of the FRI data collection. Each instance represents a bank customer and includes attributes such as gender, age, job, marital status, education, and whether or not they have a housing loan. The target attribute indicates whether the customer subscribed to a term deposit or not. The dataset aims to analyze factors influencing customers' decision to subscribe and can be used for classification or predictive analysis tasks.

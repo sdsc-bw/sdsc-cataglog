@@ -1,0 +1,3 @@
+name: shuttle_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44745.0
+description: The dataset "shuttle_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns. It consists of 10 different classes and has been stratified. The dataset is likely related to the "shuttle" domain considering its name. Stratification suggests that the dataset has been split in a way that maintains the proportion of each class across different subsets. This dataset can be used for various purposes, including classification and analysis tasks. It provides a reasonable amount of data, allowing for robust analysis and modeling.

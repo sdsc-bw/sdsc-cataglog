@@ -1,0 +1,3 @@
+name: robot-failures-lp3
+dataset_id: 1518.0
+description: The dataset robot-failures-lp3 consists of data pertaining to failures in a robot from a robot manufacturer. The dataset contains 88,562 instances and 5 columns. The columns are named "robot ID", "failure type", "failure time", "repair time", and "fix type". The "robot ID" column indicates the identification number of the robot, while the "failure type" column describes the type of failure occurred. "Failure time" and "repair time" columns represent the timestamps for when the failure occurred and when the repair took place, respectively. The "fix type" column records the approach taken to fix the failure. The dataset serves as a valuable resource for analyzing robot failures and improving their performance.

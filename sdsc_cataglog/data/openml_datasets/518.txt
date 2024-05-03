@@ -1,0 +1,3 @@
+name: analcatdata_michiganacc
+dataset_id: 771.0
+description: The dataset analcatdata_michiganacc contains information about various accidents in the state of Michigan. It includes 45 instances (rows) with 20 attributes (columns), providing details of each accident. The attributes cover multiple aspects related to the accidents, such as the accident's severity, location, the age and sex of the individuals involved, weather conditions, and road type. The dataset can be employed to gain insights into the characteristics and factors associated with accidents in Michigan. The comprehensive information within the dataset enables the exploration of relationships between different attributes and facilitates the development of accident prediction or prevention models.

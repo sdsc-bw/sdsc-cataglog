@@ -1,0 +1,3 @@
+name: PieChart3
+dataset_id: 1453.0
+description: The dataset PieChart3 contains information about the sales of different flavors of pies. It includes data on the number of units sold and the revenue generated for each flavor. There are a total of 5 flavors of pies in the dataset. The flavor with the highest number of units sold is apple, followed by cherry and blueberry. However, in terms of revenue generated, cherry pie is the highest, followed by apple and pecan. The dataset provides a comprehensive overview of the sales performance of different pie flavors, allowing for analysis and comparison.

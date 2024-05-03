@@ -1,0 +1,3 @@
+name: IEEE80211aa-GATS
+dataset_id: 43180.0
+description: The IEEE80211aa-GATS dataset consists of trace data collected from an experimental wireless network testbed. It aims to provide researchers with a comprehensive understanding of the performance of the IEEE 802.11aa-2012 amendment, which focuses on improving quality of service for audio, video, and other multimedia applications in wireless networks. The dataset includes various metrics such as throughput, delay, and packet loss, and covers different network configurations, mobility scenarios, and traffic patterns. It offers a valuable resource for evaluating algorithms, protocols, and techniques related to improving multimedia streaming in wireless networks.

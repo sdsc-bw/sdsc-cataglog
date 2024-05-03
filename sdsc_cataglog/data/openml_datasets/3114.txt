@@ -1,0 +1,3 @@
+name: online-shoppers-intention
+dataset_id: 42993.0
+description: The online-shoppers-intention dataset consists of information about visitor attributes and their purchasing intentions on an online store. It includes 12,330 instances and 18 attributes such as the type of visitor, the number of pages visited, the duration of the session, and whether or not a purchase was made. The dataset aims to understand and predict visitor behavior in terms of whether they will make a purchase or not. This dataset is relevant for retailers and marketers as it can provide insights into customer preferences and trends, enabling them to optimize their online stores and marketing strategies to increase conversion rates.

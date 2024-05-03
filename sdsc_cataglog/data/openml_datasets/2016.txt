@@ -1,0 +1,3 @@
+name: QSAR-TID-102718
+dataset_id: 4002.0
+description: The dataset QSAR-TID-102718 is a collection of chemical compounds with associated biological activities. It contains information on 202 chemical compounds, each described by 828 molecular descriptors. The dataset aims to assist in the development of quantitative structure-activity relationship (QSAR) models. These models predict the biological activity of new compounds based on their chemical features. The dataset includes the experimentally measured biological activities against a specific target. It can be used to train and validate QSAR models, allowing researchers to efficiently predict the activity of newly discovered compounds and facilitate the discovery of potential drug candidates.

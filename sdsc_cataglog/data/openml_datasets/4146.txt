@@ -1,0 +1,3 @@
+name: Meta_Album_INS_2_Extended
+dataset_id: 44326.0
+description: The dataset Meta_Album_INS_2_Extended is a collection of various albums obtained from different sources. It includes album metadata such as the album title, artist name, release year, genre, and number of tracks. This dataset is an extended version of another dataset, Meta_Album_INS_2, and contains additional information such as album duration and album sales figures. The dataset aims to provide comprehensive information about albums, allowing researchers and analysts to perform detailed analyses and gain insights into the music industry. It is a valuable resource for studying album trends and patterns in various genres and time periods.

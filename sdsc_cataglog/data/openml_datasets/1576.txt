@@ -1,0 +1,3 @@
+name: QSAR-TID-17034
+dataset_id: 3561.0
+description: The dataset QSAR-TID-17034 consists of 4,534 chemical compounds and their corresponding quantitative structure-activity relationship (QSAR) values. The compounds are described by 474 molecular descriptors, which include topological, connectivity, and hybrid chemical descriptors. The QSAR values provide information about the biological activity of the compounds, specifically their inhibitory activity towards HIV-1 reverse transcriptase. The dataset is utilized for developing and validating QSAR models to predict the inhibitory activity of similar compounds. It can be valuable for researchers in the field of drug discovery and development, aiding in the identification of potential HIV-1 reverse transcriptase inhibitors.

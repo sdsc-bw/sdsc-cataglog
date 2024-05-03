@@ -1,0 +1,3 @@
+name: KDD98
+dataset_id: 23513.0
+description: The KDD98 dataset, also known as the KDD Cup 1998 dataset, is a widely-used and significant benchmark dataset in the field of intrusion detection systems. It consists of network traffic data collected during a simulated attack scenario. The dataset contains a large number of TCP/IP connections, labeled as either normal or one of several different attack categories. It provides a comprehensive representation of the types of attacks encountered in computer networks. The KDD98 dataset has been instrumental in the development and evaluation of intrusion detection algorithms and techniques, facilitating research and advancements in the field of network security.

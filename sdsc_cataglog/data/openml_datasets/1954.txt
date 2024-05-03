@@ -1,0 +1,3 @@
+name: QSAR-TID-101056
+dataset_id: 3939.0
+description: The dataset QSAR-TID-101056 focuses on the quantitative structure-activity relationship (QSAR) of various compounds. It contains data on 1056 chemical compounds, with each compound described by 41 different molecular descriptors. The compounds belong to 15 different classes based on their activity against a specific target. The dataset aims to facilitate the development of predictive models for determining the activity of compounds against the target based on their chemical properties. The dataset could be valuable for researchers and machine learning practitioners interested in QSAR modeling and drug discovery.

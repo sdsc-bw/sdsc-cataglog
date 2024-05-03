@@ -1,0 +1,3 @@
+name: QSAR-TID-20154
+dataset_id: 3394.0
+description: The dataset QSAR-TID-20154 consists of 127 chemical compounds with their corresponding quantitative structure-activity relationship (QSAR) information. Each compound is described by 614 molecular descriptors, including attributes related to various aspects of the compound's structure, such as molecular weight, number of atoms, and connectivity. The target variable in this dataset is the acute aquatic toxicity of the compounds, measured as a log value. The dataset is suitable for developing models to predict the toxicity of new chemical compounds based on their molecular structure, making it valuable for researchers in the field of toxicology and drug discovery.

@@ -1,0 +1,3 @@
+name: cylinder-bands
+dataset_id: 6332.0
+description: The dataset "cylinder-bands" consists of data related to the quality control process of a manufacturing plant concerning metal cylinders. It contains 540 observations and 41 variables, including measurements, labels, and nominal and ordinal features. The target variable is a binary classification representing whether a band was considered faulty or not. Key variables include band type, band thickness, band width, band elasticity, band temperature, and various physical properties. The dataset's purpose is to analyze and predict whether a band would be classified as faulty based on the provided measurements and features. It is a valuable resource for quality control analysis in the manufacturing industry.

@@ -1,0 +1,3 @@
+name: collins
+dataset_id: 40971.0
+description: The Collins dataset is a comprehensive compilation of lexical resources, containing over 100,000 English words and their corresponding parts of speech. It encompasses a wide range of word categories such as nouns, verbs, adjectives, adverbs, and more. The dataset includes information on the frequency of word usage, semantic relationships, and etymological origins. Collins also provides detailed definitions, example sentences, and synonyms for each word entry. Additionally, it features a rich set of morphological variants and inflections. The dataset is widely utilized in various natural language processing tasks, such as parts of speech tagging, semantic analysis, and word sense disambiguation.

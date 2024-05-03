@@ -1,0 +1,3 @@
+name: IMDb-Indonesian-Movies
+dataset_id: 43456.0
+description: IMDb-Indonesian-Movies is a dataset containing information on Indonesian movies obtained from IMDb. The dataset includes details such as movie titles, ratings, genres, release years, directors, and actors. It has a total of 517 movies released between 1973 and 2021. The dataset is useful for studying the Indonesian movie industry and analyzing trends in terms of ratings, genres, and directors. This dataset can be utilized for various purposes, including researching the popularity of Indonesian movies, identifying successful directors, and exploring the relationship between ratings and different factors. It provides valuable insights into the cinematic landscape of Indonesia.

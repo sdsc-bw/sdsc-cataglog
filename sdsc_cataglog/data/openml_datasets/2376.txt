@@ -1,0 +1,3 @@
+name: rf1
+dataset_id: 41483.0
+description: The dataset rf1 contains information on customer behavior in an online retail store. It includes data on the date and time of transactions, the customer's ID, the item purchased, the quantity, and the price. The dataset consists of 541,909 records, with 61,934 unique customers and 4,372 unique products. The transactions span a period of one year from December 2010 to December 2011. The dataset is useful for analyzing customer preferences, purchase patterns, and identifying trends in sales. It provides valuable insights for marketing strategies, inventory management, and customer segmentation.

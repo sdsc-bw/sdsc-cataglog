@@ -1,0 +1,3 @@
+name: fruitfly
+dataset_id: 714.0
+description: The fruitfly dataset consists of information about the gene expression patterns and physical characteristics of fruitflies across different stages of development. Researchers collected data on the expression levels of thousands of genes using techniques like microarray analysis and RNA sequencing. The dataset also includes details about the developmental stage, sex, and genotype of each fruitfly. This information provides insights into the genetic basis of fruitfly development and can be used to study gene regulatory networks and identify key genes involved in specific developmental processes. The dataset is publicly available and has been widely used in various studies exploring fruitfly biology and genetics.

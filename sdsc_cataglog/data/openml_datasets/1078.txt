@@ -1,0 +1,3 @@
+name: QSAR-TID-100140
+dataset_id: 3054.0
+description: The dataset QSAR-TID-100140 consists of 240 chemical compounds, each described by a set of 19 molecular descriptors and a target variable. The target variable represents the toxicity of the compound, with values ranging from 0 to 100. The molecular descriptors provide information about the chemical structure and properties of the compounds. This dataset is suitable for various machine learning tasks such as regression or classification, where the toxicity of a compound can be predicted based on its molecular descriptors. The dataset is publicly available and can be used for research and development of predictive models in the field of toxicology.

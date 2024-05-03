@@ -1,0 +1,3 @@
+name: FOREX_eursek-day-Close
+dataset_id: 41846.0
+description: The dataset called FOREX_eursek-day-Close is related to foreign exchange rates between the Euro (EUR) and the Swedish Krona (SEK). It represents daily closing prices of this currency pair. The dataset contains a range of information, such as the date, time, and specific closing price for each day. It provides a long-term perspective on the exchange rate fluctuations between these two currencies. This dataset can be of significant interest to individuals or organizations involved in foreign exchange trading, economic analysis, or studying the relationship between the Euro and the Swedish Krona.

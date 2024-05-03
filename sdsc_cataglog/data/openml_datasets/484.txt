@@ -1,0 +1,3 @@
+name: space_ga
+dataset_id: 737.0
+description: The dataset "space_ga" is a collection of information about space missions and astronauts. It consists of various attributes, such as the mission's title, summary, duration, and status. The dataset also includes details about the spacecraft used, the agency responsible for the mission, and the astronauts involved. Each entry in the dataset represents a unique mission. It provides a comprehensive overview of space exploration activities, allowing users to analyze and understand different aspects of space missions and astronaut involvement. "space_ga" dataset is a valuable resource for researchers, space enthusiasts, and anyone interested in gaining insights into the world of space exploration.

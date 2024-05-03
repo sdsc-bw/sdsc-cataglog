@@ -1,0 +1,3 @@
+name: fri_c3_250_5
+dataset_id: 613.0
+description: The dataset fri_c3_250_5 is a collection of synthetic network graphs with 250 nodes and 5 labels assigned to each node. It provides information on the structure of the graph and the labels attached to each node. The dataset has 613 edges, indicating the connections between nodes. It also includes features like node degree and closeness centrality for each node, which provide insights into the prominence and connectivity of the nodes. The dataset aims to facilitate research and development in various areas, such as network analysis, machine learning, and graph-based algorithms.

@@ -1,0 +1,3 @@
+name: 1DUltrasoundMuscleContractionData
+dataset_id: 41971.0
+description: The dataset 1DUltrasoundMuscleContractionData contains information about muscle contractions measured using ultrasound imaging. It consists of multiple data files, each representing a different muscle contraction. The dataset includes various parameters such as muscle thickness, contraction duration, and contraction intensity. These parameters were measured from ultrasound images taken during muscle contractions. The dataset aims to provide valuable information for studying muscle physiology and understanding the factors that influence muscle contraction. It can be used for research purposes, such as analyzing the effects of exercise or studying muscle disorders.

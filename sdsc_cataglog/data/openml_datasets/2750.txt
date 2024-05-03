@@ -1,0 +1,3 @@
+name: la_crimes
+dataset_id: 42160.0
+description: The dataset la_crimes contains information about crimes that occurred in Los Angeles from 2010 to 2019. It includes details such as the type of crime, location, and date. The dataset has over 1.7 million records, making it quite extensive. It provides valuable insights into the crime trends in the city over the past decade. This dataset can be used for various purposes, including analyzing crime patterns, identifying high-crime areas, and evaluating the effectiveness of law enforcement initiatives. Researchers, policymakers, and law enforcement agencies can benefit from this dataset to make informed decisions regarding crime prevention and public safety in Los Angeles.

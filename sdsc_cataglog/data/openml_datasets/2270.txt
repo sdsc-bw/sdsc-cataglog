@@ -1,0 +1,3 @@
+name: delays_zurich_transport
+dataset_id: 40753.0
+description: The dataset "delays_zurich_transport" provides information on the delays in public transportation in Zurich, Switzerland. It includes data on different modes of transportation such as trains, trams, and buses. The dataset contains information about the time of the delay, the location, and the cause of the delay, such as technical issues or accidents. The data is collected from various sources, including official transport authorities and user reports. It is regularly updated and can be used to analyze patterns and trends in transportation delays in Zurich.

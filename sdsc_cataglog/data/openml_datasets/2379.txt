@@ -1,0 +1,3 @@
+name: scm20d
+dataset_id: 41486.0
+description: The dataset scm20d provides information related to the supply chain management domain. It includes data on various aspects such as purchasing, production, and sales. The dataset consists of 20,000 records, with each record containing multiple features and variables. It serves as a valuable resource for analyzing and studying supply chain management processes. The dataset can be used for various purposes, including research, model development, and decision-making in supply chain management. It offers opportunities to explore different statistical and analytical techniques, aiding in the development and evaluation of supply chain strategies and optimization models.

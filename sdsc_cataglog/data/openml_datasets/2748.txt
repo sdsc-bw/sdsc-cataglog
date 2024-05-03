@@ -1,0 +1,3 @@
+name: nfl_games
+dataset_id: 42143.0
+description: The dataset named "nfl_games" provides comprehensive information on NFL games, encompassing a range of variables for each game. It includes details such as the teams, the date and time of the game, the location, the week number, the season, the outcome, and the scores for both teams. Additionally, the dataset also incorporates various statistics related to the game, such as the total yards gained, turnovers, penalties, time of possession, and the number of first downs achieved. The "nfl_games" dataset is a valuable resource for analyzing and understanding the performance and outcomes of NFL games over a given time period.

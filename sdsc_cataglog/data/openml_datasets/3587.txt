@@ -1,0 +1,3 @@
+name: 1M-python-questions-on-stackoverflow
+dataset_id: 43662.0
+description: The dataset 1M-python-questions-on-stackoverflow is a collection of over 1 million questions about Python programming language obtained from the popular Q&A platform, Stack Overflow. The dataset includes various information such as the question text, the question title, the question tags, the timestamp of when the question was asked, and the user who asked it. This dataset can be utilized for various purposes like studying the trends and patterns in Python programming, developing recommendation systems, analyzing the behavior of Stack Overflow users, and improving the understanding of Python programming concepts.

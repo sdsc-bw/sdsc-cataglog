@@ -1,0 +1,3 @@
+name: Twitter-Sentiment-Analysis
+dataset_id: 43628.0
+description: The Twitter-Sentiment-Analysis dataset contains 1.6 million tweets that have been classified as either positive or negative in terms of sentiment. These tweets were gathered using the Twitter API and manually annotated by human raters. The tweets cover a wide range of topics and include both subjective and objective language. The dataset is balanced, with an equal number of positive and negative tweets. The dataset is commonly used for training and evaluating sentiment analysis models. It is publicly available and has been used in various research studies and competitions to develop accurate sentiment classification algorithms.

@@ -1,0 +1,3 @@
+name: cloud
+dataset_id: 210.0
+description: Cloud computing is rapidly growing and becoming an integral part of businesses and organizations. This dataset focuses on various aspects of cloud technology, including its adoption, usage, and impact. It examines the benefits and challenges associated with cloud computing, as well as the factors influencing organizations' decision to adopt the cloud. The dataset also explores the types of cloud services used by businesses and their corresponding workload distribution. Furthermore, it analyzes the security and privacy concerns related to cloud computing, as well as the measures taken to mitigate these risks. Overall, this dataset provides valuable insights into the current trends and implications of cloud technology.

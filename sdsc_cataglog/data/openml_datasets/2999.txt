@@ -1,0 +1,3 @@
+name: Bike_Sharing_Demand
+dataset_id: 42712.0
+description: The dataset "Bike_Sharing_Demand" contains information about the hourly demand for bike sharing in a city. It includes features such as the date, time, and weather conditions. The target variable is the number of bikes rented during that hour. The purpose of this dataset is to predict the demand for bike sharing based on the given features. It can be used to analyze the factors that influence bike rental demand and to develop models that accurately predict the demand in future time periods. This dataset is useful for researchers, urban planners, and bike sharing companies looking to optimize their operations and make informed decisions.

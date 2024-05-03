@@ -1,0 +1,3 @@
+name: munin_8
+dataset_id: 45271.0
+description: The munin_8 dataset is a collection of data that includes information about URLs and their corresponding webpage contents. It consists of a total of 8,335 samples, with each sample containing features related to URLs, such as length, number of dots, and number of slashes, as well as information about the webpage content, such as the use of iframes, embeds, and forms. The dataset also includes labels indicating whether a sample is malicious or benign. It was originally used for the Munin project, which aimed to develop classifiers to automatically detect malicious URLs.

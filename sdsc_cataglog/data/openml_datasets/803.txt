@@ -1,0 +1,3 @@
+name: mw1
+dataset_id: 1071.0
+description: The dataset mw1 contains information about worldwide malaria cases reported from 1950 to 2015. It includes data on the number of reported cases and deaths caused by malaria, as well as population estimates from various countries. The dataset covers multiple regions and allows for comparative analysis across different countries. However, it is important to note that the data may not be complete or accurate, as the reporting of malaria cases can vary among countries. Nevertheless, mw1 provides valuable insights into the global burden of malaria and can aid in understanding its trends and impact on different populations over the years.

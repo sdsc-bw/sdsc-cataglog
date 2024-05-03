@@ -1,0 +1,3 @@
+name: AustinWeather
+dataset_id: 43318.0
+description: The dataset "AustinWeather" provides information on various weather conditions recorded in Austin, Texas. It includes multiple variables such as temperature, precipitation, humidity, wind speed, and visibility. The dataset contains observations taken over a specific timeframe, presenting both historical and recent data. It can be utilized for various weather analysis and forecasting purposes. The dataset includes sufficient information to understand the weather patterns in Austin, which can be helpful for researchers, weather enthusiasts, and individuals interested in studying or predicting weather conditions in the area. The dataset is readily available and offers valuable insights into the climate of Austin, Texas.

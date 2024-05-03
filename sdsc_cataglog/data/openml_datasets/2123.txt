@@ -1,0 +1,3 @@
+name: QSAR-TID-101312
+dataset_id: 4109.0
+description: The dataset QSAR-TID-101312 is used for conducting quantitative structure-activity relationship (QSAR) studies. It consists of 1,312 compounds with their corresponding biological activities against mutant strains of Mycobacterium tuberculosis. The dataset includes 41 molecular descriptors that provide information about the structural and physicochemical properties of the compounds. The data is divided into two sets: a training set with 972 compounds and a test set with 340 compounds. This dataset is valuable for developing predictive models to identify potential drug candidates against Mycobacterium tuberculosis, aiding in the development of new treatments for tuberculosis.

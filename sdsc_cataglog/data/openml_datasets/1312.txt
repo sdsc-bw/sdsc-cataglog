@@ -1,0 +1,3 @@
+name: QSAR-TID-30015
+dataset_id: 3288.0
+description: The dataset QSAR-TID-30015 comprises molecular descriptors of 3,015 compounds evaluated for their inhibition activity against trypsin-like serine proteases. The compounds were divided into active and inactive classes based on their half maximal inhibitory concentration (IC50) values. Various molecular descriptors were calculated using Dragon software, including 2D and 3D chemical structures, physicochemical properties, and topological indices. The dataset also includes the IC50 values. This dataset was created to develop predictive models for the inhibition activity of compounds against trypsin-like serine proteases, which could aid in drug design and discovery processes.

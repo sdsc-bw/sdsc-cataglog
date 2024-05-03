@@ -1,0 +1,3 @@
+repo_name: pygal
+link: https://github.com/Kozea/pygal
+description: Pygal is a dynamic SVG charting library written in python. All the documentation is on www.pygal.org. Pygal is tested with py.test. You are welcomed to fork the project and make pull requests. Be sure to create a branch for each feature, write tests if needed and run the current tests! You can also support the project.

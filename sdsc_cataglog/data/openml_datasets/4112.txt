@@ -1,0 +1,3 @@
+name: Meta_Album_INS_2_Mini
+dataset_id: 44292.0
+description: The dataset called Meta_Album_INS_2_Mini is a collection of information about albums. It contains data on album titles, release dates, genres, artist names, and album ratings. The dataset is relatively small in size, meaning it contains a limited number of entries. It is intended to be used for testing and developing various algorithms related to music data analysis. The dataset does not offer detailed information about the songs or track lists within the albums, focusing more on higher-level album attributes. It provides a valuable resource for researchers and developers working in the field of music recommendation systems or other related applications.

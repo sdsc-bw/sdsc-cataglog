@@ -1,0 +1,3 @@
+name: california_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44363.0
+description: The dataset "california_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 10 classes. It has 100 columns and is stratified, meaning that the distribution of classes in the dataset is similar to the overall population. This dataset can be used for various analysis and modeling tasks. It provides a diverse range of data for experimentation and studying machine learning algorithms. It is a valuable resource for researchers and data scientists who are interested in exploring classification, clustering, and other data analysis techniques.

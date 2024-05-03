@@ -1,0 +1,3 @@
+name: cnn-stock-pred-nasdaq
+dataset_id: 43003.0
+description: The cnn-stock-pred-nasdaq dataset consists of time-series data of stock prices for various companies listed on the NASDAQ stock exchange. It includes features such as opening and closing prices, highest and lowest prices, trading volumes, and percentage changes in stock prices. The dataset covers a period from January 2000 to December 2016 and contains over 17 years of stock market data. This dataset is a valuable resource for analyzing stock market trends, predicting future stock prices, and conducting research on the NASDAQ market. It can be utilized by financial analysts, researchers, and machine learning enthusiasts for developing predictive models.

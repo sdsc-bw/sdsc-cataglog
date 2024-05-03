@@ -1,0 +1,3 @@
+name: FOREX_audusd-hour-Close
+dataset_id: 41878.0
+description: The dataset FOREX_audusd-hour-Close provides hourly closing prices of the AUD/USD currency pair. It contains information on the exchange rate between the Australian dollar (AUD) and the United States dollar (USD). The data is collected at regular intervals, allowing for analysis of price fluctuations over time. The dataset may be useful for traders, financial analysts, and researchers interested in studying the AUD/USD exchange rate dynamics, identifying patterns, and making predictions. Its hourly granularity provides a detailed view of market behavior and can be leveraged for various quantitative and technical analysis strategies.

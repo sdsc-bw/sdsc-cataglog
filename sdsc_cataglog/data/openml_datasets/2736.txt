@@ -1,0 +1,3 @@
+name: colleges
+dataset_id: 42121.0
+description: The dataset "Colleges" contains information regarding the details of various colleges. It encompasses data on college rankings, student enrollment, the overall cost of attendance, financial aid availability, and graduation rates. Additionally, the dataset also includes information on the school's location, such as the state and region. It provides insight into colleges' size, such as the number of students enrolled and the student-to-faculty ratio. Moreover, data on the percentage of students receiving financial aid, the average amount awarded, and the types of aid offered are included. Overall, the dataset sheds light on several vital aspects of colleges, enabling a comprehensive analysis and comparison.

@@ -1,0 +1,3 @@
+name: Data-Science-YouTube-channels-Video-Metadata
+dataset_id: 43517.0
+description: The dataset Data-Science-YouTube-channels-Video-Metadata contains information about YouTube videos related to data science. It provides data such as the video title, description, channel title, video category, view count, likes, dislikes, and comment count. The dataset also includes information about the channels themselves, such as their subscriber count, country, and the date the channel was created. The data has been obtained by scraping YouTube videos and channels and can be used for various purposes, including analyzing trends in data science content, understanding channel performance, and studying viewer engagement. The dataset is provided in a CSV format and is publicly available.

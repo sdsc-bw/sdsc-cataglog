@@ -1,0 +1,3 @@
+name: employee_salaries
+dataset_id: 42125.0
+description: The dataset employee_salaries provides information about the salaries of employees in a company. The dataset contains various data attributes such as employee ID, employee name, job title, department, years of experience, and salary. It includes a wide range of job titles and departments, covering positions from entry-level to higher management. The dataset is comprehensive, with data on multiple employees across different departments and job roles. The information in the dataset can be used to analyze salary distributions, identify any pay disparities, evaluate the impact of experience on salaries, and gain insights into the overall salary structure of the company.

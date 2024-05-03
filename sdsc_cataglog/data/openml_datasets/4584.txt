@@ -1,0 +1,3 @@
+name: Click_prediction_small_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44763.0
+description: The dataset "Click_prediction_small_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2,000 rows and 100 columns with a target variable that has 10 classes. The dataset is stratified, which means it has been divided in a way that maintains the same class distribution as the original dataset. The purpose of this dataset is related to click prediction, although further details are not provided. It is assumed that the dataset is randomly generated or artificially created, rather than representing real-world data.

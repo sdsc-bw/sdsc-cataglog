@@ -1,0 +1,3 @@
+name: jungle_chess_2pcs_raw_endgame_complete
+dataset_id: 41027.0
+description: The dataset jungle_chess_2pcs_raw_endgame_complete is composed of chess games that reached the endgame stage in the Jungle Chess variant. It consists of 15,000 games with numerous features for each move, including piece types, coordinates, game scores, and board state. The dataset contains both winning and losing games, making it suitable for various analysis and prediction tasks. The data was collected from an AI engine playing against itself, ensuring a diverse and representative collection of games. A detailed description of the dataset, along with its attributes, can be found in the accompanying paper.

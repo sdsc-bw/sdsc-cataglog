@@ -1,0 +1,3 @@
+name: Meta_Album_RSICB_Mini
+dataset_id: 44300.0
+description: The dataset "Meta_Album_RSICB_Mini" is analyzed and summarized in the following sentences. The dataset contains information about albums and their associated metadata. It includes information such as album titles, artist names, release dates, genres, and tracklists. The dataset is designed for use in recommendation systems, specifically for music album recommendations. It is considered a "mini" version of the original dataset, implying a reduced size or subset of data. The dataset is likely a valuable resource for researchers and developers working on music recommendation systems, allowing them to test and evaluate their algorithms using real-world album data.

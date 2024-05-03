@@ -1,0 +1,3 @@
+name: 18ProductivityPrediction
+dataset_id: 43219.0
+description: The dataset 18ProductivityPrediction contains information about the productivity levels of a company's employees. It consists of 18 attributes, including the date, time, current activity, employee ID, employee role, and various other factors that might affect productivity. The dataset is meant to be used for predictive analysis and can help in identifying patterns and trends related to employee productivity. This information can be valuable for organizations looking to optimize their resources, improve efficiency, and make data-driven decisions for productivity improvement strategies.

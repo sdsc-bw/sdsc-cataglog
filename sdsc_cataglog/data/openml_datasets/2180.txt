@@ -1,0 +1,3 @@
+name: COMET_MC
+dataset_id: 5889.0
+description: The dataset COMET_MC comprises data from various experiments involving the identification of protein complexes. It consists of multiplexed co-immunoprecipitation mass spectrometry (MC) data, which helps in studying protein-protein interactions within biological systems. The dataset includes information about protein complexes and their constituents, such as bait-prey interactions and quantitative spectral counts. It also provides additional information like protein-protein interaction likelihood scores and Gene Ontology annotations. COMET_MC dataset aims to facilitate research on the composition and dynamics of protein complexes, allowing scientists to gain insights into cellular processes and molecular mechanisms.

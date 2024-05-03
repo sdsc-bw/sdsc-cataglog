@@ -1,0 +1,3 @@
+name: timing-attack-dataset-128-micro-seconds-delay-2022-09-01
+dataset_id: 45470.0
+description: The timing-attack-dataset-128-micro-seconds-delay-2022-09-01 dataset is a collection of data that was generated with a delay of 128 microseconds. It is expected to be available by September 1, 2022. The dataset is likely related to timing attacks, which involve analyzing the timing of cryptographic operations to extract sensitive information. The dataset might contain information or examples regarding timing attacks, such as timing traces or measurements. It is aimed at researchers or individuals interested in studying timing attacks and developing countermeasures to enhance security.

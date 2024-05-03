@@ -1,0 +1,3 @@
+name: FOREX_nzdusd-hour-High
+dataset_id: 41884.0
+description: The dataset FOREX_nzdusd-hour-High contains information pertaining to the highest hourly trading prices for the NZD/USD forex currency pair. The dataset likely includes data such as the date and time of each recorded high price, as well as the corresponding value. This information is crucial for forex traders who specialize in the NZD/USD pair, as it helps them identify potential trends and patterns in the market. Furthermore, the dataset is likely organized chronologically to facilitate analysis and decision-making. Overall, this dataset provides valuable insights for traders seeking to optimize their trading strategies in the NZD/USD forex market.

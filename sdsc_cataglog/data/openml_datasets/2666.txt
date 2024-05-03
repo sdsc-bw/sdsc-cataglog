@@ -1,0 +1,3 @@
+name: SAT11-HAND-runtime-regression
+dataset_id: 41980.0
+description: The dataset SAT11-HAND-runtime-regression contains information about the runtime of execution for various SAT solvers on SAT benchmark instances. It includes 1,000 instances with 10 hand-crafted features. The instances were generated using the DIMACS format and were divided into two sets: training (800 instances) and testing (200 instances). The solvers are represented by 11 different algorithms that were run on the instances. The dataset aims to provide a regression analysis for predicting the runtime of SAT solvers based on the given features and can be useful for evaluating and comparing different solver algorithms.

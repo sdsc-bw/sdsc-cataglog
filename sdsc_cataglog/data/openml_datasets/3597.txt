@@ -1,0 +1,3 @@
+name: Heart-Disease-Dataset-(Comprehensive)
+dataset_id: 43672.0
+description: The Heart-Disease-Dataset- (Comprehensive) is a collection of data related to heart disease. It consists of various attributes such as age, gender, cholesterol levels, blood pressure, and presence of other diseases. The dataset aims to provide a comprehensive understanding of heart disease by including a range of variables. It contains both numerical and categorical data, allowing for a diverse analysis. With a large number of instances, this dataset enables researchers to gain valuable insights into the factors that contribute to heart disease and develop effective prevention and treatment strategies. The dataset is widely used in the field of cardiovascular research.

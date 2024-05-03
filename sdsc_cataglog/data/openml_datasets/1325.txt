@@ -1,0 +1,3 @@
+name: QSAR-TID-10909
+dataset_id: 3301.0
+description: The dataset QSAR-TID-10909 contains information about the biological activity of compounds in relation to their chemical structure. It comprises 1055 instances, each represented by 5 features. The data is aimed at developing quantitative structure-activity relationship (QSAR) models to predict the compounds' inhibitory activity towards the FAAH enzyme. The dataset includes a binary class variable indicating the activity (active or inactive) of each compound. QSAR-TID-10909 has been used for data analysis and modeling purposes, contributing to the development of methods for drug design and molecular biology research.

@@ -1,0 +1,3 @@
+name: nyc-taxi-green-dec-2016
+dataset_id: 44050.0
+description: The dataset nyc-taxi-green-dec-2016 contains information about the green taxis in New York City during December 2016. It includes various attributes such as pickup and drop-off locations, the trip distance, and the fare amount. The dataset also provides additional details like tolls, surcharges, and the total amount paid by the passenger. Other features include the payment type, the number of passengers, and the duration of the trip. Exploring this dataset can provide valuable insights into the characteristics and dynamics of green taxi rides in New York City during that specific time period.

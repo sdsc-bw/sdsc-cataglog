@@ -1,0 +1,3 @@
+name: Chocolate-Bar-Ratings
+dataset_id: 43339.0
+description: The Chocolate-Bar-Ratings dataset contains information on various chocolate bars. It includes data on different chocolate bar brands, the specific bars themselves, and user ratings for each bar. The dataset also provides information about the cocoa percentage, origin, type of chocolate, company location, and bean type of each bar. Additionally, the dataset includes detailed descriptions and reviews for some of the bars. It is a comprehensive dataset for chocolate lovers, researchers, and companies in the chocolate industry who are interested in analyzing and understanding consumer preferences, trends, and factors that contribute to high or low ratings for chocolate bars.

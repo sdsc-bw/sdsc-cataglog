@@ -1,0 +1,3 @@
+name: QSAR-TID-101533
+dataset_id: 3261.0
+description: The dataset QSAR-TID-101533 contains information about the binding affinity of various substances with thrombin, an enzyme involved in blood clotting. The data includes 8 molecular descriptors, such as molecular weight and solubility in water, as well as the binding affinity measured on a numeric scale. The dataset was created using the THROMBIN Inhibitors Databases (TID), which gathers information about molecules with potential activity against thrombin. QSAR modeling techniques can be used with this dataset to develop predictive models for the binding affinity of new molecules.

@@ -1,0 +1,3 @@
+name: puma32H
+dataset_id: 752.0
+description: The dataset "puma32H" contains information related to housing units and households in PUMAs (Public Use Microdata Areas) within the state of California. It includes data from the 2000 US Census, covering attributes such as household income, size, composition, and tenure. The dataset is based on a sample of households and represents a subset of the population at the time. It is widely used by researchers and policymakers for studying housing trends, socio-economic disparities, and other demographic factors in California. The "puma32H" dataset provides valuable insights into the housing landscape and can aid in formulating policies and conducting research in various fields.

@@ -1,0 +1,3 @@
+name: Kaggle-YouTube-Video-Metadata
+dataset_id: 43374.0
+description: The Kaggle-YouTube-Video-Metadata dataset contains information about various YouTube videos such as their title, channel title, video category, and specific data related to the video's performance, like the number of views, likes, dislikes, and comments. The dataset encompasses a wide range of video content including music, gaming, sports, and more. It encompasses over 40,000 videos collected from different regions like the United States, Canada, Germany, and Britain. The dataset was compiled by Kaggle, an online community for data scientists, and is useful for analyzing YouTube video trends, predicting viewer engagement, and studying content popularity.

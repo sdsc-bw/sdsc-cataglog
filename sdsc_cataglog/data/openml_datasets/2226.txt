@@ -1,0 +1,3 @@
+name: RAM_price
+dataset_id: 40601.0
+description: The dataset "RAM_price" contains information about the prices of Random Access Memory (RAM) chips from 1957 to 2015. It includes various attributes such as the date of the price record, the price in US dollars for different specifications of RAM chips, and the trend of increasing chip capacity over time. The dataset is organized in a time series format, allowing analysis of the historical price variations of RAM chips and their relationship with technological advancements. It provides valuable insights into how RAM prices have evolved and become more affordable over the years, influencing the computer industry and technological advancements.

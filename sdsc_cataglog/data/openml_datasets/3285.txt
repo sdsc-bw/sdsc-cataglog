@@ -1,0 +1,3 @@
+name: Brilliant-Diamonds
+dataset_id: 43355.0
+description: The dataset Brilliant-Diamonds contains information about various properties and characteristics of different diamonds. It includes information about the carat weight, cut quality, color grade, clarity grade, and price of each diamond. The dataset provides a comprehensive overview of the diamonds' physical and aesthetic features, as well as their market value. The information can be used for various analysis and comparisons, such as evaluating the relationship between carat weight and price, or examining the impact of cut quality on diamond prices. It is a valuable resource for anyone interested in studying or understanding the diamond market.

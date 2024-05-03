@@ -1,0 +1,3 @@
+name: fri_c2_250_50
+dataset_id: 638.0
+description: The dataset fri_c2_250_50 is a collection of data that consists of 250 instances with 50 attributes. It is likely related to the Fribourg University classifier problem, focusing on two classes. Each instance is likely labeled with a class label. However, the specific details of the attributes and class labels are not provided in the given sentences. The dataset could be used for various purposes, such as classification or machine learning tasks, depending on the nature of the attributes and the desired objective.

@@ -1,0 +1,3 @@
+name: House-Rent-in-Indian-Cities-and-Localities
+dataset_id: 43547.0
+description: The dataset titled "House-Rent-in-Indian-Cities-and-Localities" contains information about house rentals in various cities and localities in India. It includes details such as city, locality, type of property (apartment, independent house, etc.), number of bedrooms, area in square feet, furnishings, and monthly rent. The dataset provides insights into the rental prices and preferences for different properties and locations in India, which can be useful for both tenants and landlords.

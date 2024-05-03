@@ -1,0 +1,3 @@
+name: Climate
+dataset_id: 40920.0
+description: The dataset Climate provides information on various climate indicators including surface temperature, precipitation, and sea level rise. It encompasses a wide range of global and local climate data collected over several decades. This dataset is valuable for researchers studying climate change and its impact on the environment and human activities. It helps in analyzing long-term climate trends and patterns, assessing climate variability, and understanding the drivers of climate change. The dataset also aids in projecting future climate scenarios and developing strategies for adaptation and mitigation measures. Overall, the Climate dataset is a vital resource for informing climate policy and decision-making processes.

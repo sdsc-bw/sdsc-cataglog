@@ -1,0 +1,3 @@
+name: Amazon_employee_access_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44711.0
+description: The dataset is named "Amazon_employee_access_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True". It contains 2000 rows and 100 columns with 10 classes for classification tasks. The dataset is stratified, meaning that each class is represented equally in the dataset. The dataset likely contains information about employee access at Amazon, possibly including variables such as job title, department, and access levels. Analysis of this dataset can provide insights into employee access patterns and help identify any biases or issues in the access control system.

@@ -1,0 +1,3 @@
+name: QSAR-TID-20129
+dataset_id: 3736.0
+description: The dataset QSAR-TID-20129 consists of 4,025 compounds with their corresponding purity values. It was created for assessing the quality of models developed for predicting the purity of organic compounds. The dataset includes multiple features such as molecular descriptors, environmental descriptors, and partial charges. Five synthetic neural networks were trained to predict the purity values using these features. The performance of the models was evaluated using cross-validation and test sets. The dataset aims to provide a benchmark for evaluating the accuracy and reliability of purity prediction models, which can be useful in various fields such as pharmaceutical and chemical industries.

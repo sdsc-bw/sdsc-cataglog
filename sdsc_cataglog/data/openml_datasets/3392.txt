@@ -1,0 +1,3 @@
+name: Boston-house-price-data
+dataset_id: 43465.0
+description: The Boston-house-price-data dataset contains information about housing prices in different areas of Boston. It includes 506 observations and 14 attributes, such as the average number of rooms per dwelling, crime rate, and accessibility to highways. The median value of owner-occupied homes (in $1000s) is the target variable for this dataset. The dataset was collected in 1978 as part of a study on housing in Boston. The dataset has since been widely used for regression analysis and machine learning tasks to predict housing prices. The dataset is available for public use and is commonly referenced in research papers and tutorials.

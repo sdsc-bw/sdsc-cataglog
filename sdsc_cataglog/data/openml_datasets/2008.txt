@@ -1,0 +1,3 @@
+name: QSAR-TID-10797
+dataset_id: 3994.0
+description: The dataset QSAR-TID-10797 consists of chemical compounds with their corresponding cytotoxicity activity values. It includes 1,079 instances and 5 input features. The compounds were characterized by various descriptors such as the presence of hydrophobic and electronic features. The output variable represents the cytotoxic activity measured as half maximal inhibitory concentration (IC50). The dataset aims to enable the development of quantitative structure-activity relationship (QSAR) models to predict cytotoxicity activity. It has been used to analyze and compare different QSAR modeling techniques and algorithms to enhance predictive performance.

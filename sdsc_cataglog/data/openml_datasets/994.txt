@@ -1,0 +1,3 @@
+name: robot-failures-lp5
+dataset_id: 1520.0
+description: Robot-failures-lp5 is a dataset that contains information about robot failures in an automated production line. It includes variables such as robot ID, feed rate, vision system failed, programming failed, component stuck, and robot failed. The dataset consists of 675,650 records and has been used for the estimation of reliability using regression analysis. It provides valuable insights into the causes of robot failures and helps in identifying patterns or variables that are influential in the failure process. This dataset serves as a useful resource for researchers and engineers working on improving the reliability and performance of robots in automated production systems.

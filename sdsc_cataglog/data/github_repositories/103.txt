@@ -1,0 +1,3 @@
+repo_name: ignite
+link: https://github.com/apache/ignite
+description: Apache Ignite is a distributed database for high-performance computing with in-memory speed. It is designed to work with memory, disk, and Intel Optane as active storage tiers, and supports Ignite Native Persistence - a distributed, ACID, and SQL-compliant disk-based store. The system also includes an ANSI-99 compliant, horizontally scalable, and fault-tolerant SQL engine, and offers machine learning tools for building predictive models. High-performance computing can be achieved by using Apache Ignite as a high-performance compute cluster, turning a group of commodity machines or a cloud environment into a distributed supercomputer.

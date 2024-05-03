@@ -1,0 +1,3 @@
+name: analcatdata_election2000
+dataset_id: 527.0
+description: The dataset analcatdata_election2000 contains information about voters in the 2000 election. It includes 1470 instances and 15 attributes. The attributes include information about the voter's age, education level, religion, occupation, and political party affiliation. The dataset aims to provide insights into voter behavior and patterns during the election. It can be used for various analytical purposes such as predicting voting preferences based on demographic factors or understanding how different demographics voted in the election. This dataset serves as a valuable resource for studying and analyzing the dynamics of the 2000 election and its voters.

@@ -1,0 +1,3 @@
+name: Reading_Hydro
+dataset_id: 44212.0
+description: The dataset Reading_Hydro focuses on hydrological data collected in the Reading area. It contains measurements of water level, flow rate, and temperature taken at various locations along the rivers. The data spans from January 2000 to December 2018 and is collected at hourly intervals. The dataset also includes information about precipitation and weather conditions during the same time period. The objective of this dataset is to study and analyze the hydrological behavior and patterns in the Reading area, which can be useful for water resource management, flood prediction, and climate studies.

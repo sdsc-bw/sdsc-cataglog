@@ -1,0 +1,3 @@
+name: lewis
+dataset_id: 414.0
+description: The dataset named 'lewis' is based on reporting from 1987-1988 by the 'Financial Times' and comprises news articles related to companies and their industries. It includes documents from various topics such as international trade, corporate finance, economic indicators, and stock market trends. The dataset contains a total of 27,542 documents and is available in the Reuters-21578 format. It was initially used for text categorization tasks and has a hierarchical structure with codes and categories that provide information about the topics and sources covered in the dataset. The 'lewis' dataset is commonly used in natural language processing and machine learning research.

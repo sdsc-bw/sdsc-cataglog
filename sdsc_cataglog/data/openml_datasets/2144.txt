@@ -1,0 +1,3 @@
+name: QSAR-TID-10962
+dataset_id: 4130.0
+description: The dataset QSAR-TID-10962 contains information related to the toxic effects of various chemicals on different organisms. It includes data on the chemical structure, quantitative molecular descriptors, and the biological activity of the compounds. The dataset aims to predict the toxicity of new, unseen chemicals based on the provided information. It consists of 10,962 instances and 526 variables, with three types of biological activity classes available for prediction. The dataset is useful for researchers and scientists working in the field of toxicology, as it can help in understanding the relationship between the molecular properties of chemicals and their toxic effects.

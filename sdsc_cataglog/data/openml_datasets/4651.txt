@@ -1,0 +1,3 @@
+name: fps_benchmark
+dataset_id: 44992.0
+description: The dataset fps_benchmark consists of benchmark data related to frames per second (fps) in computer graphics. The dataset contains information about the performance of different graphics cards, processors, and systems in rendering graphics. It includes variables such as the fps achieved, the settings used, and the hardware specifications of the system. The dataset is useful for studying and analyzing the performance of various hardware components in graphics-intensive applications. It can also be used to compare the performance of different systems and identify bottlenecks in the hardware setup that may affect the fps.

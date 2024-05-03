@@ -1,0 +1,3 @@
+name: Daily-Wheat-Price
+dataset_id: 43601.0
+description: The Daily-Wheat-Price dataset consists of information about the daily prices of wheat. It includes data points such as the date, region, and price of wheat for each day. The dataset covers a wide range of regions and spans over a considerable period of time. This dataset is valuable for individuals or organizations interested in monitoring and analyzing the fluctuations of wheat prices. It can be used to identify trends, patterns, and relationships with other economic factors. Overall, the Daily-Wheat-Price dataset provides a comprehensive and detailed view of the daily prices of wheat, offering insights into the dynamics of the wheat market.

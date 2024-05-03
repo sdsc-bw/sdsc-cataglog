@@ -1,0 +1,3 @@
+name: QSAR-TID-11720
+dataset_id: 3655.0
+description: The dataset QSAR-TID-11720 is a collection of chemical compounds with their corresponding toxicity levels. It contains 570 compounds and 17 toxicity classes. Each compound is represented by 357 features, including molecular descriptors and fingerprints. The dataset is highly imbalanced, with the majority of compounds falling into the non-toxic class. To handle this imbalance, various preprocessing techniques like oversampling and undersampling can be applied. The dataset can be used for toxicological studies and classification tasks, and it provides insights into the relationship between chemical properties and toxicity levels.

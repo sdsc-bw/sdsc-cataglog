@@ -1,0 +1,3 @@
+name: pwLinear
+dataset_id: 721.0
+description: The dataset pwLinear is a collection of synthetic data consisting of observations made on a piecewise linear relationship. It contains both the independent variable (x) and the dependent variable (y) for each observation. The piecewise linear relationship implies that the relationship between x and y changes at certain breakpoints. The dataset is created with the intention of exploring various statistical methods and models in the context of piecewise linear regression. It offers researchers an opportunity to test and evaluate their algorithms in scenarios where the underlying relationship is not strictly linear.

@@ -1,0 +1,3 @@
+name: DEE
+dataset_id: 42360.0
+description: DEE is a dataset containing information about marine life richness, covering areas from the North Atlantic to the Mediterranean Sea. It includes data on species presence and absence, as well as their relative abundance. The dataset comprises over 100,000 observations from various sources, such as scientific research expeditions and citizen science projects. DEE also provides data on environmental variables such as water temperature and salinity. It has been curated and standardized to ensure consistency across different sources. This rich and diverse dataset is valuable for studying biodiversity patterns, ecological interactions, and understanding the impacts of environmental changes on marine ecosystems.

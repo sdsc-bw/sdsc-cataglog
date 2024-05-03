@@ -1,0 +1,3 @@
+name: kropt
+dataset_id: 184.0
+description: The dataset "kropt" is a collection of image data that has been created for crop classification and yield prediction research. It contains images of various crops, such as corn, wheat, soybeans, and cotton, captured using remote sensing techniques. The dataset aims to cater to the needs of researchers in the field of precision agriculture and machine learning. It provides annotated images, which have been labeled with crop types and yield predictions. The kropt dataset can be a valuable resource for developing algorithms and models that can accurately classify crop types and predict their yield, ultimately aiding in efficient farming practices.

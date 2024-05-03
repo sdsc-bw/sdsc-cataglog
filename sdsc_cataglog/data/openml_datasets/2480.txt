@@ -1,0 +1,3 @@
+name: FOREX_chfjpy-minute-High
+dataset_id: 41745.0
+description: The dataset FOREX_chfjpy-minute-High contains high-frequency minute-level data of the exchange rates between the Swiss Franc (CHF) and the Japanese Yen (JPY). This dataset provides information about the highest value reached by this currency pair within each minute. The dataset likely includes a substantial amount of data points, given its high-frequency nature. Analyzing this dataset can help gain insights into the price movements and volatility of CHF/JPY exchange rates at a minute-level granularity. Due to the detailed and frequent data, it can be useful for short-term trading strategies or for studying market dynamics on a very granular scale.

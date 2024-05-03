@@ -1,0 +1,3 @@
+name: Higgs_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44422.0
+description: The dataset Higgs_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True is composed of 2000 rows and 100 columns, with 10 different classes. The data has been stratified, meaning it has been divided into subsets that maintain the relative proportions of each class. This dataset is likely related to the Higgs boson particle, given its name. The information provided does not elaborate on the specific content or purpose of the dataset.

@@ -1,0 +1,3 @@
+name: water_2
+dataset_id: 45166.0
+description: The water_2 dataset contains information about water quality in various regions. It includes measurements such as pH level, temperature, turbidity, dissolved oxygen, and electrical conductivity. The data was collected over a period of several years, allowing for long-term analysis. The dataset is geographically diverse, covering different locations from rivers to lakes. It also contains seasonal information, helping to understand the variations in water quality throughout the year. This dataset can be valuable for research purposes, as it enables the study of water quality trends, the impact of environmental factors, and the identification of potential water pollution sources.

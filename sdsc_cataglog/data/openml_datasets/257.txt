@@ -1,0 +1,3 @@
+name: analcatdata_whale
+dataset_id: 502.0
+description: The dataset analcatdata_whale contains information regarding the hunting of whales in several different countries. The data includes variables such as year, country, number of whales killed, population size, and the catch per unit effort (CPUE). This dataset was compiled from various sources and can be used to analyze the trends and patterns in whale hunting over time and across different regions. It provides valuable insights into the impact of hunting on whale populations and can be utilized for research, analysis, and modeling purposes in the field of marine conservation.

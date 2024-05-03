@@ -1,0 +1,3 @@
+name: Traffic-Violations-in-USA
+dataset_id: 43524.0
+description: The dataset "Traffic-Violations-in-USA" is a comprehensive collection of traffic violation records in the United States. It consists of detailed information on traffic violations committed across multiple states, including date, time, location, violation type, and relevant details. With over 20 million records, it covers a wide range of traffic offenses, such as speeding, red light violations, and drunk driving incidents. The dataset provides valuable insights for analyzing patterns, trends, and geographic distributions of traffic violations nationwide. It serves as a valuable resource for researchers, policymakers, and law enforcement agencies to study and address traffic safety issues effectively.

@@ -1,0 +1,3 @@
+name: machine_cpu
+dataset_id: 733.0
+description: The dataset machine_cpu includes information about the CPU usage of different machines. It consists of several attributes, including the timestamp, cluster ID, machine ID, CPU usage, and the number of cores. The data covers a period of time and is collected at regular intervals. The dataset is primarily used for analyzing CPU performance trends, identifying anomalies, and optimizing resources. It is a valuable resource for machine learning algorithms and can enable predictive modeling to anticipate CPU usage in different scenarios. Additionally, the dataset can also be used for investigating the impact of various factors on CPU performance and conducting statistical analysis.

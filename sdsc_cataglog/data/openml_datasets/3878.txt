@@ -1,0 +1,3 @@
+name: medical_charges
+dataset_id: 44004.0
+description: The dataset "medical_charges" contains information on the medical charges incurred by individuals. It includes variables such as age, sex, BMI, number of children, smoking status, region, and medical charges. The dataset aims to analyze the factors that influence medical charges and evaluate the impact of variables such as age, sex, BMI, and smoking status. Additionally, the dataset may be utilized to build predictive models to estimate medical charges based on individual characteristics. The dataset can provide valuable insights into the healthcare system, insurance coverage, and potential interventions to manage and reduce medical expenses.

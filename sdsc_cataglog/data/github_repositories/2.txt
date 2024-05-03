@@ -1,0 +1,3 @@
+repo_name: fastText
+link: https://github.com/facebookresearch/fastText
+description: FastText is a library for efficient learning of word representations and sentence classification. It has two main use cases: word representation learning and text classification. These were described in two papers, and the library is constantly being built and tested under various docker images using circleci. FastText builds on modern Mac OS and Linux distributions, and requires a compiler with good C++11 support. The library can be built using make or cmake, and requires certain dependencies. Full documentation is available in the repository, and the library is MIT-licensed.

@@ -1,0 +1,3 @@
+name: QSAR-TID-12295
+dataset_id: 3579.0
+description: QSAR-TID-12295 is a dataset that contains information on 3,486 chemical compounds with 12295 instances. It consists of 574 molecular descriptors that can be used to predict the activity of compounds. The dataset is primarily focused on the antimicrobial activity of these compounds, particularly against the specific bacteria Staphylococcus aureus. The descriptors include information about the chemical structure, atomic properties, and other characteristics of the compounds. This dataset can be used to develop models or algorithms that can predict the antimicrobial activity of new compounds based on their molecular properties.

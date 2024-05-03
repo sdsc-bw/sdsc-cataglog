@@ -1,0 +1,3 @@
+name: Meta_Album_BCT_Extended
+dataset_id: 44316.0
+description: The dataset Meta_Album_BCT_Extended contains extended information about albums in the Meta_Album_BCT dataset. It includes additional data such as artist name, album ID, release date, duration, and popularity score. The dataset also includes information related to the album's track list, such as track ID, track name, duration, and popularity score. This dataset is useful for analyzing various aspects of albums and tracks, such as artist popularity, release patterns, and track popularity within an album. The extended data provides a comprehensive view of the albums and their associated tracks, facilitating in-depth analysis and research.

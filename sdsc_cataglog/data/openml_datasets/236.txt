@@ -1,0 +1,3 @@
+name: analcatdata_bankruptcy
+dataset_id: 476.0
+description: The dataset analcatdata_bankruptcy contains information about financial variables of various companies. It includes data such as net income, total assets, liabilities, and equity. The dataset has 100 observations and 6 variables. The goal of the dataset is to predict bankruptcy of a company based on these financial variables. It is a public dataset widely used for research purposes and can be accessed online. The dataset allows researchers to analyze and develop models to predict bankruptcy, which can be valuable for financial institutions and investors in assessing the financial health and risk of companies.

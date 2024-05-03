@@ -1,0 +1,3 @@
+name: analcatdata_birthday
+dataset_id: 456.0
+description: The dataset analcatdata_birthday contains information about the birthdays of individuals. It consists of 65 observations and 4 variables. The variables include birthdate, month, day, and year. Each observation represents a person and includes their birthdate along with the separate variables for month, day, and year. The dataset can be used to analyze patterns or trends related to birthdays, such as the distribution of birthdays across different months or years. It provides a comprehensive collection of data that can be used for various statistical or data analysis purposes.

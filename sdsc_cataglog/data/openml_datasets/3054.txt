@@ -1,0 +1,3 @@
+name: dgf_test
+dataset_id: 42882.0
+description: The dataset dgf_test is a collection of data consisting of 3000 instances, each containing 10 numerical features. The dataset is commonly used for classification tasks and is split into two subsets - training set and test set, with the latter having 1000 instances. The dataset has four classes, labeled as 1, 2, 3, and 4. Each class has an equal representation in the dataset. The attributes in the dataset have been normalized and rescaled. The primary task with this dataset is to train a classification model that accurately predicts the class labels of unseen instances based on the given features.

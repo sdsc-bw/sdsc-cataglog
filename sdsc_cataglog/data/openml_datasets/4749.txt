@@ -1,0 +1,3 @@
+name: MTPL_SHAP_Tutorial
+dataset_id: 45106.0
+description: The dataset MTPL_SHAP_Tutorial consists of information related to motor third party liability insurance policies. It contains various features such as vehicle age, power, and car brand, as well as the insured's age and profession. The dataset also includes information on the policy holders' claims history, including the total claim amount and the number of claims made. There are around 400,000 records in the dataset, making it a large and comprehensive source of information for analyzing and predicting insurance claim behavior. It is a valuable resource for exploring the factors that influence motor third party liability insurance claims.

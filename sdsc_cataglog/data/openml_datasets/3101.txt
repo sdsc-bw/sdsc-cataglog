@@ -1,0 +1,3 @@
+name: gas-turbine-2015
+dataset_id: 42978.0
+description: The dataset gas-turbine-2015 contains data related to gas turbine operations. It includes 36733 observations and nine attributes, such as atmospheric temperature, exhaust gas pressure ratio, and compressor pressure ratio. The target attribute, CO (Carbon monoxide) emission value, is a continuous variable. The overall dataset has a continuous numerical nature with some missing values. The dataset's purpose is to model CO emissions based on various input variables. This dataset can be useful to predict gas turbine emissions and optimize their performance for better efficiency and reduced environmental impact.

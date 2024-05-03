@@ -1,0 +1,3 @@
+name: fri_c1_500_50
+dataset_id: 766.0
+description: The dataset fri_c1_500_50 consists of 500 instances and 50 attributes. It contains information related to friendships among individuals, with attributes capturing various characteristics. The dataset is widely used in social network analysis and can be helpful in studying factors influencing friendships and social interactions. It provides researchers with valuable insights into the dynamics and structure of social networks. The dataset fri_c1_500_50 offers opportunities to analyze and explore patterns, such as the influence of age, interests, or location on the formation and maintenance of friendships. Its size and attributes make it a significant resource for studying social relationships and network dynamics.

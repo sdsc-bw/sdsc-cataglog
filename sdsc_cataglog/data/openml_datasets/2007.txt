@@ -1,0 +1,3 @@
+name: QSAR-TID-10320
+dataset_id: 3993.0
+description: The dataset QSAR-TID-10320 is used for modelling the toxicity of certain organic compounds. It consists of 222 instances, with 17 input variables representing characteristics such as molecular information and physicochemical properties. The output variable is the logarithm of the acute toxicity towards a specific organism, measured in mM. The dataset has missing values in some of the input variables, which were replaced with the average values. Multiple linear regression was performed on the dataset to create a model for predicting toxicity. The dataset is publicly available and can be used for further research in the field of toxicology and chemical analysis.

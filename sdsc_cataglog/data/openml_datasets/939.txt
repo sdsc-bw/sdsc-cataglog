@@ -1,0 +1,3 @@
+name: bank-marketing
+dataset_id: 1461.0
+description: The bank-marketing dataset is a popular dataset used in the field of marketing and customer relationship management. It contains information related to direct marketing campaigns of a Portuguese banking institution. The dataset includes a variety of attributes like age, job, marital status, education, housing, loan, and others. The primary goal of the dataset is to determine whether a client will subscribe to a bank term deposit (yes or no). This dataset has been widely used for classification tasks and predictive modeling, with a large number of observations and features, making it suitable for training machine learning algorithms to predict customer behavior.

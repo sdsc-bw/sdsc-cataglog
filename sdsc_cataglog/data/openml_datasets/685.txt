@@ -1,0 +1,3 @@
+name: echoMonths
+dataset_id: 944.0
+description: The dataset echoMonths contains information about monthly electricity consumption in a specific area. It includes data about the number of kilowatt-hours consumed in each month for a given time period. The dataset consists of several columns, such as the date of consumption, the corresponding month, year, and region. This dataset aims to capture patterns and trends in electricity usage over time. It can be used to analyze seasonal variations, identify peak demand months, and develop strategies to optimize energy consumption.

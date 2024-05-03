@@ -1,0 +1,3 @@
+name: fri_c2_250_50
+dataset_id: 877.0
+description: The dataset fri_c2_250_50 contains information about friendships in an online social network. It consists of 250 nodes representing users and 50 randomly selected members forming their friends. The dataset includes attributes such as age, gender, and interests of the users. There are also friendship connections represented by edges, indicating mutual friends between the nodes. This dataset can be used to analyze the structure and dynamics of friendships in online social networks, as well as study the impact of various attributes on friendship formation and maintenance. It provides insights into the social behavior and interactions in virtual communities.

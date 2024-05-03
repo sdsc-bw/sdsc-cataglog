@@ -1,0 +1,3 @@
+name: qsprcmpx
+dataset_id: 428.0
+description: The dataset "qsprcmpx" contains information about the chemical compounds collected from different sources. It consists of various molecular descriptors that provide insights into the properties of these compounds. The dataset also includes details about the scores assigned to each compound based on their physical, chemical, and biological properties. The compounds in this dataset are diverse, covering a wide range of chemical structures and properties. The aim of this dataset is to enable researchers and scientists to analyze, model, and predict the properties of different compounds, which can be utilized in various fields like drug discovery, material science, and environmental research.

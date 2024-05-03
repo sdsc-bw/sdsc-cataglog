@@ -1,0 +1,3 @@
+name: PhosphoproteinChallenge_DREAM3
+dataset_id: 43284.0
+description: The PhosphoproteinChallenge_DREAM3 dataset is a collection of protein data that was designed as a challenge for the DREAM (Dialogue on Reverse Engineering and Modeling) project. It consists of experimental data on protein phosphorylation levels obtained from multiple experiments. The dataset includes information on the phosphoprotein abundance levels under various conditions, such as different time points or drug treatments. The goal of this dataset is to provide a platform for researchers to develop computational models to predict and infer protein phosphorylation dynamics. It enables the assessment and comparison of different modeling approaches for understanding cell signaling networks.

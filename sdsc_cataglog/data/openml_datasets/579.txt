@@ -1,0 +1,3 @@
+name: analcatdata_vehicle
+dataset_id: 835.0
+description: The dataset analcatdata_vehicle contains data on vehicle attributes and performance. It includes 18 attributes which describe different aspects of vehicles such as their make, model, year, origin, wheelbase, engine displacement, fuel efficiency, and horsepower. The dataset consists of 415 instances, representing different vehicles. The attributes are both categorical and numeric. The dataset provides an extensive and diverse set of information about vehicles, allowing for a detailed analysis of their characteristics and performance. It is a valuable resource for researchers or analysts interested in studying various aspects of vehicles and their attributes.

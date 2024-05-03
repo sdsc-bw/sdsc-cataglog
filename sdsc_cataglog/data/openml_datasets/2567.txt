@@ -1,0 +1,3 @@
+name: FOREX_nzdusd-hour-Close
+dataset_id: 41832.0
+description: The dataset FOREX_nzdusd-hour-Close contains data related to the currency pair NZD/USD in hourly intervals. It includes the closing prices of this currency pair over a specific time period. The dataset likely provides information for conducting analysis, forecasting, or backtesting trading strategies dealing with NZD/USD. The inclusion of hourly data points allows for a detailed examination of the currency pair's performance throughout the day. The dataset can be utilized by forex traders, analysts, or researchers interested in studying the behavior and trends of the NZD/USD exchange rate.

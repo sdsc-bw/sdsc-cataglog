@@ -1,0 +1,3 @@
+name: Tour-and-Travels-Customer-Churn-Prediction
+dataset_id: 45545.0
+description: The Tour-and-Travels-Customer-Churn-Prediction dataset is a collection of data related to customer behavior and churn in the tour and travel industry. The dataset includes information such as customer demographics, their usage behavior, the type of travel packages they purchase, and their overall satisfaction with the services. The dataset aims to predict customer churn, which refers to the likelihood of customers ending their relationship with the company. The dataset can be used to analyze patterns and factors leading to customer churn, enabling companies to implement strategies to retain customers and improve their services.

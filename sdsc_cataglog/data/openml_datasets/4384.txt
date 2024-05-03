@@ -1,0 +1,3 @@
+name: madeline_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44562.0
+description: The dataset is named madeline_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True. It contains 2000 rows and 100 columns. The data is classified into 10 categories. The dataset is stratified, meaning that the proportion of each class is maintained in the samples. The dataset potentially represents a range of features and observations. The naming convention suggests that it may be part of a larger dataset collection named madeline, with different seeds and configurations. The dataset could be useful for various data analysis, modeling, and machine learning tasks.

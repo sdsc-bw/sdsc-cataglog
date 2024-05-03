@@ -1,0 +1,3 @@
+name: default-of-credit-card-clients
+dataset_id: 45020.0
+description: The dataset "default-of-credit-card-clients" is a collection of data related to credit card clients of a Taiwanese bank. It includes information about their demographics, marital status, education, and payment history. The dataset also contains data on their credit card bill statements and payment status for six consecutive months. The objective of this dataset is to determine the factors that could potentially lead to default payments. The dataset comprises 30,000 instances and 24 features. The target variable in this dataset is the 'default payment next month' column, which indicates whether a client will default on their credit card payment in the next month.

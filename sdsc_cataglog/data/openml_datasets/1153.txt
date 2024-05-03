@@ -1,0 +1,3 @@
+name: QSAR-TID-280
+dataset_id: 3129.0
+description: The QSAR-TID-280 dataset contains chemical compounds and their corresponding biological activities. The compounds were tested for their potential activity against specific biological targets. Each compound is represented by a set of molecular descriptors, which provide information about the chemical structure and properties. The dataset includes 280 compounds and 19 molecular descriptors. The biological activities of the compounds are measured on a continuous scale, indicating their effectiveness in inhibiting the biological targets. This dataset provides valuable information for developing predictive models and analyzing structure-activity relationships in drug discovery and design.

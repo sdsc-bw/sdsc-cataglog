@@ -1,0 +1,3 @@
+name: QSAR-TID-30026
+dataset_id: 3764.0
+description: The dataset QSAR-TID-30026 contains information on the biological activities of a set of chemical compounds. It includes a collection of 163 compounds, each associated with a binary activity value indicating whether it is active or inactive against a specific protein target. The compounds have been characterized by 296 molecular descriptors, which are numeric values representing various chemical properties. These descriptors provide insights into the physicochemical features of the compounds and offer potential insights into their biological activities. Understanding the relationship between the molecular descriptors and activity values can help in predicting the potential of new compounds for drug discovery.

@@ -1,0 +1,3 @@
+name: Test_vectors_trans_posneg3
+dataset_id: 42552.0
+description: The dataset Test_vectors_trans_posneg3 consists of transformed test vectors that are used for sentiment analysis. It includes both positive and negative test examples. The vectors have been transformed using a certain model to represent their feature values. The purpose of this dataset is to evaluate the performance of sentiment analysis models. The dataset contains multiple test vectors, with each vector representing a different document or text. The transformed vectors can be used to train and test sentiment analysis algorithms and measure their accuracy in correctly classifying sentiments as positive or negative.

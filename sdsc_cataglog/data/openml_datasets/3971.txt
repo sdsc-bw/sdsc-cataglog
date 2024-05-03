@@ -1,0 +1,3 @@
+name: credit-g_copy
+dataset_id: 44097.0
+description: The dataset credit-g_copy is a comprehensive collection of customer credit information for various banking institutions. It contains around 1000 entries with 20 features including credit limits, payment history, and demographic details. The dataset is designed to assist in analyzing the factors that contribute to creditworthiness and predicting loan default risks. It is suitable for conducting machine learning experiments and building models for credit risk assessment. The dataset also includes additional information like the purpose of the loan and employment status of customers. This dataset aims to provide valuable insights into credit management and aid in making informed decisions related to lending.

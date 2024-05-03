@@ -1,0 +1,3 @@
+name: JapaneseVowels
+dataset_id: 976.0
+description: The JapaneseVowels dataset contains spoken Japanese vowels recorded from nine speakers, three male and six female. Each speaker provided spoken samples for nine Japanese vowels - five short vowels (A, E, I, O, U) and four long vowels (AA, EE, II, OO, UU). The dataset consists of a total of 920 observations, with each observation being a 12-dimensional feature vector representing the acoustic characteristics of a spoken vowel. The dataset is commonly used for research in speech recognition, particularly for vowel classification tasks. It provides a valuable resource for studying Japanese speech and vowel recognition algorithms.

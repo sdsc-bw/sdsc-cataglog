@@ -1,0 +1,3 @@
+name: sarcasm_detection
+dataset_id: 41463.0
+description: The dataset sarcasm_detection is a curated collection of comments from social media platforms, designed for sarcasm detection tasks. It contains over 5,000 comments, evenly distributed between sarcastic and non-sarcastic instances. The dataset includes both English and Spanish comments, coming from various genres like news articles, forums, and social media posts. Each comment is labeled as sarcastic or non-sarcastic, providing ground truth for training and evaluating sarcasm detection models. The sarcasm detection dataset aims to facilitate research in natural language processing and computational linguistics by offering a comprehensive and diverse collection of sarcastic and non-sarcastic comments.

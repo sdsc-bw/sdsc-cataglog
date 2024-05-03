@@ -1,0 +1,3 @@
+name: eucalyptus
+dataset_id: 990.0
+description: The dataset "eucalyptus" is a collection of information and data regarding eucalyptus trees. It includes various attributes such as height, diameter, age, and geographic location of the trees. The dataset has been compiled over a certain period of time, covering multiple locations and species of eucalyptus trees. The purpose of this dataset is to enable researchers and experts to analyze and understand the growth patterns, diversity, and distribution of eucalyptus trees. It can be used to study the impact of environmental factors on the growth of these trees and aid in developing conservation strategies for their preservation.

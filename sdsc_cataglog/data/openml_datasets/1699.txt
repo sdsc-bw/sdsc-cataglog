@@ -1,0 +1,3 @@
+name: QSAR-TID-100790
+dataset_id: 3682.0
+description: The dataset QSAR-TID-100790 contains information about the biological activity of chemical compounds for the purpose of drug discovery research. It consists of 1055 instances with 11 features, including molecular descriptors and an activity label indicating whether the compound is active or inactive. The dataset's aim is to build a predictive model that can determine the activity of new compounds based on their molecular characteristics. The data has been preprocessed, with missing values imputed and the activity label discretized. This dataset can be used by researchers and machine learning practitioners to explore and develop new methods for predicting drug activities.

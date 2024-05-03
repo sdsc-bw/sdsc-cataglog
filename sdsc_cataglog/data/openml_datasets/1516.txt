@@ -1,0 +1,3 @@
+name: QSAR-TID-101397
+dataset_id: 3499.0
+description: The dataset QSAR-TID-101397 contains information on 1053 chemical compounds and their corresponding mathematical properties. The dataset aims to predict the toxicity of these compounds based on various attributes such as bond counts, molecular shape, and electrostatic properties. The target variable is a numerical value representing the toxicity of the compounds. The dataset also includes additional data on the presence of certain elements, solubility, and molecular weight. This dataset can be useful for developing mathematical models to predict the toxicity of new compounds, aiding in the screening of potentially hazardous chemicals and ensuring the safety of various products and processes.

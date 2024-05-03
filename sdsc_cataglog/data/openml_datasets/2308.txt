@@ -1,0 +1,3 @@
+name: jungle_chess_2pcs_endgame_rat_rat
+dataset_id: 41005.0
+description: The dataset jungle_chess_2pcs_endgame_rat_rat contains information about a chess game known as Jungle Chess. It focuses on the endgame phase and involves two rat players. The dataset includes various features such as the current king positions, movements of the rats, and the final outcome of the game. It provides a comprehensive record of 2800 games played, capturing both the stationary and moving states of the board. The dataset can be utilized for analyzing the strategies and patterns employed by rat players during the endgame phase, enabling researchers to gain insights into the dynamics of Jungle Chess.

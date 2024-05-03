@@ -1,0 +1,3 @@
+name: Case-Study-Applicants-for-a-Gold-Digger-position
+dataset_id: 43552.0
+description: The dataset "Case-Study-Applicants-for-a-Gold-Digger-position" is based on a fictional scenario. It consists of information on 100 applicants who have applied for a Gold Digger position. The dataset includes various attributes of the applicants, such as age, gender, education level, work experience, and salary expectations. Additionally, it provides data on the outcome of the applications, indicating whether an applicant was selected or rejected. The objective of this dataset is to facilitate analysis and modeling to determine the factors that influence the selection process for the Gold Digger position.

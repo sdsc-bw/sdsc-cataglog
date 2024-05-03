@@ -1,0 +1,3 @@
+name: gas-turbine-2014
+dataset_id: 42977.0
+description: The gas-turbine-2014 dataset contains data from a gas turbine for two years. It includes 36733 samples with 11 different attributes. The attributes consist of temperature, pressure, humidity, and other operational parameters. The dataset aims to help predict the temperature of the turbine based on other factors. The dataset can be used for various purposes, such as analyzing the performance of the turbine, predicting potential failures, and optimizing its operation. The dataset also provides an opportunity for researchers to develop and test machine learning algorithms for turbine temperature prediction.

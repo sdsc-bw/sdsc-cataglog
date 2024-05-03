@@ -1,0 +1,3 @@
+name: kc1-numeric
+dataset_id: 1070.0
+description: The dataset kc1-numeric is a collection of numeric data that represents various software metrics from the PROMISE repository. It consists of 21 attributes and 122,502 instances. The dataset aims to help in the classification of software defects in the early stages of development projects. It includes various features such as LOC_BLANK, LOC_CODE_AND_COMMENT, LOC_COMMENTS, CYCLOMATIC_COMPLEXITY, HALSTEAD_CONTENT, and HALSTEAD_DIFFICULTY. The attributes are derived from the original dataset kc1. The dataset provides a valuable resource for researchers and developers to analyze and predict software defects.

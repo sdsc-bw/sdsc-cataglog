@@ -1,0 +1,3 @@
+name: CDP-Challenge-Cities-KPI
+dataset_id: 43765.0
+description: The dataset CDP-Challenge-Cities-KPI contains information about the environmental performance of cities participating in the CDP Challenge. It includes key performance indicators (KPIs) related to carbon emissions, energy consumption, waste management, and water usage. The dataset provides insights into the sustainability efforts of these cities and allows for comparison and benchmarking. It also includes information about the cities' policies and initiatives to address climate change and promote sustainable development. Researchers and policymakers can utilize this dataset to assess cities' progress, identify best practices, and develop strategies to improve urban sustainability.

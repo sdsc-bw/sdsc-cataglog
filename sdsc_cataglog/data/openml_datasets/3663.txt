@@ -1,0 +1,3 @@
+name: GOOG-Ticker-stock-data
+dataset_id: 43740.0
+description: The dataset GOOG-Ticker-stock-data contains historical data of the stock market performance of Alphabet Inc., the parent company of Google. The data includes information such as opening and closing prices, high and low prices, volume of shares traded, and adjusted closing prices. The dataset covers a significant period of time, from 2004 to 2021, allowing for a comprehensive analysis of the company's stock trends over the years. The information in this dataset is valuable for investors and analysts who are interested in studying the historical performance of Alphabet Inc.'s stock and making informed decisions based on past market trends.

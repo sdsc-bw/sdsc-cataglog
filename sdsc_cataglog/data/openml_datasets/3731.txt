@@ -1,0 +1,3 @@
+name: German-Credit-Data
+dataset_id: 43808.0
+description: The German-Credit-Data dataset contains information about 1000 applicants who applied for a loan in Germany. It includes attributes such as age, sex, job, housing, loan amount, duration, and credit history. Each applicant is labeled as "good" or "bad" based on whether they repaid their loan on time or not. The dataset can be used for various purposes, including credit risk analysis and machine learning models. It provides a valuable resource for researchers and analysts to study creditworthiness and develop predictive models to assess the likelihood of loan repayment.

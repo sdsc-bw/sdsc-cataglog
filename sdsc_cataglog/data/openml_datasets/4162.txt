@@ -1,0 +1,3 @@
+name: Meta_Album_BTS_Extended
+dataset_id: 44343.0
+description: The dataset Meta_Album_BTS_Extended is created as an extension of the Meta_Album_BTS dataset. It contains information about the extended version of the BTS albums, including details about the album's title, release date, language, genre, record label, and producer. Additionally, it provides information about the number of tracks and the duration of each track on the album, as well as the lyrics for each song. The dataset aims to provide a comprehensive overview of the extended versions of BTS albums, their content, and various attributes related to the music produced by the K-pop group.

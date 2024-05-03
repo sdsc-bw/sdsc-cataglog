@@ -1,0 +1,3 @@
+name: cmc_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44617.0
+description: The dataset cmc_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset with 2000 rows and 100 columns. It includes information on 10 different classes. The dataset is stratified, meaning that the distribution of classes is maintained in the dataset. The dataset likely contains categorical data, as the classes are specified. Additionally, the dataset may have been generated using a random seed of 4, meaning that it can be replicated if the same seed is used. Overall, this dataset provides structured information on 2000 observations across 100 variables within 10 classes.

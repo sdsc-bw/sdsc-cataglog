@@ -1,0 +1,3 @@
+name: nomao_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44716.0
+description: The dataset nomao_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True consists of randomly generated data with 2000 rows and 100 columns. It is stratified and contains 10 distinct classes. The dataset was created with a specific seed value of 3, ensuring reproducibility. The data is organized in a tabular format, with each row representing an instance and each column representing a feature. The dataset aims to provide a diverse and balanced representation of the classes, allowing for various analyses and machine learning tasks.

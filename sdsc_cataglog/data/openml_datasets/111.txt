@@ -1,0 +1,3 @@
+name: pwLinear
+dataset_id: 229.0
+description: The dataset "pwLinear" consists of a set of measurements from a linear power amplifier. It contains information about the input and output power levels, as well as the input frequency. The data was collected over a period of time, including different operating conditions. The dataset aims to analyze the behavior of the power amplifier under different input power levels and frequency variations. It provides researchers with a valuable resource to study the linearity and efficiency of power amplifiers in different scenarios. The dataset is useful for designing and optimizing power amplification systems to achieve higher performance and lower distortions.

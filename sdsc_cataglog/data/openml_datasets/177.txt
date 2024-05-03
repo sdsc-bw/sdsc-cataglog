@@ -1,0 +1,3 @@
+name: thompson
+dataset_id: 415.0
+description: The dataset "thompson" contains information related to the Thompson reservoir in Colorado, USA. It includes data about the reservoir's water levels, temperatures, and flow rates, collected over a specific time period. The dataset also provides information on various environmental factors such as air temperature, precipitation, and wind speed. Additionally, it includes historical records of water quality parameters like pH, dissolved oxygen, and turbidity. The dataset aims to provide insights into the dynamics of the Thompson reservoir, allowing researchers and stakeholders to analyze and understand its behavior over time and make informed decisions regarding its management and usage.

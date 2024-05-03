@@ -1,0 +1,3 @@
+name: QSAR-TID-11637
+dataset_id: 3936.0
+description: The QSAR-TID-11637 dataset contains data related to the toxicity of various compounds. It is specifically designed for developing quantitative structure-activity relationship (QSAR) models, which predict the toxicity of new chemicals based on their structure. The dataset includes information on 5,803 compounds, and each compound is represented by various physicochemical features and descriptors. The toxicity of each compound is measured using a binary endpoint, indicating whether it is toxic or non-toxic. This dataset is meant to aid researchers in developing and evaluating QSAR models for toxicology prediction, aiding in drug discovery and environmental risk assessment.

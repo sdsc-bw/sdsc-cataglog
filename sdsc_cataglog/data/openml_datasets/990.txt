@@ -1,0 +1,3 @@
+name: robot-failures-lp1
+dataset_id: 1516.0
+description: The dataset robot-failures-lp1 contains data related to robot failures in a laboratory experiment. It comprises 88,036 observations and 7 variables. The variables are robot, failure-type, failure-time, component-damage, previous-failure-type, previous-failure-time, and component-replaced. The dataset provides information on the type of robot used, the type of failure experienced, the time of failure, the damage to the robot's components, the previous failure type and time, and whether any components were replaced. The dataset can be used for analyzing and predicting robot failures, potentially helping in improving robot performance and reducing downtime.

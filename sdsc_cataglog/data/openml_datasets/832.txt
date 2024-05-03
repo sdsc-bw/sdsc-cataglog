@@ -1,0 +1,3 @@
+name: yeast_gene
+dataset_id: 1103.0
+description: The dataset "yeast_gene" contains gene expression data of yeast Saccharomyces cerevisiae. It consists of 14,318 observations and 6,261 variables, representing genes. Each observation represents a laboratory experiment measuring the level of expression for each gene. The dataset aims to understand how different genes are expressed in different conditions, such as stress or different growth media. The data includes information about the experimental condition, gene names, and their respective expression levels. This dataset provides valuable insights into the genetic regulation and response of yeast cells under various conditions, aiding in the study of yeast biology and related research fields.

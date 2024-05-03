@@ -1,0 +1,3 @@
+name: vehicle_sensIT
+dataset_id: 357.0
+description: The dataset vehicle_sensIT is a collection of sensor data gathered from vehicles. It contains information about the speed, distance, and acceleration of vehicles, as well as readings from different sensors such as temperature, humidity, and light. The dataset also includes data about the location of the vehicles, including latitude and longitude coordinates. The purpose of this dataset is to analyze and study the behavior of vehicles in various conditions and environments. It can be used for developing intelligent transportation systems, optimizing traffic flow, and improving vehicle safety. The dataset is rich in information and can provide valuable insights into vehicle dynamics and performance.

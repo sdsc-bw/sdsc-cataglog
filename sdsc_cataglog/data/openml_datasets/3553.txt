@@ -1,0 +1,3 @@
+name: Petrleo-Brasileiro-S.A.---Petrobras-(PETR4.SA)
+dataset_id: 43630.0
+description: The dataset "Petrleo-Brasileiro-S.A.---Petrobras- (PETR4.SA)" focuses on the Brazilian energy company Petrobras, which is listed on the Sao Paulo Stock Exchange as PETR4.SA. The dataset contains various information about Petrobras, including its historical stock prices, financial data, and news articles related to the company. It covers a significant time span, enabling users to analyze the company's performance, track its stock prices, and explore the factors influencing its fluctuations. This dataset is highly valuable for investors, analysts, and researchers interested in studying Petrobras and its role in the Brazilian energy sector.

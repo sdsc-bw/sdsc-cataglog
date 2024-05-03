@@ -1,0 +1,3 @@
+name: soybean
+dataset_id: 42.0
+description: The dataset "soybean" is a collection of information about the soybean crop. It contains data related to the plant's characteristics, such as seed color, seed size, and plant growth type. The dataset also includes information on the crop's health, such as the presence or absence of specific diseases. Additionally, it provides data on the severity of each disease if present. The soybean dataset is widely used in agricultural research and can help in predicting crop health and yield. It is a valuable resource for farmers, scientists, and policymakers interested in improving soybean cultivation and mitigating crop diseases.

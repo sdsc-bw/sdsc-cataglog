@@ -1,0 +1,3 @@
+name: analcatdata_neavote
+dataset_id: 865.0
+description: The analcatdata_neavote dataset contains information on voters' preferences in the election. It consists of 114 instances, each representing a voter, with nine attributes. These attributes include the voter's age, sex, level of education, and political party affiliation. The dataset includes both numeric and categorical data. It is a small-sized dataset and was collected for educational purposes. The main aim of using this dataset is to analyze voting patterns and explore relationships between different attributes. The dataset is often used in various data analysis and machine learning projects to study electoral behavior and predict voting outcomes based on demographic factors.

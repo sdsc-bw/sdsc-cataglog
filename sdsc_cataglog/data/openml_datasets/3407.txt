@@ -1,0 +1,3 @@
+name: Cosmetics-datasets
+dataset_id: 43481.0
+description: The Cosmetics-datasets is a dataset that contains information related to cosmetic products. It includes details such as product names, brand names, ingredients, product descriptions, prices, ratings, and reviews. The dataset covers a wide range of cosmetic categories including skincare, makeup, hair care, and fragrance. It also includes information about the availability and popularity of the products. This dataset can be useful for various applications including market analysis, recommendation systems, and trend analysis in the cosmetics industry. The dataset is publicly available and can be accessed for research or commercial purposes.

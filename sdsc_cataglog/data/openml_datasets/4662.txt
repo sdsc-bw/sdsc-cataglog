@@ -1,0 +1,3 @@
+name: electricity
+dataset_id: 45018.0
+description: The dataset "electricity" contains information about the electricity consumption of various countries over a period of time. It includes data on the total electricity used, as well as the breakdown by different sectors such as residential, commercial, and industrial. The dataset also provides information about the sources of electricity generation, including fossil fuels, renewable energy sources, and nuclear power. Additionally, it includes data on the electricity imports and exports of each country. The dataset aims to provide a comprehensive overview of the electricity consumption and generation patterns worldwide, allowing for analysis and comparison between different countries and time periods.

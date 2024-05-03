@@ -1,0 +1,3 @@
+name: emotions
+dataset_id: 41465.0
+description: The dataset "emotions" contains records of textual data that describe different emotions. It includes over 12,000 records, with each record containing a textual description of an emotion and its associated sentiment polarity. The dataset represents a wide range of emotions, including joy, sadness, anger, and fear, among others. The textual data has been preprocessed and cleaned to ensure consistency and eliminate any irrelevant information. The emotions dataset is commonly used in sentiment analysis and emotion recognition tasks, providing valuable insights into human emotions and sentiment analysis algorithms' performance.

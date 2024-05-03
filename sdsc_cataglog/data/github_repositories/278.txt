@@ -1,0 +1,3 @@
+repo_name: netron
+link: https://github.com/lutzroeder/netron
+description: Netron is a viewer for neural network, deep learning and machine learning models. It supports a wide range of frameworks including ONNX, TensorFlow Lite, Caffe, Keras, Darknet, PaddlePaddle, ncnn, MNN, Core ML, RKNN, MXNet, MindSpore Lite, TNN, Barracuda, Tengine, CNTK, TensorFlow.js, Caffe2 and UFF, with experimental support for PyTorch, TensorFlow, TorchScript, OpenVINO, Torch, Vitis AI, kmodel, Arm NN, BigDL, Chainer, Deeplearning4j, MediaPipe, MegEngine, ML.NET and scikit-learn. There are several ways to use Netron including downloading the appropriate installation file for your platform, running a server with `pip install netron` or opening the browser version.

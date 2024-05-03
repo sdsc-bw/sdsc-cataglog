@@ -1,0 +1,3 @@
+name: QSAR-TID-10197
+dataset_id: 3968.0
+description: The dataset QSAR-TID-10197 is composed of 8 molecular descriptors and the toxicity activity of 1055 compounds against the bacteria Escherichia coli. The descriptors consist of topological, thermodynamic, and electrostatic properties. The target variable represents the toxicity of the compounds, where higher values indicate higher toxicity. The dataset aims to explore the relationship between the molecular descriptors and the toxicity activity of the compounds, with the goal of developing a predictive model for toxicity. Additionally, the dataset includes information about the compounds' chemical structures, allowing for further analysis and examination of structure-activity relationships.

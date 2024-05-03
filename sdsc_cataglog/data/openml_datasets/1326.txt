@@ -1,0 +1,3 @@
+name: QSAR-TID-17073
+dataset_id: 3302.0
+description: The dataset QSAR-TID-17073 contains information about a set of chemical compounds and their corresponding biological activity. It consists of 7200 compounds, each described by 389 molecular descriptors. The compounds are divided into two classes: active and inactive. The dataset aims to provide information for developing quantitative structure-activity relationship (QSAR) models. Various machine learning and statistical analysis techniques can be applied to predict the activity of new compounds based on their molecular characteristics. The dataset serves as a valuable resource for researchers in the field of drug discovery and chemistry, helping in the identification and optimization of potential drug candidates.

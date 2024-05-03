@@ -1,0 +1,3 @@
+name: nomao
+dataset_id: 45078.0
+description: The Nomao dataset is a collection of images for object detection and recognition tasks. It consists of more than 1 million images, with each image labeled according to the presence or absence of a specific object. The dataset includes a wide range of object categories such as people, buildings, animals, and vehicles. It offers diversity in image content, lighting conditions, and viewpoints, making it suitable for training and evaluating various computer vision algorithms. The Nomao dataset provides researchers and developers with a valuable resource for developing robust and accurate object detection and recognition models.

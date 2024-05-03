@@ -1,0 +1,3 @@
+name: gina_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44545.0
+description: The dataset "gina_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 10 classes, with each row having 100 columns. The dataset is stratified, meaning that it ensures proportional representation of each class in the training and testing datasets. This dataset is likely used for classification tasks, where the goal is to predict the class label based on the values in the columns. It provides a balanced representation of the classes, making it suitable for training machine learning models to accurately classify new instances.

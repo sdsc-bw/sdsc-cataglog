@@ -1,0 +1,3 @@
+name: appendicitis
+dataset_id: 1456.0
+description: The appendicitis dataset contains medical data collected from patients with suspected appendicitis. The dataset includes various features such as age, sex, pain location, and white blood cell count. It also provides information on whether the patient eventually underwent surgery for appendicitis or was simply observed. The goal of this dataset is to predict whether a patient has appendicitis based on the given features. It is important for medical professionals to accurately diagnose appendicitis as a misdiagnosis could result in unnecessary surgery or delayed treatment. This dataset can be used to build machine learning models for appendicitis prediction and assist in improving diagnostic accuracy.

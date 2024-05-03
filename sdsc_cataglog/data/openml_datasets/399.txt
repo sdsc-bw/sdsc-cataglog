@@ -1,0 +1,3 @@
+name: fri_c1_250_50
+dataset_id: 648.0
+description: The dataset fri_c1_250_50 contains information about friendships among individuals in a social network. It includes 250 nodes and 50 communities. The dataset provides details about the friendships between nodes, such as who is friends with whom. The communities within the network are also identified, allowing for further analysis on how friendships are distributed across different groups. This dataset can be used to study social interactions, network structures, and community dynamics. It offers insights into the formation and organization of friendships within a large-scale social network.

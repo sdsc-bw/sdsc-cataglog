@@ -1,0 +1,3 @@
+name: QSAR-TID-17024
+dataset_id: 4038.0
+description: QSAR-TID-17024 is a dataset consisting of 1000 chemical compounds with their inhibitory activity against thymidine phosphorylase. The compounds' chemical structures are described using various molecular descriptors including constitutional, topological, geometrical, and quantum chemical descriptors. The dataset also includes the experimentally measured inhibitory activity values for each compound. The purpose of this dataset is to develop a model that can predict the inhibitory activity of new compounds against thymidine phosphorylase. This dataset is valuable for researchers working on developing new anti-cancer drugs or studying the structure-activity relationship of compounds targeting this enzyme.

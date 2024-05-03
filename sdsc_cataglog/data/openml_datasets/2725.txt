@@ -1,0 +1,3 @@
+name: lotto
+dataset_id: 42099.0
+description: The dataset "lotto" contains information related to lottery games. It includes data on different lotto games, such as the game's name, numbers drawn, and date of the draw. Moreover, it contains details about the prize amounts and the number of winners for each game. The dataset also provides information on the location where the draw took place. The lotto dataset can be used for various analyses, such as studying patterns in number combinations, analyzing winning probabilities, or investigating trends in lottery results over time.

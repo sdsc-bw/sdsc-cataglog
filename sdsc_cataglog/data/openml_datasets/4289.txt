@@ -1,0 +1,3 @@
+name: KDDCup09_upselling_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44467.0
+description: The dataset KDDCup09_upselling_seed_4_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset used in the KDD Cup 2009 competition. It contains a total of 2000 rows and 100 columns, with 10 classes. The dataset has been stratified, meaning that the distribution of classes has been preserved. It is a seed 4 dataset, implying that its randomization can be reproduced. The dataset is primarily used for tasks related to predicting upselling, which involves identifying customers who may be interested in purchasing additional products or services.

@@ -1,0 +1,3 @@
+name: Stock-Market-NIFTY50-Index-Data
+dataset_id: 43402.0
+description: The Stock-Market-NIFTY50-Index-Data is a dataset that provides information related to the NIFTY50 Index in the stock market. It includes data on the daily closing prices, opening prices, highest and lowest prices, and volume of trades for the NIFTY50 Index. The dataset covers a specific time period and is updated regularly. It aims to provide insights and analysis into the performance of the NIFTY50 Index, which represents the top 50 companies listed on the National Stock Exchange of India. Researchers and analysts can utilize this dataset for various purposes, such as studying market trends, predicting future performance, and making informed investment decisions.

@@ -1,0 +1,3 @@
+name: pathfinder_1
+dataset_id: 45242.0
+description: The dataset pathfinder_1 is a collection of diverse elements related to pathfinding algorithms in computer science. It contains information about different maps, obstacles, and goals that can be used for pathfinding experiments. The dataset includes maps of varying sizes and complexities, allowing researchers to test algorithms in different scenarios. It also provides detailed information about the obstacles present in each map, such as their type, position, and size. Additionally, the dataset includes information about the goals that need to be reached while navigating through the maps. Overall, pathfinder_1 is a comprehensive dataset that facilitates the study and development of pathfinding algorithms.

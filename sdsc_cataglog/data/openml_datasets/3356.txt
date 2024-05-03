@@ -1,0 +1,3 @@
+name: Mexico-COVID-19-clinical-data
+dataset_id: 43428.0
+description: The dataset "Mexico-COVID-19-clinical-data" contains clinical records of patients from multiple hospitals in Mexico. It includes information such as patient demographics, medical history, symptoms, laboratory results, and treatment outcomes. The dataset aims to contribute to COVID-19 research and help improve patient care by providing valuable insights into the disease's clinical characteristics, progression, and response to treatment. It is a comprehensive and diverse dataset that encompasses a wide range of COVID-19 cases in Mexico, making it a valuable resource for researchers and healthcare professionals studying the virus and its impact on patients.

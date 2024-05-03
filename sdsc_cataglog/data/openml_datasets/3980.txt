@@ -1,0 +1,3 @@
+name: phoneme
+dataset_id: 44118.0
+description: The dataset phoneme contains recordings of phonemes, which are the building blocks of speech sounds. It consists of 5404 examples of 39-dimensional speech features collected from male and female speakers. The recordings were made using the Hillenbrand speech synthesizer and are labeled with the corresponding phoneme class. The dataset is divided into training and testing sets, with 4500 and 904 examples respectively. It is commonly used for training and evaluating machine learning models that deal with speech recognition tasks. The dataset provides a valuable resource for researchers and practitioners working in the field of speech processing and phonetics.

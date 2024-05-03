@@ -1,0 +1,3 @@
+name: QSAR-TID-10614
+dataset_id: 3603.0
+description: The dataset QSAR-TID-10614 consists of 1051 chemical compounds with their respective quantitative structure-activity relationships (QSAR) values. These values represent the biological activity of the compounds against a specific target protein. The compounds were divided into three categories: active, moderately active, and inactive, based on their activity values. The dataset also includes various molecular descriptors, such as topological and geometric indices, that describe the structural properties of the compounds. QSAR models can be developed using this dataset to predict the activity of new compounds against the target protein, which can be useful in drug discovery and design.

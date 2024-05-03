@@ -1,0 +1,3 @@
+name: QSAR-TID-105
+dataset_id: 3616.0
+description: The QSAR-TID-105 dataset contains information related to the aquatic toxicity of a set of compounds. It comprises data on 546 chemical compounds and their corresponding measured target values. These target values are represented as the logarithm of the concentration that causes a 50% mortality rate in a given set of organisms. The dataset also includes a total of 41 molecular descriptors for each compound, which were calculated using DRAGON software. QSAR-TID-105 can be utilized to develop machine learning models for predicting the aquatic toxicity of new chemical compounds based on their molecular characteristics.

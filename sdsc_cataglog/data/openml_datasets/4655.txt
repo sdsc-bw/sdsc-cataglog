@@ -1,0 +1,3 @@
+name: fifa
+dataset_id: 45002.0
+description: The dataset fifa contains information about professional football (soccer) players. It provides data on their personal attributes such as age, height, weight, nationality, and club. Additionally, the dataset includes player performance statistics such as overall rating, potential rating, and various skill ratings. The dataset also covers player positions, preferred foot, and work rate. It further includes data on player attributes like sprint speed, shooting accuracy, dribbling skills, passing abilities, and physical strength. The fifa dataset is a comprehensive collection of information about professional football players that can be used for analysis, modeling, and research purposes.

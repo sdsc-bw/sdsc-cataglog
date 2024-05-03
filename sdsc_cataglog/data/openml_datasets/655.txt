@@ -1,0 +1,3 @@
+name: balloon
+dataset_id: 914.0
+description: The dataset "balloon" contains information about the characteristics of different types of balloons, specifically their shape, size, color, and whether they are inflated or not. Its purpose is to train and test machine learning models for classification tasks. The dataset consists of five binary attributes and a class label indicating the type of balloon. There are a total of 16 instances, each with unique attribute values, providing a small but diverse set of data for analysis and model development. The "balloon" dataset serves as a useful resource for experimenting with classification algorithms and evaluating their performance.

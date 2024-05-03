@@ -1,0 +1,3 @@
+name: creditcard
+dataset_id: 1597.0
+description: The creditcard dataset is a collection of credit card transactions containing a total of 284,807 records. It includes both fraudulent and genuine transactions, with only 492 (0.17%) of them being fraudulent. The dataset consists of 31 features that have been anonymized due to privacy concerns. These features include time, amount, and 28 anonymous variables. The dataset is highly imbalanced, with a majority of genuine transactions. This dataset is often used for fraud detection algorithms and machine learning models, as it provides a realistic representation of the challenges faced in detecting fraudulent activities in real-world credit card usage.

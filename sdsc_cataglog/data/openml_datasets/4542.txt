@@ -1,0 +1,3 @@
+name: jungle_chess_2pcs_raw_endgame_complete_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44721.0
+description: The dataset jungle_chess_2pcs_raw_endgame_complete_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True contains information on the endgame state of a chess-like game called Jungle Chess. The dataset consists of 2000 rows and 100 columns. The classes represent different outcomes of the game, and the dataset is stratified to ensure balanced representation of each class. It is based on a random seed of 3. Further details about the dataset, such as the specific features and their meanings, are not mentioned in the given information.

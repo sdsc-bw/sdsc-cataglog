@@ -1,0 +1,3 @@
+name: Test_vectors_1500
+dataset_id: 42499.0
+description: The dataset Test_vectors_1500 contains 1500 test vectors, which are sets of input values used for testing a model or program. Each test vector consists of features extracted from different data sources. These features are represented as a combination of numerical and categorical values. The dataset is appropriate for training machine learning models and evaluating their performance on a variety of tasks, such as classification or regression. It provides a diverse range of input patterns to test the model's ability to generalize and make accurate predictions.

@@ -1,0 +1,3 @@
+name: burst-header-packet
+dataset_id: 42898.0
+description: The dataset "burst-header-packet" contains information on the burst header packet (BHP) used in optical burst switching (OBS) networks. The dataset includes six continuous features and one target variable. The continuous features provide information about the burst arrival time, burst size, burst duration, number of packets in the burst, among others. The target variable indicates whether the burst is a control packet or a data packet. The dataset aims to aid in the analysis and development of algorithms for OBS networks by providing useful information on burst header packets.

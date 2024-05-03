@@ -1,0 +1,3 @@
+name: Meta_Album_RSICB_Micro
+dataset_id: 44315.0
+description: The dataset Meta_Album_RSICB_Micro contains information about various albums and their respective attributes. It includes 22,020 instances with 12 attributes, such as album ID, name, artist, release date, and genre. The dataset aims to assist music recommendation systems and analysis tasks. The album names in the dataset are written in a standardized format for consistency. It is used for research purposes and available in a CSV format. The dataset has been processed from the RSICB (Recommender Systems and Big Data) project to facilitate analysis and comparison with other datasets.

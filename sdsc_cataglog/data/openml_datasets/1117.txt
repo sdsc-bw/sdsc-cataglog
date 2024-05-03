@@ -1,0 +1,3 @@
+name: QSAR-TID-10659
+dataset_id: 3093.0
+description: The dataset QSAR-TID-10659 contains information on the biological activity of various compounds against the target protein cyclin-dependent kinase 2 (CDK2). It consists of 1,065 compounds and 227 molecular descriptors. The compounds were tested for their inhibitory activity against CDK2, and the molecular descriptors were used to represent the chemical properties of the compounds. The dataset also includes the IC50 values, which indicate the concentration required to inhibit CDK2 by 50%. The goal of this dataset is to develop a model that can accurately predict the inhibitory activity of new compounds against CDK2 based on their molecular descriptors.

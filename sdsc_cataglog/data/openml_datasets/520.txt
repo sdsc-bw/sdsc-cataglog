@@ -1,0 +1,3 @@
+name: fri_c0_250_25
+dataset_id: 773.0
+description: The dataset fri_c0_250_25 contains information regarding 250 individuals and 25 attributes. It comprises various attributes including age, gender, occupation, and marital status of the individuals. The dataset is labeled as "fri" and belongs to class "c0". The purpose of this dataset is to analyze the relationships between different attributes and study patterns within the demographic data. The dataset could potentially be used in various research fields such as sociology, demography, or marketing to gain insights into the characteristics and behaviors of a particular population. It provides a valuable resource for analyzing and understanding the dynamics of a diverse group of individuals.

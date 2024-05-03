@@ -1,0 +1,3 @@
+name: Higgs
+dataset_id: 42769.0
+description: The Higgs dataset is an extensive collection of data containing features that help in identifying Higgs Boson particles. It consists of over 11 million instances, each having 28 attributes including kinematic properties, leptonic and other decay modes, and information about the background noise. The data is divided into training and testing sets, allowing researchers to develop machine learning models for classification tasks. The goal is to accurately differentiate between signal (presence of Higgs Boson) and background noise. The dataset is widely used in the field of high-energy physics for studying particle physics and developing advanced classification algorithms.

@@ -1,0 +1,3 @@
+name: Esports-matches-in-2020-pre-worlds
+dataset_id: 43615.0
+description: The dataset "Esports-matches-in-2020-pre-worlds" contains information about various esports matches that took place in the year 2020 before the World Championship. It provides details such as the date, teams, game format, and scores for each match. The dataset also includes information about the teams' regions, allowing for regional analysis. It consists of a total of X number of matches, covering different popular esports games like League of Legends, Dota 2, CS:GO, and Overwatch. This dataset serves as a valuable resource for analyzing esports trends and performances leading up to the prestigious World Championship in 2020.

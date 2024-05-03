@@ -1,0 +1,3 @@
+repo_name: gpt-2
+link: https://github.com/openai/gpt-2
+description: The GPT-2 is a language model that can be used by researchers and engineers to experiment with language generation and various natural language processing tasks. It is an archive status repository that comes with code and models from "Language Models are Unsupervised Multitask Learners" paper. The starting point here should be the model card. The GPT-2 has a dataset for researchers, though it comes with some caveats. The GitHub community articles give contributors and users an opportunity to collaborate outside of code. While the model no longer receives updates, GitHub continues to fund open-source developers and foster creative collaboration.

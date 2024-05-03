@@ -1,0 +1,3 @@
+name: QSAR-TID-12840
+dataset_id: 3224.0
+description: The dataset QSAR-TID-12840 contains information about the biological activity of certain chemical compounds on specific proteins that play a role in breast cancer. It consists of 714 molecular descriptors that were calculated using computational methods for 105 substances. The dataset includes two classes of compounds: active and inactive. The goal is to develop a model that accurately predicts the activity of these compounds based on their descriptors. The dataset is publicly available and has been used in studies to explore the relationship between molecular properties and biological activity, aiding in the development of potential breast cancer treatments.

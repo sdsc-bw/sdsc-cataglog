@@ -1,0 +1,3 @@
+name: jannis_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44429.0
+description: The dataset jannis_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True consists of 2000 rows and 100 columns. It includes 10 different classes and has been stratified. Stratification means that the distribution of the classes in the dataset reflects the original population. This dataset seems to be well-balanced and suitable for classification tasks. The column size of 100 indicates a decent number of features or attributes. Overall, this dataset offers a large enough sample size, diversity in classes, and stratification to ensure accurate analysis and modeling.

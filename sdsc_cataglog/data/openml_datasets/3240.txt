@@ -1,0 +1,3 @@
+name: US-Accidents-(4.2-million-records)
+dataset_id: 43303.0
+description: The dataset "US-Accidents- (4.2-million-records)" contains extensive information about traffic accidents that occurred in the United States. It consists of approximately 4.2 million records, providing valuable insights into various aspects of these accidents. The dataset includes data such as the location, severity, weather conditions, visibility, and road conditions at the time of accidents. It covers a wide range of accidents across different states in the US, enabling analysis and research on accident patterns, contributing factors, and potential preventive measures. This dataset is an essential resource for understanding and addressing the issue of road accidents in the United States.

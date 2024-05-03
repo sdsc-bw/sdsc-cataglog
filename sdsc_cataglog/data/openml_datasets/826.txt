@@ -1,0 +1,3 @@
+name: ICU
+dataset_id: 1097.0
+description: The dataset "ICU" is a comprehensive collection of data from patients admitted to an Intensive Care Unit (ICU) in a hospital. It includes information such as demographics, vital signs, laboratory results, medications, and diagnoses. The dataset is highly detailed, with over 60,000 records and over 200 variables for each patient. It is widely used in research and clinical studies to evaluate the effectiveness of treatments, predict patient outcomes, and identify trends or patterns in ICU care. The ICU dataset provides valuable insights into critical care and is a valuable resource for the medical community.

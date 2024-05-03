@@ -1,0 +1,3 @@
+name: QSAR-TID-10889
+dataset_id: 3762.0
+description: The QSAR-TID-10889 dataset is a collection of molecular descriptors and biological activity data for various compounds. The dataset contains 1055 instances and 129 attributes, including features like topological indices, atom-based properties, and chemical descriptors. The biological activity being measured is the anti-HIV activity, represented by an IC50 value. The dataset includes both active and inactive compounds, coded as '1' and '0'. The goal of this dataset is to predict the anti-HIV activity of new compounds using the given features. It provides valuable information for drug discovery and development, aiding in the identification of potential anti-HIV agents.

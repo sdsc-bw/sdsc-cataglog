@@ -1,0 +1,3 @@
+name: mj
+dataset_id: 41668.0
+description: The dataset "mj" is a compilation of information about Michael Jordan's basketball performance throughout his career. The dataset includes various attributes such as game statistics, such as points scored, rebounds, and assists. It also contains contextual information about each game, including the teams involved and the date of the game. The dataset provides a comprehensive overview of Jordan's performance in terms of his scoring ability, rebounding skills, and playmaking abilities. It is a valuable resource for basketball enthusiasts, researchers, and analysts to study and analyze Jordan's impact on the game of basketball.

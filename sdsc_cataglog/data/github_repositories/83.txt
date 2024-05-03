@@ -1,0 +1,3 @@
+repo_name: horovod
+link: https://github.com/horovod/horovod
+description: 

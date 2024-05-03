@@ -1,0 +1,3 @@
+name: blogger
+dataset_id: 1463.0
+description: The dataset "blogger" consists of more than 19,000 weblog posts created by 193 bloggers. The blogs belong to various categories, including technology, politics, and personal life. The dataset provides various attributes for each blog post, such as the post title, date, and the number of comments received. The bloggers' age, gender, and astrological sign are also included. The data spans from August 2004 to January 2005. It is a rich source for analyzing and understanding blogging behavior, language usage, and the demographics of bloggers during that period.

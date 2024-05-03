@@ -1,0 +1,3 @@
+name: QSAR-TID-103726
+dataset_id: 3650.0
+description: The dataset QSAR-TID-103726 contains information on the biological activity of chemical compounds. It includes 122 compounds, each described by 59 molecular descriptors. The biological activity is measured by the IC50 value, indicating the concentration required to inhibit a certain biological process by 50%. The dataset also includes a binary classification of compounds into active and inactive categories, based on their IC50 value. The goal of this dataset is to develop a predictive model that can classify compounds as active or inactive based on their molecular descriptors. This dataset is suitable for machine learning and QSAR (Quantitative Structure-Activity Relationship) modeling.

@@ -1,0 +1,3 @@
+name: QSAR-TID-11624
+dataset_id: 3335.0
+description: QSAR-TID-11624 is a dataset that contains information on chemical compounds and their corresponding toxicity levels. It consists of 321 compounds, each represented by 1024 molecular descriptors. The toxicity values are provided on a continuous scale ranging from 0 to 1. The dataset also includes additional information such as chemical names and IDs. The dataset was curated to evaluate the performance of quantitative structure-activity relationship (QSAR) models for predicting toxicity levels. It can be useful for researchers and data scientists working on developing models for toxicity prediction in chemical compounds.

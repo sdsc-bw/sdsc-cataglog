@@ -1,0 +1,3 @@
+name: QSAR-TID-11562
+dataset_id: 3867.0
+description: The dataset QSAR-TID-11562 contains information about the toxicity of various chemicals. It consists of 4,499 instances with 16 attributes. The target variable to predict is the toxic level of the chemicals, ranging from 0 to 2. The dataset includes physical and chemical properties, as well as quantitative and qualitative experimental results. The goal of the dataset is to develop a model that can accurately predict the toxicity of chemicals based on their attributes. It can be used in the field of chemoinformatics for toxicity prediction and risk assessment.

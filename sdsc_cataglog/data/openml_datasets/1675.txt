@@ -1,0 +1,3 @@
+name: QSAR-TID-57
+dataset_id: 3658.0
+description: QSAR-TID-57 is a dataset that contains quantitative structure-activity relationship (QSAR) data for predicting the developmental toxicity of various compounds. The data includes molecular descriptors, such as connectivity indices and physicochemical properties, as well as the binary endpoint indicating toxicity. It consists of 306 compounds, each having 41 descriptors and a toxicity label. The dataset was created using a software tool called DRAGON, which generates molecular descriptors from chemical structures. The goal is to develop predictive models for identifying compounds that may cause developmental toxicity, which could aid in the early identification of harmful substances and subsequent risk assessment.

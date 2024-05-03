@@ -1,0 +1,3 @@
+name: bank8FM
+dataset_id: 725.0
+description: The dataset bank8FM contains information on bank customers and their financial transactions. It includes attributes such as age, job, marital status, education level, and account balance. The dataset also includes information about the last contact made with the customer, including the number of days since the last contact and the outcome of the previous marketing campaign. Additionally, it includes variables related to the current marketing campaign, such as the contact type, the number of contacts made, and the result of the campaign. This dataset is valuable for analyzing customer behavior and improving marketing strategies in the banking industry.

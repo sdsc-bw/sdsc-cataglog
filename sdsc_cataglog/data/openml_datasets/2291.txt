@@ -1,0 +1,3 @@
+name: Australian
+dataset_id: 40981.0
+description: The Australian dataset consists of information about the country's various attributes, such as population, GDP, life expectancy, and more. It includes data from different aspects such as demographics, economy, health, and education. The dataset offers a comprehensive view of Australia's current state and allows for comparisons and analysis across different time periods or regions within the country. It provides valuable insights for researchers, analysts, and policymakers seeking to understand and make informed decisions on topics pertaining to Australia's development, wellbeing, and progress.

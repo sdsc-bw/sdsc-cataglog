@@ -1,0 +1,3 @@
+name: Air-Traffic-Data
+dataset_id: 43512.0
+description: The dataset Air-Traffic-Data contains detailed information about flights in the United States. It includes data from multiple sources, such as airlines, airports, and the Federal Aviation Administration (FAA). The dataset consists of various variables, including flight times, routes, aircraft types, and passenger numbers. It covers a wide range of flight types, such as domestic, international, commercial, and cargo. The dataset is regularly updated and provides a comprehensive overview of air traffic activities. It serves as a valuable resource for analyzing flight patterns, assessing airport performance, and understanding the overall aviation industry in the United States.

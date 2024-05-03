@@ -1,0 +1,3 @@
+name: QSAR-TID-12013
+dataset_id: 3664.0
+description: The QSAR-TID-12013 dataset comprises 8,225 chemical compounds with known mutagenicity and carcinogenicity properties. It is widely used in the field of drug discovery to develop predictive models for determining the toxicological effects of various compounds. The dataset includes various features such as molecular weight, logP, hydrogen bond donor and acceptor count, among others. The compounds in the dataset belong to four different classes: positive, negative, ambivalent, and irrelevant mutagens. The dataset is valuable for researchers and scientists working on the development of safer and more effective drugs as it aids in identifying potential toxic compounds.

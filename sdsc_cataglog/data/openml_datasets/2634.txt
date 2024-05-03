@@ -1,0 +1,3 @@
+name: MultilingualDS
+dataset_id: 41899.0
+description: MultilingualDS is a dataset containing text data in multiple languages, specifically designed for multilingual natural language processing (NLP) tasks. It aims to support the development and evaluation of models that can process and understand text in various languages. The dataset covers a wide range of domains, including news, social media, user reviews, and more. It also includes annotations and metadata to facilitate targeted research in NLP. MultilingualDS offers a valuable resource for researchers and practitioners in the field of multilingual NLP, enabling the exploration and advancement of multilingual text analysis and understanding.

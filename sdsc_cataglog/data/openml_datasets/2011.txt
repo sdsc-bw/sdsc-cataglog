@@ -1,0 +1,3 @@
+name: QSAR-TID-51
+dataset_id: 3997.0
+description: The dataset QSAR-TID-51 contains quantitative structure-activity relationship (QSAR) data for 51 compounds related to their toxicity. The goal of this dataset is to predict the toxicological properties of organic compounds based on their structural features. The dataset includes various molecular descriptors, such as constitutional, topological, and electronic properties, as well as the measured toxicological activity. The toxicological activity is measured using a logarithmic scale, with higher values representing greater toxicity. This dataset can be used to develop machine learning models for toxicity prediction and to better understand the relationship between chemical structure and toxicity.

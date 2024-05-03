@@ -1,0 +1,3 @@
+name: robot-failures-lp4
+dataset_id: 1519.0
+description: The dataset "robot-failures-lp4" contains information about failures experienced by a robot operating in an industrial environment. It includes seven different cases, each with various attributes like robot identity, date, time, component, failure type, and more. The dataset has 545 instances or samples in total. The failures recorded in this dataset are rare events, making it an imbalanced dataset, as most of the instances represent successful operations. Therefore, machine learning models trained on this data would require techniques specifically designed for imbalanced datasets to achieve accurate predictions on future robot failures in similar environments.

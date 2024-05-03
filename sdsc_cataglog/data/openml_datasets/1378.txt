@@ -1,0 +1,3 @@
+name: QSAR-TID-10143
+dataset_id: 3355.0
+description: The dataset QSAR-TID-10143 contains 7,576 compounds with their corresponding four molecular properties and binary classes suggesting their potential toxicity. These properties include aqueous solubility, distribution coefficient, molecular weight, and ionization potential. The dataset is obtained from the ToxCast project and aims to aid in the development of predictive models for assessing the toxicity of chemicals. The binary classes indicate whether the compounds are toxic or non-toxic. QSAR-TID-10143 is a valuable resource for researchers and scientists working on drug discovery, environmental protection, and chemical toxicity studies.

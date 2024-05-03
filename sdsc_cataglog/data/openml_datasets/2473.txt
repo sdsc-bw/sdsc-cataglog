@@ -1,0 +1,3 @@
+name: FOREX_chfsgd-minute-High
+dataset_id: 41738.0
+description: The dataset, FOREX_chfsgd-minute-High, provides information on the high prices of the CHF/SGD currency pair in minute intervals. It includes data on the highest exchange rates recorded over a specific time period. The dataset offers insights into the fluctuation of exchange rates for traders and analysts. By analyzing this data, market participants can identify patterns, trends, and potential trading opportunities. It can also be used for building forecasting models or backtesting strategies. Overall, the FOREX_chfsgd-minute-High dataset serves as a valuable resource for understanding and predicting CHF/SGD exchange rate movements.

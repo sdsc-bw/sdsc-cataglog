@@ -1,0 +1,3 @@
+name: League-of-Legends-Diamond-Games-(First-15-Minutes)
+dataset_id: 43635.0
+description: The dataset "League-of-Legends-Diamond-Games-(First-15-Minutes)" contains information related to the first 15 minutes of diamond-level games played in the popular online game, League of Legends. The dataset is based on matches played during the 2016 season and includes various attributes like the blue team's bans, picks, and summoner spells, as well as the red team's bans, picks, and summoner spells. It also includes details about the champions played, gold earned, experience, and other game-related statistics. The dataset aims to provide insights into the early stages of diamond-level gameplay in League of Legends for analysis and research purposes.

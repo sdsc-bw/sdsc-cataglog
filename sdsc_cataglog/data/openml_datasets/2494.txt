@@ -1,0 +1,3 @@
+name: FOREX_eurtry-hour-High
+dataset_id: 41759.0
+description: The dataset "FOREX_eurtry-hour-High" contains hourly high values for the exchange rate between the Euro and the Turkish Lira. The dataset is likely derived from the foreign exchange market and spans a certain period, although the duration is unspecified. Each entry in the dataset represents the highest exchange rate observed during a specific hour. The dataset could potentially be used for various purposes, such as analyzing trends, volatility, or evaluating trading strategies related to the EUR/TRY currency pair. However, specific details about the dataset, such as the number of entries or any accompanying information, are not provided in the given sentences.

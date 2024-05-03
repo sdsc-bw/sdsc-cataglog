@@ -1,0 +1,3 @@
+name: pathogen_survey_dataset
+dataset_id: 40869.0
+description: The dataset pathogen_survey_dataset is a collection of information about various pathogens. It contains data related to the genetic sequence of these pathogens, as well as their associated metadata. The dataset includes information about the pathogen's classification, characteristics, and any known interactions with other organisms. It also contains details about the geographic location and time of collection for each sample. The dataset is provided in a machine-readable format and can be used by researchers and scientists to study the evolution and spread of pathogens, and to develop strategies to combat their harmful effects.

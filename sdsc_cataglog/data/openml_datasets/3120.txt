@@ -1,0 +1,3 @@
+name: cnn-stock-pred-dji
+dataset_id: 43000.0
+description: The dataset cnn-stock-pred-dji is based on CNN's stock market prediction model for the Dow Jones Industrial Average (DJIA). It includes historical stock prices of the DJIA from 2008 to 2016, along with corresponding news headlines from the same time period. The dataset aims to facilitate research and analysis on the prediction of stock market trends using news articles. Each record in the dataset consists of three components: the date, the stock price percentage change for the next day, and a sequence of top news headlines. This dataset can be of interest to researchers and practitioners working in the field of stock market prediction using textual data.

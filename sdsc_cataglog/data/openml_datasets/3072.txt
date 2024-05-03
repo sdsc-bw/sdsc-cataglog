@@ -1,0 +1,3 @@
+name: youtube-spam-shakira
+dataset_id: 42908.0
+description: The dataset youtube-spam-shakira contains 5,000 comments on Shakira's music videos from YouTube. It consists of a CSV file with 7 columns: Comment ID, Author, Date, Content, Likes, Dislikes, and Classification. The comments are labeled as spam or legitimate, with a majority being labeled as spam. The dataset was collected in 2015 and is accompanied by a README file for further understanding. It was curated to aid in the development and evaluation of machine learning models for spam detection.

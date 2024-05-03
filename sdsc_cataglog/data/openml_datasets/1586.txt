@@ -1,0 +1,3 @@
+name: QSAR-TID-10919
+dataset_id: 3571.0
+description: The dataset QSAR-TID-10919 consists of 8,068 chemical compounds. Each compound has 1024 molecular descriptors, including 1 quantitative activity against the virus/fungus of interest. The descriptors are binary values indicating the presence or absence of certain structural features. The compounds were divided into training and test sets, with 6,454 compounds in the former and 1,614 in the latter. The dataset aims to build a predictive model for antiviral or antifungal activity using the molecular descriptors. However, the dataset lacks information on the specific virus or fungus being targeted, making it challenging to draw exact conclusions about the compounds' effectiveness against a particular pathogen.

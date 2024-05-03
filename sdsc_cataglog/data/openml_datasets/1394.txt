@@ -1,0 +1,3 @@
+name: QSAR-TID-100155
+dataset_id: 3373.0
+description: The dataset QSAR-TID-100155 consists of 410 chemicals and their corresponding biological activity values. It was created to predict the hepatotoxicity of these chemicals using quantitative structure-activity relationship (QSAR) models. The molecular descriptors were calculated using DRAGON software, resulting in 1086 numerical features. The dataset also includes the outcome variable "class" indicating whether a chemical is hepatotoxic or not. The biological activity values were determined experimentally through in vitro testing. The dataset aims to facilitate the development and evaluation of predictive models for hepatotoxicity based on chemical structure and properties.

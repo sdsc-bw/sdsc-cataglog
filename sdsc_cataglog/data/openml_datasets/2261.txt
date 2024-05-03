@@ -1,0 +1,3 @@
+name: allbp
+dataset_id: 40707.0
+description: The dataset named "allbp" contains information related to blood pressure measurement readings, including systolic, diastolic, and pulse pressure values. It also includes additional variables such as age, sex, body mass index (BMI), and smoking status of the individuals. All the individuals in the dataset are of African American descent. The dataset was collected as part of a study aiming to investigate the effectiveness of different treatment strategies in reducing blood pressure levels. It can be accessed and used for various research purposes relating to blood pressure management and treatment outcomes within African American populations.

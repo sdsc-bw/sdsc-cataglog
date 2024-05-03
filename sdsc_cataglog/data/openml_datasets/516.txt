@@ -1,0 +1,3 @@
+name: fri_c1_250_50
+dataset_id: 769.0
+description: The dataset fri_c1_250_50 consists of 250 instances or samples. Each instance has 50 attributes, making it a high-dimensional dataset. The dataset is labeled with class labels, allowing supervised learning algorithms to be applied. However, the dataset does not specify the nature of the attributes or the class labels, so further exploration is required to understand the context and domain of the dataset. Analyzing this dataset could provide valuable insights into high-dimensional data analysis and classification algorithms.

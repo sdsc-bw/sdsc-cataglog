@@ -1,0 +1,3 @@
+name: Meta_Album_PRT_Extended
+dataset_id: 44342.0
+description: The dataset Meta_Album_PRT_Extended contains information about albums released in Portugal. It includes data about the album's title, artist, genre, release date, and record label. The dataset is extensive, covering a wide range of albums from various genres released over a specific period. It is an authoritative source of information for researchers, music enthusiasts, and professionals in the music industry. The dataset provides valuable insights into the Portuguese music market, allowing for in-depth analysis and exploration of trends, popularity, and other factors influencing the album's success. It offers a comprehensive understanding of the Portuguese music landscape.

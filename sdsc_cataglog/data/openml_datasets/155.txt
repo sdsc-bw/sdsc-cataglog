@@ -1,0 +1,3 @@
+name: JapaneseVowels
+dataset_id: 375.0
+description: The dataset JapaneseVowels contains speech recognition features of 9 male speakers who uttered two Japanese vowels "/ae/" and "/ei/". Each speaker repeated these vowels 7 times, resulting in a total of 126 utterances. The recordings were made in a soundproof environment with a sampling rate of 16kHz. The dataset provides various features including formant frequencies, spectral coefficients, and the fundamental frequency of each utterance. These features were extracted using analysis-by-synthesis and linear predictive coding techniques. JapaneseVowels has been widely used in studies related to speech recognition, phonetics, and machine learning.

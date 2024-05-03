@@ -1,0 +1,3 @@
+name: QSAR-TID-17076
+dataset_id: 3345.0
+description: QSAR-TID-17076 is a dataset used for predicting chemical activities, specifically mutagenic potential. It contains information on 7,716 compounds, where each compound is represented by 1024 binary attributes. The dataset includes both mutagenic and non-mutagenic compounds, with class imbalance towards non-mutagenic compounds. Each compound is annotated with a measured mutagenicity value, and additional data such as chemical name, structure, and SMILES notation are also provided. This dataset has been utilized for developing models to predict the mutagenic potential of compounds using different machine learning techniques.

@@ -1,0 +1,3 @@
+name: thyroid-new
+dataset_id: 40682.0
+description: The dataset thyroid-new contains information about patients' thyroid conditions, such as symptoms, test results, and diagnoses. The data is anonymized and includes 3163 instances with 29 attributes. The attributes provide details about the age, sex, and onsets of symptoms, as well as laboratory test results. The data also includes the final diagnoses for each patient. This dataset is suitable for conducting research and building predictive models to analyze and predict thyroid conditions based on the provided attributes. However, the specific details of the attributes and diagnoses are not mentioned in the summary.

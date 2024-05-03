@@ -1,0 +1,3 @@
+name: fri_c1_250_25
+dataset_id: 746.0
+description: The dataset fri_c1_250_25 contains information about a social network, specifically the interactions between users. It consists of 250 nodes with 25 attributes. Each node represents a user, and the attributes provide various details about them. The dataset captures the connections formed between the users, allowing for the analysis of friendship networks and their characteristics. The dataset is valuable for studying social relationships and exploring factors that influence the formation and dynamics of friendships within a network.

@@ -1,0 +1,3 @@
+name: QSAR-TID-11902
+dataset_id: 3239.0
+description: The dataset QSAR-TID-11902 consists of 349 compounds with known toxicity levels towards the NADH (-)-binding enzyme receptor. The compounds are represented by 203 molecular descriptors, which include hydrophobicity, steric factors, and electronic properties. Additionally, the dataset contains the experimental toxicity values and classification of the compounds as either active or inactive. The aim of this dataset is to predict the toxicity of future compounds based on their molecular descriptors. The dataset is publicly available and can provide valuable insights into the relationship between molecular properties and toxicity towards the NADH receptor.

@@ -1,0 +1,3 @@
+name: QSAR-TID-12029
+dataset_id: 3385.0
+description: The dataset QSAR-TID-12029 contains 1,202 compounds and their associated activities against the human adenosine A3 receptor. It was curated for the purpose of quantitative structure-activity relationship (QSAR) modeling. The compounds were partitioned into training, validation, and test sets with ratios of 65%, 10%, and 25% respectively. Molecular descriptors were extracted from the compounds using Dragon 6 software, resulting in a total of 1,900 descriptors. The dataset also includes the interaction values of the compounds with the adenosine A3 receptor. This dataset serves as a resource for developing QSAR models and further research on adenosine A3 receptor ligands.

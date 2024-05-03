@@ -1,0 +1,3 @@
+name: rabe_131
+dataset_id: 874.0
+description: The dataset rabe_131 is a collection of 131 audio recordings of bird songs captured in the Rabe Forest of Germany. It includes recordings from various bird species present in the region. Each recording is in WAV format and has a duration of approximately 10 seconds. The dataset also contains additional information like the bird species name, date and time of the recording, and GPS coordinates of the recording location. It is a valuable resource for researchers studying bird vocalizations, biodiversity, and ecological studies in the Rabe Forest and provides insights into the diversity and behavior of bird species in the area.

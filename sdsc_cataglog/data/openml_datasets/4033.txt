@@ -1,0 +1,3 @@
+name: Diabetes(scikit-learn)
+dataset_id: 44191.0
+description: The Diabetes dataset from scikit-learn contains medical information of patients with diabetes, aiming to predict the progression of the disease based on various features. The dataset consists of ten baseline variables including age, body mass index, blood pressure, and six blood serum measurements. The output variable is a quantitative measure of the disease progression one year after the baseline measurements. With 442 instances, this dataset is widely used for regression analysis and has been utilized to study the progression of diabetes and related health conditions. It serves as a valuable resource for researchers, practitioners, and machine learning enthusiasts in the medical field.

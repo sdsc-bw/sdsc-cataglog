@@ -1,0 +1,3 @@
+name: Fake-News
+dataset_id: 43592.0
+description: The dataset "Fake-News" is a collection of news articles labeled as either "real" or "fake". It consists of more than 20,000 articles, with approximately an equal number of "real" and "fake" articles. Each article in the dataset is accompanied by various features, including the title, author, text, and publication date. The dataset also provides information about the label distribution, indicating that the majority of articles are labeled as "real". The dataset is valuable for research in the field of fake news detection algorithms, as it allows for training and evaluating models on a large and diverse collection of labeled news articles.

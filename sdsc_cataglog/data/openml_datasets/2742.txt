@@ -1,0 +1,3 @@
+name: cacao_flavor
+dataset_id: 42133.0
+description: The cacao_flavor dataset contains information about cacao samples from different regions around the world. It includes various attributes such as the company name, specific bean origin, cocoa percentage, rating, and taste characteristics. The dataset provides a comprehensive overview of the flavor profiles and characteristics of cacao samples, allowing researchers and chocolate enthusiasts to analyze and compare different varieties. It is a valuable resource for studying the impact of bean origin, cocoa percentage, and other factors on the overall flavor and quality of cacao products. The dataset can be used for research purposes, quality assessment, and guiding the selection of beans for specific flavor preferences.

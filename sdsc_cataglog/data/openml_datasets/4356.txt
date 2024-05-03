@@ -1,0 +1,3 @@
+name: dionis_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44534.0
+description: The dataset "dionis_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True" consists of 2000 rows and 100 columns. It includes 10 different classes or categories. The dataset is stratified, meaning that it is divided proportionally to reflect the overall distribution in the population being studied. The purpose of this dataset is not mentioned in the given information. If further details are required, specific aspects must be requested to provide a more comprehensive summary.

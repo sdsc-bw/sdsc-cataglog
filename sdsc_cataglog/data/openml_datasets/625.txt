@@ -1,0 +1,3 @@
+name: fri_c0_500_5
+dataset_id: 884.0
+description: The dataset fri_c0_500_5 is a collection of data with a syntactic structure. It consists of 500 sentences, each containing five words. The data is labeled as belonging to the fri_c0 category. The dataset presents various patterns and combinations of words to analyze and extract information from. Each sentence in the dataset follows a specific syntactic structure. The fri_c0_500_5 dataset provides an opportunity to study the relationships and connections between words within a sentence and explore syntactic patterns in natural language processing tasks.

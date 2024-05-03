@@ -1,0 +1,3 @@
+name: iris
+dataset_id: 42040.0
+description: The iris dataset is a popular tool in statistics and machine learning. It contains measurements of four attributes for 150 iris flowers from three species: setosa, versicolor, and virginica. The four attributes are sepal length, sepal width, petal length, and petal width, all measured in centimeters. This dataset is commonly used for classification tasks, as the species can be identified based on the measurements. It was introduced in 1936 by the British statistician Ronald Fisher and has become a benchmark dataset for testing and developing classification algorithms.

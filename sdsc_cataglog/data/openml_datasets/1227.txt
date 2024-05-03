@@ -1,0 +1,3 @@
+name: QSAR-TID-11574
+dataset_id: 3203.0
+description: QSAR-TID-11574 is a dataset aimed to determine the toxicity of compounds by utilizing quantitative structure-activity relationship (QSAR) models. The dataset contains chemical structures, physicochemical properties, and toxicity values of 3992 compounds. The toxicity values are measured in four different assays: Ames mutagenicity, yeast cytotoxicity, worm lethality, and fish toxicity. Additionally, descriptors related to chemical structure, functional groups, and physicochemical properties are provided to aid in creating QSAR models. The dataset is valuable for researchers developing QSAR models to predict the toxicity of new compounds and aid in the design of safer chemicals.

@@ -1,0 +1,3 @@
+name: QSAR-TID-11678
+dataset_id: 3841.0
+description: The QSAR-TID-11678 dataset provides information on the chemical compounds and their biological activities. It contains 758 compounds with corresponding activity values. The compounds have been tested for their inhibition properties against a specific enzyme. The dataset includes various descriptors for each compound, representing its chemical properties. These descriptors are used to predict the biological activity of new compounds. The dataset aims to facilitate the development of predictive models that can help in discovering potential inhibitors of the enzyme. The data can be utilized in research concerning drug design and discovery in the field of medicinal chemistry.

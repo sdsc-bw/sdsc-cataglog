@@ -1,0 +1,3 @@
+name: QSAR-TID-10184
+dataset_id: 3452.0
+description: The dataset QSAR-TID-10184 is a complete and reliable database that contains various chemical compounds. Each compound is described by multiple numerical attributes, such as molecular weight, energy, polarizability, and other relevant properties. The dataset consists of 8,317 compounds and their respective binary activity class labels, denoting whether these drugs are inhibitors or non-inhibitors of a specific protein target. The dataset's purpose is to facilitate the development of quantitative structure-activity relationship (QSAR) models, which can predict the inhibitory activity of newly discovered drug compounds. It offers a valuable resource for researchers in the field of drug discovery and design.

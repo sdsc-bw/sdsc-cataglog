@@ -1,0 +1,3 @@
+name: AP_Colon_Omentum
+dataset_id: 1143.0
+description: The dataset AP_Colon_Omentum is a collection of data pertaining to colon and omentum (a fold of peritoneum, connecting the stomach with other abdominal organs). It includes information about different variables such as age, sex, tumor type, size, number of lymph nodes, histological grade, and more. The dataset was created by collecting data from patients who underwent surgery for colon cancer. The purpose of the dataset is to provide researchers and clinicians with a comprehensive collection of data to study colon and omentum-related factors in colon cancer patients.

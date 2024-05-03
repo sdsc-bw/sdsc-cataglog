@@ -1,0 +1,3 @@
+name: fri_c2_100_25
+dataset_id: 775.0
+description: The dataset fri_c2_100_25 refers to a specific data collection containing 100 instances and 25 attributes. It is related to the FRI-C2 algorithm, which utilizes clustering techniques to analyze data. The dataset itself is not explicitly described, but it likely consists of a variety of data points with corresponding attributes. The goal may be to use this dataset to train or test the FRI-C2 algorithm's clustering capabilities. Further details about the specific attributes, the nature of the instances, or the objective of the analysis are not provided in the given sentence.

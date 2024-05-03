@@ -1,0 +1,3 @@
+name: students_scores
+dataset_id: 43097.0
+description: The dataset "students_scores" contains information about students' academic scores. It likely includes variables such as student ID, gender, age, ethnicity, parental education level, and test scores in different subjects. The dataset could be used to explore various research questions regarding the relationship between these variables and academic performance. Potential analyses could involve examining whether there are gender or age differences in test scores, investigating the impact of parental education on student achievement, or exploring any patterns in performance based on ethnicity. The dataset may contribute valuable insights into understanding factors influencing students' academic success.

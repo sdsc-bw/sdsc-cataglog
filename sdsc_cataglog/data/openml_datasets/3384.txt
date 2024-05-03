@@ -1,0 +1,3 @@
+name: COVID19-Dataset-with-100-World-Countries
+dataset_id: 43457.0
+description: The COVID19-Dataset-with-100-World-Countries is a dataset that focuses on COVID-19 related data from 100 different countries. It contains information about the number of confirmed cases, deaths, recoveries, and testing rates in each country. The dataset also includes additional variables such as population, GDP, hospital beds, and life expectancy, allowing for deeper analysis and insights. The data spans from January 2020 to the present, providing a comprehensive overview of the pandemic's impact across various regions. It serves as a valuable resource for researchers, policymakers, and analysts studying the global effects of COVID-19 and its related factors.

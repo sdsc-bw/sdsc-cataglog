@@ -1,0 +1,3 @@
+name: places
+dataset_id: 509.0
+description: The dataset "places" is a comprehensive collection of information about various locations worldwide. It includes details about cities, countries, landmarks, and other points of interest. The dataset provides data about the geographical coordinates, population, area, and other relevant attributes for each place. It also includes information about popular tourist attractions, historical sites, and cultural landmarks. The dataset is useful for various purposes, such as travel planning, research, and analysis. It offers a wide range of information that can be utilized by individuals, businesses, and organizations to understand and explore different places across the globe.

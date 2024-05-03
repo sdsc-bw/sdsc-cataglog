@@ -1,0 +1,3 @@
+name: black_friday
+dataset_id: 44057.0
+description: The dataset called "black_friday" contains information related to sales and purchases during Black Friday, a popular shopping event in the United States. It consists of various attributes such as customer demographics, product categories, purchase amount, and time of purchase. The dataset provides insights into consumer behavior, helping retailers and analysts understand the preferences and buying patterns of shoppers during this specific period. By analyzing this dataset, companies can identify trends, target specific customer segments, and optimize their marketing strategies to maximize sales and profitability during Black Friday.

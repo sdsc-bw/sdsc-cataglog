@@ -1,0 +1,3 @@
+name: Peak-Detection-Dataset
+dataset_id: 43451.0
+description: The Peak-Detection-Dataset is a collection of labeled ECG signals intended for detecting peaks such as the R-peak in heartbeats. The dataset consists of 5270 single lead ECG signals with varying lengths, sampled at 200 Hz. It includes both healthy and diseased cases, with different heart conditions and rhythm abnormalities. The dataset is divided into training, validation, and test sets, each containing 4000, 500, and 770 signals, respectively. The labels provided are the locations of the R-peaks in the signals, enabling users to train peak detection algorithms. It serves as a valuable resource for developing and evaluating peak detection algorithms in the field of ECG signal processing.

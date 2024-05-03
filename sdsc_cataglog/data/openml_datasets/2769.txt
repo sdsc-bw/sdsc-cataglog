@@ -1,0 +1,3 @@
+name: Football_players_Fifa_stats
+dataset_id: 42194.0
+description: The dataset "Football_players_Fifa_stats" contains comprehensive statistics and attributes of football players from the FIFA video game series. It includes data on various aspects such as player ratings, skills, positions, nationalities, clubs, and physical attributes. The dataset provides information about numerous players, allowing for detailed analysis and comparisons. It consists of numerous columns and rows, each representing a specific player and their respective statistics. The dataset acts as a resource for football enthusiasts and researchers, facilitating in-depth exploration of player performance, abilities, and trends across different teams and countries.

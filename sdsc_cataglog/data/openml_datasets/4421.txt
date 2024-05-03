@@ -1,0 +1,3 @@
+name: qsar-biodeg_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44600.0
+description: The dataset qsar-biodeg_seed_2_nrows_2000_nclasses_10_ncols_100_stratify_True is characterized by 2000 rows of data with 10 different classes and 100 columns of features. The dataset is stratified, meaning that the distribution of classes within the dataset is balanced. This dataset is likely used for classification tasks where the goal is to predict the biodegradability of molecules based on the provided features. The dataset could be beneficial for training machine learning models to accurately classify new molecules as biodegradable or not.

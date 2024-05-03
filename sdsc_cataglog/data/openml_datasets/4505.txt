@@ -1,0 +1,3 @@
+name: christine_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44684.0
+description: The dataset christine_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows and 100 columns. It is stratified with 10 classes. The dataset is named after "Christine" and the seed used for randomization is 1. Stratification means that the distribution of classes is maintained in the dataset to ensure each class is represented adequately. This dataset can be used for various analysis and modeling purposes. The combination of rows, columns, classes, and stratification makes it a diverse dataset suitable for exploring different algorithms and techniques in machine learning and data analysis.

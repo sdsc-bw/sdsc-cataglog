@@ -1,0 +1,3 @@
+name: california
+dataset_id: 45028.0
+description: The California dataset contains information about the state of California and its various aspects. It includes data on population, education, employment, income, housing, and public health, among other factors. The dataset provides a comprehensive overview of the state's demographics, economy, and social indicators. It presents information on county-level and statewide figures, enabling users to analyze patterns and trends. The dataset covers a wide range of years and includes detailed information on different variables, making it a valuable resource for researchers, policymakers, and analysts interested in understanding California's characteristics and development over time.

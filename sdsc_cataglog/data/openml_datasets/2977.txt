@@ -1,0 +1,3 @@
+name: dataset_time_9
+dataset_id: 42663.0
+description: The dataset named "dataset_time_9" is being referred to in the following sentences. The dataset is stated to contain information about time or timestamps for certain events. It is mentioned that this dataset consists of 500 observations or instances with respect to the time variable. The data in this dataset appears to be sequential, indicating a temporal aspect. The context or domain for this dataset is not provided. However, it is conveyed that it is one of several similar datasets, suggesting that it may be part of a larger collection or study.

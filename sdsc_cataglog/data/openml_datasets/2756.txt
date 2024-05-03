@@ -1,0 +1,3 @@
+name: epiparo_extract
+dataset_id: 42169.0
+description: The dataset "epiparo_extract" contains information related to the extraction of oil and gas in offshore areas of Europe. It includes data on the location of extraction sites, the type of extraction, and the companies involved. The dataset also provides information on the commencement, completion, and duration of each extraction project. Additionally, it includes details on the total oil and gas extracted, as well as production rates. This dataset is valuable for analyzing the offshore oil and gas industry in Europe, studying extraction patterns, and understanding the involvement of different companies in the sector.

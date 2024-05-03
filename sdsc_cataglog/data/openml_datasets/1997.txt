@@ -1,0 +1,3 @@
+name: QSAR-TID-10545
+dataset_id: 3983.0
+description: The dataset QSAR-TID-10545 contains 1045 chemical compounds with their corresponding inhibition values against thrombin, an enzyme involved in blood clotting. The compounds were divided into training and test sets, with 835 and 210 compounds, respectively. Various molecular descriptors like atom count, bond count, and molecular weight were computed for each compound. Additionally, electronic, constitutional, topological, and geometric descriptors were obtained. The inhibition values range from 0.0132 to 10.00. The dataset aims to support the development of quantitative structure-activity relationship (QSAR) models that can predict thrombin inhibition, aiding in the design of potential anti-coagulant drugs.

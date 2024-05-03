@@ -1,0 +1,3 @@
+name: mu284
+dataset_id: 540.0
+description: The dataset mu284 is a collection of data related to the income and lifestyle choices of individuals. It includes information about their marital status, gender, education level, geographic location, and employment status. The data was collected through surveys and interviews conducted by researchers. The dataset is unique as it provides a comprehensive view of the factors influencing income and lifestyle choices. It is particularly relevant for studies focused on income inequality, social mobility, and the impact of education on career outcomes. The dataset is widely used by researchers and policymakers to analyze and understand societal trends and devise evidence-based policies.

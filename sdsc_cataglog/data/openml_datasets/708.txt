@@ -1,0 +1,3 @@
+name: analcatdata_birthday
+dataset_id: 968.0
+description: Analcatdata_birthday is a dataset containing information about people's birthdays. The dataset consists of 19 variables and 194 observations. It includes details such as the person's gender, age, height, weight, and their favorite season. Some variables are numerical, like height and weight, while others are categorical, like gender and favorite season. The dataset also includes missing values for some variables. It can be used for various analyses and studies related to birthdays, such as examining relationships between variables or analyzing patterns and trends. Overall, analcatdata_birthday provides a comprehensive collection of information about individuals' birthdays.

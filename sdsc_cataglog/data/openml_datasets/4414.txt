@@ -1,0 +1,3 @@
+name: blood-transfusion-service-center_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44593.0
+description: The dataset blood-transfusion-service-center_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows and 100 columns. It is a dataset related to a blood transfusion service center and has been stratified into 10 different classes. The dataset is seed-based, meaning that it has been generated using a fixed seed value to ensure reproducibility. The purpose of stratifying the data is to evenly distribute the samples across the different classes. This dataset could be useful for analyzing factors related to blood transfusion and predicting outcomes based on various features.

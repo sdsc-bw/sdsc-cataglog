@@ -1,0 +1,3 @@
+name: cocomo_numeric
+dataset_id: 1051.0
+description: The dataset cocomo_numeric contains a collection of software project data with various attributes. It includes input attributes such as 'KLOC' (thousands of lines of code) and output attributes such as 'PM' (person-months of effort). The dataset aims to provide information for software development cost estimation using the Constructive Cost Model (COCOMO). It consists of 63 instances, each with various attribute values. The dataset is widely used for training and testing regression algorithms. It helps in understanding the relationship between software project attributes and effort required for development, facilitating accurate cost estimation for future software projects.

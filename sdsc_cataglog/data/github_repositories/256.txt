@@ -1,0 +1,3 @@
+repo_name: d6tflow
+link: https://github.com/d6t/d6tflow
+description: For data scientists and data engineers, `d6tflow` is a python library which makes building complex data science workflows easy, fast and intuitive. It is primarily designed for data scientists to build better models faster. For data engineers, it can also be a lightweight alternative and help productionize data science models faster. Unlike other data pipeline/workflow solutions, `d6tflow` focuses on managing data science research workflows instead of managing production data pipelines. With `d6tflow` you can easily chain together complex data flows and execute them. You can quickly load input and output data for each task. It makes your workflow very clear and intuitive.

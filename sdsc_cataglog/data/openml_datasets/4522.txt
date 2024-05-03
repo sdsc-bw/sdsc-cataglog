@@ -1,0 +1,3 @@
+name: Fashion-MNIST_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44701.0
+description: The dataset Fashion-MNIST_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True is a subset of the Fashion-MNIST dataset. It contains 2000 rows and consists of 10 different classes. Each row represents an image, where the image size is 100x100 pixels. The dataset is stratified, meaning that it maintains the same class distribution as the original dataset. This subset can be used for various machine learning tasks, such as image classification or clustering. It provides a balanced representation of different fashion items, allowing for robust model training and evaluation.

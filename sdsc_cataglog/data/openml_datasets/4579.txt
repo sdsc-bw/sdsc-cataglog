@@ -1,0 +1,3 @@
+name: kick_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44758.0
+description: The dataset kick_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True contains 2000 rows and 100 columns. It consists of 10 different classes and uses stratification. Stratification ensures that each class is represented approximately equally in the dataset. The purpose of this dataset is unclear from the given information, but it can potentially be used in various classification tasks due to the presence of multiple classes and a large number of columns. The dataset's name suggests that it may be related to kickstarters or crowdfunding, but without further details, its exact use case remains unknown.

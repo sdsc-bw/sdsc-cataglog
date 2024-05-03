@@ -1,0 +1,3 @@
+name: mfeat-factors_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44626.0
+description: The dataset mfeat-factors_seed_3_nrows_2000_nclasses_10_ncols_100_stratify_True is a dataset with 2000 rows and 100 columns. It is divided into 10 classes and has been stratified for sampling. The dataset contains factors or variables that are used for classification or prediction tasks. The seed value for the dataset is 3, which suggests that it was generated or initialized with a specific random number generator seed. This dataset provides a manageable size for analysis with a moderate number of rows and columns while offering a stratified sampling approach to ensure representative data distribution across the classes.

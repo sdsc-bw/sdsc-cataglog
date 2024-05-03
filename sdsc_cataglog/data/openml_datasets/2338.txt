@@ -1,0 +1,3 @@
+name: dilbert
+dataset_id: 41163.0
+description: The dataset "Dilbert" contains information related to the famous comic strip by Scott Adams known as Dilbert. It includes data about the characters, their interactions, and their comic strip appearances. The dataset consists of various fields, such as character names, dialogue, dates, and locations, providing insights into the comic strip's content. It also includes additional information like the strip's title, URLs, and tags associated with each entry. The Dilbert dataset is valuable for analyzing the characters' behaviors, identifying trends, and studying the comic's themes and humor. It aids researchers and fans in studying the comic's evolution and understanding the dynamics within the Dilbert world.

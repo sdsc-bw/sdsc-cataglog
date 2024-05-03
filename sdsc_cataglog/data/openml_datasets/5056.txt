@@ -1,0 +1,3 @@
+name: Weather
+dataset_id: 45597.0
+description: The dataset "Weather" provides information about various weather conditions and observations collected over a specific period. It comprises data such as temperature, humidity, wind speed, precipitation, and atmospheric pressure. The dataset may also include additional information, such as location, date, and time of observation. This dataset allows users to analyze and understand weather patterns, trends, and changes over time. It can be used for various purposes, including forecasting, climate studies, and weather-related research. With a broad range of variables and extensive coverage, the "Weather" dataset is valuable for gaining insights into different weather phenomena and their impacts.

@@ -1,0 +1,3 @@
+name: Goodreads-Books---31-Features
+dataset_id: 43438.0
+description: The Goodreads-Books---31-Features dataset contains information about books available on the Goodreads platform. It consists of 32,154 books and 31 features, including title, author, average rating, number of pages, publication year, and genre. The dataset provides details on book characteristics like rating counts, reviews, and publication information. It also includes features related to the author, such as their average rating and the number of books they have written. With its comprehensive information on various book attributes, this dataset can be useful for analyzing and understanding trends in the Goodreads book collection.

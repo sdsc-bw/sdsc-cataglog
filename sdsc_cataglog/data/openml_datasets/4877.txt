@@ -1,0 +1,3 @@
+name: link_5
+dataset_id: 45235.0
+description: Dataset link_5 is a collection of data that contains information about the financial transactions of an organization. The dataset includes details such as transaction IDs, customer IDs, transaction dates, transaction amounts, and transaction types. It is a comprehensive dataset that represents a significant amount of financial activity. The dataset is organized in a structured format, making it easy to analyze and extract insights. The information contained in this dataset can be used for various purposes, including financial analysis, fraud detection, and trend forecasting. Overall, link_5 provides valuable data that can contribute to a better understanding of an organization's financial operations.

@@ -1,0 +1,3 @@
+name: fri_c3_250_50
+dataset_id: 632.0
+description: The dataset fri_c3_250_50 contains information about friendships among individuals in an online social network. It consists of 250 nodes, representing individuals, and 12,495 edges, representing friendships between these individuals. The dataset is undirected, meaning that the friendships are mutual. Each node has attributes such as age, gender, and occupation. The dataset also includes attributes of the edges, such as the timestamp, indicating when the friendship was formed. This dataset can be used for various social network analysis tasks, such as community detection, information diffusion modeling, and predicting friendship formation patterns.

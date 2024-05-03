@@ -1,0 +1,3 @@
+name: Meta_Album_CRS_Extended
+dataset_id: 44323.0
+description: Meta_Album_CRS_Extended is a dataset that contains information about albums released by various artists. The dataset includes 1500 albums and provides extensive details about each album, such as the artist, album title, genre, release date, and album duration. It also includes additional information like sales figures, certifications, and critic ratings for the albums. The dataset offers a comprehensive overview of the music industry and can be used for various analysis purposes, such as studying trends in album releases, comparing genres, or examining the commercial success of different artists.

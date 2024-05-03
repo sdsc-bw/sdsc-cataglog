@@ -1,0 +1,3 @@
+name: first-order-theorem-proving_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44663.0
+description: The dataset "first-order-theorem-proving_seed_0_nrows_2000_nclasses_10_ncols_100_stratify_True" contains 2000 rows and 100 columns. It is used for first-order theorem proving and is divided into 10 classes. The dataset is stratified, meaning that the class distribution is preserved in the training and testing sets. The data is likely structured and organized in a tabular format, with each row representing a sample and each column representing a feature or attribute. The dataset is designed for machine learning or statistical analysis tasks related to first-order theorem proving.

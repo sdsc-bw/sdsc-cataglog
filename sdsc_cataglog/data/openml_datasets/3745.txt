@@ -1,0 +1,3 @@
+name: Heart-Disease-Prediction
+dataset_id: 43823.0
+description: The Heart-Disease-Prediction dataset contains information on various attributes of patients, including age, sex, chest pain type, resting blood pressure, cholesterol levels, and presence of heart disease. The data was collected from 303 patients, with 165 individuals having heart disease and 138 being free of the condition. This dataset provides a valuable resource for training and testing machine learning algorithms to predict the likelihood of heart disease. It can help researchers and healthcare professionals gain insights into the relationship between different factors and heart disease, potentially leading to more accurate diagnosis and effective prevention strategies.

@@ -1,0 +1,3 @@
+name: phoneme_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True
+dataset_id: 44408.0
+description: The dataset phoneme_seed_1_nrows_2000_nclasses_10_ncols_100_stratify_True contains phoneme data with seed 1, 2000 rows, 10 classes, and 100 columns. It is stratified, meaning that the distribution of classes in the dataset is representative of the true population. This dataset may be used for various purposes, such as classification or pattern recognition tasks. It provides a comprehensive set of phoneme features and can be easily accessed and analyzed. The dataset is suitable for training machine learning models and conducting experiments in the field of phonetics and speech recognition.

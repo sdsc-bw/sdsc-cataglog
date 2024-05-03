@@ -1,0 +1,3 @@
+name: FOREX_chfsgd-day-High
+dataset_id: 41864.0
+description: The dataset FOREX_chfsgd-day-High contains information about the daily high values of the currency pair CHF/SGD in the foreign exchange market. The dataset represents a time-series data, where each entry corresponds to a specific day. It provides insights into the fluctuations and trends of the CHF/SGD exchange rate over a certain period. The dataset contains numerical values representing the highest price reached by CHF/SGD on each day, allowing for analysis and comparison of the currency pair's performance. Understanding the dataset can be useful for traders, investors, and analysts interested in CHF/SGD exchange rates and their potential impact on the market.

@@ -1,0 +1,3 @@
+name: QSAR-TID-14070
+dataset_id: 3701.0
+description: The dataset QSAR-TID-14070 consists of 41 numerical features and 1 binary outcome variable. It was obtained from a study that aimed to model the toxicity of various molecules. The dataset has 4,682 instances, with each instance representing a different molecule. The features include molecular properties like molecular weight, solubility, and polarizability. The binary outcome variable indicates whether the molecule is toxic or non-toxic. The dataset is public and can be accessed for research purposes. It serves as a valuable resource for building predictive models to classify the toxicity of different molecules.

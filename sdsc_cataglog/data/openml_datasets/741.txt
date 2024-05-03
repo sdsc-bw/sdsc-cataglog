@@ -1,0 +1,3 @@
+name: sponge
+dataset_id: 1001.0
+description: The dataset Sponge is a comprehensive collection of sponge images with corresponding metadata. It contains diverse images of sponges collected from various locations and depths. The metadata includes information about the sponge species, image source, image size, and the location where the image was captured. The dataset aims to facilitate research and analysis on sponges, their distribution, and taxonomy. It is a valuable resource for scientists, researchers, and marine biologists studying these organisms. With its extensive collection and rich metadata, the Sponge dataset provides a foundation for understanding and exploring the world of sponges and their ecological significance.

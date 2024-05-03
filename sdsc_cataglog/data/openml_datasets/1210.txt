@@ -1,0 +1,3 @@
+name: QSAR-TID-100120
+dataset_id: 3186.0
+description: The dataset QSAR-TID-100120 is a collection of chemical compounds with associated descriptors and toxicity values. It comprises 100120 instances with 1024 descriptors for each compound, representing various characteristics such as molecular structure, thermodynamic properties, and hydrophobicity. The toxicity values range from 0 to 1, indicating the likelihood of a compound being toxic. The dataset aims to analyze the relationship between these descriptors and toxicity, enabling the development of models or algorithms for predicting the toxicity of new chemical compounds. It can be used for research purposes in the field of drug discovery, environmental analysis, and chemical safety assessment.
