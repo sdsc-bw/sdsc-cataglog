@@ -1,4 +1,4 @@
-# SDSC Cataglog
+# SDSC Katalog
 [![Documentation](https://img.shields.io/badge/lang-en-blue?style=flat-square)](readme.en.md)
 
 # Thema und Hintergrund
